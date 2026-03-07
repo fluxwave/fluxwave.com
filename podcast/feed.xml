@@ -9,6 +9,15 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 06, 2026</title>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-06.mp3" length="419372" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-06.mp3</guid>
+      <itunes:duration>0:26</itunes:duration>
+      <description>Daily Digest — March 06, 2026</description>
+      <itunes:summary>Daily Digest — March 06, 2026</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 05, 2026</title>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-05.mp3" length="16217900" type="audio/mpeg"/>
@@ -166,15 +175,6 @@
       <itunes:duration>23:25</itunes:duration>
       <description>Daily Digest — February 15, 2026</description>
       <itunes:summary>Daily Digest — February 15, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — February 13, 2026</title>
-      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-02-13.mp3" length="2489900" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-02-13.mp3</guid>
-      <itunes:duration>2:35</itunes:duration>
-      <description>Daily Digest — February 13, 2026</description>
-      <itunes:summary>Daily Digest — February 13, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
