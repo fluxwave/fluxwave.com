@@ -9,6 +9,29 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 09, 2026</title>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-09.mp3" length="12948140" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-09.mp3</guid>
+      <itunes:duration>13:29</itunes:duration>
+      <description>Daily Digest — March 09, 2026
+
+0:01 — Robinhood CEO Vlad Tenev on Tokenization and Prediction Markets for Everything
+4:04 — Robinhood CEO Vlad Tenev on Tokenization and Prediction Markets for Everything
+6:07 — Graham Allison on the Global Realignment: Iran, China, Israel, Greenland
+8:21 — Graham Allison on the Global Realignment: Iran, China, Israel, Greenland
+10:24 — [REPLAY] Alexis Ohanian – From Reddit to 776, a Technology Company that Deploys 
+12:27 — [REPLAY] Alexis Ohanian – From Reddit to 776, a Technology Company that Deploys </description>
+      <itunes:summary>Daily Digest — March 09, 2026
+
+0:01 — Robinhood CEO Vlad Tenev on Tokenization and Prediction Markets for Everything
+4:04 — Robinhood CEO Vlad Tenev on Tokenization and Prediction Markets for Everything
+6:07 — Graham Allison on the Global Realignment: Iran, China, Israel, Greenland
+8:21 — Graham Allison on the Global Realignment: Iran, China, Israel, Greenland
+10:24 — [REPLAY] Alexis Ohanian – From Reddit to 776, a Technology Company that Deploys 
+12:27 — [REPLAY] Alexis Ohanian – From Reddit to 776, a Technology Company that Deploys </itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 08, 2026</title>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-08.mp3" length="397100" type="audio/mpeg"/>
@@ -166,15 +189,6 @@
       <itunes:duration>10:49</itunes:duration>
       <description>Daily Digest — February 18, 2026</description>
       <itunes:summary>Daily Digest — February 18, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — February 17, 2026</title>
-      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-02-17.mp3" length="24647852" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-02-17.mp3</guid>
-      <itunes:duration>25:40</itunes:duration>
-      <description>Daily Digest — February 17, 2026</description>
-      <itunes:summary>Daily Digest — February 17, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
