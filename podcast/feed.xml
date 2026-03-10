@@ -9,6 +9,29 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 10, 2026</title>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-10.mp3" length="18067244" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-10.mp3</guid>
+      <itunes:duration>18:49</itunes:duration>
+      <description>Daily Digest — March 10, 2026
+
+0:21 — Shyam Sankar - Celebrating Heretics - [Invest Like the Best, EP.462]
+3:35 — Shyam Sankar - Celebrating Heretics - [Invest Like the Best, EP.462]
+6:50 — The Top 100 Gen AI Consumer Apps
+10:01 — The Top 100 Gen AI Consumer Apps
+12:46 — Bret Taylor of Sierra on AI agents, outcome-based pricing, and the OpenAI board
+15:58 — Bret Taylor of Sierra on AI agents, outcome-based pricing, and the OpenAI board</description>
+      <itunes:summary>Daily Digest — March 10, 2026
+
+0:21 — Shyam Sankar - Celebrating Heretics - [Invest Like the Best, EP.462]
+3:35 — Shyam Sankar - Celebrating Heretics - [Invest Like the Best, EP.462]
+6:50 — The Top 100 Gen AI Consumer Apps
+10:01 — The Top 100 Gen AI Consumer Apps
+12:46 — Bret Taylor of Sierra on AI agents, outcome-based pricing, and the OpenAI board
+15:58 — Bret Taylor of Sierra on AI agents, outcome-based pricing, and the OpenAI board</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 09, 2026</title>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-09.mp3" length="12948140" type="audio/mpeg"/>
@@ -180,15 +203,6 @@
       <itunes:duration>17:23</itunes:duration>
       <description>Daily Digest — February 19, 2026</description>
       <itunes:summary>Daily Digest — February 19, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — February 18, 2026</title>
-      <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-02-18.mp3" length="10394156" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-02-18.mp3</guid>
-      <itunes:duration>10:49</itunes:duration>
-      <description>Daily Digest — February 18, 2026</description>
-      <itunes:summary>Daily Digest — February 18, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
