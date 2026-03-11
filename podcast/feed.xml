@@ -9,6 +9,29 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 11, 2026</title>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-11.mp3" length="11799980" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-11.mp3</guid>
+      <itunes:duration>12:17</itunes:duration>
+      <description>Daily Digest — March 11, 2026
+
+0:24 — I’m glad the Anthropic fight is happening now
+2:07 — I’m glad the Anthropic fight is happening now
+3:29 — From IDEs to AI Agents with Steve Yegge
+5:44 — From IDEs to AI Agents with Steve Yegge
+7:18 — Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddh
+9:34 — Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddh</description>
+      <itunes:summary>Daily Digest — March 11, 2026
+
+0:24 — I’m glad the Anthropic fight is happening now
+2:07 — I’m glad the Anthropic fight is happening now
+3:29 — From IDEs to AI Agents with Steve Yegge
+5:44 — From IDEs to AI Agents with Steve Yegge
+7:18 — Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddh
+9:34 — Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddh</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 10, 2026</title>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-10.mp3" length="18067244" type="audio/mpeg"/>
@@ -194,15 +217,6 @@
       <itunes:duration>16:15</itunes:duration>
       <description>Daily Digest — February 20, 2026</description>
       <itunes:summary>Daily Digest — February 20, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — February 19, 2026</title>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-02-19.mp3" length="16692908" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-02-19.mp3</guid>
-      <itunes:duration>17:23</itunes:duration>
-      <description>Daily Digest — February 19, 2026</description>
-      <itunes:summary>Daily Digest — February 19, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
