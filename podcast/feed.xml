@@ -9,6 +9,29 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 12, 2026</title>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-12.mp3" length="13865900" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-12.mp3</guid>
+      <itunes:duration>14:26</itunes:duration>
+      <description>Daily Digest — March 12, 2026
+
+0:21 — Inference engineering and the real-world deployment of LLMs, with Philip Kiely
+3:25 — Inference engineering and the real-world deployment of LLMs, with Philip Kiely
+5:53 — At The Money: Finding Alpha via Unique ETF Strategies
+8:20 — At The Money: Finding Alpha via Unique ETF Strategies
+9:38 — Palantir CEO Alex Karp on the Zero-Sum AI Race
+12:03 — Palantir CEO Alex Karp on the Zero-Sum AI Race</description>
+      <itunes:summary>Daily Digest — March 12, 2026
+
+0:21 — Inference engineering and the real-world deployment of LLMs, with Philip Kiely
+3:25 — Inference engineering and the real-world deployment of LLMs, with Philip Kiely
+5:53 — At The Money: Finding Alpha via Unique ETF Strategies
+8:20 — At The Money: Finding Alpha via Unique ETF Strategies
+9:38 — Palantir CEO Alex Karp on the Zero-Sum AI Race
+12:03 — Palantir CEO Alex Karp on the Zero-Sum AI Race</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 11, 2026</title>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-11.mp3" length="11799980" type="audio/mpeg"/>
@@ -208,15 +231,6 @@
       <itunes:duration>0:30</itunes:duration>
       <description>Daily Digest — February 25, 2026</description>
       <itunes:summary>Daily Digest — February 25, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — February 20, 2026</title>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-02-20.mp3" length="15613868" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-02-20.mp3</guid>
-      <itunes:duration>16:15</itunes:duration>
-      <description>Daily Digest — February 20, 2026</description>
-      <itunes:summary>Daily Digest — February 20, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
