@@ -9,6 +9,25 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 15, 2026</title>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-15.mp3" length="10106924" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-15.mp3</guid>
+      <itunes:duration>10:31</itunes:duration>
+      <description>Daily Digest — March 15, 2026
+
+0:23 — 14% for Tech. 1% for Everyone Else | The Weekly Wrap – 3/14/2026
+2:44 — 14% for Tech. 1% for Everyone Else | The Weekly Wrap – 3/14/2026
+5:11 — Marc Andreessen on the Mindset of Great Founders — with David Senra
+7:38 — Marc Andreessen on the Mindset of Great Founders — with David Senra</description>
+      <itunes:summary>Daily Digest — March 15, 2026
+
+0:23 — 14% for Tech. 1% for Everyone Else | The Weekly Wrap – 3/14/2026
+2:44 — 14% for Tech. 1% for Everyone Else | The Weekly Wrap – 3/14/2026
+5:11 — Marc Andreessen on the Mindset of Great Founders — with David Senra
+7:38 — Marc Andreessen on the Mindset of Great Founders — with David Senra</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 12, 2026</title>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-12.mp3" length="13865900" type="audio/mpeg"/>
@@ -222,15 +241,6 @@
       <itunes:duration>0:28</itunes:duration>
       <description>Daily Digest — February 26, 2026</description>
       <itunes:summary>Daily Digest — February 26, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — February 25, 2026</title>
-      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-02-25.mp3" length="486188" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-02-25.mp3</guid>
-      <itunes:duration>0:30</itunes:duration>
-      <description>Daily Digest — February 25, 2026</description>
-      <itunes:summary>Daily Digest — February 25, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
