@@ -9,6 +9,29 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 16, 2026</title>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-16.mp3" length="16513196" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-16.mp3</guid>
+      <itunes:duration>17:12</itunes:duration>
+      <description>Daily Digest — March 16, 2026
+
+0:14 — War in Iran is Chewing Through American Missile Stockpiles
+3:06 — War in Iran is Chewing Through American Missile Stockpiles
+5:41 — AI Startups vs. Big Chatbots — With Olivia Moore
+9:01 — AI Startups vs. Big Chatbots — With Olivia Moore
+11:19 — #464 — The Politics of Pragmatism and the Future of California
+14:45 — #464 — The Politics of Pragmatism and the Future of California</description>
+      <itunes:summary>Daily Digest — March 16, 2026
+
+0:14 — War in Iran is Chewing Through American Missile Stockpiles
+3:06 — War in Iran is Chewing Through American Missile Stockpiles
+5:41 — AI Startups vs. Big Chatbots — With Olivia Moore
+9:01 — AI Startups vs. Big Chatbots — With Olivia Moore
+11:19 — #464 — The Politics of Pragmatism and the Future of California
+14:45 — #464 — The Politics of Pragmatism and the Future of California</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 15, 2026</title>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-15.mp3" length="10106924" type="audio/mpeg"/>
@@ -232,15 +255,6 @@
       <itunes:duration>27:55</itunes:duration>
       <description>Daily Digest — February 28, 2026</description>
       <itunes:summary>Daily Digest — February 28, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — February 26, 2026</title>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-02-26.mp3" length="452396" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-02-26.mp3</guid>
-      <itunes:duration>0:28</itunes:duration>
-      <description>Daily Digest — February 26, 2026</description>
-      <itunes:summary>Daily Digest — February 26, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
