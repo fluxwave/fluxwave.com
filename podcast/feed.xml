@@ -9,6 +9,29 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 17, 2026</title>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-17.mp3" length="17467436" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-17.mp3</guid>
+      <itunes:duration>18:11</itunes:duration>
+      <description>Daily Digest — March 17, 2026
+
+0:25 — William Hockey - Building the Operating System for the Dollar and Silicon Valley
+3:44 — What's Missing Between LLMs and AGI - Vishal Misra &amp; Martin Casado
+6:53 — What's Missing Between LLMs and AGI - Vishal Misra &amp; Martin Casado
+9:39 — Travis Kalanick &amp; Michael Dell Live from Austin, Texas
+12:05 — Travis Kalanick &amp; Michael Dell Live from Austin, Texas
+14:28 — Creating prediction markets (and suing the CFTC) with Tarek Mansour and Luana Lo</description>
+      <itunes:summary>Daily Digest — March 17, 2026
+
+0:25 — William Hockey - Building the Operating System for the Dollar and Silicon Valley
+3:44 — What's Missing Between LLMs and AGI - Vishal Misra &amp; Martin Casado
+6:53 — What's Missing Between LLMs and AGI - Vishal Misra &amp; Martin Casado
+9:39 — Travis Kalanick &amp; Michael Dell Live from Austin, Texas
+12:05 — Travis Kalanick &amp; Michael Dell Live from Austin, Texas
+14:28 — Creating prediction markets (and suing the CFTC) with Tarek Mansour and Luana Lo</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 16, 2026</title>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-16.mp3" length="16513196" type="audio/mpeg"/>
@@ -246,15 +269,6 @@
 10:45 — Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump'
 13:29 — Building Your Perfect Portfolio with Cullen Roche
 16:16 — Building Your Perfect Portfolio with Cullen Roche</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — February 28, 2026</title>
-      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-02-28.mp3" length="26804012" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-02-28.mp3</guid>
-      <itunes:duration>27:55</itunes:duration>
-      <description>Daily Digest — February 28, 2026</description>
-      <itunes:summary>Daily Digest — February 28, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
