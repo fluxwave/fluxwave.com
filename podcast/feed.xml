@@ -9,6 +9,15 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 21, 2026</title>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-21.mp3" length="355245" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-21.mp3</guid>
+      <itunes:duration>0:22</itunes:duration>
+      <description>Daily Digest — March 21, 2026</description>
+      <itunes:summary>Daily Digest — March 21, 2026</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 20, 2026</title>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-20.mp3" length="13712301" type="audio/mpeg"/>
@@ -256,29 +265,6 @@
       <itunes:duration>0:26</itunes:duration>
       <description>Daily Digest — March 06, 2026</description>
       <itunes:summary>Daily Digest — March 06, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — March 05, 2026</title>
-      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-05.mp3" length="16217900" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-05.mp3</guid>
-      <itunes:duration>16:53</itunes:duration>
-      <description>Daily Digest — March 05, 2026
-
-0:22 — James van Geelen on His Viral AI Doom Scenario
-4:06 — James van Geelen on His Viral AI Doom Scenario
-6:24 — Building Your Perfect Portfolio with Cullen Roche
-9:09 — Building Your Perfect Portfolio with Cullen Roche
-10:35 — Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump'
-14:11 — Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump'</description>
-      <itunes:summary>Daily Digest — March 05, 2026
-
-0:22 — James van Geelen on His Viral AI Doom Scenario
-4:06 — James van Geelen on His Viral AI Doom Scenario
-6:24 — Building Your Perfect Portfolio with Cullen Roche
-9:09 — Building Your Perfect Portfolio with Cullen Roche
-10:35 — Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump'
-14:11 — Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump'</itunes:summary>
     </item>
   </channel>
 </rss>
