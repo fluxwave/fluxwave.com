@@ -9,6 +9,29 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 23, 2026</title>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-23.mp3" length="19290669" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-23.mp3</guid>
+      <itunes:duration>20:05</itunes:duration>
+      <description>Daily Digest — March 23, 2026
+
+0:23 — Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN
+2:38 — Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN
+5:14 — #494 – Jensen Huang: NVIDIA – The $4 Trillion Company &amp; the AI Revolution
+8:26 — #494 – Jensen Huang: NVIDIA – The $4 Trillion Company &amp; the AI Revolution
+12:41 — Jeremy Grantham – Bubbles, Value Investing, and the Long Game at GMO (EP.493)
+15:54 — Jeremy Grantham – Bubbles, Value Investing, and the Long Game at GMO (EP.493)</description>
+      <itunes:summary>Daily Digest — March 23, 2026
+
+0:23 — Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN
+2:38 — Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN
+5:14 — #494 – Jensen Huang: NVIDIA – The $4 Trillion Company &amp; the AI Revolution
+8:26 — #494 – Jensen Huang: NVIDIA – The $4 Trillion Company &amp; the AI Revolution
+12:41 — Jeremy Grantham – Bubbles, Value Investing, and the Long Game at GMO (EP.493)
+15:54 — Jeremy Grantham – Bubbles, Value Investing, and the Long Game at GMO (EP.493)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 22, 2026</title>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-22.mp3" length="473517" type="audio/mpeg"/>
@@ -256,15 +279,6 @@
       <itunes:duration>0:24</itunes:duration>
       <description>Daily Digest — March 08, 2026</description>
       <itunes:summary>Daily Digest — March 08, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — March 07, 2026</title>
-      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-07.mp3" length="483116" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-07.mp3</guid>
-      <itunes:duration>0:30</itunes:duration>
-      <description>Daily Digest — March 07, 2026</description>
-      <itunes:summary>Daily Digest — March 07, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
