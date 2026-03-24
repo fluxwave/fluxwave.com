@@ -9,6 +9,29 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 24, 2026</title>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-24.mp3" length="13692333" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-24.mp3</guid>
+      <itunes:duration>14:15</itunes:duration>
+      <description>Daily Digest — March 24, 2026
+
+0:23 — David Shor and Byrne Hobart on the Politics of a White-Collar Wipeout
+1:14 — David Shor and Byrne Hobart on the Politics of a White-Collar Wipeout
+2:04 — Why Every Satellite Needs Earth | Northwood CEO on a16z
+5:27 — Why Every Satellite Needs Earth | Northwood CEO on a16z
+7:57 — The 20-year journey to fully autonomous cars with Dmitri Dolgov of Waymo
+11:06 — The 20-year journey to fully autonomous cars with Dmitri Dolgov of Waymo</description>
+      <itunes:summary>Daily Digest — March 24, 2026
+
+0:23 — David Shor and Byrne Hobart on the Politics of a White-Collar Wipeout
+1:14 — David Shor and Byrne Hobart on the Politics of a White-Collar Wipeout
+2:04 — Why Every Satellite Needs Earth | Northwood CEO on a16z
+5:27 — Why Every Satellite Needs Earth | Northwood CEO on a16z
+7:57 — The 20-year journey to fully autonomous cars with Dmitri Dolgov of Waymo
+11:06 — The 20-year journey to fully autonomous cars with Dmitri Dolgov of Waymo</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 23, 2026</title>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-23.mp3" length="19290669" type="audio/mpeg"/>
@@ -270,15 +293,6 @@
 8:21 — Graham Allison on the Global Realignment: Iran, China, Israel, Greenland
 10:24 — [REPLAY] Alexis Ohanian – From Reddit to 776, a Technology Company that Deploys 
 12:27 — [REPLAY] Alexis Ohanian – From Reddit to 776, a Technology Company that Deploys </itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — March 08, 2026</title>
-      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-08.mp3" length="397100" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-08.mp3</guid>
-      <itunes:duration>0:24</itunes:duration>
-      <description>Daily Digest — March 08, 2026</description>
-      <itunes:summary>Daily Digest — March 08, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
