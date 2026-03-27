@@ -9,6 +9,23 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 27, 2026</title>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-27.mp3" length="6347949" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-27.mp3</guid>
+      <itunes:duration>6:36</itunes:duration>
+      <description>Daily Digest — March 27, 2026
+
+0:22 — The Race to Production-Grade Diffusion LLMs with Stefano Ermon - #764
+1:54 — The Race to Production-Grade Diffusion LLMs with Stefano Ermon - #764
+4:14 — The Private Credit Apocalypse That Isn’t Coming | Larry Swedroe Dispels the Myth</description>
+      <itunes:summary>Daily Digest — March 27, 2026
+
+0:22 — The Race to Production-Grade Diffusion LLMs with Stefano Ermon - #764
+1:54 — The Race to Production-Grade Diffusion LLMs with Stefano Ermon - #764
+4:14 — The Private Credit Apocalypse That Isn’t Coming | Larry Swedroe Dispels the Myth</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 26, 2026</title>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-26.mp3" length="9785901" type="audio/mpeg"/>
@@ -258,29 +275,6 @@
 8:20 — At The Money: Finding Alpha via Unique ETF Strategies
 9:38 — Palantir CEO Alex Karp on the Zero-Sum AI Race
 12:03 — Palantir CEO Alex Karp on the Zero-Sum AI Race</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — March 11, 2026</title>
-      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-11.mp3" length="11799980" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-11.mp3</guid>
-      <itunes:duration>12:17</itunes:duration>
-      <description>Daily Digest — March 11, 2026
-
-0:24 — I’m glad the Anthropic fight is happening now
-2:07 — I’m glad the Anthropic fight is happening now
-3:29 — From IDEs to AI Agents with Steve Yegge
-5:44 — From IDEs to AI Agents with Steve Yegge
-7:18 — Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddh
-9:34 — Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddh</description>
-      <itunes:summary>Daily Digest — March 11, 2026
-
-0:24 — I’m glad the Anthropic fight is happening now
-2:07 — I’m glad the Anthropic fight is happening now
-3:29 — From IDEs to AI Agents with Steve Yegge
-5:44 — From IDEs to AI Agents with Steve Yegge
-7:18 — Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddh
-9:34 — Agent Swarms and Knowledge Graphs for Autonomous Software Development with Siddh</itunes:summary>
     </item>
   </channel>
 </rss>
