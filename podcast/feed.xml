@@ -9,6 +9,15 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — March 29, 2026</title>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-29.mp3" length="476589" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-29.mp3</guid>
+      <itunes:duration>0:29</itunes:duration>
+      <description>Daily Digest — March 29, 2026</description>
+      <itunes:summary>Daily Digest — March 29, 2026</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — March 27, 2026</title>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-27.mp3" length="6347949" type="audio/mpeg"/>
@@ -252,29 +261,6 @@
 2:44 — 14% for Tech. 1% for Everyone Else | The Weekly Wrap – 3/14/2026
 5:11 — Marc Andreessen on the Mindset of Great Founders — with David Senra
 7:38 — Marc Andreessen on the Mindset of Great Founders — with David Senra</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — March 12, 2026</title>
-      <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-12.mp3" length="13865900" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-12.mp3</guid>
-      <itunes:duration>14:26</itunes:duration>
-      <description>Daily Digest — March 12, 2026
-
-0:21 — Inference engineering and the real-world deployment of LLMs, with Philip Kiely
-3:25 — Inference engineering and the real-world deployment of LLMs, with Philip Kiely
-5:53 — At The Money: Finding Alpha via Unique ETF Strategies
-8:20 — At The Money: Finding Alpha via Unique ETF Strategies
-9:38 — Palantir CEO Alex Karp on the Zero-Sum AI Race
-12:03 — Palantir CEO Alex Karp on the Zero-Sum AI Race</description>
-      <itunes:summary>Daily Digest — March 12, 2026
-
-0:21 — Inference engineering and the real-world deployment of LLMs, with Philip Kiely
-3:25 — Inference engineering and the real-world deployment of LLMs, with Philip Kiely
-5:53 — At The Money: Finding Alpha via Unique ETF Strategies
-8:20 — At The Money: Finding Alpha via Unique ETF Strategies
-9:38 — Palantir CEO Alex Karp on the Zero-Sum AI Race
-12:03 — Palantir CEO Alex Karp on the Zero-Sum AI Race</itunes:summary>
     </item>
   </channel>
 </rss>
