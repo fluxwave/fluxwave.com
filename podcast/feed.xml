@@ -9,6 +9,21 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 03, 2026</title>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-03.mp3" length="4836909" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-03.mp3</guid>
+      <itunes:duration>5:02</itunes:duration>
+      <description>Daily Digest — April 03, 2026
+
+0:27 — Marc Andreessen on AI Winters and Agent Breakthroughs
+2:48 — Marc Andreessen on AI Winters and Agent Breakthroughs</description>
+      <itunes:summary>Daily Digest — April 03, 2026
+
+0:27 — Marc Andreessen on AI Winters and Agent Breakthroughs
+2:48 — Marc Andreessen on AI Winters and Agent Breakthroughs</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 02, 2026</title>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-02.mp3" length="14880045" type="audio/mpeg"/>
@@ -230,29 +245,6 @@
 4:19 — Terence Tao – Kepler, Newton, and the true nature of mathematical discovery
 7:38 — Inside Palantir: Building Software That Matters with Shyam Sankar
 10:58 — The Geopolitical Shock Playbook (Mike Wilson, Morgan Stanley) | #623</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — March 19, 2026</title>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-19.mp3" length="16326573" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-19.mp3</guid>
-      <itunes:duration>17:00</itunes:duration>
-      <description>Daily Digest — March 19, 2026
-
-0:31 — Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Ex
-4:54 — Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Ex
-7:15 — AI Just Gave You Superpowers — Now What?
-10:36 — AI Just Gave You Superpowers — Now What?
-13:54 — The War Markets Can't Price | Jared Dillian on the Regime Change Investors Miss
-15:41 — The War Markets Can't Price | Jared Dillian on the Regime Change Investors Miss</description>
-      <itunes:summary>Daily Digest — March 19, 2026
-
-0:31 — Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Ex
-4:54 — Jensen Huang LIVE: Nvidia's Future, Physical AI, Rise of the Agent, Inference Ex
-7:15 — AI Just Gave You Superpowers — Now What?
-10:36 — AI Just Gave You Superpowers — Now What?
-13:54 — The War Markets Can't Price | Jared Dillian on the Regime Change Investors Miss
-15:41 — The War Markets Can't Price | Jared Dillian on the Regime Change Investors Miss</itunes:summary>
     </item>
   </channel>
 </rss>
