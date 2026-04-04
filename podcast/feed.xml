@@ -9,6 +9,29 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 04, 2026</title>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-04.mp3" length="12659373" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-04.mp3</guid>
+      <itunes:duration>13:11</itunes:duration>
+      <description>Daily Digest — April 04, 2026
+
+0:28 — The Signal Before the Spike | Katie Stockton on What the Charts Tell Us About Wh
+2:48 — The Signal Before the Spike | Katie Stockton on What the Charts Tell Us About Wh
+4:28 — SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity
+6:50 — SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity
+8:31 — Building a Quorum of Trust in the Oxide Rack
+10:50 — Building a Quorum of Trust in the Oxide Rack</description>
+      <itunes:summary>Daily Digest — April 04, 2026
+
+0:28 — The Signal Before the Spike | Katie Stockton on What the Charts Tell Us About Wh
+2:48 — The Signal Before the Spike | Katie Stockton on What the Charts Tell Us About Wh
+4:28 — SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity
+6:50 — SpaceX IPO, Iran War Fallout, Quantum Bitcoin Hack, The Space Opportunity
+8:31 — Building a Quorum of Trust in the Oxide Rack
+10:50 — Building a Quorum of Trust in the Oxide Rack</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 03, 2026</title>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-03.mp3" length="4836909" type="audio/mpeg"/>
@@ -226,25 +249,6 @@
       <itunes:duration>0:22</itunes:duration>
       <description>Daily Digest — March 21, 2026</description>
       <itunes:summary>Daily Digest — March 21, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — March 20, 2026</title>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-20.mp3" length="13712301" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-20.mp3</guid>
-      <itunes:duration>14:17</itunes:duration>
-      <description>Daily Digest — March 20, 2026
-
-0:29 — Terence Tao – Kepler, Newton, and the true nature of mathematical discovery
-4:19 — Terence Tao – Kepler, Newton, and the true nature of mathematical discovery
-7:38 — Inside Palantir: Building Software That Matters with Shyam Sankar
-10:58 — The Geopolitical Shock Playbook (Mike Wilson, Morgan Stanley) | #623</description>
-      <itunes:summary>Daily Digest — March 20, 2026
-
-0:29 — Terence Tao – Kepler, Newton, and the true nature of mathematical discovery
-4:19 — Terence Tao – Kepler, Newton, and the true nature of mathematical discovery
-7:38 — Inside Palantir: Building Software That Matters with Shyam Sankar
-10:58 — The Geopolitical Shock Playbook (Mike Wilson, Morgan Stanley) | #623</itunes:summary>
     </item>
   </channel>
 </rss>
