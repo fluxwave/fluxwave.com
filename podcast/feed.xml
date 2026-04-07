@@ -9,6 +9,23 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 07, 2026</title>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-07.mp3" length="7699245" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-07.mp3</guid>
+      <itunes:duration>8:01</itunes:duration>
+      <description>Daily Digest — April 07, 2026
+
+0:26 — Balaji on Why AI Raises the Cost of Verification
+3:05 — The history and future of AI at Google, with Sundar Pichai
+5:31 — The Inevitability No One Sees | $11 Billion Tech Manager on What Investors Miss </description>
+      <itunes:summary>Daily Digest — April 07, 2026
+
+0:26 — Balaji on Why AI Raises the Cost of Verification
+3:05 — The history and future of AI at Google, with Sundar Pichai
+5:31 — The Inevitability No One Sees | $11 Billion Tech Manager on What Investors Miss </itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 06, 2026</title>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-06.mp3" length="6728493" type="audio/mpeg"/>
@@ -220,29 +237,6 @@
 5:27 — Why Every Satellite Needs Earth | Northwood CEO on a16z
 7:57 — The 20-year journey to fully autonomous cars with Dmitri Dolgov of Waymo
 11:06 — The 20-year journey to fully autonomous cars with Dmitri Dolgov of Waymo</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — March 23, 2026</title>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-23.mp3" length="19290669" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-23.mp3</guid>
-      <itunes:duration>20:05</itunes:duration>
-      <description>Daily Digest — March 23, 2026
-
-0:23 — Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN
-2:38 — Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN
-5:14 — #494 – Jensen Huang: NVIDIA – The $4 Trillion Company &amp; the AI Revolution
-8:26 — #494 – Jensen Huang: NVIDIA – The $4 Trillion Company &amp; the AI Revolution
-12:41 — Jeremy Grantham – Bubbles, Value Investing, and the Long Game at GMO (EP.493)
-15:54 — Jeremy Grantham – Bubbles, Value Investing, and the Long Game at GMO (EP.493)</description>
-      <itunes:summary>Daily Digest — March 23, 2026
-
-0:23 — Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN
-2:38 — Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN
-5:14 — #494 – Jensen Huang: NVIDIA – The $4 Trillion Company &amp; the AI Revolution
-8:26 — #494 – Jensen Huang: NVIDIA – The $4 Trillion Company &amp; the AI Revolution
-12:41 — Jeremy Grantham – Bubbles, Value Investing, and the Long Game at GMO (EP.493)
-15:54 — Jeremy Grantham – Bubbles, Value Investing, and the Long Game at GMO (EP.493)</itunes:summary>
     </item>
   </channel>
 </rss>
