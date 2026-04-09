@@ -9,6 +9,23 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 09, 2026</title>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-09.mp3" length="9016365" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-09.mp3</guid>
+      <itunes:duration>9:23</itunes:duration>
+      <description>Daily Digest — April 09, 2026
+
+0:22 — Who Controls AI Acceleration? Vitalik Buterin and Guillaume Verdon Debate
+3:42 — Alan Waxman - Private Credit and the Modern Financial System - [Invest Like the 
+6:10 — Ten Myths About the U.S. Tax System (Update)</description>
+      <itunes:summary>Daily Digest — April 09, 2026
+
+0:22 — Who Controls AI Acceleration? Vitalik Buterin and Guillaume Verdon Debate
+3:42 — Alan Waxman - Private Credit and the Modern Financial System - [Invest Like the 
+6:10 — Ten Myths About the U.S. Tax System (Update)</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 08, 2026</title>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-08.mp3" length="6352173" type="audio/mpeg"/>
@@ -216,21 +233,6 @@
 2:55 — Nothing Is Priced In | Bob Elliott on Why Investors Are Misreading the Oil Shock
 5:15 — #859: Q&amp;A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Boo
 7:34 — #859: Q&amp;A with Tim — The Upcoming AI Tsunami and Building Offline Advantage, Boo</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — March 25, 2026</title>
-      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-25.mp3" length="3703341" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-25.mp3</guid>
-      <itunes:duration>3:51</itunes:duration>
-      <description>Daily Digest — March 25, 2026
-
-0:01 — In a Driverless World, Who Loses and Who Wins?
-1:38 — In a Driverless World, Who Loses and Who Wins?</description>
-      <itunes:summary>Daily Digest — March 25, 2026
-
-0:01 — In a Driverless World, Who Loses and Who Wins?
-1:38 — In a Driverless World, Who Loses and Who Wins?</itunes:summary>
     </item>
   </channel>
 </rss>
