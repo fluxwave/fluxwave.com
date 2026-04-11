@@ -9,6 +9,15 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 11, 2026</title>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-11.mp3" length="405933" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-11.mp3</guid>
+      <itunes:duration>0:25</itunes:duration>
+      <description>Daily Digest — April 11, 2026</description>
+      <itunes:summary>Daily Digest — April 11, 2026</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 10, 2026</title>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-10.mp3" length="11318061" type="audio/mpeg"/>
@@ -216,23 +225,6 @@
       <itunes:duration>0:29</itunes:duration>
       <description>Daily Digest — March 29, 2026</description>
       <itunes:summary>Daily Digest — March 29, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — March 27, 2026</title>
-      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-27.mp3" length="6347949" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-27.mp3</guid>
-      <itunes:duration>6:36</itunes:duration>
-      <description>Daily Digest — March 27, 2026
-
-0:22 — The Race to Production-Grade Diffusion LLMs with Stefano Ermon - #764
-1:54 — The Race to Production-Grade Diffusion LLMs with Stefano Ermon - #764
-4:14 — The Private Credit Apocalypse That Isn’t Coming | Larry Swedroe Dispels the Myth</description>
-      <itunes:summary>Daily Digest — March 27, 2026
-
-0:22 — The Race to Production-Grade Diffusion LLMs with Stefano Ermon - #764
-1:54 — The Race to Production-Grade Diffusion LLMs with Stefano Ermon - #764
-4:14 — The Private Credit Apocalypse That Isn’t Coming | Larry Swedroe Dispels the Myth</itunes:summary>
     </item>
   </channel>
 </rss>
