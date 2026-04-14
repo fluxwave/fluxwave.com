@@ -9,6 +9,23 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 14, 2026</title>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-14.mp3" length="7993773" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-14.mp3</guid>
+      <itunes:duration>8:19</itunes:duration>
+      <description>Daily Digest — April 14, 2026
+
+0:28 — Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software
+2:59 — The world of voice AI, with Mati Staniszewski of ElevenLabs
+5:43 — Presenting What Next TBD: Why Everyone is Freaking out About Private Credit</description>
+      <itunes:summary>Daily Digest — April 14, 2026
+
+0:28 — Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software
+2:59 — The world of voice AI, with Mati Staniszewski of ElevenLabs
+5:43 — Presenting What Next TBD: Why Everyone is Freaking out About Private Credit</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 13, 2026</title>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-13.mp3" length="9426861" type="audio/mpeg"/>
@@ -206,29 +223,6 @@
 
 0:34 — Scaling Uber with Thuan Pham (Uber’s first CTO)
 3:53 — Scaling Uber with Thuan Pham (Uber’s first CTO)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — March 31, 2026</title>
-      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-03-31.mp3" length="13676973" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-03-31.mp3</guid>
-      <itunes:duration>14:14</itunes:duration>
-      <description>Daily Digest — March 31, 2026
-
-0:21 — Sergey Levine - Building LLMs for the Physical World - [Invest Like the Best, EP
-2:39 — Sergey Levine - Building LLMs for the Physical World - [Invest Like the Best, EP
-4:54 — The Solopreneur Revolution Is Here
-7:20 — The Solopreneur Revolution Is Here
-9:42 — The internet is breaking. So what’s next? with Cloudflare’s Matthew Prince
-12:02 — The internet is breaking. So what’s next? with Cloudflare’s Matthew Prince</description>
-      <itunes:summary>Daily Digest — March 31, 2026
-
-0:21 — Sergey Levine - Building LLMs for the Physical World - [Invest Like the Best, EP
-2:39 — Sergey Levine - Building LLMs for the Physical World - [Invest Like the Best, EP
-4:54 — The Solopreneur Revolution Is Here
-7:20 — The Solopreneur Revolution Is Here
-9:42 — The internet is breaking. So what’s next? with Cloudflare’s Matthew Prince
-12:02 — The internet is breaking. So what’s next? with Cloudflare’s Matthew Prince</itunes:summary>
     </item>
   </channel>
 </rss>
