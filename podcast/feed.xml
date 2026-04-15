@@ -9,6 +9,15 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 15, 2026</title>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-15.mp3" length="511533" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-15.mp3</guid>
+      <itunes:duration>0:31</itunes:duration>
+      <description>Daily Digest — April 15, 2026</description>
+      <itunes:summary>Daily Digest — April 15, 2026</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 14, 2026</title>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-14.mp3" length="7993773" type="audio/mpeg"/>
@@ -208,21 +217,6 @@
 8:29 — Alex Blania on Proof of Human and Building World's Identity Network
 11:46 — Payroll, pins, and punch cards
 13:14 — Payroll, pins, and punch cards</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 01, 2026</title>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-01.mp3" length="6953133" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-01.mp3</guid>
-      <itunes:duration>7:14</itunes:duration>
-      <description>Daily Digest — April 01, 2026
-
-0:34 — Scaling Uber with Thuan Pham (Uber’s first CTO)
-3:53 — Scaling Uber with Thuan Pham (Uber’s first CTO)</description>
-      <itunes:summary>Daily Digest — April 01, 2026
-
-0:34 — Scaling Uber with Thuan Pham (Uber’s first CTO)
-3:53 — Scaling Uber with Thuan Pham (Uber’s first CTO)</itunes:summary>
     </item>
   </channel>
 </rss>
