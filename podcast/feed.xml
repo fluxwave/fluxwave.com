@@ -9,6 +9,23 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 16, 2026</title>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-16.mp3" length="9207981" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-16.mp3</guid>
+      <itunes:duration>9:35</itunes:duration>
+      <description>Daily Digest — April 16, 2026
+
+0:29 — AI's Top Investor: "1% Have Seen God. 99% Are Oblivious."
+2:49 — Technology, Culture, and the Next AI Interface with signüll
+5:18 — Cash received is not revenue earned</description>
+      <itunes:summary>Daily Digest — April 16, 2026
+
+0:29 — AI's Top Investor: "1% Have Seen God. 99% Are Oblivious."
+2:49 — Technology, Culture, and the Next AI Interface with signüll
+5:18 — Cash received is not revenue earned</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 15, 2026</title>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-15.mp3" length="511533" type="audio/mpeg"/>
@@ -194,29 +211,6 @@
 
 0:27 — Marc Andreessen on AI Winters and Agent Breakthroughs
 2:48 — Marc Andreessen on AI Winters and Agent Breakthroughs</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 02, 2026</title>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-02.mp3" length="14880045" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-02.mp3</guid>
-      <itunes:duration>15:30</itunes:duration>
-      <description>Daily Digest — April 02, 2026
-
-0:25 — Michael Mauboussin | AI, Base Rates, and Investing in the New Economy
-2:53 — Michael Mauboussin | AI, Base Rates, and Investing in the New Economy
-5:13 — Alex Blania on Proof of Human and Building World's Identity Network
-8:29 — Alex Blania on Proof of Human and Building World's Identity Network
-11:46 — Payroll, pins, and punch cards
-13:14 — Payroll, pins, and punch cards</description>
-      <itunes:summary>Daily Digest — April 02, 2026
-
-0:25 — Michael Mauboussin | AI, Base Rates, and Investing in the New Economy
-2:53 — Michael Mauboussin | AI, Base Rates, and Investing in the New Economy
-5:13 — Alex Blania on Proof of Human and Building World's Identity Network
-8:29 — Alex Blania on Proof of Human and Building World's Identity Network
-11:46 — Payroll, pins, and punch cards
-13:14 — Payroll, pins, and punch cards</itunes:summary>
     </item>
   </channel>
 </rss>
