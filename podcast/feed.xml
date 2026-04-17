@@ -9,6 +9,25 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 17, 2026</title>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-17.mp3" length="7981869" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-17.mp3</guid>
+      <itunes:duration>8:18</itunes:duration>
+      <description>Daily Digest — April 17, 2026
+
+0:01 — The System Behind Self-Driving: Waymo’s Dmitri Dolgov
+2:06 — The Resilience No One Trusts | Brent Donnelly on Why War and Oil Haven’t Broken 
+4:11 — Planet Money Turned Everyday Annoyances Into an Economics Book
+6:16 — Planet Money Turned Everyday Annoyances Into an Economics Book</description>
+      <itunes:summary>Daily Digest — April 17, 2026
+
+0:01 — The System Behind Self-Driving: Waymo’s Dmitri Dolgov
+2:06 — The Resilience No One Trusts | Brent Donnelly on Why War and Oil Haven’t Broken 
+4:11 — Planet Money Turned Everyday Annoyances Into an Economics Book
+6:16 — Planet Money Turned Everyday Annoyances Into an Economics Book</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 16, 2026</title>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-16.mp3" length="9207981" type="audio/mpeg"/>
@@ -196,21 +215,6 @@
       <itunes:duration>13:11</itunes:duration>
       <description>Daily Digest — April 04, 2026</description>
       <itunes:summary>Daily Digest — April 04, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 03, 2026</title>
-      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-03.mp3" length="4836909" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-03.mp3</guid>
-      <itunes:duration>5:02</itunes:duration>
-      <description>Daily Digest — April 03, 2026
-
-0:27 — Marc Andreessen on AI Winters and Agent Breakthroughs
-2:48 — Marc Andreessen on AI Winters and Agent Breakthroughs</description>
-      <itunes:summary>Daily Digest — April 03, 2026
-
-0:27 — Marc Andreessen on AI Winters and Agent Breakthroughs
-2:48 — Marc Andreessen on AI Winters and Agent Breakthroughs</itunes:summary>
     </item>
   </channel>
 </rss>
