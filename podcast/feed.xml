@@ -9,6 +9,25 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 18, 2026</title>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-18.mp3" length="7459245" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-18.mp3</guid>
+      <itunes:duration>7:46</itunes:duration>
+      <description>Daily Digest — April 18, 2026
+
+0:16 — OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's Fir
+2:36 — The Intersection of Science and Finance with CFM's Jean-Philippe Bouchaud
+3:46 — The Intersection of Science and Finance with CFM's Jean-Philippe Bouchaud
+6:12 — AI Weapons and Mass Surveillance — The Weekly</description>
+      <itunes:summary>Daily Digest — April 18, 2026
+
+0:16 — OpenAI's Identity Crisis, Datacenter Wars, Market Up on Iran News, Mamdani's Fir
+2:36 — The Intersection of Science and Finance with CFM's Jean-Philippe Bouchaud
+3:46 — The Intersection of Science and Finance with CFM's Jean-Philippe Bouchaud
+6:12 — AI Weapons and Mass Surveillance — The Weekly</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 17, 2026</title>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-17.mp3" length="7981869" type="audio/mpeg"/>
@@ -206,15 +225,6 @@
       <itunes:duration>0:33</itunes:duration>
       <description>Daily Digest — April 05, 2026</description>
       <itunes:summary>Daily Digest — April 05, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 04, 2026</title>
-      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-04.mp3" length="12659373" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-04.mp3</guid>
-      <itunes:duration>13:11</itunes:duration>
-      <description>Daily Digest — April 04, 2026</description>
-      <itunes:summary>Daily Digest — April 04, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
