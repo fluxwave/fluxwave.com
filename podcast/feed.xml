@@ -9,6 +9,25 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 19, 2026</title>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-19.mp3" length="8842029" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-19.mp3</guid>
+      <itunes:duration>9:12</itunes:duration>
+      <description>Daily Digest — April 19, 2026
+
+0:12 — Network Effects, AI Costs, and the Future of Consumer Investing with Anish Achar
+2:37 — Inside The Viral Words That Make You Click - Etymology Nerd - #1086
+4:54 — We Asked David Rosenberg Why He Owns Almost No US Stocks — and What He Holds Ins
+7:02 — Nolan, Spielberg, Ellison, Cruise(!), and the CinemaCon Studio Power Ranking</description>
+      <itunes:summary>Daily Digest — April 19, 2026
+
+0:12 — Network Effects, AI Costs, and the Future of Consumer Investing with Anish Achar
+2:37 — Inside The Viral Words That Make You Click - Etymology Nerd - #1086
+4:54 — We Asked David Rosenberg Why He Owns Almost No US Stocks — and What He Holds Ins
+7:02 — Nolan, Spielberg, Ellison, Cruise(!), and the CinemaCon Studio Power Ranking</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 18, 2026</title>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-18.mp3" length="7459245" type="audio/mpeg"/>
@@ -216,15 +235,6 @@
 0:29 — The Companies Changing Warfare Forever: Palantir &amp; Anduril Execs on Drones, AI &amp;
 1:57 — Peter Yang on Small Teams, Coding Agents, and Why Human Ambition Has No Ceiling
 4:34 — The Inevitability No One Sees | $11 Billion Tech Manager on What Investors Miss </itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 05, 2026</title>
-      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-05.mp3" length="540333" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-05.mp3</guid>
-      <itunes:duration>0:33</itunes:duration>
-      <description>Daily Digest — April 05, 2026</description>
-      <itunes:summary>Daily Digest — April 05, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
