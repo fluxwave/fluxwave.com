@@ -9,6 +9,23 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 21, 2026</title>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-21.mp3" length="7260333" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-21.mp3</guid>
+      <itunes:duration>7:33</itunes:duration>
+      <description>Daily Digest — April 21, 2026
+
+0:22 — Rethinking Git for the Age of Coding Agents with GitHub Cofounder Scott Chacon
+2:53 — Marc Andreessen: Monitoring the Situation and the Future of Media
+5:20 — The French Revolution Didn't Help The Poor — It Killed Them. America Is About To</description>
+      <itunes:summary>Daily Digest — April 21, 2026
+
+0:22 — Rethinking Git for the Age of Coding Agents with GitHub Cofounder Scott Chacon
+2:53 — Marc Andreessen: Monitoring the Situation and the Future of Media
+5:20 — The French Revolution Didn't Help The Poor — It Killed Them. America Is About To</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 20, 2026</title>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-20.mp3" length="6595629" type="audio/mpeg"/>
@@ -218,23 +235,6 @@
 0:24 — The Agent Era: Building Software Beyond Chat with Box CEO Aaron Levie
 2:56 — #468 — More From Sam: Gratitude, Bad Conversations, Conspiracy Addiction, Waffle
 4:16 — Michael Nielsen – How science actually progresses</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 07, 2026</title>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-07.mp3" length="7699245" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-07.mp3</guid>
-      <itunes:duration>8:01</itunes:duration>
-      <description>Daily Digest — April 07, 2026
-
-0:26 — Balaji on Why AI Raises the Cost of Verification
-3:05 — The history and future of AI at Google, with Sundar Pichai
-5:31 — The Inevitability No One Sees | $11 Billion Tech Manager on What Investors Miss </description>
-      <itunes:summary>Daily Digest — April 07, 2026
-
-0:26 — Balaji on Why AI Raises the Cost of Verification
-3:05 — The history and future of AI at Google, with Sundar Pichai
-5:31 — The Inevitability No One Sees | $11 Billion Tech Manager on What Investors Miss </itunes:summary>
     </item>
   </channel>
 </rss>
