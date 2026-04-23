@@ -9,6 +9,23 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 23, 2026</title>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-23.mp3" length="5577261" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-23.mp3</guid>
+      <itunes:duration>5:48</itunes:duration>
+      <description>Daily Digest — April 23, 2026
+
+0:26 — Dylan Patel - The Infinite Demand for Tokens, Claude Mythos, and Supply Constrai
+1:52 — Google's Liz Reid on Who Will Own Search in a World of AI
+3:24 — Martin Shkreli on AI, Pharma, and What Actually Matters</description>
+      <itunes:summary>Daily Digest — April 23, 2026
+
+0:26 — Dylan Patel - The Infinite Demand for Tokens, Claude Mythos, and Supply Constrai
+1:52 — Google's Liz Reid on Who Will Own Search in a World of AI
+3:24 — Martin Shkreli on AI, Pharma, and What Actually Matters</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 21, 2026</title>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-21.mp3" length="7260333" type="audio/mpeg"/>
@@ -218,23 +235,6 @@
 0:22 — Who Controls AI Acceleration? Vitalik Buterin and Guillaume Verdon Debate
 3:42 — Alan Waxman - Private Credit and the Modern Financial System - [Invest Like the 
 6:10 — Ten Myths About the U.S. Tax System (Update)</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 08, 2026</title>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-08.mp3" length="6352173" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-08.mp3</guid>
-      <itunes:duration>6:37</itunes:duration>
-      <description>Daily Digest — April 08, 2026
-
-0:24 — The Agent Era: Building Software Beyond Chat with Box CEO Aaron Levie
-2:56 — #468 — More From Sam: Gratitude, Bad Conversations, Conspiracy Addiction, Waffle
-4:16 — Michael Nielsen – How science actually progresses</description>
-      <itunes:summary>Daily Digest — April 08, 2026
-
-0:24 — The Agent Era: Building Software Beyond Chat with Box CEO Aaron Levie
-2:56 — #468 — More From Sam: Gratitude, Bad Conversations, Conspiracy Addiction, Waffle
-4:16 — Michael Nielsen – How science actually progresses</itunes:summary>
     </item>
   </channel>
 </rss>
