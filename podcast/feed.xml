@@ -9,6 +9,23 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 25, 2026</title>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-25.mp3" length="8033709" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-25.mp3</guid>
+      <itunes:duration>8:22</itunes:duration>
+      <description>Daily Digest — April 25, 2026
+
+0:25 — Understanding the Most Viral Chart in Artificial Intelligence
+3:33 — The Future is Agentic in Recommender Systems
+7:04 — No One is Ready for This Coming War - Navy SEAL Andy Stumpf - #1089</description>
+      <itunes:summary>Daily Digest — April 25, 2026
+
+0:25 — Understanding the Most Viral Chart in Artificial Intelligence
+3:33 — The Future is Agentic in Recommender Systems
+7:04 — No One is Ready for This Coming War - Navy SEAL Andy Stumpf - #1089</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 24, 2026</title>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-24.mp3" length="18980781" type="audio/mpeg"/>
@@ -222,25 +239,6 @@
       <itunes:duration>0:25</itunes:duration>
       <description>Daily Digest — April 11, 2026</description>
       <itunes:summary>Daily Digest — April 11, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 10, 2026</title>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-10.mp3" length="11318061" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-10.mp3</guid>
-      <itunes:duration>11:47</itunes:duration>
-      <description>Daily Digest — April 10, 2026
-
-0:26 — Software Winners &amp; Losers in the Age of AI (w/Alex Rubalcava &amp; Paul Bricault) | 
-4:46 — Who Controls AI Acceleration? Vitalik Buterin and Guillaume Verdon Debate
-9:03 — Search Engine Presents: Are you a good driver?
-10:24 — Search Engine Presents: Are you a good driver?</description>
-      <itunes:summary>Daily Digest — April 10, 2026
-
-0:26 — Software Winners &amp; Losers in the Age of AI (w/Alex Rubalcava &amp; Paul Bricault) | 
-4:46 — Who Controls AI Acceleration? Vitalik Buterin and Guillaume Verdon Debate
-9:03 — Search Engine Presents: Are you a good driver?
-10:24 — Search Engine Presents: Are you a good driver?</itunes:summary>
     </item>
   </channel>
 </rss>
