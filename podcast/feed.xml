@@ -9,6 +9,25 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 26, 2026</title>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-26.mp3" length="7197741" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-26.mp3</guid>
+      <itunes:duration>7:29</itunes:duration>
+      <description>Daily Digest — April 26, 2026
+
+0:01 — SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer
+1:19 — SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer
+2:26 — The Stock Picking Philosophy to Find the Next Amazon with Motley Fool's David Ga
+5:15 — Cruising for free | Frequent Miler on the Air Ep355 | 4-23-26</description>
+      <itunes:summary>Daily Digest — April 26, 2026
+
+0:01 — SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer
+1:19 — SpaceX-Cursor Deal, SaaS Debt Bomb, New Apple CEO, SPLC Indictment, Colon Cancer
+2:26 — The Stock Picking Philosophy to Find the Next Amazon with Motley Fool's David Ga
+5:15 — Cruising for free | Frequent Miler on the Air Ep355 | 4-23-26</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 25, 2026</title>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-25.mp3" length="8033709" type="audio/mpeg"/>
@@ -230,15 +249,6 @@
       <itunes:summary>Daily Digest — April 12, 2026
 
 0:27 — The Market the Tweets Can’t Break | What the Options Market Tells Us About What </itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 11, 2026</title>
-      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-11.mp3" length="405933" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-11.mp3</guid>
-      <itunes:duration>0:25</itunes:duration>
-      <description>Daily Digest — April 11, 2026</description>
-      <itunes:summary>Daily Digest — April 11, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
