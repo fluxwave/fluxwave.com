@@ -9,6 +9,27 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 27, 2026</title>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-27.mp3" length="10322349" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-27.mp3</guid>
+      <itunes:duration>10:45</itunes:duration>
+      <description>Daily Digest — April 27, 2026
+
+0:21 — Claude, War, and the State of the Republic (with Dean Ball)
+2:47 — Ben Horowitz on Venture Capital and AI
+4:30 — Ben Horowitz on Venture Capital and AI
+6:47 — #389 - Thinking scientifically: why it's hard, why it matters, and a practical t
+8:19 — #389 - Thinking scientifically: why it's hard, why it matters, and a practical t</description>
+      <itunes:summary>Daily Digest — April 27, 2026
+
+0:21 — Claude, War, and the State of the Republic (with Dean Ball)
+2:47 — Ben Horowitz on Venture Capital and AI
+4:30 — Ben Horowitz on Venture Capital and AI
+6:47 — #389 - Thinking scientifically: why it's hard, why it matters, and a practical t
+8:19 — #389 - Thinking scientifically: why it's hard, why it matters, and a practical t</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 26, 2026</title>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-26.mp3" length="7197741" type="audio/mpeg"/>
@@ -236,19 +257,6 @@
 3:52 — The Man Who Built NVIDIA (with Stephen Witt)
 5:16 — The Forever Invariable Truth | Jim Grant on War, Inflation, and What Comes Next
 7:35 — The Forever Invariable Truth | Jim Grant on War, Inflation, and What Comes Next</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 12, 2026</title>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-12.mp3" length="1676973" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-12.mp3</guid>
-      <itunes:duration>1:44</itunes:duration>
-      <description>Daily Digest — April 12, 2026
-
-0:27 — The Market the Tweets Can’t Break | What the Options Market Tells Us About What </description>
-      <itunes:summary>Daily Digest — April 12, 2026
-
-0:27 — The Market the Tweets Can’t Break | What the Options Market Tells Us About What </itunes:summary>
     </item>
   </channel>
 </rss>
