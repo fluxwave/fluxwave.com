@@ -9,6 +9,29 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 28, 2026</title>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-28.mp3" length="13369005" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-28.mp3</guid>
+      <itunes:duration>13:55</itunes:duration>
+      <description>Daily Digest — April 28, 2026
+
+0:20 — John and Patrick Collison on Stripe's Growth, Agent Commerce, and the Future of 
+2:45 — John and Patrick Collison on Stripe's Growth, Agent Commerce, and the Future of 
+5:02 — Chris Davis on Durability, AI Disruption, and the Risks Investors Are Missing
+7:11 — Chris Davis on Durability, AI Disruption, and the Risks Investors Are Missing
+9:26 — Paul Tudor Jones - Lessons From 50 Years in Markets - [Invest Like the Best, EP.
+11:40 — Maria Sharapova’s centre court tricks for the boardroom</description>
+      <itunes:summary>Daily Digest — April 28, 2026
+
+0:20 — John and Patrick Collison on Stripe's Growth, Agent Commerce, and the Future of 
+2:45 — John and Patrick Collison on Stripe's Growth, Agent Commerce, and the Future of 
+5:02 — Chris Davis on Durability, AI Disruption, and the Risks Investors Are Missing
+7:11 — Chris Davis on Durability, AI Disruption, and the Risks Investors Are Missing
+9:26 — Paul Tudor Jones - Lessons From 50 Years in Markets - [Invest Like the Best, EP.
+11:40 — Maria Sharapova’s centre court tricks for the boardroom</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 27, 2026</title>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-27.mp3" length="10322349" type="audio/mpeg"/>
@@ -238,25 +261,6 @@
 0:28 — Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software
 2:59 — The world of voice AI, with Mati Staniszewski of ElevenLabs
 5:43 — Presenting What Next TBD: Why Everyone is Freaking out About Private Credit</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 13, 2026</title>
-      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-13.mp3" length="9426861" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-13.mp3</guid>
-      <itunes:duration>9:49</itunes:duration>
-      <description>Daily Digest — April 13, 2026
-
-0:24 — Building Agents at Home: Parenting, Work, and Benevolent Neglect
-3:52 — The Man Who Built NVIDIA (with Stephen Witt)
-5:16 — The Forever Invariable Truth | Jim Grant on War, Inflation, and What Comes Next
-7:35 — The Forever Invariable Truth | Jim Grant on War, Inflation, and What Comes Next</description>
-      <itunes:summary>Daily Digest — April 13, 2026
-
-0:24 — Building Agents at Home: Parenting, Work, and Benevolent Neglect
-3:52 — The Man Who Built NVIDIA (with Stephen Witt)
-5:16 — The Forever Invariable Truth | Jim Grant on War, Inflation, and What Comes Next
-7:35 — The Forever Invariable Truth | Jim Grant on War, Inflation, and What Comes Next</itunes:summary>
     </item>
   </channel>
 </rss>
