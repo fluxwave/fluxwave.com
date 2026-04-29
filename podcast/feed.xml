@@ -9,6 +9,25 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 29, 2026</title>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-29.mp3" length="11590317" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-29.mp3</guid>
+      <itunes:duration>12:04</itunes:duration>
+      <description>Daily Digest — April 29, 2026
+
+0:26 — AI-Proofing Your Skillset - High-Meaning, High-Specifity Vocabulary is the Path 
+4:01 — AI-Proofing Your Skillset - High-Meaning, High-Specifity Vocabulary is the Path 
+6:11 — Reiner Pope – The math behind how LLMs are trained and served
+8:44 — Richard Bernstein on Finding Opportunity in a Narrow Market</description>
+      <itunes:summary>Daily Digest — April 29, 2026
+
+0:26 — AI-Proofing Your Skillset - High-Meaning, High-Specifity Vocabulary is the Path 
+4:01 — AI-Proofing Your Skillset - High-Meaning, High-Specifity Vocabulary is the Path 
+6:11 — Reiner Pope – The math behind how LLMs are trained and served
+8:44 — Richard Bernstein on Finding Opportunity in a Narrow Market</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 28, 2026</title>
       <pubDate>Tue, 28 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-28.mp3" length="13369005" type="audio/mpeg"/>
@@ -244,23 +263,6 @@
       <itunes:duration>0:31</itunes:duration>
       <description>Daily Digest — April 15, 2026</description>
       <itunes:summary>Daily Digest — April 15, 2026</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 14, 2026</title>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-14.mp3" length="7993773" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-14.mp3</guid>
-      <itunes:duration>8:19</itunes:duration>
-      <description>Daily Digest — April 14, 2026
-
-0:28 — Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software
-2:59 — The world of voice AI, with Mati Staniszewski of ElevenLabs
-5:43 — Presenting What Next TBD: Why Everyone is Freaking out About Private Credit</description>
-      <itunes:summary>Daily Digest — April 14, 2026
-
-0:28 — Ben Horowitz on AI Infrastructure, Economics and The New Laws of Software
-2:59 — The world of voice AI, with Mati Staniszewski of ElevenLabs
-5:43 — Presenting What Next TBD: Why Everyone is Freaking out About Private Credit</itunes:summary>
     </item>
   </channel>
 </rss>
