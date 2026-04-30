@@ -9,6 +9,25 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — April 30, 2026</title>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-30.mp3" length="8093997" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-30.mp3</guid>
+      <itunes:duration>8:25</itunes:duration>
+      <description>Daily Digest — April 30, 2026
+
+0:01 — #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Comp
+2:07 — Why The AI Bubble Doesn’t Matter
+4:10 — Workday’s Last Workday? AI and the Future of Enterprise Software
+6:22 — Workday’s Last Workday? AI and the Future of Enterprise Software</description>
+      <itunes:summary>Daily Digest — April 30, 2026
+
+0:01 — #863: Elad Gil, Consigliere to Empire Builders — How to Spot Billion-Dollar Comp
+2:07 — Why The AI Bubble Doesn’t Matter
+4:10 — Workday’s Last Workday? AI and the Future of Enterprise Software
+6:22 — Workday’s Last Workday? AI and the Future of Enterprise Software</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 29, 2026</title>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-29.mp3" length="11590317" type="audio/mpeg"/>
@@ -254,15 +273,6 @@
 0:29 — AI's Top Investor: "1% Have Seen God. 99% Are Oblivious."
 2:49 — Technology, Culture, and the Next AI Interface with signüll
 5:18 — Cash received is not revenue earned</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 15, 2026</title>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-15.mp3" length="511533" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-15.mp3</guid>
-      <itunes:duration>0:31</itunes:duration>
-      <description>Daily Digest — April 15, 2026</description>
-      <itunes:summary>Daily Digest — April 15, 2026</itunes:summary>
     </item>
   </channel>
 </rss>
