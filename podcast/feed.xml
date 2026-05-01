@@ -9,6 +9,23 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — May 01, 2026</title>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-05-01.mp3" length="7197741" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-05-01.mp3</guid>
+      <itunes:duration>7:29</itunes:duration>
+      <description>Daily Digest — May 01, 2026
+
+0:26 — How the SPLC became financial infrastructure
+3:06 — Why Bonds Are Back: PIMCO’s Marc Seidner on the Best Fixed Income Setup in Years
+5:06 — How to Engineer AI Inference Systems with Philip Kiely - #766</description>
+      <itunes:summary>Daily Digest — May 01, 2026
+
+0:26 — How the SPLC became financial infrastructure
+3:06 — Why Bonds Are Back: PIMCO’s Marc Seidner on the Best Fixed Income Setup in Years
+5:06 — How to Engineer AI Inference Systems with Philip Kiely - #766</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — April 30, 2026</title>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-30.mp3" length="8093997" type="audio/mpeg"/>
@@ -256,23 +273,6 @@
 2:06 — The Resilience No One Trusts | Brent Donnelly on Why War and Oil Haven’t Broken 
 4:11 — Planet Money Turned Everyday Annoyances Into an Economics Book
 6:16 — Planet Money Turned Everyday Annoyances Into an Economics Book</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 16, 2026</title>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-16.mp3" length="9207981" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-16.mp3</guid>
-      <itunes:duration>9:35</itunes:duration>
-      <description>Daily Digest — April 16, 2026
-
-0:29 — AI's Top Investor: "1% Have Seen God. 99% Are Oblivious."
-2:49 — Technology, Culture, and the Next AI Interface with signüll
-5:18 — Cash received is not revenue earned</description>
-      <itunes:summary>Daily Digest — April 16, 2026
-
-0:29 — AI's Top Investor: "1% Have Seen God. 99% Are Oblivious."
-2:49 — Technology, Culture, and the Next AI Interface with signüll
-5:18 — Cash received is not revenue earned</itunes:summary>
     </item>
   </channel>
 </rss>
