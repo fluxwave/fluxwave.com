@@ -9,6 +9,15 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — May 02, 2026</title>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-05-02.mp3" length="465453" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-05-02.mp3</guid>
+      <itunes:duration>0:29</itunes:duration>
+      <description>Daily Digest — May 02, 2026</description>
+      <itunes:summary>Daily Digest — May 02, 2026</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — May 01, 2026</title>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-05-01.mp3" length="7197741" type="audio/mpeg"/>
@@ -254,25 +263,6 @@
 2:36 — The Intersection of Science and Finance with CFM's Jean-Philippe Bouchaud
 3:46 — The Intersection of Science and Finance with CFM's Jean-Philippe Bouchaud
 6:12 — AI Weapons and Mass Surveillance — The Weekly</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — April 17, 2026</title>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-04-17.mp3" length="7981869" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-04-17.mp3</guid>
-      <itunes:duration>8:18</itunes:duration>
-      <description>Daily Digest — April 17, 2026
-
-0:01 — The System Behind Self-Driving: Waymo’s Dmitri Dolgov
-2:06 — The Resilience No One Trusts | Brent Donnelly on Why War and Oil Haven’t Broken 
-4:11 — Planet Money Turned Everyday Annoyances Into an Economics Book
-6:16 — Planet Money Turned Everyday Annoyances Into an Economics Book</description>
-      <itunes:summary>Daily Digest — April 17, 2026
-
-0:01 — The System Behind Self-Driving: Waymo’s Dmitri Dolgov
-2:06 — The Resilience No One Trusts | Brent Donnelly on Why War and Oil Haven’t Broken 
-4:11 — Planet Money Turned Everyday Annoyances Into an Economics Book
-6:16 — Planet Money Turned Everyday Annoyances Into an Economics Book</itunes:summary>
     </item>
   </channel>
 </rss>
