@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-01",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/8d0e3bf4mp3/01_How_bank_fraud_becomes_a_predicate_for_money-laund.mp3",
+      "source": "How the SPLC became financial infrastructure",
+      "start_time": 440,
+      "end_time": 515,
+      "topic": "How bank fraud becomes a predicate for money-laundering conspiracy charges"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/TIFM5072255151mp3/01_Household_portfolios_are_overweight_equities_and_c.mp3",
+      "source": "Why Bonds Are Back: PIMCO\u2019s Marc Seidner on the Best Fixed Income Setup in Years | #629",
+      "start_time": 397,
+      "end_time": 523,
+      "topic": "Household portfolios are overweight equities and cash while fixed income allocation is near historic lows"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/MLN3829343846mp3/01_Research-to-production_speed_in_inference_includin.mp3",
+      "source": "How to Engineer AI Inference Systems with Philip Kiely - #766",
+      "start_time": 633,
+      "end_time": 760,
+      "topic": "Research-to-production speed in inference, including implementing PolarQuant within 31 hours"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
