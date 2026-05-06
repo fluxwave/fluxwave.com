@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-06",
+  "selected_clips": 6,
+  "dropped_for_overlap_or_proximity": [],
+  "same_source_spacing_findings": [
+    {
+      "source": "You're Wrong All the Time, But All You Need Are Better Explanations",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/default_tcmp3/01_Building_skills_for_working_with_agentic_coding_an.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/default_tcmp3/00_Applying_meaning_rich_abstraction_to_software_deve.mp3",
+      "gap_seconds": 420.0,
+      "overlap": false,
+      "near_duplicate": false
+    },
+    {
+      "source": "Was Adam Smith Really a Right-Winger? (Update)",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/00_Internet_as_the_organizing_principle.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/01_Impact_of_AI_on_media_and_truth.mp3",
+      "gap_seconds": 180.0,
+      "overlap": false,
+      "near_duplicate": false
+    },
+    {
+      "source": "We Asked Rich Bernstein and Chris Davis Why This Market Isn\u2019t as Safe as It Feels",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO2572111451mp3/00_Chris_Davis_mom_outperforming_his_fund.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO2572111451mp3/01_Letting_winners_run_and_portfolio_context.mp3",
+      "gap_seconds": 727.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
