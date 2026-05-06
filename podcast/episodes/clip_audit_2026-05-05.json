@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-05",
+  "selected_clips": 2,
+  "dropped_for_overlap_or_proximity": [],
+  "same_source_spacing_findings": [
+    {
+      "source": "Brian Chesky - AI Founder Mode - [Invest Like the Best, EP.470]",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/CLS3515065653mp3/00_Designing_products_with_user_journeys_and_empathy.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/CLS3515065653mp3/01_The_new_capabilities_and_mode_of_running_a_company.mp3",
+      "gap_seconds": 240.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
