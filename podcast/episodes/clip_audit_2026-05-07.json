@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-07",
+  "selected_clips": 5,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/lex_ai_ffmpegmp3/01_The_stupid_file_competition_and_VLCs_robustness_ag.mp3",
+      "source": "#496 \u2013 FFmpeg: The Incredible Technology Behind Video on the Internet",
+      "start_time": 780,
+      "end_time": 841,
+      "topic": "The 'stupid file' competition and VLC's robustness against deliberately malformed media files"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "Crypto Fund 5: We Raised $2.2B. Here\u2019s Why.",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/01_The_internet_as_the_upstream_layer_for_AI_drones_f.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/00_Public_undisclosed_AI_synthetic_content_and_why_ve.mp3",
+      "gap_seconds": 193.0,
+      "overlap": false,
+      "near_duplicate": false
+    },
+    {
+      "source": "Tracy Chou (Block Party) - Founding a Mission-Driven Startup",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/91676bac-a8f9-4ef3-b0de-756795bdc9b3mp3/00_Tracy_Chou_on_choosing_early-stage_employment_over.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/91676bac-a8f9-4ef3-b0de-756795bdc9b3mp3/01_Building_the_block_button_at_Quora_and_later_Block.mp3",
+      "gap_seconds": 184.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
