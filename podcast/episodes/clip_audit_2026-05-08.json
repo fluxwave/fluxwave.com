@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-08",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/MLN7498240745mp3/01_Shift_from_pre-production_testing_to_production_an.mp3",
+      "source": "How to Find the Agent Failures Your Evals Miss with Scott Clark - #767",
+      "start_time": 474,
+      "end_time": 542,
+      "topic": "Shift from pre-production testing to production analytics for agent anti-pattern discovery"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/01_From_going_direct_to_proving_correct_with_cryptogr.mp3",
+      "source": "Ben Horowitz on the Next Technology Era",
+      "start_time": 540,
+      "end_time": 660,
+      "topic": "From going direct to proving correct with cryptographic verification"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/625f589amp3/01_Industry_participants_describe_reputational_and_re.mp3",
+      "source": "Defendant, Censor, Politico, Spy",
+      "start_time": 512,
+      "end_time": 632,
+      "topic": "Industry participants describe reputational and regulatory pressure tactics"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
