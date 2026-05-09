@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-09",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO3294194752mp3/01_Smart_beta_strategies_vs_multifactor_portfolios.mp3",
+      "source": "We Asked a $4.5B Quant Manager Why the S&P 500 Is Just 46 Stocks \u2014 and Why Small Caps Aren't Dead",
+      "start_time": 900,
+      "end_time": 1100,
+      "topic": "Smart beta strategies vs. multifactor portfolios"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/ALLIN-E272_Chmp3/01_Emergence_of_Elon_Web_Services_EWS_as_a_hyperscale.mp3",
+      "source": "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom",
+      "start_time": 521,
+      "end_time": 761,
+      "topic": "Emergence of Elon Web Services (EWS) as a hyperscaler"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "Winning the Degenerate Economy with StockTwits CEO Howard Lindzon",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/00_Applying_theoretical_physics_to_finance.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Applying_quantitative_research_to_futures_trading.mp3",
+      "gap_seconds": 600.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
