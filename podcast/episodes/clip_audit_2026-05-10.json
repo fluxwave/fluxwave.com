@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-10",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO1240198448mp3/01_Market_trends_and_AIs_impact_on_the_market.mp3",
+      "source": "We Asked an Options Expert Why This Melt Up Hasn\u2019t Broken \u2014 and Which Signal Could End It",
+      "start_time": 181,
+      "end_time": 300,
+      "topic": "Market trends and AI's impact on the market"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/ALLIN-E272_Chmp3/01_Emergence_of_Elon_Web_Services_EWS_as_a_hyperscale.mp3",
+      "source": "Elon's Anthropic Deal, The Next AI Monopoly?, \"FDA for AI\" Panic, Trading the AI Boom",
+      "start_time": 400,
+      "end_time": 560,
+      "topic": "Emergence of Elon Web Services (EWS) as a hyperscaler"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "We Asked a $4.5B Quant Manager Why the S&P 500 Is Just 46 Stocks \u2014 and Why Small Caps Aren't Dead",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO3294194752mp3/00_Market_concentration_and_factor-based_investing.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO3294194752mp3/01_Multifactor_portfolios_and_consistent_results.mp3",
+      "gap_seconds": 240.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
