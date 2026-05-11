@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-11",
+  "selected_clips": 6,
+  "dropped_for_overlap_or_proximity": [],
+  "same_source_spacing_findings": [
+    {
+      "source": "The Bank of England's Megan Greene on Monetary Policy in a World of Supply Shocks",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Geographical_upbringing_and_its_effect_on_perspect.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/00_Career_path_and_personal_experiences.mp3",
+      "gap_seconds": 690.0,
+      "overlap": false,
+      "near_duplicate": false
+    },
+    {
+      "source": "Run The News | Cocodona 250 Leveled Up",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/2_Run_The_News_Cocodona_250_Leveled_Upmp3/01_Live_stream_and_social_media_component_of_the_even.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/2_Run_The_News_Cocodona_250_Leveled_Upmp3/00_Uncertainty_and_learning_in_ultra-running_events.mp3",
+      "gap_seconds": 352.0,
+      "overlap": false,
+      "near_duplicate": false
+    },
+    {
+      "source": "Natalie Marie Gonzalez: High Achiever Drug Dealer",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/5dd3e92d-6c06-4f5b-9eb7-b0b8730aaeb1mp3/01_Natalies_career_choices_and_environmental_advocacy.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/5dd3e92d-6c06-4f5b-9eb7-b0b8730aaeb1mp3/00_Natalies_transition_from_a_high-achieving_student.mp3",
+      "gap_seconds": 300.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
