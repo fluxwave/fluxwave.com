@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-12",
+  "selected_clips": 6,
+  "dropped_for_overlap_or_proximity": [],
+  "same_source_spacing_findings": [
+    {
+      "source": "Winston Weinberg: Speed, Stress, and Better Decisions",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/FSMI1836811628mp3/00_Saying_no_to_non-essential_tasks_and_focusing_on_k.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/FSMI1836811628mp3/01_Applying_LLMs_to_the_legal_industry.mp3",
+      "gap_seconds": 408.0,
+      "overlap": false,
+      "near_duplicate": false
+    },
+    {
+      "source": "Duolingo\u2019s battle for learning in an AI world, with Luis von Ahn",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/febba34b-31a8-435e-bd17-f19fe6d6220emp3/00_Motivating_people_to_learn_about_AI.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/febba34b-31a8-435e-bd17-f19fe6d6220emp3/01_Balancing_AI_usage_with_employee_contributions.mp3",
+      "gap_seconds": 501.0,
+      "overlap": false,
+      "near_duplicate": false
+    },
+    {
+      "source": "Lloyd Blankfein on Risk, Crisis, and Leadership",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/00_Investing_in_national_interest_and_advanced_techno.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/01_AI_and_policy_including_the_anthropic_deal.mp3",
+      "gap_seconds": 124.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
