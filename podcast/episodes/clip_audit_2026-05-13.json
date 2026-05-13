@@ -1,0 +1,23 @@
+{
+  "date": "2026-05-13",
+  "selected_clips": 5,
+  "dropped_for_overlap_or_proximity": [],
+  "same_source_spacing_findings": [
+    {
+      "source": "Energy, Minerals, and the Physical Stack Behind AI",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/00_Investing_in_national_interest_and_AI_technology.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/01_Anthropic_and_AI_policy.mp3",
+      "gap_seconds": 132.0,
+      "overlap": false,
+      "near_duplicate": false
+    },
+    {
+      "source": "TypeScript, C# and Turbo Pascal with Anders Hejlsberg",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/9d015fa8d84755f5f8ad8f2fca3705a8mp3/01_Anders_Heilsbergs_early_programming_experiences_an.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/9d015fa8d84755f5f8ad8f2fca3705a8mp3/00_The_creation_of_Turbo_Pascal_and_its_impact_on_the.mp3",
+      "gap_seconds": 120.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
