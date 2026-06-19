@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-19",
+  "selected_clips": 5,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/6bfb394237f089ea0355b8632dfa3537mp3/01_Why_low_sample_efficiency_may_still_be_enough_to_a.mp3",
+      "source": "The data black hole at the center of AI",
+      "start_time": 513,
+      "end_time": 640,
+      "topic": "Why low sample efficiency may still be enough to automate common white-collar work"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "Anthropic's Co-Founder and Top Economist on Doing Research at the AI Frontier",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Jack_Clark_explains_spotting_exponential_AI_progre.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/00_Anthropics_internal_use_of_code_agents_and_recursi.mp3",
+      "gap_seconds": 193.0,
+      "overlap": false,
+      "near_duplicate": false
+    },
+    {
+      "source": "Bryan Taylor: There Is No Equity Risk Premium (Investing in America Series) #635",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/TIFM2175184998mp3/00_TWIG_framework_trade_war_inflation_and_government.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/TIFM2175184998mp3/01_The_long_negative_real-return_period_for_US_bonds.mp3",
+      "gap_seconds": 126.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
