@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-21",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/15deb7e4-aab2-4d8c-acc7-881e5f29204amp3/01_Historical_examples_of_economic_collapse_preceding.mp3",
+      "source": "Can the Middle Class Be Saved? Political Division, Economic Doom & The Leadership Problem | Andrew Bustamante Pt. 2",
+      "start_time": 460,
+      "end_time": 590,
+      "topic": "Historical examples of economic collapse preceding authoritarian movements"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/3a644045-cb0a-4628-b87f-40c87ccfe5d1mp3/01_Tock-to-Resy_integration_as_a_backend_explanation.mp3",
+      "source": "Wyndham's intriguing new card lineup | Frequent Miler on the Air Ep363 | 6-19-26",
+      "start_time": 690,
+      "end_time": 795,
+      "topic": "Tock-to-Resy integration as a backend explanation for Amex credit-rule changes"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "The $2 Trillion Question | Tobias Carlisle on SpaceX, the AI Buildout, and the Rotation No One Sees",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO5033146851mp3/01_AI-driven_market_overvaluation_and_mean_reversion.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO5033146851mp3/00_Mag_7_hyperscalers_and_whether_big_tech_valuations.mp3",
+      "gap_seconds": 130.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
