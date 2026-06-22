@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-22",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/0060b7ca-a87d-449f-bb48-d990298d4ba2mp3/01_Deconfliction_teams_ceasefires_as_reduced_shooting.mp3",
+      "source": "Wild Weekend Recap: Iran Chaos, Global Shifts, and the Economic Debate Shaping Our Future",
+      "start_time": 368,
+      "end_time": 498,
+      "topic": "Deconfliction teams, ceasefires as reduced shooting, and nuclear inspectors returning to Iran"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/SIXMSB4354846738mp3/01_Local-max_influence_on_platforms_can_degrade_long-.mp3",
+      "source": "Inside The Democratic Party Civil War - Ezra Klein - #1114",
+      "start_time": 561,
+      "end_time": 637,
+      "topic": "Local-max influence on platforms can degrade long-term thinking"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "Grace Shao on What the World Should Know About Chinese AI",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Jack_Clark_explains_spotting_exponential_AI_progre.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/00_Recursive_self-improvement_inside_Anthropic_and_en.mp3",
+      "gap_seconds": 225.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
