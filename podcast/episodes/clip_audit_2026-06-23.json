@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-23",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/Fuyuan_Lyu_No_Ads_V1mp3/01_Using_LLM_embeddings_and_collaborative_filtering_t.mp3",
+      "source": "Give Users the Wheel",
+      "start_time": 581,
+      "end_time": 715,
+      "topic": "Using LLM embeddings and collaborative filtering together"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/GLT4187803873mp3/01_The_OpenAI_board_crisis_dramatized_through_Ilya_Su.mp3",
+      "source": "Amazon Won\u2019t Release Its Sam Altman Movie. Will Anyone?",
+      "start_time": 520,
+      "end_time": 642,
+      "topic": "The OpenAI board crisis dramatized through Ilya Sutskever and Sam Altman's firing"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO2917853269mp3/01_War_oil_exposure_and_balance-of-payments_vulnerabi.mp3",
+      "source": "Finding Quality Growth in Emerging Markets with Ian Smith",
+      "start_time": 380,
+      "end_time": 530,
+      "topic": "War, oil exposure, and balance-of-payments vulnerability across emerging markets"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
