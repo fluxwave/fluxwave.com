@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-24",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/default_tcmp3/01_Verification_validation_and_testing_as_the_new_AI.mp3",
+      "source": "Why Can't You Go Faster With AI? Focus on the Friction to Find Out",
+      "start_time": 622,
+      "end_time": 748,
+      "topic": "Verification, validation, and testing as the new AI development bottleneck"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/ALLIN-INTV_Cohen_Chmp3/01_Founder-led_operating_discipline_metrics_AdWords_s.mp3",
+      "source": "GameStop CEO Ryan Cohen's $56B Plan to Take Over eBay",
+      "start_time": 432,
+      "end_time": 559,
+      "topic": "Founder-led operating discipline: metrics, AdWords, supplier negotiations, and penny-level economics"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/01_Healthcare_sludge_GDP-scale_waste_and_fragmented_p.mp3",
+      "source": "The World Is (Still) Drowning in Sludge",
+      "start_time": 760,
+      "end_time": 895,
+      "topic": "Healthcare sludge, GDP-scale waste, and fragmented provider data"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
