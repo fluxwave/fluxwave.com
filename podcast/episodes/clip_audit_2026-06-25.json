@@ -1,0 +1,28 @@
+{
+  "date": "2026-06-25",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO9811321795mp3/01_Why_the_dot-com_bubble_was_comparatively_easy_to_n.mp3",
+      "source": "We Asked GMO\u2019s Head of Asset Allocation Why This Bubble is Easy \u2014 But Investors Will Get it Wrong",
+      "start_time": 300,
+      "end_time": 430,
+      "topic": "Why the dot-com bubble was comparatively easy to navigate"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/1119f698mp3/01_Rakuten_as_a_tech_company_using_payments_to_streng.mp3",
+      "source": "Forty ways to pay for coffee in Japan",
+      "start_time": 570,
+      "end_time": 690,
+      "topic": "Rakuten as a tech company using payments to strengthen its marketplace ecosystem"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/482_MFS_6-25-26_paywallmp3/01_Philosophy_as_training_for_clear_thinking_in_an_AI.mp3",
+      "source": "#482 \u2014 More From Sam: The Iran Deal, College in the AI Age, Mamdani's DSA, and More",
+      "start_time": 427,
+      "end_time": 554,
+      "topic": "Philosophy as training for clear thinking in an AI-shaped world"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
