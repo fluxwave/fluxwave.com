@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-26",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/b3a3986f8a780f554393d02d34bdcf51mp3/01_Inference_compute_deployment_learning_and_the_miss.mp3",
+      "source": "The next big breakthrough will be AIs learning on the job",
+      "start_time": 460,
+      "end_time": 583,
+      "topic": "Inference compute, deployment learning, and the missing continual-learning loop"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/TIFM4679638772mp3/01_Time_horizon_as_the_core_constraint_for_every_inve.mp3",
+      "source": "Ben Carlson: The Numbers That Break Your Brain About Long Term Investing | #637",
+      "start_time": 496,
+      "end_time": 600,
+      "topic": "Time horizon as the core constraint for every investment decision"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "Rory Johnston on Why His $200 Oil Prediction Didn't Turn Out Right",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Jack_Clarks_early_AI_thesis_exponential_progress_a.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/00_Recursive_self-improvement_inside_Anthropic_and_en.mp3",
+      "gap_seconds": 178.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
