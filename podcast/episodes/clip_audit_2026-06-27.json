@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-27",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/ALLIN-E278_Chmp3/01_AI_backlash_doomer_narratives_and_political_fights.mp3",
+      "source": "Socialists Sweep NYC, China Catches Up in Coding, AI Memory Crunch, Micron's Blowout Quarter",
+      "start_time": 342,
+      "end_time": 480,
+      "topic": "AI backlash, doomer narratives, and political fights around AI regulation"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/78c9761a-1068-4d12-a6bd-3c327688497dmp3/01_How_to_think_about_trillion-dollar_AI_valuations_a.mp3",
+      "source": "Pioneers of AI: Reid Hoffman says the AI race is not a cage match",
+      "start_time": 623,
+      "end_time": 720,
+      "topic": "How to think about trillion-dollar AI valuations and future profitability"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "How Lenovo's CFO Is Allocating Capital During One of History's Biggest Booms",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Jack_Clarks_early_AI_thesis_exponential_progress_a.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/00_Recursive_self-improvement_inside_Anthropic_and_en.mp3",
+      "gap_seconds": 178.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
