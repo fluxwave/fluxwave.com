@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-28",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO8077244439mp3/01_Hundred-bagger_drawdowns_and_the_case_for_waiting.mp3",
+      "source": "The 100 Year Thinkers: Chris Mayer on SpaceX, AI Reckoning, and Why Early Is Overrated",
+      "start_time": 378,
+      "end_time": 506,
+      "topic": "Hundred-bagger drawdowns and the case for waiting through major valuation resets"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/a8ae43d9-dce5-41e4-9e53-10f95df1277bmp3/01_Qatar_Airways_new_anti-brokering_rules_for_award_b.mp3",
+      "source": "Bilt Palladium Review: 6 month checkpoint | Frequent Miler on the Air Ep364 | 6-26-26",
+      "start_time": 525,
+      "end_time": 645,
+      "topic": "Qatar Airways' new anti-brokering rules for award bookings"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "Sketching Wealth Strategy: Masters in Business with Carl Richards",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Jack_Clarks_early_AI_thesis_exponential_progress_a.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/00_Recursive_self-improvement_inside_Anthropic_and_en.mp3",
+      "gap_seconds": 178.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
