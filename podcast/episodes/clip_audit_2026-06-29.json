@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-29",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/FINAL_PASS_NATE_SILVERmp3/01_LA_election_results_mail-in_ballots_and_claims_of.mp3",
+      "source": "Nate Silver Predicts: Democrats Take the House, Newsom Is Fading & AOC Might Win It All in 2028",
+      "start_time": 579,
+      "end_time": 645,
+      "topic": "LA election results, mail-in ballots, and claims of statistical irregularity"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/15824158-9e7d-4aac-b646-2192e1f6a3f6mp3/01_AI_surfacing_latent_trip-planning_details_users_wo.mp3",
+      "source": "How are you using AI for trip planning? | Question of the Week Ep7 | 6-27-26",
+      "start_time": 540,
+      "end_time": 635,
+      "topic": "AI surfacing latent trip-planning details users would not think to search for"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "Baidu's CFO on How It Became a Full-Stack AI Player",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Jack_Clark_explains_why_2016_AI_progress_already_l.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/00_Recursive_self-improvement_and_Anthropic_engineers.mp3",
+      "gap_seconds": 193.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
