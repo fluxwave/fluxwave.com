@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-30",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/CLS8561569864mp3/01_Etcheds_chip-design_edge_from_rejecting_default_se.mp3",
+      "source": "Etched - Building AI Hardware to Make Inference Faster and Cheaper - [Invest Like the Best, EP.480]",
+      "start_time": 317,
+      "end_time": 443,
+      "topic": "Etched's chip-design edge from rejecting default semiconductor constraints"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/5f3632cca68272c292349f10debc3573mp3/01_Fermats_Last_Theorem_building_new_mathematical_mac.mp3",
+      "source": "Grant Sanderson \u2013 AI and the future of math",
+      "start_time": 386,
+      "end_time": 464,
+      "topic": "Fermat's Last Theorem, building new mathematical machinery, and what true AI creativity would look like"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "The Fed Just Changed How They Measure Inflation \u2014 Right Before The Election. Not A Coincidence",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/6d9a51ac-ddae-4988-aa8e-8f7bf711a295mp3/00_Impact_of_AI_on_productivity_and_inflation.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/6d9a51ac-ddae-4988-aa8e-8f7bf711a295mp3/01_Measuring_inflation_and_potential_data_manipulatio.mp3",
+      "gap_seconds": 305.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
