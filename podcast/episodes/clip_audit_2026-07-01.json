@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-01",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/482_MS_Alain_deBotton_paywallmp3/01_Ritualized_madness_Dionysus_and_mental_health_in_m.mp3",
+      "source": "#483 \u2014 The Knots We Tie Ourselves Into",
+      "start_time": 540,
+      "end_time": 672,
+      "topic": "Ritualized madness, Dionysus, and mental health in modern society"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/db35f243-aaf4-4a44-8698-0ccc8c2f49b2mp3/01_Birthright_citizenship_ruling_as_a_constraint_on_e.mp3",
+      "source": "Supreme Court Rulings, Birthright Citizenship, and the Impact of AI on America\u2019s Future",
+      "start_time": 604,
+      "end_time": 694,
+      "topic": "Birthright citizenship ruling as a constraint on executive power"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "He Wrote the Book on Why Moats Fail | Ritavan on What Actually Compounds Instead",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO4213914554mp3/01_The_three_requirements_for_a_system_gambit_self-im.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO4213914554mp3/00_AI_coding_tools_software_moats_and_how_scarce_asse.mp3",
+      "gap_seconds": 127.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
