@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-02",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO4589470804mp3/01_AI_investment_crowding_out_housing_and_reshaping_m.mp3",
+      "source": "The AI Trade, the Fed and the Next Phase of the Bull Market | Warren Pies",
+      "start_time": 397,
+      "end_time": 519,
+      "topic": "AI investment crowding out housing and reshaping macro signals"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/b9177933mp3/01_Deposit_franchises_as_real_banking_assets_rather_t.mp3",
+      "source": "The structural footprint of a bank run",
+      "start_time": 447,
+      "end_time": 565,
+      "topic": "Deposit franchises as real banking assets rather than accounting abstractions"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/Andreea_No_Ads_V1mp3/01_NewsRecLib_as_a_reproducible_framework_for_compari.mp3",
+      "source": "News Recommendations",
+      "start_time": 593,
+      "end_time": 656,
+      "topic": "NewsRecLib as a reproducible framework for comparing news recommender models"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
