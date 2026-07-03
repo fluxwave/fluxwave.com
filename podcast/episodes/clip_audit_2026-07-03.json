@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-03",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/TIFM6977449089mp3/01_Finance_geopolitical_transitions_and_AI_as_the_lik.mp3",
+      "source": "The Secret Sauce Behind 250 Years of American Success (McKinsey\u2019s Rebecca Anderson) | #638",
+      "start_time": 649,
+      "end_time": 760,
+      "topic": "Finance, geopolitical transitions, and AI as the likely next U.S. growth chapter"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/7e2073ef-12eb-4814-a531-0cb8642e703emp3/01_Different_rhetorical_lines_for_elected_candidates.mp3",
+      "source": "America at 250: Socialism, Economic Reality, and the Truth About AI and Power",
+      "start_time": 596,
+      "end_time": 659,
+      "topic": "Different rhetorical lines for elected candidates versus the activist organization"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "a16z Goes Global: Why American Tech Must Lead the World",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/01_Richard_Thaler_defines_sludge_as_the_opposite_of_n.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/00_Intentional_sludge_in_subscription_cancellation_an.mp3",
+      "gap_seconds": 133.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
