@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-04",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/ALLIN-E279_Chmp3/01_Model-layer_monopoly_dynamics_and_the_strategic_im.mp3",
+      "source": "AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie",
+      "start_time": 441,
+      "end_time": 520,
+      "topic": "Model-layer monopoly dynamics and the strategic importance of open models"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Lenovos_AI_infrastructure_strategy_from_consumer_d.mp3",
+      "source": "Venture Capital During the AI Revolution with Mamoon Hamid",
+      "start_time": 325,
+      "end_time": 454,
+      "topic": "Lenovo's AI infrastructure strategy from consumer devices to hyperscale cloud"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Lenovos_pocket-to-cloud_AI_infrastructure_strategy.mp3",
+      "source": "How a Major Grocery Store Chain Can Dramatically Lower the Cost of Food",
+      "start_time": 325,
+      "end_time": 454,
+      "topic": "Lenovo's pocket-to-cloud AI infrastructure strategy"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

@@ -1,0 +1,60 @@
+[OPEN]
+[A] Today on The Daily Rundown: AI sovereignty, the enterprise backlash against frontier labs, and why more inference may move onto the device in your hand.
+
+[B] We have clips from All-In, Masters in Business, and Odd Lots, all circling the same question: who controls the model, the data, and the compute when AI becomes infrastructure?
+
+[INTRO_1]
+[A] First up, All-In with Chamath, Jason, Sacks & Friedberg, from their July 3 episode on AI sovereignty wars and the Palantir-Nvidia deal.
+
+[B] The clip is about Anthropic moving up the stack into vertical AI apps, and why enterprises may see that as a direct threat, not just a product expansion.
+
+[A] Listen for the safety reframe here: for companies, “AI safety” may mean keeping proprietary data, model weights, and compute away from frontier labs that could become competitors.
+
+[B] That matters right now because the AI bottleneck is not just performance per dollar anymore. It is trust, control, and who gets to learn from everyone else’s workflow.
+
+[CLIP_1]
+(clip plays here)
+
+[REACT_1]
+[A] That is the part of AI sovereignty people sometimes miss. It is not only countries wanting their own models. It is every serious company asking, “why would I train my future competitor?”
+
+[B] And it connects directly to today’s espionage and security backdrop. The data layer is now strategic territory.
+
+[INTRO_2]
+[B] Next, Masters in Business, with Mamoon Hamid talking venture capital during the AI revolution.
+
+[A] This clip gets into on-device AI: compressed LLMs, local compute, and routing requests between a device and the cloud.
+
+[B] The concrete idea is token budgeting. If every AI action means paying for cloud inference, latency, and data exposure, the economics start pushing more work onto laptops, phones, and edge devices.
+
+[A] That is very much in the “performance per dollar is getting faster and cheaper” lane. Better small models change what gets built locally.
+
+[CLIP_2]
+(clip plays here)
+
+[REACT_2]
+[B] This is where the AI PC pitch stops sounding like marketing and starts sounding like architecture.
+
+[A] Yeah. The interesting bit is not “local versus cloud.” It is the router deciding what belongs where.
+
+[INTRO_3]
+[A] Last clip is from Odd Lots, in an episode nominally about how a major grocery chain can lower food costs.
+
+[B] The AI angle here is on-device inference, compressed LLMs, and agentic orchestration, which is a pretty different frame from pure chatbot usage.
+
+[A] The excerpt overlaps with the same token-budgeting question: when should an AI system spend cloud compute, and when should it run locally for cost, privacy, or speed?
+
+[B] For listeners tracking “the bottleneck might be the air in the room,” this is the other side of the constraint story. Power, cooling, bandwidth, and inference cost all shape where intelligence actually runs.
+
+[CLIP_3]
+(clip plays here)
+
+[REACT_3]
+[A] I like this because it makes AI feel less like one giant model in the sky and more like a messy distributed system.
+
+[B] Which is probably the honest version. The winners may be the people who route intelligently, not just the people with the biggest model.
+
+[CLOSE]
+[A] That is The Daily Rundown for today: control, compute, and the quiet shift toward local AI.
+
+[B] Back tomorrow with more clips worth hearing.

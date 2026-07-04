@@ -1,0 +1,82 @@
+Daily Digest — 2026-07-04
+
+Chapters
+- 1:10 — AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie
+- 4:22 — Venture Capital During the AI Revolution with Mamoon Hamid
+- 6:47 — How a Major Grocery Store Chain Can Dramatically Lower the Cost of Food
+
+Sources
+- AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie
+  Podcast: All-In with Chamath, Jason, Sacks & Friedberg
+  Link: https://allinchamathjason.libsyn.com/ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie
+  Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300
+- Venture Capital During the AI Revolution with Mamoon Hamid
+  Podcast: Masters in Business
+  Link: https://omny.fm/shows/masters-in-business/venture-capital-during-the-ai-revolution-with-mamoon-hamid
+  Audio: https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/9b9bd516-49a3-47f7-8ae9-b47b0113c7a7/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d
+- How a Major Grocery Store Chain Can Dramatically Lower the Cost of Food
+  Podcast: Odd Lots
+  Link: https://omny.fm/shows/odd-lots/how-a-major-grocery-store-chain-can-dramatically-lower-the-cost-of-food
+  Audio: https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8e5cf07d-8bf4-43a2-9703-b47b014a5166/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+
+Host Script
+[OPEN]
+[A] Today on The Daily Rundown: AI sovereignty, the enterprise backlash against frontier labs, and why more inference may move onto the device in your hand.
+
+[B] We have clips from All-In, Masters in Business, and Odd Lots, all circling the same question: who controls the model, the data, and the compute when AI becomes infrastructure?
+
+[INTRO_1]
+[A] First up, All-In with Chamath, Jason, Sacks & Friedberg, from their July 3 episode on AI sovereignty wars and the Palantir-Nvidia deal.
+
+[B] The clip is about Anthropic moving up the stack into vertical AI apps, and why enterprises may see that as a direct threat, not just a product expansion.
+
+[A] Listen for the safety reframe here: for companies, “AI safety” may mean keeping proprietary data, model weights, and compute away from frontier labs that could become competitors.
+
+[B] That matters right now because the AI bottleneck is not just performance per dollar anymore. It is trust, control, and who gets to learn from everyone else’s workflow.
+
+[CLIP_1]
+(clip plays here)
+
+[REACT_1]
+[A] That is the part of AI sovereignty people sometimes miss. It is not only countries wanting their own models. It is every serious company asking, “why would I train my future competitor?”
+
+[B] And it connects directly to today’s espionage and security backdrop. The data layer is now strategic territory.
+
+[INTRO_2]
+[B] Next, Masters in Business, with Mamoon Hamid talking venture capital during the AI revolution.
+
+[A] This clip gets into on-device AI: compressed LLMs, local compute, and routing requests between a device and the cloud.
+
+[B] The concrete idea is token budgeting. If every AI action means paying for cloud inference, latency, and data exposure, the economics start pushing more work onto laptops, phones, and edge devices.
+
+[A] That is very much in the “performance per dollar is getting faster and cheaper” lane. Better small models change what gets built locally.
+
+[CLIP_2]
+(clip plays here)
+
+[REACT_2]
+[B] This is where the AI PC pitch stops sounding like marketing and starts sounding like architecture.
+
+[A] Yeah. The interesting bit is not “local versus cloud.” It is the router deciding what belongs where.
+
+[INTRO_3]
+[A] Last clip is from Odd Lots, in an episode nominally about how a major grocery chain can lower food costs.
+
+[B] The AI angle here is on-device inference, compressed LLMs, and agentic orchestration, which is a pretty different frame from pure chatbot usage.
+
+[A] The excerpt overlaps with the same token-budgeting question: when should an AI system spend cloud compute, and when should it run locally for cost, privacy, or speed?
+
+[B] For listeners tracking “the bottleneck might be the air in the room,” this is the other side of the constraint story. Power, cooling, bandwidth, and inference cost all shape where intelligence actually runs.
+
+[CLIP_3]
+(clip plays here)
+
+[REACT_3]
+[A] I like this because it makes AI feel less like one giant model in the sky and more like a messy distributed system.
+
+[B] Which is probably the honest version. The winners may be the people who route intelligently, not just the people with the biggest model.
+
+[CLOSE]
+[A] That is The Daily Rundown for today: control, compute, and the quiet shift toward local AI.
+
+[B] Back tomorrow with more clips worth hearing.
