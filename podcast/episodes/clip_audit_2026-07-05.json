@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-05",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO2803240124mp3/01_Fab_Five_AI_companies_consuming_semiconductor_valu.mp3",
+      "source": "Labor Market Cracks, Wild Fed Credibility Data and Semis Running Out of Pie | Last Call",
+      "start_time": 780,
+      "end_time": 1020,
+      "topic": "Fab Five AI companies consuming semiconductor value"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/RSL9320624366mp3/01_Avoiding_unnecessary_friction_in_hard_processes.mp3",
+      "source": "Are Fitness Trackers Worth It? - Eric Helms & Steve Hall",
+      "start_time": 616,
+      "end_time": 684,
+      "topic": "Avoiding unnecessary friction in hard processes"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
