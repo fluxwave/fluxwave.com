@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-06",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Token_spending_AI_budgets_and_on-device_inference.mp3",
+      "source": "These Are the Sharps Actually Making Money on Prediction Markets",
+      "start_time": 394,
+      "end_time": 518,
+      "topic": "Token spending, AI budgets, and on-device inference economics"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO8811232750mp3/01_Americas_culture_of_ownership_entrepreneurship_and.mp3",
+      "source": "We Asked Meb Faber Why US Stocks Won for 250 Years \u2014 And If It Can Continue",
+      "start_time": 448,
+      "end_time": 571,
+      "topic": "America's culture of ownership, entrepreneurship, and equity investing"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "Ep 3. THE ENTREPRENEUR: ROBERT MORRIS",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/BVDWV7494753930mp3/01_Robert_Morris_commerce_credit_and_trust_as_early_A.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/BVDWV7494753930mp3/00_The_Revolutions_financing_crisis_and_the_collapse.mp3",
+      "gap_seconds": 219.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
