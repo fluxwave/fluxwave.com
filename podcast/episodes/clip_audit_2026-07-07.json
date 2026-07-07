@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-07",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/CLS7913917793mp3/01_The_billion-dollar_PDF_and_how_narratives_form_cap.mp3",
+      "source": "Jeremy Giffon - The Billion Dollar PDF - [Invest Like the Best, EP.481]",
+      "start_time": 447,
+      "end_time": 528,
+      "topic": "The billion-dollar PDF and how narratives form capital markets"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/1946c575-482b-409e-84f0-8815bd996d42mp3/01_Debt-financed_AI_infrastructure_market_concentrati.mp3",
+      "source": "China Is Running The Same Play That Wiped Out The First Wave Of Internet Investors",
+      "start_time": 635,
+      "end_time": 774,
+      "topic": "Debt-financed AI infrastructure, market concentration, and the $600B revenue gap"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "Is Software Losing Its Head?",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/01_Richard_Thaler_defines_sludge_as_the_opposite_of_n.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/00_Healthcare_sludge_reimbursement_friction_records_a.mp3",
+      "gap_seconds": 253.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
