@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-08",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO1085977372mp3/01_Central_banks_original_role_as_an_inflation_brake.mp3",
+      "source": "The $600 Billion Loop | Jeff Klingelhofer on AI, the Return of Bonds and the Fed's Third Mandate",
+      "start_time": 458,
+      "end_time": 520,
+      "topic": "Central banks\u2019 original role as an inflation brake"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/484_MS_Paul_Bloom_paywallmp3/01_Voice-mode_AI_life_advice_and_relationships_with_a.mp3",
+      "source": "#484 \u2014 Artificial Intimacy",
+      "start_time": 502,
+      "end_time": 570,
+      "topic": "Voice-mode AI, life advice, and relationships with artificial beings"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO2696800456mp3/01_Economic_exposure_versus_individual_stock_concentr.mp3",
+      "source": "We Asked a $1 Billion Quant Manager Why Concentration Isn't a Warning \u2014 and Small Caps Aren't Dead",
+      "start_time": 395,
+      "end_time": 500,
+      "topic": "Economic exposure versus individual stock concentration in the S&P 500"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
