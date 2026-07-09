@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-09",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_On-device_inference_as_a_way_to_control_token_cost.mp3",
+      "source": "One of the World's Largest Hedge Funds on Its 86x Growth in Token Spending",
+      "start_time": 430,
+      "end_time": 555,
+      "topic": "On-device inference as a way to control token costs"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/01365b2cmp3/01_The_Matthew_effect_in_creator_economics_and_why_wi.mp3",
+      "source": "YouTube economics now, with Justin Kuiper",
+      "start_time": 460,
+      "end_time": 520,
+      "topic": "The Matthew effect in creator economics and why winners hire their peers"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/TSK2569864157mp3/01_Bitcoin_as_a_censorship-resistant_response_to_fina.mp3",
+      "source": "ENCORE: Bitcoin is Changing the Fight for Freedom",
+      "start_time": 700,
+      "end_time": 780,
+      "topic": "Bitcoin as a censorship-resistant response to financial surveillance"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
