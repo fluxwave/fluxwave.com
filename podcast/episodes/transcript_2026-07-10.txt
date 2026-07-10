@@ -1,0 +1,65 @@
+Daily Digest — 2026-07-10
+
+Chapters
+- 1:06 — Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs
+- 4:03 — The Korean Levered ETFs Shaking Markets All Around the World
+- 6:16 — How Bitcoin Rewired a Classic Computer Science Problem
+
+Sources
+- Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs
+  Podcast: All-In with Chamath, Jason, Sacks & Friedberg
+  Link: https://allinchamathjason.libsyn.com/open-source-wins-agi-is-here-and-scorseses-ai-toolkit-with-ceos-of-cerebras-black-forest-labs
+  Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/PARIS_Versailles_Ch4.mp3?dest-id=1928300
+- The Korean Levered ETFs Shaking Markets All Around the World
+  Podcast: Odd Lots
+  Link: https://omny.fm/shows/odd-lots/the-korean-levered-etfs-shaking-markets-all-around-the-world
+  Audio: https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/59c7d65a-dfbb-447c-8ed4-b482014569c9/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+- How Bitcoin Rewired a Classic Computer Science Problem
+  Podcast: a16z Podcast
+  Link: https://a16z.simplecast.com/episodes/how-bitcoin-rewired-a-classic-computer-science-problem-0_lm073b
+  Audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/137beb9b-798a-40a2-a14f-cb3043ce5521/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=137beb9b-798a-40a2-a14f-cb3043ce5521&feed=JGE3yC0V
+
+Host Script
+[OPEN]
+[A] Today on The Daily Rundown: agents getting weirdly practical, AI moving closer to your laptop, and the national-security frame around compute.
+[B] Plus the backdrop: GPT-5.6 chatter, ChatGPT Work, Mitchell Hashimoto on Ghostty and Zig, and a reminder that maintainable code still wins.
+
+[INTRO_1]
+[A] First up is All-In, from the episode "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit."
+[B] You're about to hear the hosts talking through reasoning agents, BitTensor capacity, and experiments with Z.ai's GLM 5.2 model.
+[A] The concrete idea is autonomous trend discovery: agents that do more than answer prompts, poking around networks and surfacing patterns before a human asks.
+[B] That matters today because GPT-5.6 and the agent stack are turning model quality into a systems question: model, compute market, orchestration, all of it.
+
+[CLIP_1]
+
+[REACT_1]
+[A] This is the messy edge of the market right now: not clean product demos, but power users wiring agents into weird compute and model sources.
+[B] Which is usually where the useful stuff shows up first.
+
+[INTRO_2]
+[A] Next is Odd Lots, in an episode about Korean levered ETFs shaking global markets.
+[B] The clip itself pivots into AI infrastructure: on-device inference, compressed LLMs, and how agents might budget token generation.
+[A] Listen for the shift from "bigger cloud model" to "more work happening locally," especially for privacy, security, and cost control.
+[B] That's directly connected to ChatGPT Work and enterprise AI: companies want the productivity, but they do not want every sensitive workflow leaving the device.
+
+[CLIP_2]
+
+[REACT_2]
+[A] The underrated point there is budgeting. Tokens are becoming an operating expense, not magic dust.
+[B] And once finance departments notice, local inference gets a lot more attractive.
+
+[INTRO_3]
+[A] Last clip is from the a16z Podcast, from "How Bitcoin Rewired a Classic Computer Science Problem."
+[B] You're about to hear a discussion of AI adoption through the lens of national power, diplomacy, and deterrence.
+[A] The key idea is that technology has moved from being a tool countries use to becoming the arena where countries compete.
+[B] That lands differently in a GPT-5.6 week: frontier models are not just products anymore, they're strategic infrastructure.
+
+[CLIP_3]
+
+[REACT_3]
+[A] That's the frame that makes the rest of today's AI news feel less like app updates and more like industrial policy.
+[B] Exactly. Model releases, chips, open source, workplace AI — same board, different pieces.
+
+[CLOSE]
+[A] That's The Daily Rundown for today.
+[B] Back tomorrow with the clips that actually move the story.

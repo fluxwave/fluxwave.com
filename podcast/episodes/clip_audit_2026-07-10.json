@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-10",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/PARIS_Versailles_Ch4mp3/01_AI_moving_from_brittle_prompting_toward_intent_und.mp3",
+      "source": "Open Source Wins, AGI Is Here, and Scorsese's AI Toolkit with CEOs of Cerebras & Black Forest Labs",
+      "start_time": 435,
+      "end_time": 509,
+      "topic": "AI moving from brittle prompting toward intent understanding"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Lenovos_pocket-to-cloud_AI_infrastructure_strategy.mp3",
+      "source": "The Korean Levered ETFs Shaking Markets All Around the World",
+      "start_time": 325,
+      "end_time": 454,
+      "topic": "Lenovo's pocket-to-cloud AI infrastructure strategy"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/01_AI_models_as_value-laden_infrastructure_and_the_ri.mp3",
+      "source": "How Bitcoin Rewired a Classic Computer Science Problem",
+      "start_time": 409,
+      "end_time": 537,
+      "topic": "AI models as value-laden infrastructure and the risk of cyberspace colonization"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
