@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-11",
+  "selected_clips": 5,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/ee8d34db-4935-462b-a17d-0c5ad7284170mp3/01_Agricultures_tech_stack_GNSS_precision_planting_an.mp3",
+      "source": "Pioneers of AI: John Deere's AI vision for future farms",
+      "start_time": 560,
+      "end_time": 681,
+      "topic": "Agriculture's tech stack: GNSS, precision planting, and avoiding duplicated field work"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "More Trillion Dollar IPOs, Anthropic $3T, Zuck's Price War, China Ends Open Source?, Trump Accounts",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/ALLIN-E280_Chmp3/00_Enterprise_AI_token_spend_is_doubling_while_produc.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/ALLIN-E280_Chmp3/01_Anthropic_and_OpenAI_revenue_trajectories_and_IPO.mp3",
+      "gap_seconds": 185.0,
+      "overlap": false,
+      "near_duplicate": false
+    },
+    {
+      "source": "Is AI The Next Stage Of Human Evolution? - Robert Wright - #1122",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/SIXMSB4124462792mp3/00_AI_training_as_an_evolutionary_process_that_revers.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/SIXMSB4124462792mp3/01_Data_as_the_fuel_for_replicating_human_cognitive_w.mp3",
+      "gap_seconds": 135.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
