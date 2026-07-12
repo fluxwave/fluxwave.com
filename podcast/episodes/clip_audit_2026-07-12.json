@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-12",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/https3A2F2Fd3ctxlq1ktw2nlcloudfrontnet2Fstaging2F2026-6-112F/01_Unemployment_part-time_work_labor_force_and_full-t.mp3",
+      "source": "Jim Paulsen Sees a Correction Coming | The 33 Charts That Turned Him Cautious",
+      "start_time": 399,
+      "end_time": 525,
+      "topic": "Unemployment, part-time work, labor force, and full-time jobs flashing recession signals"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/01_AI_models_as_value-laden_infrastructure_and_the_ri.mp3",
+      "source": "Seven allegedly fake Chanel bags vs The RealReal",
+      "start_time": 409,
+      "end_time": 537,
+      "topic": "AI models as value-laden infrastructure and the risk of cyberspace colonization"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/GLT1223587358mp3/01_Modernizing_incentive_programs_to_match_global_pro.mp3",
+      "source": "Is California's $750 Million Bet on Hollywood Working?",
+      "start_time": 452,
+      "end_time": 573,
+      "topic": "Modernizing incentive programs to match global production competition"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
