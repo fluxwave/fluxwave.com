@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-14",
+  "selected_clips": 2,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/f9d08bc5-3e5d-476a-ba2f-a046bb0f6fcbmp3/01_AI_Discovery_Week_and_productionized_internal_AI_t.mp3",
+      "source": "The quiet reinvention of a $42b business, with Canva\u2019s Cameron Adams",
+      "start_time": 454,
+      "end_time": 591,
+      "topic": "AI Discovery Week and productionized internal AI tools"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/defaultmp3/01_AI_models_as_value-laden_infrastructure_and_the_ri.mp3",
+      "source": "Is AI a Bubble? | Gavin Baker on Data Centers, GPUs, and the AI Economy",
+      "start_time": 409,
+      "end_time": 537,
+      "topic": "AI models as value-laden infrastructure and the risk of cyberspace colonization"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
