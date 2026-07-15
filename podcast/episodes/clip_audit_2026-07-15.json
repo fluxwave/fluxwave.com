@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-15",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Agentic_AI_orchestrating_multiple_models_and_subag.mp3",
+      "source": "At The Money: \u00a0When Should\u00a0Do-It-Yourself Investors Fire Themselves?",
+      "start_time": 456,
+      "end_time": 579,
+      "topic": "Agentic AI orchestrating multiple models and subagents across local and cloud compute"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/6c49c67d87c271fbaa94ae6257d6dac9mp3/01_Software_factories_and_context_engineering.mp3",
+      "source": "Context engineering with Dex Horthy",
+      "start_time": 306,
+      "end_time": 400,
+      "topic": "Software factories and context engineering"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "NY Governor Kathy Hochul on Her One Year Data Center Moratorium",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/00_Lenovos_AI_play_and_token_budgeting.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audiomp3/01_Measuring_return_on_investment_for_AI_projects.mp3",
+      "gap_seconds": 401.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
