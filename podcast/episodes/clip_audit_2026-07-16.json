@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-16",
+  "selected_clips": 5,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/Paris_2_Ch_bce707fc23be/01_How_Steve_Jobs_quietly_built_Apples_in-house_silic.mp3",
+      "source": "Former Intel CEO on What Went Wrong, What's Next + Lovable CEO on the Real Promise of Vibe Coding",
+      "start_time": 310,
+      "end_time": 437,
+      "topic": "How Steve Jobs quietly built Apple\u2019s in-house silicon capabilities"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "What LLMs can and can't do for writers, with Clara Collier of Asterisk Magazine",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/3dd4f96b_60c1bed0c373/00_The_role_of_LLMs_in_the_writing_process.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/3dd4f96b_60c1bed0c373/01_Simulating_specific_audiences_with_LLMs.mp3",
+      "gap_seconds": 290.0,
+      "overlap": false,
+      "near_duplicate": false
+    },
+    {
+      "source": "Jack Schwager on Timeless Lessons from Elite Traders",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO1606499631_b33fc63dd4d7/00_Requirements_for_considering_traders_for_the_book.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/APO1606499631_b33fc63dd4d7/01_Vetting_and_verifying_trader_returns.mp3",
+      "gap_seconds": 486.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
