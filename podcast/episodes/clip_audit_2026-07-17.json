@@ -1,0 +1,30 @@
+{
+  "date": "2026-07-17",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/audio_86fdb366d75a/01_Economic_consequences_of_replacing_stable_independ.mp3",
+      "source": "Lev Menand and Nathan Tankus on Why Fed Independence Is Now Hanging by a Thread",
+      "start_time": 574,
+      "end_time": 694,
+      "topic": "Economic consequences of replacing stable independent commissions with rapid policy turnover"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/TIFM3875732261_0e6dce522a5e/01_Wirecard_case_study_and_fraud_detection.mp3",
+      "source": "Muddy Waters\u2019 Carson Block on How AI Could Unwind the S&P 500 | #640",
+      "start_time": 560,
+      "end_time": 740,
+      "topic": "Wirecard case study and fraud detection"
+    }
+  ],
+  "same_source_spacing_findings": [
+    {
+      "source": "Amjad Masad on Going Direct, Building Replit, and the Future of Software",
+      "clip_a": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/default_1c4a745a1124/00_Authenticity_and_transparency_in_communication.mp3",
+      "clip_b": "/Users/smith/.openclaw/workspace/projects/audio-digest/clips/default_1c4a745a1124/01_Communication_challenges_and_opportunities_for_AI.mp3",
+      "gap_seconds": 180.0,
+      "overlap": false,
+      "near_duplicate": false
+    }
+  ]
+}
