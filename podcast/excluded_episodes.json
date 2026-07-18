@@ -1,0 +1,10 @@
+{
+  "dates": [
+    "2026-07-15",
+    "2026-07-16"
+  ],
+  "reasons": {
+    "2026-07-15": "Quarantined after listener report: Hartford and Okta advertisements plus source identity mismatch.",
+    "2026-07-16": "Quarantined after integrity review: chapter timestamps exceed the assembled audio duration."
+  }
+}
