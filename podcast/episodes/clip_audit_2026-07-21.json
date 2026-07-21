@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-21",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-21_20260721T202031Z_47275/clip_sources/bc41a4ce58c5f439/01_Forward-deployed_engineers_as_evidence_of_AI_imple.mp3",
+      "source": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
+      "start_time": 513,
+      "end_time": 640,
+      "topic": "Forward-deployed engineers as evidence of AI implementation complexity"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-21_20260721T202031Z_47275/clip_sources/254875057af3c885/01_Probability-weighted_scenarios_for_AI-driven_natur.mp3",
+      "source": "Matthew Smith \u2014 Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483]",
+      "start_time": 495,
+      "end_time": 624,
+      "topic": "Probability-weighted scenarios for AI-driven natural-gas consumption"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-21_20260721T202031Z_47275/clip_sources/ab6029a0b6cbd079/01_Small_teams_candid_information_flow_and_meetings_d.mp3",
+      "source": "Truth Over Feelings: Inside Opendoor\u2019s Massive Turnaround",
+      "start_time": 628,
+      "end_time": 754,
+      "topic": "Small teams, candid information flow, and meetings designed for disagreement"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
