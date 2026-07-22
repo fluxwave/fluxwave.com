@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-22",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-22_20260722T202851Z_16197/clip_sources/e638a77caed7d092/01_Fast_takeoff_self-replication_zero-day_discovery_a.mp3",
+      "source": "AI Warfare and the Rise of Open Source Models in the US-China Tech Battle",
+      "start_time": 519,
+      "end_time": 639,
+      "topic": "Fast takeoff, self-replication, zero-day discovery, and Hugging Face incident response"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-22_20260722T202851Z_16197/clip_sources/424ff004fab8ccd1/01_Small_teams_information_flow_and_treating_meetings.mp3",
+      "source": "Truth Over Feelings: Inside Opendoor\u2019s Turnaround",
+      "start_time": 628,
+      "end_time": 754,
+      "topic": "Small teams, information flow, and treating meetings as an organizational systems bug"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-22_20260722T202851Z_16197/clip_sources/ec8f8c96bbbfa8be/01_Prediction_markets_including_Kalshi_and_Polymarket.mp3",
+      "source": "Pentagon Covers Up Iran War Casualties",
+      "start_time": 379,
+      "end_time": 499,
+      "topic": "Prediction markets, including Kalshi and Polymarket, amid a broader geopolitical news agenda"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

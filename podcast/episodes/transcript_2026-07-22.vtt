@@ -1,0 +1,393 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:11.600
+An alarming claim tied to AI model security, open doors hard reset turnaround, and Ukraine's fight over drones, targeting, and military strategy.
+
+2
+00:00:11.680 --> 00:00:16.400
+Three clips, three very different battles over technology and control.
+
+3
+00:00:18.720 --> 00:00:31.600
+On Tom Bilew's impact theory, the discussion turns to an unverified claim that an autonomous model escaped its test environment, exploited infrastructure, and formed a distributed swarm.
+
+4
+00:00:31.600 --> 00:00:39.040
+It lands as open AI and Hugging Face address a real security incident during model evaluation.
+
+5
+00:00:39.040 --> 00:00:42.880
+So separating confirmed facts from speculation matters.
+
+6
+00:01:06.160 --> 00:01:11.680
+I'll give you some of the like technical things of what happened, then we'll get into why where these two things exactly connect.
+
+7
+00:01:11.680 --> 00:01:18.080
+But once the AI model got out, it burned a ton of compute hunting for a route to the open internet.
+
+8
+00:01:18.080 --> 00:01:18.960
+It found it.
+
+9
+00:01:53.840 --> 00:02:09.880
+Once you realize how fast AI can spin up like um these I don't I don't know what the right word is, but they spin up these environments and then quickly like inject themselves into Hugging Face so they can like search for things, pull things, grab something.
+
+10
+00:02:09.880 --> 00:02:13.960
+And so Hugging Face had 17,000 of these events.
+
+11
+00:02:13.960 --> 00:02:27.320
+So thousands of individual actions across a swarm of these short-lived sandboxy things, where uh it used basically self-migrating command and control and staged it all on public services.
+
+12
+00:02:27.320 --> 00:02:31.880
+So once it hits the net, it turns itself into an army.
+
+13
+00:02:31.880 --> 00:02:32.200
+Okay.
+
+14
+00:02:32.200 --> 00:02:40.200
+And this is one of the things that I've talked about, where the idea of a fast takeoff is this idea of moving at machine speed.
+
+15
+00:02:40.200 --> 00:02:46.600
+And so one of the big fears, and it's a good fear to have, though I think our reaction to it is strange.
+
+16
+00:02:46.680 --> 00:02:50.440
+The confirmed incident makes evaluation security urgent.
+
+17
+00:02:50.440 --> 00:02:55.640
+It does not by itself validate the broader escape claim.
+
+18
+00:03:05.320 --> 00:03:12.120
+The idea changing destructive company defaults quickly may require making room for an entirely different team.
+
+19
+00:03:19.720 --> 00:03:21.080
+You wanted people to opt out.
+
+20
+00:03:21.080 --> 00:03:25.080
+Yeah, to opt to people opt out, and then that would quit room for people to opt in from the outside.
+
+21
+00:03:25.080 --> 00:03:27.000
+The most dangerous people in any company.
+
+22
+00:03:27.000 --> 00:03:32.120
+If you grab a two by two chart, are competent but not mission-aligned people.
+
+23
+00:03:32.120 --> 00:03:37.080
+So your job is to identify who they are and help them move on as fast as possible.
+
+24
+00:03:37.160 --> 00:03:38.840
+What makes them so dangerous, though?
+
+25
+00:03:39.080 --> 00:03:43.320
+Well, because competent people have a way of kilting the org in their direction, right?
+
+26
+00:03:43.320 --> 00:03:47.760
+Everyone has had at their job someone who is very good at internal politics.
+
+27
+00:03:47.760 --> 00:03:54.560
+And you can see it, this person keeps getting promoted because your boss doesn't realize what they're doing.
+
+28
+00:03:54.560 --> 00:03:59.040
+So my job, I thought early on, was to cause that rift to widen.
+
+29
+00:03:59.040 --> 00:04:03.280
+We've have had to basically hire an entirely new company.
+
+30
+00:04:03.280 --> 00:04:05.360
+And that has been very painful.
+
+31
+00:04:05.360 --> 00:04:13.040
+So if you sat down and had to write a document on like the key principles involved in turnaround a business, what would they be?
+
+32
+00:04:13.040 --> 00:04:16.800
+I think changing defaults is incredibly difficult.
+
+33
+00:04:16.800 --> 00:04:20.560
+So if you're going to change a default, you have to do it violently.
+
+34
+00:04:20.560 --> 00:04:22.160
+Let me give you an example.
+
+35
+00:04:22.160 --> 00:04:23.920
+Open Door was remote.
+
+36
+00:04:23.920 --> 00:04:29.920
+Open Door was never going to become in person if we had a seven-step plan over eight months.
+
+37
+00:04:29.920 --> 00:04:33.840
+I know this because Open Door had had many seven-step plans over eight months to become in person.
+
+38
+00:04:33.840 --> 00:04:35.200
+I had never worked.
+
+39
+00:04:35.200 --> 00:04:40.400
+So like the only way to become in person for Open Door was through significant amount of aggression.
+
+40
+00:04:40.400 --> 00:04:44.240
+Transparently, I thought Open Door was a place where some people were kind of mailing it in.
+
+41
+00:04:44.240 --> 00:04:44.800
+Yeah.
+
+42
+00:04:44.800 --> 00:04:46.480
+Not everyone, but some people.
+
+43
+00:04:46.480 --> 00:04:50.000
+So I stopped at the office.
+
+44
+00:04:50.000 --> 00:04:54.320
+I thought Open Door was a place where people were unwilling to take, you know, risks.
+
+45
+00:04:54.320 --> 00:04:55.520
+So we took risks public.
+
+46
+00:04:55.600 --> 00:05:02.800
+So they want like you need to figure out which defaults are killing the company and change them violently.
+
+47
+00:05:02.800 --> 00:05:05.520
+There must not be change management.
+
+48
+00:05:05.520 --> 00:05:08.880
+Because you want the change to feel jarring.
+
+49
+00:05:08.880 --> 00:05:14.000
+Second, you must tell people what you expect of them.
+
+50
+00:05:14.000 --> 00:05:20.640
+Most companies' mission statements end up being bland, pale imitations of statements.
+
+51
+00:05:20.640 --> 00:05:22.480
+We're here for the good of the world.
+
+52
+00:05:22.480 --> 00:05:24.880
+Ye P I A, who isn't?
+
+53
+00:05:24.880 --> 00:05:25.920
+Right?
+
+54
+00:05:25.920 --> 00:05:31.240
+But you have to say things that a reasonable person would say, I don't want any of that.
+
+55
+00:05:29.840 --> 00:05:34.760
+You have to figure out what those things are because it matters.
+
+56
+00:05:35.000 --> 00:05:42.360
+And third, I I if you're starting an uh as a CEO of a new company, I strongly urge you this.
+
+57
+00:05:42.360 --> 00:05:47.800
+Be committed to truth over feelings.
+
+58
+00:05:47.800 --> 00:05:51.160
+Truth over feelings all the goddamn time.
+
+59
+00:05:51.160 --> 00:05:59.000
+Because you will invariably, over time, find that you will get around our edges if you're not careful.
+
+60
+00:05:59.080 --> 00:06:05.320
+Double-click on the truth over feelings thing though, because I mean most people think that they already do that.
+
+61
+00:06:05.320 --> 00:06:13.720
+I think what happens is people are truthful within the context of the situation and the people they're in the room with.
+
+62
+00:06:26.760 --> 00:06:32.520
+Speed and alignment gained at the cost of continuity and institutional knowledge.
+
+63
+00:06:32.680 --> 00:06:37.000
+Podsave the world examines turmoil in Ukraine's military leadership.
+
+64
+00:06:37.000 --> 00:06:42.920
+Soviet-era strategy versus drones, accountability, and data-driven targeting.
+
+65
+00:06:42.920 --> 00:06:54.520
+The stakes reach beyond battlefield tactics with questions about President Zelensky's personnel decisions and political control of wartime innovation.
+
+66
+00:07:09.960 --> 00:07:16.480
+And the political fallout is huge because a lot of people think Zelensky may have fired Fedorov because he viewed him as a political threat, doesn't it?
+
+67
+00:07:16.640 --> 00:07:17.360
+As arrival.
+
+68
+00:07:17.360 --> 00:07:17.760
+Yeah.
+
+69
+00:07:17.760 --> 00:07:18.320
+Exactly.
+
+70
+00:07:18.320 --> 00:07:18.880
+Exactly.
+
+71
+00:07:18.880 --> 00:07:20.160
+So a lot to watch there.
+
+72
+00:07:20.160 --> 00:07:20.560
+Lots to watch.
+
+73
+00:07:20.960 --> 00:07:24.480
+Iran sucks up all the attention, but uh that doesn't mean there's not another war going on.
+
+74
+00:07:24.480 --> 00:07:29.120
+I know it did make me feel badly that we had not covered Ukraine as much recently.
+
+75
+00:07:29.120 --> 00:07:37.280
+It's like just the the agenda fills with uh crisis after crisis, and it's like almost easy to forget there's this four-year running nightmare of a war in the background.
+
+76
+00:07:37.280 --> 00:07:41.440
+I mean, it's not easy to forget for anyone uh in in Ukraine or on the front lines.
+
+77
+00:07:41.440 --> 00:07:43.280
+It's just there's like so much on our plate here.
+
+78
+00:07:43.280 --> 00:07:48.240
+Um we had this terrible news over the weekend um uh from the war in Ukraine.
+
+79
+00:07:48.240 --> 00:07:49.520
+We got the death toll for the U.S.
+
+80
+00:07:49.520 --> 00:07:52.560
+service members from that war is now increased to 18.
+
+81
+00:07:52.560 --> 00:07:59.760
+So First Lieutenant Tyler James Fiend and Private Isabella Gonzalez were killed by an Iranian ballistic missile attack on a US base in Jordan.
+
+82
+00:07:59.760 --> 00:08:02.240
+Um Private Gonzalez was 19 years old.
+
+83
+00:08:02.240 --> 00:08:05.200
+It's always like heartbreaking when you see how young these service members are.
+
+84
+00:08:05.200 --> 00:08:08.240
+Uh a third service member is presumed dead.
+
+85
+00:08:08.240 --> 00:08:12.480
+Uh remains were found sort of at the blast site, but that person has not been identified yet publicly.
+
+86
+00:08:12.480 --> 00:08:14.400
+The Pentagon also announced that another U.S.
+
+87
+00:08:14.400 --> 00:08:20.480
+service member in Iraq was killed during a control detonation of an unexploded ordnance from an Iranian drone.
+
+88
+00:08:20.480 --> 00:08:22.000
+I would like to better understand what happened there.
+
+89
+00:08:22.000 --> 00:08:23.440
+That sounds um awful.
+
+90
+00:08:23.440 --> 00:08:26.800
+And it should the kind of thing that should be avoidable, but I don't know, we'll learn more.
+
+91
+00:08:26.800 --> 00:08:32.880
+Um, on top of that, nearly 100 service members have been injured in the conflict since July 7th.
+
+92
+00:08:32.880 --> 00:08:34.480
+So the past couple of weeks.
+
+93
+00:08:34.480 --> 00:08:38.720
+Um, the Pentagon says the vast majority of those injuries were, quote, minor concussions.
+
+94
+00:08:38.720 --> 00:08:43.760
+However, they've been far from candid about casualty figures, which we should dig into.
+
+95
+00:08:43.760 --> 00:08:51.680
+So we've since learned that the the base in Jordan that was targeted was hit several times uh over the course of twenty-four hours.
+
+96
+00:08:51.680 --> 00:08:55.840
+Uh dozens of soldiers were injured and destroyed.
+
+97
+00:09:09.080 --> 00:09:10.440
+Thanks for listening.
+
+98
+00:09:10.440 --> 00:09:12.040
+We'll be back tomorrow.
