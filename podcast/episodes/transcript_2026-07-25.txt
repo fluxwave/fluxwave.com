@@ -1,0 +1,58 @@
+Daily Digest — 2026-07-25
+
+Chapters
+- 0:40 — All-In with Chamath, Jason, Sacks & Friedberg — Enterprise adoption of on-premises AI and a practical explanation of mod
+- 3:21 — Masters of Scale — Enterprise AI as a hill-climbing system built around proprietary objectives, evaluations, data, and r
+- 6:21 — Freakonomics Radio — Multi-agent disagreement and emergent subagents inside reasoning models
+
+Sources
+- The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?
+  Podcast: All-In with Chamath, Jason, Sacks & Friedberg
+  Link: https://allinchamathjason.libsyn.com/the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence
+  Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300
+- Possible: Satya Nadella on making human and token capital compound
+  Podcast: Masters of Scale
+  Audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/c9873675-e551-4f4b-a6b4-ae2086338972.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
+- 682. Should A.I. Move to Space?
+  Podcast: Freakonomics Radio
+  Link: https://freakonomics.com
+  Audio: https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&feed=Y8lFbOT4
+
+Host Script
+[OPEN]
+[A] Today: why companies want AI on their own servers, Satya Nadella’s playbook for enterprise AI, and what happens when reasoning models start spawning agents of their own.
+[B] Three clips, all about where AI goes after the model itself.
+
+[INTRO_1]
+[A] On All-In, the panel breaks down why enterprises are adopting on-premises AI—and how distillation can turn a larger model into something smaller, cheaper, and more controllable.
+[B] That tradeoff matters as Claude Opus 5 tops the intelligence leaderboards, while companies still need models they can actually afford and govern.
+
+[CLIP_1]
+(clip plays here)
+
+[REACT_1]
+[A] The smartest model isn’t automatically the best model for every workload.
+
+[INTRO_2]
+[B] On Masters of Scale, Microsoft CEO Satya Nadella describes enterprise AI as a hill-climbing system: proprietary goals, evaluations, data, and rewards that compound over time.
+[A] In other words, lasting advantage may come from how a company steers its models—not simply which frontier model it buys.
+
+[CLIP_2]
+(clip plays here)
+
+[REACT_2]
+[B] That makes evaluation infrastructure part of the product, not just a final quality check.
+
+[INTRO_3]
+[A] Freakonomics Radio looks beyond single-agent reasoning to multi-agent disagreement—and the subagents that can emerge inside reasoning models.
+[B] It’s timely when dramatic stories about rogue AI agents are making headlines: coordinated behavior needs careful evidence, not an irresistible narrative.
+
+[CLIP_3]
+(clip plays here)
+
+[REACT_3]
+[A] Disagreement can improve reasoning, but it also makes model behavior harder to interpret.
+
+[CLOSE]
+[B] That’s today’s Daily Rundown.
+[A] Thanks for listening—we’ll be back tomorrow.

@@ -9,6 +9,53 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — July 25, 2026</title>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-07-25.mp3" length="8413869" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-07-25.mp3</guid>
+      <itunes:duration>8:45</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-07-25.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-07-25.json" type="application/json+chapters"/>
+      <description>Daily Digest — July 25, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-07-25.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-07-25.txt
+
+Chapters:
+0:40 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Enterprise adoption of on-premis
+3:21 — Masters of Scale — Enterprise AI as a hill-climbing system built around propriet
+6:21 — Freakonomics Radio — Multi-agent disagreement and emergent subagents inside reas
+
+Sources:
+- The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence? (All-In with Chamath, Jason, Sacks &amp; Friedberg)
+  Link: https://allinchamathjason.libsyn.com/the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence
+  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300
+- Possible: Satya Nadella on making human and token capital compound (Masters of Scale)
+  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/c9873675-e551-4f4b-a6b4-ae2086338972.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
+- 682. Should A.I. Move to Space? (Freakonomics Radio)
+  Link: https://freakonomics.com
+  Source audio: https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&amp;awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&amp;feed=Y8lFbOT4</description>
+      <itunes:summary>Daily Digest — July 25, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-07-25.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-07-25.txt
+
+Chapters:
+0:40 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Enterprise adoption of on-premis
+3:21 — Masters of Scale — Enterprise AI as a hill-climbing system built around propriet
+6:21 — Freakonomics Radio — Multi-agent disagreement and emergent subagents inside reas
+
+Sources:
+- The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence? (All-In with Chamath, Jason, Sacks &amp; Friedberg)
+  Link: https://allinchamathjason.libsyn.com/the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence
+  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300
+- Possible: Satya Nadella on making human and token capital compound (Masters of Scale)
+  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/c9873675-e551-4f4b-a6b4-ae2086338972.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
+- 682. Should A.I. Move to Space? (Freakonomics Radio)
+  Link: https://freakonomics.com
+  Source audio: https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&amp;awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&amp;feed=Y8lFbOT4</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — July 22, 2026</title>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-07-22.mp3" length="8845485" type="audio/mpeg"/>
@@ -627,54 +674,6 @@ Sources:
 - #381 "Don't Open a Jiu Jitsu School Feat. Jared Weiner, Kyle Watson, Nick Sanders, Junior Silva, and Andrew Sabens (I Suck At Jiu Jitsu Show)
   Link: https://podcasters.spotify.com/pod/show/isuckatjiujitsushow/episodes/381-Dont-Open-a-Jiu-Jitsu-School-Feat--Jared-Weiner--Kyle-Watson--Nick-Sanders--Junior-Silva--and-Andrew-Sabens-e3lifvl
   Source audio: https://anchor.fm/s/113b3074/podcast/play/122289589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-2%2F427226018-44100-2-9360726d155c1.mp3</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — July 04, 2026</title>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-07-04.mp3" length="8335917" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-07-04.mp3</guid>
-      <itunes:duration>8:40</itunes:duration>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-07-04.json" type="application/json+chapters"/>
-      <description>Daily Digest — July 04, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-07-04.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-07-04.txt
-
-Chapters:
-1:10 — AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA
-4:22 — Venture Capital During the AI Revolution with Mamoon Hamid
-6:47 — How a Major Grocery Store Chain Can Dramatically Lower the Cost of Food
-
-Sources:
-- AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie (All-In with Chamath, Jason, Sacks &amp; Friedberg)
-  Link: https://allinchamathjason.libsyn.com/ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie
-  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300
-- Venture Capital During the AI Revolution with Mamoon Hamid (Masters in Business)
-  Link: https://omny.fm/shows/masters-in-business/venture-capital-during-the-ai-revolution-with-mamoon-hamid
-  Source audio: https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/9b9bd516-49a3-47f7-8ae9-b47b0113c7a7/audio.mp3?utm_source=Podcast&amp;in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d
-- How a Major Grocery Store Chain Can Dramatically Lower the Cost of Food (Odd Lots)
-  Link: https://omny.fm/shows/odd-lots/how-a-major-grocery-store-chain-can-dramatically-lower-the-cost-of-food
-  Source audio: https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8e5cf07d-8bf4-43a2-9703-b47b014a5166/audio.mp3?utm_source=Podcast&amp;in_playlist=982f5071-765c-403d-969d-ae27003a8d83</description>
-      <itunes:summary>Daily Digest — July 04, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-07-04.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-07-04.txt
-
-Chapters:
-1:10 — AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA
-4:22 — Venture Capital During the AI Revolution with Mamoon Hamid
-6:47 — How a Major Grocery Store Chain Can Dramatically Lower the Cost of Food
-
-Sources:
-- AI Sovereignty Wars, Palantir-Nvidia Deal, SCOTUS Birthright Ruling, Newsom's CA Budget Lie (All-In with Chamath, Jason, Sacks &amp; Friedberg)
-  Link: https://allinchamathjason.libsyn.com/ai-sovereignty-wars-palantir-nvidia-deal-scotus-birthright-ruling-newsoms-ca-budget-lie
-  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E279_Ch.mp3?dest-id=1928300
-- Venture Capital During the AI Revolution with Mamoon Hamid (Masters in Business)
-  Link: https://omny.fm/shows/masters-in-business/venture-capital-during-the-ai-revolution-with-mamoon-hamid
-  Source audio: https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/9b9bd516-49a3-47f7-8ae9-b47b0113c7a7/audio.mp3?utm_source=Podcast&amp;in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d
-- How a Major Grocery Store Chain Can Dramatically Lower the Cost of Food (Odd Lots)
-  Link: https://omny.fm/shows/odd-lots/how-a-major-grocery-store-chain-can-dramatically-lower-the-cost-of-food
-  Source audio: https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8e5cf07d-8bf4-43a2-9703-b47b014a5166/audio.mp3?utm_source=Podcast&amp;in_playlist=982f5071-765c-403d-969d-ae27003a8d83</itunes:summary>
     </item>
   </channel>
 </rss>

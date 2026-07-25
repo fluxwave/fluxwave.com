@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-25",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-25_20260725T203627Z_78912/clip_sources/3170606eec35526d/01_Rapid_commoditization_of_foundation_models_and_col.mp3",
+      "source": "The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence?",
+      "start_time": 569,
+      "end_time": 696,
+      "topic": "Rapid commoditization of foundation models and collapsing performance advantages"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-25_20260725T203627Z_78912/clip_sources/51a8530f637ab27d/01_Protecting_enterprise_tacit_knowledge_while_models.mp3",
+      "source": "Possible: Satya Nadella on making human and token capital compound",
+      "start_time": 390,
+      "end_time": 570,
+      "topic": "Protecting enterprise tacit knowledge while models and agents learn from internal work"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-25_20260725T203627Z_78912/clip_sources/f99ae129d8a429a1/01_Googles_interdisciplinary_research_into_social_and.mp3",
+      "source": "682. Should A.I. Move to Space?",
+      "start_time": 457,
+      "end_time": 579,
+      "topic": "Google's interdisciplinary research into social and collective intelligence"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

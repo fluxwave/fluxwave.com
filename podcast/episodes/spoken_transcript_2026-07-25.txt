@@ -1,0 +1,79 @@
+Why companies want AI on their own servers?
+Sati and Adela's playbook for enterprise AI, and what happens when reasoning models start spawning agents of their own?
+Three clips all about where AI goes after the model itself.
+On all in, the panel breaks down why enterprises are adopting on-premises AI and how distillation can turn a larger model into something smaller, cheaper, and more controllable.
+That trade-off matters as Claude Opus V tops the intelligence leaderboards.
+While companies still need models, they can actually afford and govern.
+So it seems it seems to me that this debate is all backwards, that the questions should be on anthropic to explain why it's doing such a bad job.
+All right.
+This is the moment, get control, AI sovereignty, et cetera.
+They must be calling you up and saying, hey, okay, we're ready.
+Like, how do we get these things on-prem?
+How do we do it?
+So what's the what's happening on those calls you're doing with the enterprise?
+And then can you maybe give people an idea of what distillation is just and and why it's so important here?
+Let's start with the second thing.
+Distillation is when you fire up a model and you ask it a question, and you observe it and you take its output and you use that in training of your own model.
+Now multiply that behavior by tens of millions.
+And what you exfiltrate is essentially trillions of questions and answers.
+And Sachs is right.
+If you really care about distillation, you implement KYC.
+You force people to make an account, not just with a username and a password, but with some form of identification, maybe with a bounded credit card.
+There's all kinds of steps that you can take that would frankly slow things down in terms of revenue traction, but would solve the distillation problem on its face.
+So that isn't really a thing.
+It's a bit of a red herring.
+The other thing on distillation is everybody has at some point distilled.
+The question is who is distilling from whom?
+And it looks like that funny meme where there's like nine Spider-Men all pointing at each other.
+That's the smartest model isn't automatically the best model for every workload.
+On masters of scale, Microsoft CEO Satya Nadella describes enterprise AI as a hill climbing system, proprietary goals, evaluations, data, and rewards that compound over time.
+So what is the new basic interpreter?
+No, and that's a great work.
+So in fact, it's that that I think is the core of the DNA of the company, right?
+Which is what can others build?
+And therefore, what should we build?
+Is sort of the two questions that we always ask ourselves.
+And in the AI era, to me, the answer is uh the basic interpreter is the hill climbing machine, right?
+Because you think of you now bringing all of this AI, what is it?
+It is basically taking an objective, an outcome, an eval that you have and learning how to achieve that by learning uh using data, using some reinforcement reward.
+And so the the entire conference was about not, hey, here is a new frontier model.
+It was about helping every developer, every company, whether it's a start AI native startup or an enterprise, building their own hill climbing machine so that they can operate at the frontier, right?
+So I think that that's it.
+They the idea, in fact, the you know, be getting very clear about the evals and the objectives that you care deeply about, knowing how to evaluate them, right?
+That it's in some sense is the most, and keeping that's the new IP.
+Yes.
+Because everything else is pretty mechanical.
+Uh, but knowing what is the set of data that you want to train a model on and how you reward it, is probably where the the next level of IP gets created.
+Well, and one of the things, let's dig into a couple different areas here, because you and I have had a number of conversations, you know, with Microsoft Strategy.
+And one of them is kind of this question about how enterprises keep the advantage and integrity of their own data.
+And Microsoft is the most natural company in the entire world to do this.
+So what say a little bit about how enterprises should be thinking about like we need our own frontier intel intelligence, but we also need to maintain control of our data.
+Yeah, see, that I think is the the question, right?
+Which is this economy is going to be shaped going forward by both human capital and let's call it this token capital, right?
+That is true for Microsoft, that is true for a new startup, that's going to be true for any bank that's been in existence for a hundred years, right?
+Uh doesn't matter.
+All of us will now need to sort of, in fact, the interplay between humanity that makes evaluation infrastructure part of the product, not just a final quality check.
+Free economics radio looks beyond single-agent reasoning to multi-agent disagreement and the subagents that can emerge inside reasoning models.
+It's timely when dramatic stories about rogue AI agents are making headlines.
+Coordinated behavior needs careful evidence, not an irresistible narrative.
+Examples of some of the more heady problems that we're looking at now are not just how individual intelligent agents work, but how multiple agents in interactions with each other lead to larger collective intelligences.
+And even how when you look at what we think of as single models, they look internally like societies of sub-agents.
+We think of this as the social intelligence hypothesis, meaning that intelligence is inherently social, whether you think about it at the scale of societies or even at the scale of brains.
+So an example of what you might do would be to create a set of five or six different AI agents who were taking on different roles or personalities.
+One is the skeptic, one is the optimist.
+Or what specifically are you talking about?
+Yes.
+So we can definitely, and we do do those sorts of experiments.
+So we take agents and we put them in societies or institutions or conversational structures with each other.
+And you can ask questions like if they all are set up to agree with each other versus set up to be misaligned with each other, to disagree with each other.
+Which of those kinds of setups leads to better problem solving of the collective?
+And it turns out there that it's better if you have them disagreeing with each other than if they're all preaching to the choir, as it were.
+But then you can also ask the same question of an individual model.
+And this is a little bit mind-bending.
+But if you look at the chain of thought, which is to say the inner monologue of an individual reasoning model, then one of the things you find in there is that there are actually voices or characters that have been developed that do exactly the same thing inside those models.
+It's like the model is talking to itself, arguing with itself, kind of like Gollum versus Smeagle at Lord of the Rings or something, but often with more characters.
+And you get that behavior just from training reasoning models to do a good job of reasoning.
+Disagreement can improve reasoning, but it also makes model behavior harder to interpret.
+That's today's Daily Rundown.
+Thanks for listening.
+We'll be back tomorrow.

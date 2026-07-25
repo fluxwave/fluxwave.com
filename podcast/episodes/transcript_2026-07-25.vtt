@@ -1,0 +1,317 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:02.960
+Why companies want AI on their own servers?
+
+2
+00:00:02.960 --> 00:00:10.560
+Sati and Adela's playbook for enterprise AI, and what happens when reasoning models start spawning agents of their own?
+
+3
+00:00:10.560 --> 00:00:15.120
+Three clips all about where AI goes after the model itself.
+
+4
+00:00:17.280 --> 00:00:29.440
+On all in, the panel breaks down why enterprises are adopting on-premises AI and how distillation can turn a larger model into something smaller, cheaper, and more controllable.
+
+5
+00:00:29.520 --> 00:00:34.240
+That trade-off matters as Claude Opus V tops the intelligence leaderboards.
+
+6
+00:00:34.240 --> 00:00:38.480
+While companies still need models, they can actually afford and govern.
+
+7
+00:00:40.720 --> 00:00:49.600
+So it seems it seems to me that this debate is all backwards, that the questions should be on anthropic to explain why it's doing such a bad job.
+
+8
+00:00:56.080 --> 00:00:56.400
+All right.
+
+9
+00:01:14.000 --> 00:01:17.280
+This is the moment, get control, AI sovereignty, et cetera.
+
+10
+00:01:17.280 --> 00:01:20.880
+They must be calling you up and saying, hey, okay, we're ready.
+
+11
+00:01:20.880 --> 00:01:22.480
+Like, how do we get these things on-prem?
+
+12
+00:01:22.480 --> 00:01:23.120
+How do we do it?
+
+13
+00:01:23.120 --> 00:01:27.120
+So what's the what's happening on those calls you're doing with the enterprise?
+
+14
+00:01:27.120 --> 00:01:34.480
+And then can you maybe give people an idea of what distillation is just and and why it's so important here?
+
+15
+00:01:34.560 --> 00:01:36.480
+Let's start with the second thing.
+
+16
+00:01:36.480 --> 00:01:50.880
+Distillation is when you fire up a model and you ask it a question, and you observe it and you take its output and you use that in training of your own model.
+
+17
+00:01:50.880 --> 00:01:56.080
+Now multiply that behavior by tens of millions.
+
+18
+00:01:56.080 --> 00:02:02.200
+And what you exfiltrate is essentially trillions of questions and answers.
+
+19
+00:02:02.200 --> 00:02:04.040
+And Sachs is right.
+
+20
+00:02:04.040 --> 00:02:11.000
+If you really care about distillation, you implement KYC.
+
+21
+00:02:11.000 --> 00:02:22.040
+You force people to make an account, not just with a username and a password, but with some form of identification, maybe with a bounded credit card.
+
+22
+00:02:22.040 --> 00:02:33.080
+There's all kinds of steps that you can take that would frankly slow things down in terms of revenue traction, but would solve the distillation problem on its face.
+
+23
+00:02:33.080 --> 00:02:35.240
+So that isn't really a thing.
+
+24
+00:02:35.240 --> 00:02:37.000
+It's a bit of a red herring.
+
+25
+00:02:37.000 --> 00:02:42.280
+The other thing on distillation is everybody has at some point distilled.
+
+26
+00:02:42.280 --> 00:02:44.760
+The question is who is distilling from whom?
+
+27
+00:02:44.760 --> 00:02:50.120
+And it looks like that funny meme where there's like nine Spider-Men all pointing at each other.
+
+28
+00:02:50.120 --> 00:02:57.800
+That's the smartest model isn't automatically the best model for every workload.
+
+29
+00:02:57.880 --> 00:03:10.920
+On masters of scale, Microsoft CEO Satya Nadella describes enterprise AI as a hill climbing system, proprietary goals, evaluations, data, and rewards that compound over time.
+
+30
+00:03:24.760 --> 00:03:27.720
+So what is the new basic interpreter?
+
+31
+00:03:27.720 --> 00:03:30.280
+No, and that's a great work.
+
+32
+00:03:30.280 --> 00:03:36.360
+So in fact, it's that that I think is the core of the DNA of the company, right?
+
+33
+00:03:36.360 --> 00:03:38.360
+Which is what can others build?
+
+34
+00:03:38.360 --> 00:03:40.200
+And therefore, what should we build?
+
+35
+00:03:40.200 --> 00:03:43.480
+Is sort of the two questions that we always ask ourselves.
+
+36
+00:03:43.480 --> 00:03:50.640
+And in the AI era, to me, the answer is uh the basic interpreter is the hill climbing machine, right?
+
+37
+00:03:50.800 --> 00:03:54.640
+Because you think of you now bringing all of this AI, what is it?
+
+38
+00:03:54.640 --> 00:04:07.840
+It is basically taking an objective, an outcome, an eval that you have and learning how to achieve that by learning uh using data, using some reinforcement reward.
+
+39
+00:04:07.840 --> 00:04:14.240
+And so the the entire conference was about not, hey, here is a new frontier model.
+
+40
+00:04:14.240 --> 00:04:28.480
+It was about helping every developer, every company, whether it's a start AI native startup or an enterprise, building their own hill climbing machine so that they can operate at the frontier, right?
+
+41
+00:04:28.480 --> 00:04:29.520
+So I think that that's it.
+
+42
+00:04:29.520 --> 00:04:39.600
+They the idea, in fact, the you know, be getting very clear about the evals and the objectives that you care deeply about, knowing how to evaluate them, right?
+
+43
+00:04:39.600 --> 00:04:43.840
+That it's in some sense is the most, and keeping that's the new IP.
+
+44
+00:04:43.840 --> 00:04:44.320
+Yes.
+
+45
+00:04:44.320 --> 00:04:47.120
+Because everything else is pretty mechanical.
+
+46
+00:04:47.120 --> 00:04:58.000
+Uh, but knowing what is the set of data that you want to train a model on and how you reward it, is probably where the the next level of IP gets created.
+
+47
+00:04:58.000 --> 00:05:05.760
+Well, and one of the things, let's dig into a couple different areas here, because you and I have had a number of conversations, you know, with Microsoft Strategy.
+
+48
+00:05:05.760 --> 00:05:13.040
+And one of them is kind of this question about how enterprises keep the advantage and integrity of their own data.
+
+49
+00:05:13.040 --> 00:05:17.600
+And Microsoft is the most natural company in the entire world to do this.
+
+50
+00:05:17.600 --> 00:05:25.760
+So what say a little bit about how enterprises should be thinking about like we need our own frontier intel intelligence, but we also need to maintain control of our data.
+
+51
+00:05:25.760 --> 00:05:28.000
+Yeah, see, that I think is the the question, right?
+
+52
+00:05:28.000 --> 00:05:37.480
+Which is this economy is going to be shaped going forward by both human capital and let's call it this token capital, right?
+
+53
+00:05:37.480 --> 00:05:45.480
+That is true for Microsoft, that is true for a new startup, that's going to be true for any bank that's been in existence for a hundred years, right?
+
+54
+00:05:45.480 --> 00:05:46.440
+Uh doesn't matter.
+
+55
+00:05:46.440 --> 00:05:58.680
+All of us will now need to sort of, in fact, the interplay between humanity that makes evaluation infrastructure part of the product, not just a final quality check.
+
+56
+00:05:59.160 --> 00:06:09.000
+Free economics radio looks beyond single-agent reasoning to multi-agent disagreement and the subagents that can emerge inside reasoning models.
+
+57
+00:06:09.400 --> 00:06:14.280
+It's timely when dramatic stories about rogue AI agents are making headlines.
+
+58
+00:06:14.280 --> 00:06:19.400
+Coordinated behavior needs careful evidence, not an irresistible narrative.
+
+59
+00:06:32.280 --> 00:06:46.280
+Examples of some of the more heady problems that we're looking at now are not just how individual intelligent agents work, but how multiple agents in interactions with each other lead to larger collective intelligences.
+
+60
+00:06:46.280 --> 00:06:53.640
+And even how when you look at what we think of as single models, they look internally like societies of sub-agents.
+
+61
+00:06:53.640 --> 00:07:05.080
+We think of this as the social intelligence hypothesis, meaning that intelligence is inherently social, whether you think about it at the scale of societies or even at the scale of brains.
+
+62
+00:07:05.160 --> 00:07:20.480
+So an example of what you might do would be to create a set of five or six different AI agents who were taking on different roles or personalities.
+
+63
+00:07:14.840 --> 00:07:22.080
+One is the skeptic, one is the optimist.
+
+64
+00:07:22.320 --> 00:07:24.720
+Or what specifically are you talking about?
+
+65
+00:07:25.120 --> 00:07:25.520
+Yes.
+
+66
+00:07:25.520 --> 00:07:28.320
+So we can definitely, and we do do those sorts of experiments.
+
+67
+00:07:28.320 --> 00:07:35.200
+So we take agents and we put them in societies or institutions or conversational structures with each other.
+
+68
+00:07:35.200 --> 00:07:44.160
+And you can ask questions like if they all are set up to agree with each other versus set up to be misaligned with each other, to disagree with each other.
+
+69
+00:07:44.160 --> 00:07:49.120
+Which of those kinds of setups leads to better problem solving of the collective?
+
+70
+00:07:49.120 --> 00:07:55.920
+And it turns out there that it's better if you have them disagreeing with each other than if they're all preaching to the choir, as it were.
+
+71
+00:07:55.920 --> 00:07:59.840
+But then you can also ask the same question of an individual model.
+
+72
+00:07:59.840 --> 00:08:01.600
+And this is a little bit mind-bending.
+
+73
+00:08:01.600 --> 00:08:16.400
+But if you look at the chain of thought, which is to say the inner monologue of an individual reasoning model, then one of the things you find in there is that there are actually voices or characters that have been developed that do exactly the same thing inside those models.
+
+74
+00:08:16.400 --> 00:08:24.640
+It's like the model is talking to itself, arguing with itself, kind of like Gollum versus Smeagle at Lord of the Rings or something, but often with more characters.
+
+75
+00:08:24.640 --> 00:08:29.920
+And you get that behavior just from training reasoning models to do a good job of reasoning.
+
+76
+00:08:31.280 --> 00:08:37.440
+Disagreement can improve reasoning, but it also makes model behavior harder to interpret.
+
+77
+00:08:39.520 --> 00:08:41.920
+That's today's Daily Rundown.
+
+78
+00:08:42.240 --> 00:08:43.520
+Thanks for listening.
+
+79
+00:08:43.520 --> 00:08:45.360
+We'll be back tomorrow.
