@@ -1,0 +1,325 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:09.200
+The fight over AI model distillation, a challenge to the usual debt crisis story and a firsthand lesson from Black Monday.
+
+2
+00:00:09.200 --> 00:00:14.880
+Three clips, three arguments about how powerful systems behave under pressure.
+
+3
+00:00:16.720 --> 00:00:28.080
+From the A16Z podcast, Ben Horwitz examines whether distilling rival AI models is lawful competition or an abuse of another lab's work.
+
+4
+00:00:28.080 --> 00:00:33.840
+With open source AI under pressure, that distinction could shape who gets to compete.
+
+5
+00:00:36.720 --> 00:00:38.000
+Yeah, definitely.
+
+6
+00:00:38.000 --> 00:00:43.760
+So we have like uh kind of become a little more defenders of distillation recently.
+
+7
+00:00:43.920 --> 00:00:51.360
+So um we we talk about how you know like distillation is not actually like illegal.
+
+8
+00:00:51.360 --> 00:00:57.280
+Like the a lot of the labs are still paying API prices uh to, you know, like use the models.
+
+9
+00:00:57.280 --> 00:00:58.480
+Um so what are your thoughts?
+
+10
+00:00:58.480 --> 00:01:00.560
+Do you think is part of like a healthy competitive?
+
+11
+00:01:00.720 --> 00:01:02.800
+We we talked to Aaron Levy earlier about this.
+
+12
+00:01:02.800 --> 00:01:09.040
+And he was like, uh, you know, how can anthropic like just uh take uh everyone's training data without paying them at all?
+
+13
+00:01:09.040 --> 00:01:11.760
+But when other labs pay them, it's distillation.
+
+14
+00:01:11.760 --> 00:01:13.360
+They it needs to be banned.
+
+15
+00:01:13.440 --> 00:01:22.480
+Yeah, I actually agree with Aaron, and I think that's right, like from a legal standpoint, um, there is the the outputs of AI models are not copyrighted and they don't fall under copyright law.
+
+16
+00:01:22.640 --> 00:01:27.040
+Uh so the only thing it could be is a terms of service violation.
+
+17
+00:01:27.040 --> 00:01:30.080
+Uh but look, I think generally that's right.
+
+18
+00:01:30.080 --> 00:01:37.120
+You know, anthropic just paid uh 1.5 billion dollars for stealing everybody's books, including mine, by the way.
+
+19
+00:01:37.120 --> 00:01:41.440
+They trained on backpack uh during that class action lawsuit.
+
+20
+00:01:41.440 --> 00:01:48.800
+So you know, not to say that look, I'm for training the model, building a statistical model of the things we know.
+
+21
+00:01:48.800 --> 00:01:56.000
+I think that's generally good for the world and so forth, as long as you don't violate the copyright and reproduce the the original work.
+
+22
+00:01:56.000 --> 00:02:00.680
+Um, and I think the same yeah, like I think distillation is generally good for the world.
+
+23
+00:01:59.840 --> 00:02:03.960
+I also think they're gonna have a very hard time stopping it for many reasons.
+
+24
+00:02:04.120 --> 00:02:12.200
+Uh yeah, they have theories on how they're gonna stop it, but um I'm not sure that those are gonna succeed, so we'll see.
+
+25
+00:02:12.200 --> 00:02:20.920
+Uh but yeah, I I think distillation is good and like the whole idea that we're stealing American stuff.
+
+26
+00:02:20.920 --> 00:02:30.760
+By the way, the data companies are all out selling to everybody, uh, you know, including the Chinese uh companies that are building these things.
+
+27
+00:02:30.760 --> 00:02:35.400
+So, you know, I don't I don't know how much you can contain all this stuff anyway.
+
+28
+00:02:36.280 --> 00:02:47.480
+So, why do you think that so far over the last few years, Chinese labs have surpassed American labs in terms of open source performance?
+
+29
+00:02:47.560 --> 00:02:53.160
+Paying for API access doesn't settle what downstream you should permit.
+
+30
+00:02:53.240 --> 00:03:04.520
+On Tom Bilieu's impact theory, the economist who anticipated the 2008 crash argues that mainstream debt warnings misunderstand money creation and private debt.
+
+31
+00:03:04.680 --> 00:03:13.560
+It matters because a flawed diagnosis can drive the wrong policy when borrowing and deficits dominate the conversation.
+
+32
+00:03:14.040 --> 00:03:14.760
+Things are going.
+
+33
+00:03:14.760 --> 00:03:16.040
+Okay, I'm gonna leave that there for now.
+
+34
+00:03:16.040 --> 00:03:17.400
+I don't expect people to understand it yet.
+
+35
+00:03:17.400 --> 00:03:19.480
+This is gonna get more clear as we go.
+
+36
+00:03:19.720 --> 00:03:21.320
+Simply sounds boring.
+
+37
+00:03:21.320 --> 00:03:28.600
+In fact, if you get this wrong, you make up myths about the economy, so you have to understand this is a serious warning.
+
+38
+00:03:28.600 --> 00:03:29.640
+There's only one trouble.
+
+39
+00:03:29.640 --> 00:03:33.640
+It's based on completely mythical, completely fallacious visions.
+
+40
+00:03:33.640 --> 00:03:46.480
+So the government accountability officers just published a report uh to Congress telling the Congress that unless there's urgent and sustained action to improve the fiscal outlook for the economy, there's gonna be a government debt crisis.
+
+41
+00:03:44.600 --> 00:03:52.480
+Okay, so the important thing to anchor yourself with is the punchline is going to end up being he agrees that there is a crisis coming.
+
+42
+00:03:52.480 --> 00:03:54.400
+He even agrees that there's a debt crisis.
+
+43
+00:03:54.400 --> 00:03:57.680
+He just does not agree it's a government debt crisis.
+
+44
+00:03:57.680 --> 00:04:04.160
+Okay, going back to this idea of when the government creates money, that that's again, they're creating money out of thin air.
+
+45
+00:04:04.160 --> 00:04:10.480
+Uh and so you end up you we're gonna have to get into the math of this, and I believe he does that in a minute.
+
+46
+00:04:10.480 --> 00:04:13.840
+So just know when the government creates money, it ends up being good for GDP.
+
+47
+00:04:13.840 --> 00:04:15.200
+He's gonna show the math.
+
+48
+00:04:15.200 --> 00:04:17.440
+Okay, and I'll slow it down, I'll walk us through that.
+
+49
+00:04:17.440 --> 00:04:23.840
+But for now, just put in your mind government creates debt that improves GDP.
+
+50
+00:04:23.840 --> 00:04:25.840
+So basically, people's lives are getting better.
+
+51
+00:04:25.840 --> 00:04:27.520
+Again, we'll go into that more.
+
+52
+00:04:27.520 --> 00:04:31.840
+If you think that banks are a part of that system, you're right.
+
+53
+00:04:31.840 --> 00:04:38.560
+If you think banks are simply loaning out deposits, you're so wrong, you will forever be confused about the economy.
+
+54
+00:04:38.560 --> 00:04:42.160
+That's that's what you need to understand right now at this part in our journey.
+
+55
+00:05:02.160 --> 00:05:08.560
+Uh and now and show why these warnings are completely wrong, because economists do not understand money.
+
+56
+00:05:08.560 --> 00:05:15.840
+Ridiculous, because everybody thinks economists are experts on money, but fundamentally.
+
+57
+00:05:22.280 --> 00:05:31.960
+On masters in business, State Street Investment Chief Lori Heinel recalls trading fixed income during the 1987 Black Monday crash.
+
+58
+00:05:32.040 --> 00:05:41.560
+It's a ground level look at market stress and how early career constraints can put someone inside a historic event.
+
+59
+00:05:41.720 --> 00:05:42.120
+Sure.
+
+60
+00:05:42.120 --> 00:05:43.560
+And I just found that fascinating.
+
+61
+00:05:43.560 --> 00:05:51.560
+I thought it was really um amazing to uh connect both you know what's going on in the world with you know how finance supports that.
+
+62
+00:05:51.560 --> 00:05:57.480
+Um and so I did that for a couple of years, and then at the end of the two-year program, you're typically expected to go back to business school.
+
+63
+00:05:57.480 --> 00:06:13.560
+Well, I still needed to make money because I had student loans to pay off, so I decided I wanted to stay, and that let me led me to an opportunity on the trading desk at uh First Boston, which uh really was an incredible opportunity because that was my first real introduction to markets.
+
+64
+00:06:13.640 --> 00:06:17.320
+So, what did working on the trading floor teach you about markets?
+
+65
+00:06:18.040 --> 00:06:19.080
+So many things.
+
+66
+00:06:19.080 --> 00:06:28.200
+Um I think the first and most important thing is I was there during the 87 uh Black Monday crash, and I happened to be working in fixed income.
+
+67
+00:06:28.200 --> 00:06:35.160
+So it was a really interesting day because of course um at that time the first Boston trading floor was on two different levels.
+
+68
+00:06:35.160 --> 00:06:39.800
+So you had all the fixed income was on one level, all the equities was on a different level.
+
+69
+00:06:39.800 --> 00:06:43.480
+And we went dead silent in the first part of the day.
+
+70
+00:06:43.480 --> 00:06:49.160
+And suddenly people were starting to realize what was happening, the market crashing, you know, 20 plus percent.
+
+71
+00:06:49.160 --> 00:06:55.320
+22 percent over the course of you know a day, which of course today we've got calibrators that don't let that happen anymore.
+
+72
+00:06:55.320 --> 00:07:16.640
+But then all of a sudden, towards the end of the day, things on the fixed income market started going crazy because now you had the Fed coming out, Alan Greenspan saying, you know, we're gonna go ahead and provide liquidity, we're gonna make sure that there's, you know, active uh engagement to forestall any further, you know, recessions or other things that might be uh caused by this kind of major crash.
+
+73
+00:07:16.800 --> 00:07:23.600
+So I guess the first lesson I learned was that there are winners and there are losers in every market event.
+
+74
+00:07:23.600 --> 00:07:25.520
+And it's better to be on the winning side.
+
+75
+00:07:25.520 --> 00:07:29.600
+So I happen to be at that time on the bond side, which was the big winner that day.
+
+76
+00:07:29.600 --> 00:07:40.960
+Um but then I think the other thing that I learned was that you have to be really careful about things like moral hazard, because we became accustomed in that moment to this idea of the Fed put.
+
+77
+00:07:41.200 --> 00:07:50.400
+And I think many years later, uh, we are still wondering about you know what that really does mean in terms of the reaction function.
+
+78
+00:07:50.480 --> 00:07:58.240
+Sometimes the durable investing lesson comes from having to act before the crisis has a name.
+
+79
+00:07:58.320 --> 00:08:01.040
+That's today's daily rundown.
+
+80
+00:08:01.040 --> 00:08:02.400
+Thanks for listening.
+
+81
+00:08:02.400 --> 00:08:04.400
+We'll be back tomorrow.

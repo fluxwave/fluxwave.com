@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-26",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-26_20260726T200144Z_75314/clip_sources/bc0223433a68a99d/01_Economists_treatment_of_money_and_projections_of_u.mp3",
+      "source": "The Economist Who Called 2008 Says The Debt Crisis Warning Is A Myth \u2014 We Had To React",
+      "start_time": 379,
+      "end_time": 509,
+      "topic": "Economists\u2019 treatment of money and projections of unsustainable government debt"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-26_20260726T200144Z_75314/clip_sources/e2bf9f809ce924e3/01_The_Feds_1987_liquidity_intervention_and_the_origi.mp3",
+      "source": "Balancing $5.7T in Active and Passive Management with Lori Heinel",
+      "start_time": 387,
+      "end_time": 515,
+      "topic": "The Fed's 1987 liquidity intervention and the origins of the 'Fed put'"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-26_20260726T200144Z_75314/clip_sources/d98af1c89abb509f/01_Open-weight_AI_as_a_defense_against_centralized_co.mp3",
+      "source": "Ben Horowitz: The Fight Over Open Source AI",
+      "start_time": 317,
+      "end_time": 407,
+      "topic": "Open-weight AI as a defense against centralized control and proposed government restrictions"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
