@@ -1,0 +1,357 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:02.320
+Sam Altman on Abundant Intelligence.
+
+2
+00:00:02.320 --> 00:00:10.320
+Feife Leon 3D training worlds for robots, and Robert Hagstrom on what Wall Street gets wrong about risk.
+
+3
+00:00:10.640 --> 00:00:15.920
+Three clips, three very different ideas about building and measuring the future.
+
+4
+00:00:18.000 --> 00:00:36.320
+On Invest Like the Best, OpenAI CEO Sam Altman explains why the company bet demand for useful intelligence will be effectively uncapped, and why he sees AI spreading through the economy more like electricity than a stack of apps OpenAI owns it.
+
+5
+00:00:37.680 --> 00:00:51.920
+And that kind of whole stack of making the best, the most abundant, the most useful AI that we can, and making it something like electricity that just seeps throughout the entire economy and empowers people.
+
+6
+00:00:51.920 --> 00:00:54.000
+That's kind of what I think we have to focus on.
+
+7
+00:00:54.000 --> 00:00:58.720
+Building every vertical application on top of that, trying to go like eat every startup, eat every company.
+
+8
+00:00:58.720 --> 00:00:59.840
+No interest in doing that.
+
+9
+00:00:59.840 --> 00:01:01.680
+Really want to just provide that platform.
+
+10
+00:01:01.680 --> 00:01:06.240
+This compute thing is one of the most interesting things that's happened in human history, I think.
+
+11
+00:01:06.240 --> 00:01:10.400
+And it's obviously coming to a head, and maybe it will be coming to a head for a long period of time.
+
+12
+00:01:10.400 --> 00:01:17.360
+This is something that I think Dario called you the YOLO CEO when you were doing some of this early compute allocation and securing the compute.
+
+13
+00:01:17.360 --> 00:01:20.240
+And obviously now you're in this position where everyone is short.
+
+14
+00:01:20.240 --> 00:01:22.240
+This stuff is trying to find it.
+
+15
+00:01:22.240 --> 00:01:30.320
+And I'd love to hear the early stories about why you gained conviction that you needed to secure everything that you did, how you did it.
+
+16
+00:01:30.320 --> 00:01:32.640
+It seems to have been proven right.
+
+17
+00:01:32.640 --> 00:01:34.160
+Maybe you even underdid it, right?
+
+18
+00:01:34.960 --> 00:01:37.520
+Which is kind of crazy if you look at the headlines from back then.
+
+19
+00:01:37.520 --> 00:01:45.280
+Can you tell me the early story of like how you came to that conclusion and what gave you the conviction to do it despite everyone thinking it was crazy?
+
+20
+00:01:45.280 --> 00:01:50.640
+We could just tell that we were on this exponential of model improvement.
+
+21
+00:01:50.640 --> 00:01:52.240
+That part we were very confident about.
+
+22
+00:01:52.240 --> 00:01:53.840
+We knew it was going to keep going.
+
+23
+00:01:53.840 --> 00:02:10.760
+We were pretty sure, although, as you mentioned, we underestimated, that as the models got better and better, if we could continue to drive costs down, the demand for AI at a sufficiently high level and a sufficiently low price was basically uncapped.
+
+24
+00:02:10.760 --> 00:02:14.040
+This was just like a rare kind of new commodity for the world.
+
+25
+00:02:14.040 --> 00:02:19.720
+But what people would do with it reminded me of the way people used to start with the early days of computing.
+
+26
+00:02:19.720 --> 00:02:26.200
+People said, oh, there's you know a market for five computers in the world was one famous thing, or you know, no one needs more than X amount of RAM.
+
+27
+00:02:26.200 --> 00:02:31.480
+Human ingenuity, creativity, desire for stuff, desire to be useful.
+
+28
+00:02:31.480 --> 00:02:33.400
+That's a very good thing to bet on.
+
+29
+00:02:33.400 --> 00:02:43.000
+And we could see that AI was going to be an extremely important way that people expressed those things or got those things, did those things.
+
+30
+00:02:43.000 --> 00:02:49.640
+And we knew that the algorithms would get more efficient and the models would get better, which of course.
+
+31
+00:02:49.640 --> 00:02:56.840
+That infrastructure vision also frames today's debate over how open weight models fit into broad access.
+
+32
+00:02:56.840 --> 00:03:06.120
+On the A16Z podcast, Fei Fe discusses Marble, a system for generating geometrically consistent 3D worlds.
+
+33
+00:03:06.120 --> 00:03:09.400
+The goal is to ease a major robotics bottleneck.
+
+34
+00:03:09.400 --> 00:03:14.360
+Realistic data for training and evaluation.
+
+35
+00:03:25.240 --> 00:03:27.160
+It's amazing that you two were together.
+
+36
+00:03:27.160 --> 00:03:38.840
+Yeah, and there's a funny story here because you would think because we work together, he was my amazing postage, we've been talking about this Cynix and World Lab integration for a long time.
+
+37
+00:03:38.840 --> 00:03:40.200
+It's actually not true.
+
+38
+00:03:40.200 --> 00:03:42.920
+They came into World Labs as a customer.
+
+39
+00:03:42.920 --> 00:03:43.480
+Really?
+
+40
+00:03:43.480 --> 00:03:54.000
+When we we released the first version of our generative model called Marble last winter, around November, December, Cinex just signed up.
+
+41
+00:03:54.480 --> 00:03:56.160
+No kidding as a customer.
+
+42
+00:03:56.160 --> 00:03:56.800
+Yes.
+
+43
+00:03:57.040 --> 00:03:59.600
+And I didn't even know what it was.
+
+44
+00:03:59.600 --> 00:04:02.880
+And then I realized this is Vindru's company.
+
+45
+00:04:02.880 --> 00:04:04.160
+I called Vindru.
+
+46
+00:04:04.240 --> 00:04:07.440
+I'm like, wow, this is your company.
+
+47
+00:04:07.440 --> 00:04:10.400
+And then we realized there's so much synergy.
+
+48
+00:04:10.720 --> 00:04:13.520
+Maybe Safey just quickly describe what Marble is.
+
+49
+00:04:13.520 --> 00:04:26.320
+Yeah, Marble is the code name for the base model that World Lab is being training and iterating on that the fundamental capability right now of Marble that is publicly released is to take a prompt.
+
+50
+00:04:26.320 --> 00:04:42.000
+It can be an image, it can be a few images and or a text and turn that into a geometrically consistent world that can be represented in 3D geometry, whether it's Gaussian Splat or Mesh.
+
+51
+00:04:42.000 --> 00:04:51.200
+Really, what Cynix team is doing is trying to solve this extremely difficult problem in robotics, which is the lack of data.
+
+52
+00:04:51.440 --> 00:04:56.240
+The lack of data in training, the lack of data in evaluation.
+
+53
+00:04:56.240 --> 00:05:02.160
+This is very, very different from language models, where data is abundant on the internet.
+
+54
+00:05:02.320 --> 00:05:09.920
+And we know that in order for robotics to work, we have to somehow unlock the power of scaling law.
+
+55
+00:05:09.920 --> 00:05:11.520
+But where does that come from?
+
+56
+00:05:11.520 --> 00:05:16.880
+This is something that it's a profound problem that everybody is battling with in robotics.
+
+57
+00:05:16.880 --> 00:05:18.880
+It'd actually be great to talk about the synergy.
+
+58
+00:05:18.880 --> 00:05:21.440
+You have put together a very, very talented team.
+
+59
+00:05:21.440 --> 00:05:23.040
+You have put together a very talented team.
+
+60
+00:05:23.040 --> 00:05:24.720
+And so to what extent is there overlap?
+
+61
+00:05:24.720 --> 00:05:35.400
+To what extent is this better simulated worlds could let robots fail safely and far more often before they enter ours.
+
+62
+00:05:35.400 --> 00:05:45.240
+On excess returns, author Robert Hackstrom traces how investment risk moved from discounted cash flows to Markowitz correlations and sharps beta.
+
+63
+00:05:45.240 --> 00:05:51.000
+A shift that made risk easier to scale, but not necessarily easier to understand.
+
+64
+00:06:09.560 --> 00:06:11.320
+He didn't say anything about variability.
+
+65
+00:06:11.320 --> 00:06:15.640
+He just said risk is if you buy above those discounted cash flows, you're taking on risk.
+
+66
+00:06:15.640 --> 00:06:19.240
+If you buy something below those cash flows, you're taking less risk.
+
+67
+00:06:19.240 --> 00:06:21.880
+And so, you know, he'd spelled it out in the preface.
+
+68
+00:06:21.880 --> 00:06:26.120
+But you know, but but you know, uh, Markovitz didn't even cite that at all.
+
+69
+00:06:26.120 --> 00:06:30.120
+He didn't cite what Ben Graham said that risk was a margin of safety question.
+
+70
+00:06:30.120 --> 00:06:32.680
+It wasn't nobody was saying it was variance.
+
+71
+00:06:32.680 --> 00:06:37.720
+He just decided that he was going to take it upon himself to say that risk was variance.
+
+72
+00:06:37.720 --> 00:06:53.560
+And um, you know, somebody should have raised their hand and said, you know, I think you ought to think you might think about this differently, or just cite other sources, but the dissertation committee didn't force the hand, and and nobody said, you know, you should look at Graham or you should reread John Burr Williams.
+
+73
+00:06:53.720 --> 00:06:59.240
+And you know, he got his PhD, and he acts and went to work for the Rand Corporation, and nobody cared.
+
+74
+00:06:59.240 --> 00:07:10.840
+Uh the 60s came along, and um Bill Sharp, uh, who was at UCLA, he was a you know, never invested in the stock market, never owned a business, just like Markowitz, just a student.
+
+75
+00:07:10.840 --> 00:07:16.000
+He was looking for a dissertation topic, and his professor said, Well, you know, why don't you go check out this guy, Markowitz?
+
+76
+00:07:16.080 --> 00:07:17.200
+And he tracks him down.
+
+77
+00:07:17.200 --> 00:07:24.720
+And uh, you know, the problem with Markowitz's, you know, work was that he was doing correlations between stocks.
+
+78
+00:07:24.720 --> 00:07:27.760
+If you had a negative correlation, that that was a good diversifier.
+
+79
+00:07:27.760 --> 00:07:32.560
+If you were positive correlated, then adding the stock didn't diversify your portfolio.
+
+80
+00:07:32.560 --> 00:07:38.560
+And it was a real pain in the butt because even before Excel spreadsheets and things of that nature, you had to do that manually.
+
+81
+00:07:38.560 --> 00:07:44.720
+And Sharp came along and said, you know, why don't we find a base factor of which to measure the stock volatility against?
+
+82
+00:07:44.720 --> 00:07:49.600
+And he said, you know, the biggest indicate the biggest impact on stock prices at the market itself.
+
+83
+00:07:49.600 --> 00:08:04.480
+And he came up with the beta factor, and he said, you know, things that are above beta 1.0 have more variance than the market, we'll call that risk, and things with less than 1.0 than the market variability, we'll call that low risk.
+
+84
+00:08:04.480 --> 00:08:06.240
+The dividing line is simple.
+
+85
+00:08:06.240 --> 00:08:08.480
+Price volatility measures movement.
+
+86
+00:08:08.480 --> 00:08:13.040
+Buffett style risk asks what you paid versus what the business is worth.
+
+87
+00:08:14.960 --> 00:08:17.680
+That's today's daily rundown.
+
+88
+00:08:17.680 --> 00:08:19.040
+Thanks for listening.
+
+89
+00:08:19.040 --> 00:08:21.120
+We'll be back tomorrow.

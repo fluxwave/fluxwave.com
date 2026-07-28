@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-28",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-28_20260728T200203Z_73400/clip_sources/88c740bb95515f8b/01_GPT-4_reasoning_and_the_path_to_autonomous_agents.mp3",
+      "source": "Sam Altman - How to Make an Abundant Future - [Invest Like the Best, EP.484]",
+      "start_time": 387,
+      "end_time": 511,
+      "topic": "GPT-4, reasoning, and the path to autonomous agents"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-28_20260728T200203Z_73400/clip_sources/2a617d6114507789/01_How_the_197374_crash_institutionalized_volatility.mp3",
+      "source": "The Warren Buffett Portfolio: Robert Hagstrom on What Wall Street Gets Wrong About Risk",
+      "start_time": 503,
+      "end_time": 623,
+      "topic": "How the 1973\u201374 crash institutionalized volatility as risk, contrasted with Buffett's margin-of-safety approach"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-28_20260728T200203Z_73400/clip_sources/87d06655d370478a/01_Real-to-sim-to-real_reconstruction_and_multimodal.mp3",
+      "source": "Fei-Fei Li on Spatial Intelligence and Robotics",
+      "start_time": 584,
+      "end_time": 704,
+      "topic": "Real-to-sim-to-real reconstruction and multimodal foundation models for robotics"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

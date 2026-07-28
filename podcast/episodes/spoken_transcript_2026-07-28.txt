@@ -1,0 +1,89 @@
+Sam Altman on Abundant Intelligence.
+Feife Leon 3D training worlds for robots, and Robert Hagstrom on what Wall Street gets wrong about risk.
+Three clips, three very different ideas about building and measuring the future.
+On Invest Like the Best, OpenAI CEO Sam Altman explains why the company bet demand for useful intelligence will be effectively uncapped, and why he sees AI spreading through the economy more like electricity than a stack of apps OpenAI owns it.
+And that kind of whole stack of making the best, the most abundant, the most useful AI that we can, and making it something like electricity that just seeps throughout the entire economy and empowers people.
+That's kind of what I think we have to focus on.
+Building every vertical application on top of that, trying to go like eat every startup, eat every company.
+No interest in doing that.
+Really want to just provide that platform.
+This compute thing is one of the most interesting things that's happened in human history, I think.
+And it's obviously coming to a head, and maybe it will be coming to a head for a long period of time.
+This is something that I think Dario called you the YOLO CEO when you were doing some of this early compute allocation and securing the compute.
+And obviously now you're in this position where everyone is short.
+This stuff is trying to find it.
+And I'd love to hear the early stories about why you gained conviction that you needed to secure everything that you did, how you did it.
+It seems to have been proven right.
+Maybe you even underdid it, right?
+Which is kind of crazy if you look at the headlines from back then.
+Can you tell me the early story of like how you came to that conclusion and what gave you the conviction to do it despite everyone thinking it was crazy?
+We could just tell that we were on this exponential of model improvement.
+That part we were very confident about.
+We knew it was going to keep going.
+We were pretty sure, although, as you mentioned, we underestimated, that as the models got better and better, if we could continue to drive costs down, the demand for AI at a sufficiently high level and a sufficiently low price was basically uncapped.
+This was just like a rare kind of new commodity for the world.
+But what people would do with it reminded me of the way people used to start with the early days of computing.
+People said, oh, there's you know a market for five computers in the world was one famous thing, or you know, no one needs more than X amount of RAM.
+Human ingenuity, creativity, desire for stuff, desire to be useful.
+That's a very good thing to bet on.
+And we could see that AI was going to be an extremely important way that people expressed those things or got those things, did those things.
+And we knew that the algorithms would get more efficient and the models would get better, which of course.
+That infrastructure vision also frames today's debate over how open weight models fit into broad access.
+On the A16Z podcast, Fei Fe discusses Marble, a system for generating geometrically consistent 3D worlds.
+The goal is to ease a major robotics bottleneck.
+Realistic data for training and evaluation.
+It's amazing that you two were together.
+Yeah, and there's a funny story here because you would think because we work together, he was my amazing postage, we've been talking about this Cynix and World Lab integration for a long time.
+It's actually not true.
+They came into World Labs as a customer.
+Really?
+When we we released the first version of our generative model called Marble last winter, around November, December, Cinex just signed up.
+No kidding as a customer.
+Yes.
+And I didn't even know what it was.
+And then I realized this is Vindru's company.
+I called Vindru.
+I'm like, wow, this is your company.
+And then we realized there's so much synergy.
+Maybe Safey just quickly describe what Marble is.
+Yeah, Marble is the code name for the base model that World Lab is being training and iterating on that the fundamental capability right now of Marble that is publicly released is to take a prompt.
+It can be an image, it can be a few images and or a text and turn that into a geometrically consistent world that can be represented in 3D geometry, whether it's Gaussian Splat or Mesh.
+Really, what Cynix team is doing is trying to solve this extremely difficult problem in robotics, which is the lack of data.
+The lack of data in training, the lack of data in evaluation.
+This is very, very different from language models, where data is abundant on the internet.
+And we know that in order for robotics to work, we have to somehow unlock the power of scaling law.
+But where does that come from?
+This is something that it's a profound problem that everybody is battling with in robotics.
+It'd actually be great to talk about the synergy.
+You have put together a very, very talented team.
+You have put together a very talented team.
+And so to what extent is there overlap?
+To what extent is this better simulated worlds could let robots fail safely and far more often before they enter ours.
+On excess returns, author Robert Hackstrom traces how investment risk moved from discounted cash flows to Markowitz correlations and sharps beta.
+A shift that made risk easier to scale, but not necessarily easier to understand.
+He didn't say anything about variability.
+He just said risk is if you buy above those discounted cash flows, you're taking on risk.
+If you buy something below those cash flows, you're taking less risk.
+And so, you know, he'd spelled it out in the preface.
+But you know, but but you know, uh, Markovitz didn't even cite that at all.
+He didn't cite what Ben Graham said that risk was a margin of safety question.
+It wasn't nobody was saying it was variance.
+He just decided that he was going to take it upon himself to say that risk was variance.
+And um, you know, somebody should have raised their hand and said, you know, I think you ought to think you might think about this differently, or just cite other sources, but the dissertation committee didn't force the hand, and and nobody said, you know, you should look at Graham or you should reread John Burr Williams.
+And you know, he got his PhD, and he acts and went to work for the Rand Corporation, and nobody cared.
+Uh the 60s came along, and um Bill Sharp, uh, who was at UCLA, he was a you know, never invested in the stock market, never owned a business, just like Markowitz, just a student.
+He was looking for a dissertation topic, and his professor said, Well, you know, why don't you go check out this guy, Markowitz?
+And he tracks him down.
+And uh, you know, the problem with Markowitz's, you know, work was that he was doing correlations between stocks.
+If you had a negative correlation, that that was a good diversifier.
+If you were positive correlated, then adding the stock didn't diversify your portfolio.
+And it was a real pain in the butt because even before Excel spreadsheets and things of that nature, you had to do that manually.
+And Sharp came along and said, you know, why don't we find a base factor of which to measure the stock volatility against?
+And he said, you know, the biggest indicate the biggest impact on stock prices at the market itself.
+And he came up with the beta factor, and he said, you know, things that are above beta 1.0 have more variance than the market, we'll call that risk, and things with less than 1.0 than the market variability, we'll call that low risk.
+The dividing line is simple.
+Price volatility measures movement.
+Buffett style risk asks what you paid versus what the business is worth.
+That's today's daily rundown.
+Thanks for listening.
+We'll be back tomorrow.
