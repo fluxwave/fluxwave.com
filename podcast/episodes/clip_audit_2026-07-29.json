@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-29",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-29_20260729T213911Z_97476/clip_sources/77d444281d3b95c8/01_Why_software_can_iterate_faster_than_physical_engi.mp3",
+      "source": "Formal methods with Hillel Wayne",
+      "start_time": 440,
+      "end_time": 565,
+      "topic": "Why software can iterate faster than physical engineering"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-29_20260729T213911Z_97476/clip_sources/041ac5cef8b62656/01_Progression_from_robotic_inspection_to_autonomous.mp3",
+      "source": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+      "start_time": 434,
+      "end_time": 557,
+      "topic": "Progression from robotic inspection to autonomous physical intervention"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-29_20260729T213911Z_97476/clip_sources/fe2293675267bbcf/01_Why_AI_microdramas_are_a_strong_fit_for_current_ge.mp3",
+      "source": "AI Micro Dramas, Generative Media, and the Future of Creativity",
+      "start_time": 326,
+      "end_time": 510,
+      "topic": "Why AI microdramas are a strong fit for current generative-video models"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

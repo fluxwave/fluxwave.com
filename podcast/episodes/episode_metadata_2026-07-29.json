@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-29",
+  "chapters": [
+    {
+      "startTime": 34.88,
+      "title": "All-In with Chamath, Jason, Sacks & Friedberg \u2014 Edge-versus-cloud autonomy for industrial inspection robots"
+    },
+    {
+      "startTime": 184.688,
+      "title": "a16z Podcast \u2014 Studios adopting generative production and fully AI animation"
+    },
+    {
+      "startTime": 353.352,
+      "title": "The Pragmatic Engineer \u2014 Why engineering disciplines reject waterfall and balance planning against iteration costs"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
+      "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
+      "link": "https://allinchamathjason.libsyn.com/the-1hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_ROBOTS_Ch.mp3?dest-id=1928300",
+      "transcript_url": "",
+      "published": "2026-07-28T20:21:00+00:00"
+    },
+    {
+      "title": "AI Micro Dramas, Generative Media, and the Future of Creativity",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/ai-micro-dramas-generative-media-and-the-future-of-creativity-ZbK1xyzO",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7fd0c85e-6602-4a74-a5a4-1ae04e7bdcd8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7fd0c85e-6602-4a74-a5a4-1ae04e7bdcd8&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-07-29T10:00:00+00:00"
+    },
+    {
+      "title": "Formal methods with Hillel Wayne",
+      "podcast": "The Pragmatic Engineer",
+      "link": "https://newsletter.pragmaticengineer.com/p/formal-methods-with-hillel-wayne",
+      "audio_url": "https://api.substack.com/feed/podcast/208490793/f31ef801d61096f61c3c947eedfb56d2.mp3",
+      "transcript_url": "",
+      "published": "2026-07-29T16:22:31+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-07-29.txt"
+}
