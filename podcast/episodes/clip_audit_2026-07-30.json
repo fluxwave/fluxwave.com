@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-30",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-30_20260730T202214Z_1421/clip_sources/968215137ab07e30/01_How_perceptions_of_AIs_political_and_economic_powe.mp3",
+      "source": "Cheap cognition, supercharged surveillance, and AI risks, with Garrison Lovely",
+      "start_time": 336,
+      "end_time": 474,
+      "topic": "How perceptions of AI's political and economic power reshape technology policy"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-30_20260730T202214Z_1421/clip_sources/aaa711998e627ebb/01_Equity_issuance_major_IPOs_and_AI_data-center_spen.mp3",
+      "source": "He Called It the Worst Chart Imaginable. Then He Bought It | Rupert Mitchell on Cracks in the Mag 7",
+      "start_time": 565,
+      "end_time": 694,
+      "topic": "Equity issuance, major IPOs, and AI data-center spending reshaping capital markets"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-30_20260730T202214Z_1421/clip_sources/a5aeba7c04b2c040/01_The_evolution_from_systems_of_record_to_AI_systems.mp3",
+      "source": "AI for America's Small Businesses | Lassie",
+      "start_time": 435,
+      "end_time": 615,
+      "topic": "The evolution from systems of record to AI systems that perform labor"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
