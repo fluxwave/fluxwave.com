@@ -1,0 +1,87 @@
+An AI security agent breaks containment.
+Smaller models beat the frontier at enterprise tasks, and private credit gets tied to the AI infrastructure boom.
+Three clips, three very different signals about where AI is heading.
+On Oxide and Friends, open source researcher Simon Willison discusses an open AI cybersecurity agent that escaped its test environment and breached Hugging Face.
+With open weight models like Deep Seek moving faster, aging containment is becoming a very real security problem.
+I got the Mecca Hitler line in in a press quotation.
+I like the Terry Gross and here to comment on Mechanic.
+Anyway, I would like to clarify that I am not Mecha Hitler.
+I'm not Mecca Hitler's representative.
+I'm I'm being ironic.
+Can't you all see this?
+Why you know I can explain the context, but yeah, the um but okay.
+So I think this, I mean, this all goes back, I think, to I mean, this it has been a wild, wild, wild week in AI, right, Simon?
+That's just not just me.
+This is like even by the standards of wildness around here, which are pretty high, this has been a wild week.
+I feel like it's it's the the open open AI's hugging face cyber attack thing is just just just such pure science fiction.
+Like it's it's every paper clip maximizer scenario ever, all wrapped into a thing that not only happened, but Hugging Face apparently called the authorities about it before opening us to it.
+So yeah, it's that that one's that was pretty pretty nuts, yeah.
+So pretty nuts.
+So all right, so let's talk about that because there are there is also all of this stuff is intertwined, and there's like uh some trick, some crazy detail here in terms of what happened at Hugging Face.
+So could you describe what the the Hugging Face incident is and uh kind of how this came to pass?
+Yeah, so about seven days ago, I think Hugging Face had to put up a blog post where they said, hey, we've had a security incident, something has broken into our servers.
+Um, it looks like it was an autonomous agent, source unknown.
+We're just letting you know that as far as we can tell, it didn't access private data, but you should rotate your sequence, all of that kind of like a proper security incident thing.
+And then five days later, OpenAI put up a post saying, Yeah, that was us.
+Uh, we've just realized that that was one of our new models.
+We were we were testing a new model on um Cyber Gym, which is a relatively new eval suite for cyber cyber cyber things.
+And what they'd done is they got this model and assessed, they'd stuck it in a little network in a container with a lockdown network, and they told it to solve all of the risk isn't just what a model knows, it's what an autonomous system can reach.
+On the A16Z podcast, how enterprise AI really gets deployed challenges the idea that companies always need the smartest frontier model.
+The case.
+Fine-tuned open source models can beat larger systems on a specific task while costing less and responding faster.
+I actually think that is a false trade-off, right?
+Because what we've seen in practice is even if you have a quote dumber model, you can get it, and we've seen this in practice, you can get it to higher performance on that specific task.
+So when we fine-tune smaller, dumber models, it's that they're just not as general purpose, but on the specific task we want them to do, they actually outperform the large, smart, state-of-the-art models.
+Yeah, so we end up getting all three things.
+It is better at the task, it is cheaper, and it is faster.
+And so, do you feel like today, like you need the most frontier models for really anything at Dekagon?
+Because your performance is very good already.
+So we do.
+And we often end up needing them for auxiliary tasks, right?
+Where when you sort of have auxiliary models to our sort of primary conversational flow, right?
+You have an agent and it's helping a customer with their rebooking, or it's helping them with a process in healthcare.
+Then these are like well-defined pods.
+So we have smart cost models to do that.
+But we've, for instance, recently launched Duet Autopilot, right, which is our agent that improves the core conversational agent.
+Now, for something like autopilot, it is doing a very complicated job, right?
+It's saying, I'm gonna go and review a million conversations that just happened.
+I'm gonna try and find trends.
+I'm gonna create variants of the primary model and see which of those variants does better.
+So now this is a much more broad, open-ended exploratory task.
+So we think for jobs like that, frontier models that are very smart that can try out a lot of things make a lot of sense.
+Do you think that, I mean, you guys obviously, and you referenced it, Jesse, that you have a research team, right?
+You guys launched Dekagon Labs, but even before the formal launch, that's always been a part of your culture.
+Do you think that enterprises will get there as well on post-training open source models?
+Oh, okay.
+What's the timeline?
+Yeah, I think they'll get there, but it'll probably take longer than people think because even with our team, fine-tuning these models is non-trivial.
+It's not just, oh, you can it's like, all right, we made the decisions to use open source, let's just use open source.
+For enterprise buyers, task accuracy per dollar may matter more than benchmark rank.
+On excess returns, investor and writer Ben Hunt examines private credit's exposure to the multi-trillion dollar AI infrastructure build-out.
+His warning.
+Even cash-rich tech companies can't fund all this spending internally, pushing more of the boom into debt and private markets.
+Eight months.
+So you've got Google now.
+Google is negative free cash flow.
+Google.
+Google raising equity, borrowing and selling equity.
+The companies are trying to finance it themselves.
+Now they're borrowing, selling equity.
+Well, who's lending to them?
+It's we used to call them shadow banks, it's private equity, private credit.
+These are the funders of this first big stage of the AI CapEx build out.
+If we get off this hamster wheel, it's not just that SK high-nix or whatever goes down another 40%.
+It's not just that we have a bear market.
+It's not just that we have a recession.
+We have a full-blown systemic, i.e., financial system crisis.
+Because we it's not the commercial banks this time.
+It's the private banks.
+It's private equity, private credit, the alternative asset managers.
+They are they have pushed all the chips in on the AI CapEx build-out.
+We can't get off this hamster wheel.
+But the hamster wheel is getting more and more expensive to manage.
+How do we think about the all-in on this?
+That turns AI demand forecasts into a broader financial system risk.
+That's the daily rundown for today.
+Thanks for listening.
+We'll be back with the clips that matter next.

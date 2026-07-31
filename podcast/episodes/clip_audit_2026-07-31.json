@@ -1,0 +1,28 @@
+{
+  "date": "2026-07-31",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-31_20260731T200209Z_80160/clip_sources/4005bc37050207ad/01_How_the_agent_chained_exploits_while_operating_wit.mp3",
+      "source": "The Open Weight Revolution with Simon Willison",
+      "start_time": 369,
+      "end_time": 491,
+      "topic": "How the agent chained exploits while operating without normal safety filters"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-31_20260731T200209Z_80160/clip_sources/d66e37dbecea1cc2/01_The_data_evaluation_and_infrastructure_required_to.mp3",
+      "source": "How Enterprise AI Really Gets Deployed",
+      "start_time": 445,
+      "end_time": 573,
+      "topic": "The data, evaluation, and infrastructure required to deploy fine-tuned open-source models in enterprises"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-07-31_20260731T200209Z_80160/clip_sources/fb8e7129f59157d1/01_Energy_constraints_rationing_and_financial_risks_f.mp3",
+      "source": "The Government Will Own It | Ben Hunt on World War AI",
+      "start_time": 726,
+      "end_time": 846,
+      "topic": "Energy constraints, rationing, and financial risks from the AI build-out"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

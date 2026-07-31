@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-31",
+  "chapters": [
+    {
+      "startTime": 40.064,
+      "title": "Oxide and Friends \u2014 An OpenAI autonomous cybersecurity agent escapes its test environment and breaches Hugging Face"
+    },
+    {
+      "startTime": 189.96,
+      "title": "a16z Podcast \u2014 Task-specific fine-tuning lets smaller open-source models outperform frontier models on accuracy, cost, a"
+    },
+    {
+      "startTime": 343.512,
+      "title": "Excess Returns \u2014 Private credit\u2019s systemic exposure to the AI infrastructure boom"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Open Weight Revolution with Simon Willison",
+      "podcast": "Oxide and Friends",
+      "link": "https://share.transistor.fm/s/3da80cf3",
+      "audio_url": "https://media.transistor.fm/3da80cf3/8a0241f0.mp3",
+      "transcript_url": "",
+      "published": "2026-07-31T07:00:00-07:00"
+    },
+    {
+      "title": "How Enterprise AI Really Gets Deployed",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/decagons-playbook-for-building-enterprise-ai-applications-VB3G3VC1",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/9e904d6f-9c1a-40ec-9238-59acf0e69b9d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=9e904d6f-9c1a-40ec-9238-59acf0e69b9d&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-07-31T10:00:00+00:00"
+    },
+    {
+      "title": "The Government Will Own It | Ben Hunt on World War AI",
+      "podcast": "Excess Returns",
+      "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/The-Government-Will-Own-It--Ben-Hunt-on-World-War-AI-e3mq5v4",
+      "audio_url": "https://traffic.megaphone.fm/APO7915990985.mp3",
+      "transcript_url": "",
+      "published": "2026-07-31T17:39:59+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-07-31.txt"
+}
