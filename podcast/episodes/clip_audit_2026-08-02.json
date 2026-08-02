@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-02",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-02_20260802T201427Z_66690/clip_sources/0530e70b8904e425/01_Compounding_AI_progress_through_compute_algorithmi.mp3",
+      "source": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
+      "start_time": 577,
+      "end_time": 707,
+      "topic": "Compounding AI progress through compute, algorithmic efficiency, and 'unhobbling'"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-02_20260802T201427Z_66690/clip_sources/9b460488489505a5/01_Algorithmic_feeds_as_a_source_of_sampling_bias_in.mp3",
+      "source": "Ruby Thelot on Internet Culture, AI, and the Future of Taste",
+      "start_time": 398,
+      "end_time": 518,
+      "topic": "Algorithmic feeds as a source of sampling bias in cultural analysis"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-02_20260802T201427Z_66690/clip_sources/639215fff243a74b/01_How_intelligence_agencies_recruit_insiders_at_tech.mp3",
+      "source": "Ex-Military Hacker: The Secret World Of Government Surveillance - Bill Thompson - #1131",
+      "start_time": 327,
+      "end_time": 447,
+      "topic": "How intelligence agencies recruit insiders at technology companies and share collection through Five Eyes partners"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
