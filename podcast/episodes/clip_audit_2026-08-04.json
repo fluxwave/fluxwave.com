@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-04",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-04_20260804T200143Z_19438/clip_sources/3af5b237bf19cab7/01_State-actor_threats_training-data_poisoning_and_at.mp3",
+      "source": "OpenAI's Joshua Achiam: Did We Already Reach AGI?",
+      "start_time": 401,
+      "end_time": 525,
+      "topic": "State-actor threats, training-data poisoning, and attacks on frontier AI labs"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-04_20260804T200143Z_19438/clip_sources/34aa2fd8e01fe121/01_Real_yields_credit_spreads_and_the_financing_risk.mp3",
+      "source": "Gavin Baker - AI Market Jitters - [Invest Like the Best, EP.485]",
+      "start_time": 564,
+      "end_time": 690,
+      "topic": "Real yields, credit spreads, and the financing risk behind the AI infrastructure build-out"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-04_20260804T200143Z_19438/clip_sources/418eb6c46e7d8bd7/01_Nikes_World_Cup_strategy_serving_distinct_communit.mp3",
+      "source": "The new rules of brand building, with Wieden+Kennedy CEO",
+      "start_time": 644,
+      "end_time": 770,
+      "topic": "Nike's World Cup strategy: serving distinct communities through many continuously supported campaigns"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

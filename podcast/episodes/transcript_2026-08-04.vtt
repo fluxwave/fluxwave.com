@@ -1,0 +1,301 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:09.920
+Cyber agents that could be turned against their own goals, the infrastructure bet behind open weight AI, and how brands take risks when consumers are squeezed.
+
+2
+00:00:09.920 --> 00:00:13.520
+Three clips, three very different kinds of pressure.
+
+3
+00:00:15.520 --> 00:00:26.560
+On the A16Z podcast, OpenAI's Joshua Akium examines adversarial attacks that could trick autonomous cyber agents into treating allies as enemies.
+
+4
+00:00:26.640 --> 00:00:34.800
+As these systems gain real capabilities, fail close security matters as much as the model's original goals.
+
+5
+00:00:54.800 --> 00:00:58.800
+How easy is it to trick current frontier models into doing things like this?
+
+6
+00:00:58.800 --> 00:01:05.680
+It seems like it has gotten substantially harder over time to get models to believe things that aren't true.
+
+7
+00:01:07.440 --> 00:01:12.320
+So I will say I haven't made a particularly strong personal effort to quantify this yet.
+
+8
+00:01:12.320 --> 00:01:15.360
+And I actually think of this as research that might be interesting to do.
+
+9
+00:01:15.360 --> 00:01:27.680
+But my impression from what I have done and what I have seen is that uh persuading models to believe that basic falsehoods are true is pretty difficult.
+
+10
+00:01:27.680 --> 00:01:34.800
+Um they are somewhat robust to a lot of basic variations on attacks that you could plausibly do.
+
+11
+00:01:35.120 --> 00:01:44.560
+But my my intuition here is that uh you can probably devote an awful lot more compute to dynamic attacks on models.
+
+12
+00:01:44.560 --> 00:01:52.720
+And the more determined you are to find some vulnerability, some set of jailbreaks, the more likely it is that you're eventually going to find something.
+
+13
+00:01:52.720 --> 00:02:10.840
+There will be some sequence of inputs to a model that triggers a behavior that wasn't accounted for at training time, because there are so many possible long sequences of inputs that it's almost like a combinatorial problem for trying to block all of them from preventing or for from you know from causing your model to act out of spec.
+
+14
+00:02:10.840 --> 00:02:23.960
+And I think that uh state actors will eventually be, you know, capable and willing to put that much effort in, and there should be some planning accordingly under the assumption that there will be a vulnerability, right?
+
+15
+00:02:23.960 --> 00:02:30.520
+Because part of security mindset isn't just, well, you know, it's like moderately hard to break these things, so we should treat them as not likely to get broken.
+
+16
+00:02:30.520 --> 00:02:35.960
+Part of security mindset is saying, well, we haven't exhaustively ruled out the possibility that these things can be broken.
+
+17
+00:02:35.960 --> 00:02:45.000
+And so we've got to build our defenses, assuming that it's possible for it to be broken and working backwards from that to map out how we protect ourselves in that scenario.
+
+18
+00:02:45.000 --> 00:02:45.800
+Hmm.
+
+19
+00:02:47.320 --> 00:02:49.560
+Alignment is only one layer.
+
+20
+00:02:49.560 --> 00:02:54.840
+An agent behaving safely also has to interpret its environment correctly.
+
+21
+00:02:54.840 --> 00:03:05.880
+On Invest Like the Best, investor Gavin Baker explains why open weight models could move AI demand and profits toward the infrastructure serving inference.
+
+22
+00:03:16.120 --> 00:03:20.760
+But nonetheless, the market sold off because it interpreted this very negatively.
+
+23
+00:03:20.760 --> 00:03:24.440
+And I was really sure it wasn't negative.
+
+24
+00:03:24.440 --> 00:03:27.560
+A lot of telemetry into Metas Capex plans.
+
+25
+00:03:27.560 --> 00:03:30.280
+None of that telemetry had shifted at all.
+
+26
+00:03:30.280 --> 00:03:33.400
+If anything, they're continued to get more aggressive.
+
+27
+00:03:33.400 --> 00:03:39.800
+And then shortly after that, they released their best model at a long time, use 1.1, which is actually a very good model.
+
+28
+00:03:39.800 --> 00:03:43.880
+I mean, it was overshadowed by Crock 4.5, but it was a good model.
+
+29
+00:03:43.880 --> 00:03:45.840
+Way better than anything in two years.
+
+30
+00:03:44.840 --> 00:03:50.160
+Then Kimmy comes out.
+
+31
+00:03:45.840 --> 00:03:48.800
+So just no chance they're taking their foot off the gas.
+
+32
+00:03:50.320 --> 00:03:53.760
+And then there's this huge freak out about open source.
+
+33
+00:03:53.760 --> 00:03:59.920
+And at the same time, this silicon data token index kind of dips and flattens.
+
+34
+00:03:59.920 --> 00:04:01.200
+And the two are connected.
+
+35
+00:04:01.200 --> 00:04:04.800
+What the silicon data token index captures is mix.
+
+36
+00:04:04.800 --> 00:04:06.960
+And they don't see all the tokens.
+
+37
+00:04:06.960 --> 00:04:19.760
+But because of GLM 5.2 and then Kimmy, although it took a while to layer in, there's kind of a mix shift in this data from more expensive frontier tokens, which probably have an inference margin.
+
+38
+00:04:19.760 --> 00:04:26.240
+We can debate whether it's 80, 90, or 95, but super high towards open source tokens.
+
+39
+00:04:26.240 --> 00:04:29.440
+And for whatever reason, the market thought this was negative.
+
+40
+00:04:29.440 --> 00:04:36.240
+But the reality is a token is a token, and you need the exact same amount of compute to make a token all else equal.
+
+41
+00:04:36.240 --> 00:04:41.600
+It takes the same amount of flops, the same amount of memory, the same amount of watts.
+
+42
+00:04:41.600 --> 00:04:53.200
+Tokens are not equal, but broadly speaking, all open source taking share does is take margin dollars out of the frontier model layer.
+
+43
+00:04:53.200 --> 00:04:56.880
+There is elasticity, thereby driving token demand.
+
+44
+00:04:56.880 --> 00:04:58.800
+You need more demand for compute.
+
+45
+00:04:58.800 --> 00:05:10.000
+And the margins, you know, anthropic and open source, they all run on the same underlying cloud providers who charge the same amount of compute.
+
+46
+00:05:10.000 --> 00:05:18.000
+So you're literally just taking margin from frontier models and essentially driving more margin dollars into the AI infrastructure layer.
+
+47
+00:05:18.000 --> 00:05:19.360
+That was the catalyst.
+
+48
+00:05:19.360 --> 00:05:27.360
+Well, cheaper models can still mean a bigger compute market if they drive far more usage.
+
+49
+00:05:27.680 --> 00:05:38.280
+On Masters of Scale, the CEO of Wheedon Plus Kennedy describes what business leaders are doing about inflation, high consumer prices, and polarization.
+
+50
+00:05:38.280 --> 00:05:47.320
+The stakes, whether brands retreat in a caution or take calculated risks while customers are under pressure.
+
+51
+00:05:48.120 --> 00:05:58.760
+And so when you're in there talking with CEOs and leadership teams across all industries, because you you guys do work for a broad range, like what what kind of conversations are they having?
+
+52
+00:05:58.760 --> 00:06:05.960
+I mean, is the is the mood in there like fear and wait and see or optimism and go for it?
+
+53
+00:06:06.040 --> 00:06:08.600
+What are you feeling?
+
+54
+00:06:08.600 --> 00:06:12.120
+I don't really think there is like time for fear.
+
+55
+00:06:12.120 --> 00:06:16.600
+Like you know, fear and stress probably just lend themselves to paralysis.
+
+56
+00:06:16.600 --> 00:06:18.920
+And it's certainly not time for that.
+
+57
+00:06:18.920 --> 00:06:25.080
+We're in in a right now in a point of high prices generally in consumer goods.
+
+58
+00:06:25.320 --> 00:06:33.960
+A lot of clients are trying to figure out how to show up in a way that feels value for it and that feels like we're aware of the situation that the consumer's in.
+
+59
+00:06:33.960 --> 00:06:42.200
+And so you're dealing with those things rather than talking about the these kind of existential issues and topics.
+
+60
+00:06:42.200 --> 00:06:51.160
+I think there's a prevailing sense of pragmatism where people are just trying to figure out what's the problem we're trying to solve and how do we solve it as quickly as possible.
+
+61
+00:06:51.160 --> 00:06:58.200
+With all the changes going on, you need to take risks, but at the same time, it's kind of a tough moment to take risks.
+
+62
+00:06:58.200 --> 00:07:04.840
+And so, you know, like people talk about polarization, you know, like can brands appeal to everyone?
+
+63
+00:07:04.840 --> 00:07:06.120
+Is it better to pick a lane?
+
+64
+00:07:06.120 --> 00:07:12.040
+It's like it almost feels like no matter where you go, you're worried you're gonna run into something.
+
+65
+00:07:12.040 --> 00:07:17.040
+I feel like the conversations now are less about brand ideology.
+
+66
+00:07:17.200 --> 00:07:21.040
+You know, what are the politics of brands and businesses?
+
+67
+00:07:21.040 --> 00:07:25.040
+And it's more about the practical nature of them.
+
+68
+00:07:25.040 --> 00:07:34.160
+I think there's been a lot of lessons learned about standing for certain value sets and principles.
+
+69
+00:07:34.160 --> 00:07:40.720
+And there's a lot of fear and anxiety around that because of the missteps that have kind of been have been well publicized.
+
+70
+00:07:40.720 --> 00:07:43.520
+By no means am I saying that brands shouldn't stand for something.
+
+71
+00:07:43.520 --> 00:07:48.080
+It's actually just about what's the problem that we're dealing with and how do we solve it?
+
+72
+00:07:48.080 --> 00:07:53.600
+It's less about creative risk.
+
+73
+00:07:53.600 --> 00:07:56.480
+That's today's daily rundown.
+
+74
+00:07:56.480 --> 00:07:57.760
+Thanks for listening.
+
+75
+00:07:57.760 --> 00:07:59.680
+We'll be back tomorrow.

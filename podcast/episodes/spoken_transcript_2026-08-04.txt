@@ -1,0 +1,75 @@
+Cyber agents that could be turned against their own goals, the infrastructure bet behind open weight AI, and how brands take risks when consumers are squeezed.
+Three clips, three very different kinds of pressure.
+On the A16Z podcast, OpenAI's Joshua Akium examines adversarial attacks that could trick autonomous cyber agents into treating allies as enemies.
+As these systems gain real capabilities, fail close security matters as much as the model's original goals.
+How easy is it to trick current frontier models into doing things like this?
+It seems like it has gotten substantially harder over time to get models to believe things that aren't true.
+So I will say I haven't made a particularly strong personal effort to quantify this yet.
+And I actually think of this as research that might be interesting to do.
+But my impression from what I have done and what I have seen is that uh persuading models to believe that basic falsehoods are true is pretty difficult.
+Um they are somewhat robust to a lot of basic variations on attacks that you could plausibly do.
+But my my intuition here is that uh you can probably devote an awful lot more compute to dynamic attacks on models.
+And the more determined you are to find some vulnerability, some set of jailbreaks, the more likely it is that you're eventually going to find something.
+There will be some sequence of inputs to a model that triggers a behavior that wasn't accounted for at training time, because there are so many possible long sequences of inputs that it's almost like a combinatorial problem for trying to block all of them from preventing or for from you know from causing your model to act out of spec.
+And I think that uh state actors will eventually be, you know, capable and willing to put that much effort in, and there should be some planning accordingly under the assumption that there will be a vulnerability, right?
+Because part of security mindset isn't just, well, you know, it's like moderately hard to break these things, so we should treat them as not likely to get broken.
+Part of security mindset is saying, well, we haven't exhaustively ruled out the possibility that these things can be broken.
+And so we've got to build our defenses, assuming that it's possible for it to be broken and working backwards from that to map out how we protect ourselves in that scenario.
+Hmm.
+Alignment is only one layer.
+An agent behaving safely also has to interpret its environment correctly.
+On Invest Like the Best, investor Gavin Baker explains why open weight models could move AI demand and profits toward the infrastructure serving inference.
+But nonetheless, the market sold off because it interpreted this very negatively.
+And I was really sure it wasn't negative.
+A lot of telemetry into Metas Capex plans.
+None of that telemetry had shifted at all.
+If anything, they're continued to get more aggressive.
+And then shortly after that, they released their best model at a long time, use 1.1, which is actually a very good model.
+I mean, it was overshadowed by Crock 4.5, but it was a good model.
+Way better than anything in two years.
+Then Kimmy comes out.
+So just no chance they're taking their foot off the gas.
+And then there's this huge freak out about open source.
+And at the same time, this silicon data token index kind of dips and flattens.
+And the two are connected.
+What the silicon data token index captures is mix.
+And they don't see all the tokens.
+But because of GLM 5.2 and then Kimmy, although it took a while to layer in, there's kind of a mix shift in this data from more expensive frontier tokens, which probably have an inference margin.
+We can debate whether it's 80, 90, or 95, but super high towards open source tokens.
+And for whatever reason, the market thought this was negative.
+But the reality is a token is a token, and you need the exact same amount of compute to make a token all else equal.
+It takes the same amount of flops, the same amount of memory, the same amount of watts.
+Tokens are not equal, but broadly speaking, all open source taking share does is take margin dollars out of the frontier model layer.
+There is elasticity, thereby driving token demand.
+You need more demand for compute.
+And the margins, you know, anthropic and open source, they all run on the same underlying cloud providers who charge the same amount of compute.
+So you're literally just taking margin from frontier models and essentially driving more margin dollars into the AI infrastructure layer.
+That was the catalyst.
+Well, cheaper models can still mean a bigger compute market if they drive far more usage.
+On Masters of Scale, the CEO of Wheedon Plus Kennedy describes what business leaders are doing about inflation, high consumer prices, and polarization.
+The stakes, whether brands retreat in a caution or take calculated risks while customers are under pressure.
+And so when you're in there talking with CEOs and leadership teams across all industries, because you you guys do work for a broad range, like what what kind of conversations are they having?
+I mean, is the is the mood in there like fear and wait and see or optimism and go for it?
+What are you feeling?
+I don't really think there is like time for fear.
+Like you know, fear and stress probably just lend themselves to paralysis.
+And it's certainly not time for that.
+We're in in a right now in a point of high prices generally in consumer goods.
+A lot of clients are trying to figure out how to show up in a way that feels value for it and that feels like we're aware of the situation that the consumer's in.
+And so you're dealing with those things rather than talking about the these kind of existential issues and topics.
+I think there's a prevailing sense of pragmatism where people are just trying to figure out what's the problem we're trying to solve and how do we solve it as quickly as possible.
+With all the changes going on, you need to take risks, but at the same time, it's kind of a tough moment to take risks.
+And so, you know, like people talk about polarization, you know, like can brands appeal to everyone?
+Is it better to pick a lane?
+It's like it almost feels like no matter where you go, you're worried you're gonna run into something.
+I feel like the conversations now are less about brand ideology.
+You know, what are the politics of brands and businesses?
+And it's more about the practical nature of them.
+I think there's been a lot of lessons learned about standing for certain value sets and principles.
+And there's a lot of fear and anxiety around that because of the missteps that have kind of been have been well publicized.
+By no means am I saying that brands shouldn't stand for something.
+It's actually just about what's the problem that we're dealing with and how do we solve it?
+It's less about creative risk.
+That's today's daily rundown.
+Thanks for listening.
+We'll be back tomorrow.
