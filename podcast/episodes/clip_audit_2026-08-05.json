@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-05",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-05_20260805T200153Z_6854/clip_sources/71a6799d2d44fee3/01_Applying_cross-domain_modelsfrom_epidemiology_and.mp3",
+      "source": "The Biggest Leak in Finance | Brent Donnelly on Why You're Probably Too Bearish",
+      "start_time": 377,
+      "end_time": 505,
+      "topic": "Applying cross-domain models\u2014from epidemiology and narrative propagation to racing and leverage\u2014to trading"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-05_20260805T200153Z_6854/clip_sources/f01560930031647b/01_Chinas_long-range_autonomous_submarines_cable-cutt.mp3",
+      "source": "Three Startups Reinventing Critical Infrastructure",
+      "start_time": 444,
+      "end_time": 564,
+      "topic": "China's long-range autonomous submarines, cable-cutting tools, and networked seabed sensors"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-05_20260805T200153Z_6854/clip_sources/3a76431638c19475/01_Nick_Woodman_overrides_the_Hero_4_Sessions_entry-l.mp3",
+      "source": "GoPro: The Billion Dollar Wipeout | Crash Landing | 2",
+      "start_time": 573,
+      "end_time": 696,
+      "topic": "Nick Woodman overrides the Hero 4 Session's entry-level pricing strategy"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
