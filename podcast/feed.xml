@@ -9,6 +9,55 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — August 06, 2026</title>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-08-06.mp3" length="7788717" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-08-06.mp3</guid>
+      <itunes:duration>8:06</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-08-06.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-08-06.json" type="application/json+chapters"/>
+      <description>Daily Digest — August 06, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-08-06.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-08-06.txt
+
+Chapters:
+0:34 — a16z Podcast — Enterprise adoption of open models and vLLM's role in the serving
+3:09 — Odd Lots — Why the Bank of Japan remains slow to raise interest rates despite pe
+5:46 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Naval fleet decline, commercial 
+
+Sources:
+- The Engine Powering Open-Source AI (a16z Podcast)
+  Link: https://a16z.simplecast.com/episodes/how-open-source-ai-became-critical-infrastructure-3yYJbsEz
+  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/40ae9846-5fcf-49d2-95de-fa631a615ad4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=40ae9846-5fcf-49d2-95de-fa631a615ad4&amp;feed=JGE3yC0V
+- Brad Setser on the US's Unusual Japanese Yen Intervention (Odd Lots)
+  Link: https://omny.fm/shows/odd-lots/brad-setser-on-the-uss-unusual-japanese-yen-intervention
+  Source audio: https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/09ad45b2-ee9c-4482-8700-b49d0161d97f/audio.mp3?utm_source=Podcast&amp;in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+- Saronic Founders: Autonomous Warships, China's 230X Advantage &amp; Swarms of Robot Ships (All-In with Chamath, Jason, Sacks &amp; Friedberg)
+  Link: https://allinchamathjason.libsyn.com/saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships
+  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_Saronic_Ch.mp3?dest-id=1928300</description>
+      <itunes:summary>Daily Digest — August 06, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-08-06.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-08-06.txt
+
+Chapters:
+0:34 — a16z Podcast — Enterprise adoption of open models and vLLM's role in the serving
+3:09 — Odd Lots — Why the Bank of Japan remains slow to raise interest rates despite pe
+5:46 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Naval fleet decline, commercial 
+
+Sources:
+- The Engine Powering Open-Source AI (a16z Podcast)
+  Link: https://a16z.simplecast.com/episodes/how-open-source-ai-became-critical-infrastructure-3yYJbsEz
+  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/40ae9846-5fcf-49d2-95de-fa631a615ad4/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=40ae9846-5fcf-49d2-95de-fa631a615ad4&amp;feed=JGE3yC0V
+- Brad Setser on the US's Unusual Japanese Yen Intervention (Odd Lots)
+  Link: https://omny.fm/shows/odd-lots/brad-setser-on-the-uss-unusual-japanese-yen-intervention
+  Source audio: https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/09ad45b2-ee9c-4482-8700-b49d0161d97f/audio.mp3?utm_source=Podcast&amp;in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+- Saronic Founders: Autonomous Warships, China's 230X Advantage &amp; Swarms of Robot Ships (All-In with Chamath, Jason, Sacks &amp; Friedberg)
+  Link: https://allinchamathjason.libsyn.com/saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships
+  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_Saronic_Ch.mp3?dest-id=1928300</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — August 05, 2026</title>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-08-05.mp3" length="7747629" type="audio/mpeg"/>
@@ -618,58 +667,6 @@ Sources:
 - Is AI a Bubble? | Gavin Baker on Data Centers, GPUs, and the AI Economy (a16z Podcast)
   Link: https://a16z.simplecast.com/episodes/is-ai-a-bubble-gavin-baker-on-data-centers-gpus-and-the-ai-economy-HMRKhpqK
   Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/44297d40-a3b7-4b37-8e5b-3fafa3243a05/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=44297d40-a3b7-4b37-8e5b-3fafa3243a05&amp;feed=JGE3yC0V</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — July 13, 2026</title>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-07-13.mp3" length="10189869" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-07-13.mp3</guid>
-      <itunes:duration>10:36</itunes:duration>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-07-13.json" type="application/json+chapters"/>
-      <description>Daily Digest — July 13, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-07-13.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-07-13.txt
-
-Chapters:
-1:04 — Apple Just Filed the Lawsuit That Could Destroy OpenAI
-4:08 — Why Everyone Is Drowning In Debt (and how to get out) - Caleb Hammer - #1123
-7:03 — How to Improve Your Memory &amp; Cognitive Function at Any Age | Dr. Alan Castel
-9:13 — Jocko Underground: Is It Possible to Get The Actual Truth From Modern Media?
-
-Sources:
-- Apple Just Filed the Lawsuit That Could Destroy OpenAI (Tom Bilyeu's Impact Theory)
-  Source audio: https://pscrb.fm/rss/p/pdrl.fm/02d1c6/tracking.swap.fm/track/2TbQRMLORjx6LKLZ4L5i/mgln.ai/e/1047/pfx.veritonicmetrics.com/quj9/s.gum.fm/s-5e30860bfeb6de005a728351/rss.art19.com/episodes/ef3c921c-6a03-490b-94d1-8253cebaade8.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
-- Why Everyone Is Drowning In Debt (and how to get out) - Caleb Hammer - #1123 (Modern Wisdom)
-  Source audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8612035080.mp3
-- How to Improve Your Memory &amp; Cognitive Function at Any Age | Dr. Alan Castel (Huberman Lab)
-  Link: https://www.hubermanlab.com/episode/how-to-improve-your-memory-and-cognitive-function-at-any-age-alan-castel
-  Source audio: https://traffic.megaphone.fm/SCIM5781519002.mp3
-- Jocko Underground: Is It Possible to Get The Actual Truth From Modern Media? (Jocko Podcast)
-  Link: http://jockopodcast.com
-  Source audio: https://audio3.redcircle.com/episodes/1d7dd9c3-c968-460f-9f70-bde877378620/stream.mp3</description>
-      <itunes:summary>Daily Digest — July 13, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-07-13.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-07-13.txt
-
-Chapters:
-1:04 — Apple Just Filed the Lawsuit That Could Destroy OpenAI
-4:08 — Why Everyone Is Drowning In Debt (and how to get out) - Caleb Hammer - #1123
-7:03 — How to Improve Your Memory &amp; Cognitive Function at Any Age | Dr. Alan Castel
-9:13 — Jocko Underground: Is It Possible to Get The Actual Truth From Modern Media?
-
-Sources:
-- Apple Just Filed the Lawsuit That Could Destroy OpenAI (Tom Bilyeu's Impact Theory)
-  Source audio: https://pscrb.fm/rss/p/pdrl.fm/02d1c6/tracking.swap.fm/track/2TbQRMLORjx6LKLZ4L5i/mgln.ai/e/1047/pfx.veritonicmetrics.com/quj9/s.gum.fm/s-5e30860bfeb6de005a728351/rss.art19.com/episodes/ef3c921c-6a03-490b-94d1-8253cebaade8.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
-- Why Everyone Is Drowning In Debt (and how to get out) - Caleb Hammer - #1123 (Modern Wisdom)
-  Source audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8612035080.mp3
-- How to Improve Your Memory &amp; Cognitive Function at Any Age | Dr. Alan Castel (Huberman Lab)
-  Link: https://www.hubermanlab.com/episode/how-to-improve-your-memory-and-cognitive-function-at-any-age-alan-castel
-  Source audio: https://traffic.megaphone.fm/SCIM5781519002.mp3
-- Jocko Underground: Is It Possible to Get The Actual Truth From Modern Media? (Jocko Podcast)
-  Link: http://jockopodcast.com
-  Source audio: https://audio3.redcircle.com/episodes/1d7dd9c3-c968-460f-9f70-bde877378620/stream.mp3</itunes:summary>
     </item>
   </channel>
 </rss>

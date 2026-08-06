@@ -1,0 +1,385 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:10.240
+The open source stack behind enterprise AI, why Japan is still reluctant to raise rates and the widening shipbuilding gap between the US and China.
+
+2
+00:00:10.240 --> 00:00:18.080
+Three clips, three systems under pressure from compute to currencies to national defense.
+
+3
+00:00:18.080 --> 00:00:33.920
+On the A16Z podcast, the team behind VLOM explains how its open source serving engine is becoming critical infrastructure for companies running open weight AI models and keeping control of their stack.
+
+4
+00:00:34.080 --> 00:00:42.160
+More and that point, open way model is already backing and become a cornerstone of how people are living every day.
+
+5
+00:00:42.160 --> 00:00:42.560
+Yeah.
+
+6
+00:00:42.560 --> 00:00:52.640
+And at that point, we will need the accelerator running open weight model and open weight software to open source software to make sure it works well.
+
+7
+00:00:52.640 --> 00:00:55.440
+Yeah, and have all flexibility and control over it.
+
+8
+00:00:55.440 --> 00:00:57.600
+Yeah, it's sort of interesting from a startup standpoint.
+
+9
+00:00:57.600 --> 00:01:06.320
+Like you mentioned, sort of GPT 3 or like early Chat GPT, those closed source solutions were starting to become critical to like a small group of people around that time.
+
+10
+00:01:06.640 --> 00:01:11.120
+And open source existed, but it was a little bit of a curiosity or sort of an enthusiast thing.
+
+11
+00:01:11.120 --> 00:01:19.840
+As the frontier has expanded, particularly with closed source models, more and more open source has been dragged in as kind of like critical behind it, like if that makes sense.
+
+12
+00:01:19.840 --> 00:01:29.280
+Like at any given point in time, including now, I think models from OpenAI and Anthropic are kind of more widely used and more critical kind of in general than open source models.
+
+13
+00:01:29.280 --> 00:01:43.600
+But I do think we passed a threshold and I want to say about a year ago, where a bunch of smaller companies or like new application companies, as they were trying to figure out how do I really build an AI without just being a wrapper on top of open AI.
+
+14
+00:01:43.600 --> 00:01:45.920
+The answer to that question turned out to be open source.
+
+15
+00:01:45.920 --> 00:01:47.680
+I mean, this is what Cursor did.
+
+16
+00:01:47.680 --> 00:01:58.000
+This is what sort of Dekagon and Harvey are in the process of doing now, and a bunch of other, like really, really strong application-level startups sort of made the determination we can't build just on closed source.
+
+17
+00:01:58.000 --> 00:02:02.600
+We need to do our own mid training, our own post-training, our own sort of inference and deployment tricks.
+
+18
+00:01:59.840 --> 00:02:05.080
+And all that means it must be built on top of open source.
+
+19
+00:02:05.240 --> 00:02:07.800
+The closed source vendors won't give you the access to do this.
+
+20
+00:02:07.800 --> 00:02:11.080
+So my read is like kind of a year ish ago.
+
+21
+00:02:11.080 --> 00:02:21.240
+Open source became really central in a way that's not always visible because it's deeply embedded in some of these products, but some of the most innovative products and applications now really depend on this very deeply.
+
+22
+00:02:21.240 --> 00:02:21.480
+Yeah.
+
+23
+00:02:21.480 --> 00:02:21.800
+Yeah.
+
+24
+00:02:21.800 --> 00:02:29.480
+And can you talk about where VLLM sits in that stack where we do have these larger enterprise companies that are choosing to use open source models?
+
+25
+00:02:29.480 --> 00:02:31.960
+Like where does VLLM sit in the stack for them?
+
+26
+00:02:31.960 --> 00:02:35.080
+Yeah, I mean, you should like just about everybody uses VLLM.
+
+27
+00:02:35.400 --> 00:02:35.960
+You should describe it.
+
+28
+00:02:36.120 --> 00:02:37.400
+Just about everybody uses VLM.
+
+29
+00:02:37.400 --> 00:02:39.720
+VLM is an inference engine.
+
+30
+00:02:39.720 --> 00:02:47.720
+That means its job is to turn available GPUs into a running endpoint for intelligence.
+
+31
+00:02:47.720 --> 00:02:53.480
+Open models only stay flexible if the serving layer remains open too.
+
+32
+00:02:53.480 --> 00:03:02.120
+On odd lots, Council on Foreign Relations, senior fellow Brad Setzer addresses a timely puzzle with persistent inflation and a weak yen.
+
+33
+00:03:02.120 --> 00:03:09.160
+Why is the bank of Japan still moving so slowly on interest rates?
+
+34
+00:03:09.160 --> 00:03:09.800
+Podcast.
+
+35
+00:03:09.880 --> 00:03:11.880
+So we do, in fact, have the perfect guest.
+
+36
+00:03:11.880 --> 00:03:16.520
+We are speaking once again with Brad Setzer, senior fellow at the Council on Foreign Relations.
+
+37
+00:03:16.520 --> 00:03:19.480
+So Brad, thank you so much for coming back on AllBots.
+
+38
+00:03:20.840 --> 00:03:24.440
+Maybe just to begin with, let me ask the obvious question.
+
+39
+00:03:24.440 --> 00:03:37.400
+If your currency is weakening to the degree that you think an intervention is necessary, why doesn't the BOJ, the central bank, just raise rates?
+
+40
+00:03:37.480 --> 00:03:39.960
+That is a very obvious question.
+
+41
+00:03:40.760 --> 00:03:46.240
+For whatever reason, the Bank of Japan has been very slow to raise rates.
+
+42
+00:03:44.840 --> 00:03:51.600
+Inflation's clearly above that.
+
+43
+00:03:46.240 --> 00:03:50.160
+So the short-term policy rates about one, it is one percent.
+
+44
+00:03:51.680 --> 00:03:52.800
+They're different measures.
+
+45
+00:03:52.800 --> 00:03:56.320
+Inflation's been above that for a long time.
+
+46
+00:03:56.320 --> 00:04:04.640
+The stated reasons for the hesitation is you know, the Bank of Japan has worked for so long to get inflation back to two.
+
+47
+00:04:04.640 --> 00:04:17.520
+They don't want to prematurely cut off this shift in uh behavior to kind of they don't want to fall back into the zero rate, uh zero inflation economy.
+
+48
+00:04:17.520 --> 00:04:21.040
+I think there's also probably a few technical reasons.
+
+49
+00:04:21.040 --> 00:04:30.080
+They I'm sure that UEDA wanted uh the yield curve to steepen, and it has a lot uh before short-term rates went up.
+
+50
+00:04:30.080 --> 00:04:33.680
+And you know, short-term rates affect the cost of all the yen deposits.
+
+51
+00:04:33.680 --> 00:04:37.360
+So it's a they impact the liability side of the banking system.
+
+52
+00:04:37.360 --> 00:04:42.480
+The banks have a lot of low-yielding assets on their balance sheet, so does the bank of Japan.
+
+53
+00:04:42.480 --> 00:04:49.760
+So there may be some concern about pushing up the cost of funding on the banking side too fast.
+
+54
+00:04:49.760 --> 00:04:59.200
+The theory of some in the market, not me, is that this is out of concern about how it impacts the government's overall funding cost.
+
+55
+00:04:59.200 --> 00:05:05.600
+And that if you pushed up short-term rates, that would uh push up the fiscal deficit and interest cost too much.
+
+56
+00:05:05.600 --> 00:05:10.480
+I think that's a little overstated, but that is certainly one of the considerations.
+
+57
+00:05:10.640 --> 00:05:24.000
+I want to ask about why the yen has been so weak in the first place, but I actually before that, maybe we zoom out bigger because like weakness in East Asian currencies in general has been a story of 2020.
+
+58
+00:05:24.000 --> 00:05:27.120
+Currency intervention treats the pressure.
+
+59
+00:05:27.120 --> 00:05:30.760
+Rate policy gets closer to the cause.
+
+60
+00:05:29.760 --> 00:05:36.600
+On all in, the founders of autonomous ship company Saronic lay out the naval production gap.
+
+61
+00:05:36.840 --> 00:05:38.200
+296 U.S.
+
+62
+00:05:38.200 --> 00:05:44.840
+ships against a 355 ship mandate, while China's fleet and shipyards keep expanding.
+
+63
+00:05:49.720 --> 00:05:50.760
+So the U.S.
+
+64
+00:05:50.760 --> 00:05:53.240
+Naval Fleet has 296 ships today.
+
+65
+00:05:53.240 --> 00:06:01.320
+There's a congressional mandate, statutory minimum of 355 ships that was set by Congress in 2018.
+
+66
+00:06:01.320 --> 00:06:03.080
+That was eight years ago.
+
+67
+00:06:03.080 --> 00:06:09.480
+Last year, we built nine ships, but we retired 19 naval vessels.
+
+68
+00:06:09.480 --> 00:06:13.480
+So we're going in the wrong, like the completely wrong direction.
+
+69
+00:06:13.480 --> 00:06:16.760
+The Chinese delivered somewhere in the ballpark of 30 ships.
+
+70
+00:06:16.760 --> 00:06:21.800
+Their fleet size is around 370, they'll be at 450 before you know it.
+
+71
+00:06:21.800 --> 00:06:26.520
+But the commercial market is where that discrepancy lies, even larger, right?
+
+72
+00:06:26.520 --> 00:06:30.680
+They delivered over a thousand commercial ships last year.
+
+73
+00:06:30.680 --> 00:06:32.840
+The United States built five.
+
+74
+00:06:32.840 --> 00:06:33.240
+Five.
+
+75
+00:06:33.240 --> 00:06:34.520
+One, two, three, four, five.
+
+76
+00:06:34.520 --> 00:06:35.640
+One, two, three, four, five.
+
+77
+00:06:35.720 --> 00:06:36.760
+One hand.
+
+78
+00:06:36.760 --> 00:06:37.560
+Wow.
+
+79
+00:06:37.560 --> 00:06:46.200
+So if a conflict actually kicks off, and we saw this in the US in World War II, where we had the production capacity, where we're building thousands of vessels every year.
+
+80
+00:06:46.200 --> 00:06:51.720
+If a conflict kicks off, that commercial capacity isn't going to go to building cargo containers anymore.
+
+81
+00:06:51.720 --> 00:06:59.160
+It's all going to flip to defense capacity, and it's going to be building for what the Chinese Communist Party needs to win a conflict.
+
+82
+00:06:59.160 --> 00:07:01.080
+And that's what we have to be building towards.
+
+83
+00:07:01.080 --> 00:07:02.760
+That's what we're doing at Saronic.
+
+84
+00:07:02.760 --> 00:07:04.000
+That's why we're thinking about okay.
+
+85
+00:07:04.000 --> 00:07:05.400
+How do we build mass?
+
+86
+00:07:05.400 --> 00:07:08.360
+How do we build scale in whatever it is that we do?
+
+87
+00:07:08.360 --> 00:07:10.440
+And so how do you do it, Vib?
+
+88
+00:07:10.440 --> 00:07:16.960
+I would think, and listen, I'm a neophyte here, but if these are autonomous ships, well, you can remove things.
+
+89
+00:07:14.840 --> 00:07:21.920
+Like you don't need beds, you you don't need a commissary, and you don't need uh latrines.
+
+90
+00:07:22.000 --> 00:07:35.280
+And I don't know what percentage of a Corsair or battleship are there to uh support humans on the ship, but I gotta think it's half the mass of it is to is to keep humans on it.
+
+91
+00:07:35.440 --> 00:07:36.880
+Am I directionally correct?
+
+92
+00:07:36.880 --> 00:07:39.680
+I think half is a little half a little excessive, but okay.
+
+93
+00:07:52.320 --> 00:08:00.320
+The wartime risk isn't just fleet size, it's whether lost ships can be replaced fast enough.
+
+94
+00:08:00.320 --> 00:08:03.040
+That's today's daily rundown.
+
+95
+00:08:03.040 --> 00:08:04.400
+Thanks for listening.
+
+96
+00:08:04.400 --> 00:08:06.400
+We'll be back tomorrow.

@@ -1,0 +1,96 @@
+The open source stack behind enterprise AI, why Japan is still reluctant to raise rates and the widening shipbuilding gap between the US and China.
+Three clips, three systems under pressure from compute to currencies to national defense.
+On the A16Z podcast, the team behind VLOM explains how its open source serving engine is becoming critical infrastructure for companies running open weight AI models and keeping control of their stack.
+More and that point, open way model is already backing and become a cornerstone of how people are living every day.
+Yeah.
+And at that point, we will need the accelerator running open weight model and open weight software to open source software to make sure it works well.
+Yeah, and have all flexibility and control over it.
+Yeah, it's sort of interesting from a startup standpoint.
+Like you mentioned, sort of GPT 3 or like early Chat GPT, those closed source solutions were starting to become critical to like a small group of people around that time.
+And open source existed, but it was a little bit of a curiosity or sort of an enthusiast thing.
+As the frontier has expanded, particularly with closed source models, more and more open source has been dragged in as kind of like critical behind it, like if that makes sense.
+Like at any given point in time, including now, I think models from OpenAI and Anthropic are kind of more widely used and more critical kind of in general than open source models.
+But I do think we passed a threshold and I want to say about a year ago, where a bunch of smaller companies or like new application companies, as they were trying to figure out how do I really build an AI without just being a wrapper on top of open AI.
+The answer to that question turned out to be open source.
+I mean, this is what Cursor did.
+This is what sort of Dekagon and Harvey are in the process of doing now, and a bunch of other, like really, really strong application-level startups sort of made the determination we can't build just on closed source.
+We need to do our own mid training, our own post-training, our own sort of inference and deployment tricks.
+And all that means it must be built on top of open source.
+The closed source vendors won't give you the access to do this.
+So my read is like kind of a year ish ago.
+Open source became really central in a way that's not always visible because it's deeply embedded in some of these products, but some of the most innovative products and applications now really depend on this very deeply.
+Yeah.
+Yeah.
+And can you talk about where VLLM sits in that stack where we do have these larger enterprise companies that are choosing to use open source models?
+Like where does VLLM sit in the stack for them?
+Yeah, I mean, you should like just about everybody uses VLLM.
+You should describe it.
+Just about everybody uses VLM.
+VLM is an inference engine.
+That means its job is to turn available GPUs into a running endpoint for intelligence.
+Open models only stay flexible if the serving layer remains open too.
+On odd lots, Council on Foreign Relations, senior fellow Brad Setzer addresses a timely puzzle with persistent inflation and a weak yen.
+Why is the bank of Japan still moving so slowly on interest rates?
+Podcast.
+So we do, in fact, have the perfect guest.
+We are speaking once again with Brad Setzer, senior fellow at the Council on Foreign Relations.
+So Brad, thank you so much for coming back on AllBots.
+Maybe just to begin with, let me ask the obvious question.
+If your currency is weakening to the degree that you think an intervention is necessary, why doesn't the BOJ, the central bank, just raise rates?
+That is a very obvious question.
+For whatever reason, the Bank of Japan has been very slow to raise rates.
+Inflation's clearly above that.
+So the short-term policy rates about one, it is one percent.
+They're different measures.
+Inflation's been above that for a long time.
+The stated reasons for the hesitation is you know, the Bank of Japan has worked for so long to get inflation back to two.
+They don't want to prematurely cut off this shift in uh behavior to kind of they don't want to fall back into the zero rate, uh zero inflation economy.
+I think there's also probably a few technical reasons.
+They I'm sure that UEDA wanted uh the yield curve to steepen, and it has a lot uh before short-term rates went up.
+And you know, short-term rates affect the cost of all the yen deposits.
+So it's a they impact the liability side of the banking system.
+The banks have a lot of low-yielding assets on their balance sheet, so does the bank of Japan.
+So there may be some concern about pushing up the cost of funding on the banking side too fast.
+The theory of some in the market, not me, is that this is out of concern about how it impacts the government's overall funding cost.
+And that if you pushed up short-term rates, that would uh push up the fiscal deficit and interest cost too much.
+I think that's a little overstated, but that is certainly one of the considerations.
+I want to ask about why the yen has been so weak in the first place, but I actually before that, maybe we zoom out bigger because like weakness in East Asian currencies in general has been a story of 2020.
+Currency intervention treats the pressure.
+Rate policy gets closer to the cause.
+On all in, the founders of autonomous ship company Saronic lay out the naval production gap.
+296 U.S.
+ships against a 355 ship mandate, while China's fleet and shipyards keep expanding.
+So the U.S.
+Naval Fleet has 296 ships today.
+There's a congressional mandate, statutory minimum of 355 ships that was set by Congress in 2018.
+That was eight years ago.
+Last year, we built nine ships, but we retired 19 naval vessels.
+So we're going in the wrong, like the completely wrong direction.
+The Chinese delivered somewhere in the ballpark of 30 ships.
+Their fleet size is around 370, they'll be at 450 before you know it.
+But the commercial market is where that discrepancy lies, even larger, right?
+They delivered over a thousand commercial ships last year.
+The United States built five.
+Five.
+One, two, three, four, five.
+One, two, three, four, five.
+One hand.
+Wow.
+So if a conflict actually kicks off, and we saw this in the US in World War II, where we had the production capacity, where we're building thousands of vessels every year.
+If a conflict kicks off, that commercial capacity isn't going to go to building cargo containers anymore.
+It's all going to flip to defense capacity, and it's going to be building for what the Chinese Communist Party needs to win a conflict.
+And that's what we have to be building towards.
+That's what we're doing at Saronic.
+That's why we're thinking about okay.
+How do we build mass?
+How do we build scale in whatever it is that we do?
+And so how do you do it, Vib?
+I would think, and listen, I'm a neophyte here, but if these are autonomous ships, well, you can remove things.
+Like you don't need beds, you you don't need a commissary, and you don't need uh latrines.
+And I don't know what percentage of a Corsair or battleship are there to uh support humans on the ship, but I gotta think it's half the mass of it is to is to keep humans on it.
+Am I directionally correct?
+I think half is a little half a little excessive, but okay.
+The wartime risk isn't just fleet size, it's whether lost ships can be replaced fast enough.
+That's today's daily rundown.
+Thanks for listening.
+We'll be back tomorrow.

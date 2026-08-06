@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-06",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-06_20260806T200141Z_47812/clip_sources/2c2d58ad5884f553/01_vLLM_as_the_hardware-model_interoperability_layer.mp3",
+      "source": "The Engine Powering Open-Source AI",
+      "start_time": 453,
+      "end_time": 578,
+      "topic": "vLLM as the hardware-model interoperability layer"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-06_20260806T200141Z_47812/clip_sources/85a8885191808f6f/01_Why_East_Asian_currencies_are_weakening_despite_re.mp3",
+      "source": "Brad Setser on the US's Unusual Japanese Yen Intervention",
+      "start_time": 446,
+      "end_time": 636,
+      "topic": "Why East Asian currencies are weakening despite record semiconductor-driven trade surpluses"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-06_20260806T200141Z_47812/clip_sources/9a0d433b802a9365/01_Designing_autonomous_ships_by_removing_human-suppo.mp3",
+      "source": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
+      "start_time": 501,
+      "end_time": 622,
+      "topic": "Designing autonomous ships by removing human-support systems"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
