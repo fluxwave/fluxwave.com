@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-06",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-06_20260806T202110Z_65865/clip_sources/2c2d58ad5884f553/01_vLLMs_role_as_the_infrastructure_layer_connecting.mp3",
+      "source": "The Engine Powering Open-Source AI",
+      "start_time": 384,
+      "end_time": 576,
+      "topic": "vLLM's role as the infrastructure layer connecting GPUs to model endpoints"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-06_20260806T202110Z_65865/clip_sources/85a8885191808f6f/01_Why_the_Bank_of_Japan_remains_reluctant_to_raise_i.mp3",
+      "source": "Brad Setser on the US's Unusual Japanese Yen Intervention",
+      "start_time": 313,
+      "end_time": 446,
+      "topic": "Why the Bank of Japan remains reluctant to raise interest rates despite persistent inflation and yen weakness"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-06_20260806T202110Z_65865/clip_sources/060ea1c8f52f451b/01_Operational_safety_of_far-UVC_compared_with_infrar.mp3",
+      "source": "The economics of putting germicidal light in every room, with Misha Gurevich and Vivian Belenky of Aerolamp",
+      "start_time": 417,
+      "end_time": 557,
+      "topic": "Operational safety of far-UVC compared with infrared lasers"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

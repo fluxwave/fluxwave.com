@@ -1,0 +1,357 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:09.440
+Open weight AI as infrastructure, the currency effects of Asia's chip boom, and whether germicidal light belongs in every room.
+
+2
+00:00:09.440 --> 00:00:16.000
+Three clips with the technical and economic stakes up front.
+
+3
+00:00:16.000 --> 00:00:26.560
+On the A16Z podcast, the engine powering open source AI traces how platforms for running powerful open weight models became critical infrastructure.
+
+4
+00:00:26.560 --> 00:00:33.600
+And why that matters if you're building AI products that need real differentiation.
+
+5
+00:00:33.600 --> 00:00:36.880
+And so BLLM really from the early days, right?
+
+6
+00:00:36.880 --> 00:00:38.960
+Was about running these more powerful models.
+
+7
+00:00:38.960 --> 00:00:41.680
+Yeah, that you couldn't just sort of do it, figure it out on your own.
+
+8
+00:00:41.680 --> 00:00:42.160
+Yeah.
+
+9
+00:00:42.160 --> 00:00:42.880
+Yeah.
+
+10
+00:00:42.880 --> 00:00:55.760
+And I think to get us to this present day, I think it would be good to talk about kind of at what point it really became critical infrastructure for these even larger open source models.
+
+11
+00:00:55.760 --> 00:01:01.360
+And when did we even start to see these larger open source models kind of come into the field?
+
+12
+00:01:01.760 --> 00:01:10.960
+Well, we really see the criticality of the software stack is always about bringing open frontier intelligence.
+
+13
+00:01:10.960 --> 00:01:16.160
+This is open frontier intelligence is the cash phrase for the K3 model release this time.
+
+14
+00:01:16.160 --> 00:01:20.240
+And it's also about VLM's mission about inferencing infrastructure.
+
+15
+00:01:20.240 --> 00:01:23.600
+So if we look at it, when do they start being critical?
+
+16
+00:01:23.600 --> 00:01:29.680
+Is when people are relying on it for their application for their day-to-day productivity.
+
+17
+00:01:29.680 --> 00:01:38.480
+So maybe 2023, when GitHub Copilot and ChatGPT are something that people just cannot live out with anymore.
+
+18
+00:01:38.480 --> 00:01:45.840
+And that point, open weight model is already backing and become a cornerstone of how people are living every day.
+
+19
+00:01:45.840 --> 00:01:46.240
+Yeah.
+
+20
+00:01:46.240 --> 00:01:56.320
+And at that point, we will need the accelerator running open weight model and open weight software to open source software to make sure it works well.
+
+21
+00:01:56.320 --> 00:01:59.040
+Yeah, and have all flexibility and control over it.
+
+22
+00:01:59.040 --> 00:02:01.080
+Yeah, it's sort of interesting from a startup standpoint.
+
+23
+00:02:01.240 --> 00:02:09.960
+Like you mentioned, sort of GPT 3 or like early chat GPT, those closed source solutions were starting to become critical to like a small group of people around that time.
+
+24
+00:02:10.280 --> 00:02:14.760
+And open source existed, but it was a little bit of a curiosity or sort of an enthusiast thing.
+
+25
+00:02:14.760 --> 00:02:23.480
+As the frontier has expanded, particularly with closed source models, more and more open source has been dragged in as kind of like critical behind it, like if that makes sense.
+
+26
+00:02:23.480 --> 00:02:32.920
+Like at any given point in time, including now, I think models from OpenAI and Anthropic are kind of more widely used and more critical kind of in general than open source models.
+
+27
+00:02:32.920 --> 00:02:47.240
+But I do think we passed a threshold and I want to say about a year ago where a bunch of smaller companies or like new application companies, as they were trying to figure out how do I really build an AI without just being a wrapper on top of OpenAI?
+
+28
+00:02:47.240 --> 00:02:49.640
+The answer to that question turned out to be open source.
+
+29
+00:02:49.640 --> 00:02:51.320
+I mean, this is what Cursor did.
+
+30
+00:02:51.320 --> 00:03:01.640
+This is what sort of Decagon and Harvey are in the process of doing now, and a bunch of other like really, really strong application-level startups sort of made the determination we can't build just on closed source.
+
+31
+00:03:01.640 --> 00:03:06.280
+We need to do our own mid-training, our own post-training, our own sort of inference and deployment tricks.
+
+32
+00:03:06.280 --> 00:03:08.760
+And all of that means it must be built on top of open source.
+
+33
+00:03:08.840 --> 00:03:11.400
+The closed source vendors won't give you the access to do this.
+
+34
+00:03:11.400 --> 00:03:14.680
+So my read is like kind of a year-ish ago.
+
+35
+00:03:14.760 --> 00:03:20.280
+Open source became really central in a way that's not always visible because it's deeply embedded in some of these products.
+
+36
+00:03:20.280 --> 00:03:24.840
+But some of the most innovative products and applications now really depend on us very deeply.
+
+37
+00:03:24.840 --> 00:03:25.080
+Yeah.
+
+38
+00:03:25.160 --> 00:03:25.400
+Yeah.
+
+39
+00:03:25.400 --> 00:03:33.080
+And can you talk about where VLLM sits in that stack, where we do have these larger enterprise companies that are choosing to use open source models?
+
+40
+00:03:33.080 --> 00:03:35.400
+Like where does VLLM sit in the stack for them?
+
+41
+00:03:35.640 --> 00:03:39.400
+Yeah, I mean, you should add like just about everyone.
+
+42
+00:03:39.440 --> 00:03:45.000
+The strategic layer isn't only the model, it's the infrastructure that makes customization practice.
+
+43
+00:03:46.400 --> 00:04:01.520
+On odd lots, economist Brad sets or examines how Taiwan and South Korea limit currency appreciation, even as chip exports drive record trade surpluses, potentially hundreds of billions of dollars in Korea alone.
+
+44
+00:04:04.480 --> 00:04:11.760
+And like, you know, Korea's current account surplus is going to go from 100 billion and change to somewhere between three and 400 billion.
+
+45
+00:04:12.080 --> 00:04:12.960
+Massive.
+
+46
+00:04:15.120 --> 00:04:16.480
+And you know, it was big to begin with.
+
+47
+00:04:16.480 --> 00:04:21.120
+So we're doubling means going from like 15 to 25 to 30 percent of GDP.
+
+48
+00:04:21.120 --> 00:04:23.440
+These are insane numbers.
+
+49
+00:04:23.440 --> 00:04:26.640
+Uh with Taiwan, it's a bit different.
+
+50
+00:04:26.640 --> 00:04:33.440
+Uh the central bank doesn't want its currency to strengthen.
+
+51
+00:04:33.440 --> 00:04:45.200
+It has engineered uh a weakening of the Taiwan dollar compared to last year by reversing prudential regulations, basically letting the lifers unhedge their foreign assets.
+
+52
+00:04:45.200 --> 00:04:49.360
+And then with Taiwan in particular, it's almost one company, TSMC.
+
+53
+00:04:49.360 --> 00:04:49.760
+Okay.
+
+54
+00:04:49.760 --> 00:04:53.600
+And you can kind of lean on that company to tell it when it converts and when it doesn't.
+
+55
+00:04:53.600 --> 00:05:05.040
+Bloomberg actually did one of the best stories I've ever seen about the Central Bank of China Taipei and how it is managing Taiwan's dollar without actually using its balance sheet.
+
+56
+00:05:05.040 --> 00:05:06.160
+Korea is different.
+
+57
+00:05:06.160 --> 00:05:07.440
+Korea has been strange.
+
+58
+00:05:07.440 --> 00:05:20.400
+It's been this story where the better the news is for Korea, the more the Korean stock market goes up, the more foreign holders of Korean stocks have to sell because they're hitting concentration limits.
+
+59
+00:05:20.400 --> 00:05:34.760
+And that has created a weird situation where good news for the equities for Korea's equity, so you know, Heinrich and Samsung was leading to an outward flow and producing record weakness in the Korean wan.
+
+60
+00:05:34.760 --> 00:05:50.520
+That is layered on to outflows from the pension system that is layered on to this whole story about Korean day traders who used to buy levered US uh ETFs, single stock ETFs, and then Korea let them buy levered single stock Korean ETFs.
+
+61
+00:05:50.520 --> 00:05:52.440
+And that didn't turn out to be a great idea.
+
+62
+00:05:52.440 --> 00:06:01.880
+But you know, it's sort of we end up with a world where you have this enormous positive terms of trade shock, enormous, that is producing record weakness.
+
+63
+00:06:01.880 --> 00:06:11.720
+And that's in the it's in that context where we can think about the yen as being another of these country currencies that is you know kind of fundamentally okay.
+
+64
+00:06:12.360 --> 00:06:16.040
+Japan has a current account surplus of uh 5% of GDP.
+
+65
+00:06:16.040 --> 00:06:18.520
+It's investment income, it's not a trade.
+
+66
+00:06:18.520 --> 00:06:25.080
+Uh its trade accounts would be improving but for oil, thanks to the AI stuff.
+
+67
+00:06:25.080 --> 00:06:33.400
+So the AI hardware boom is reshaping exchange rates and trade politics, not just semiconductor profits.
+
+68
+00:06:51.720 --> 00:07:05.960
+So I've never seen a study that showed any significant, you know, biological activity down at the basal skin cell layer where you would worry about cancer if there was any damage to the DNA there.
+
+69
+00:07:05.960 --> 00:07:10.600
+Now, the story with the eyes is a little bit more complicated.
+
+70
+00:07:10.600 --> 00:07:18.800
+And this is because there isn't a convenient dead skin cell layer or dead eye cell layer, whatever that might mean to protect us.
+
+71
+00:07:18.800 --> 00:07:24.080
+But eyes are protected in the same way that are they are protected from sunlight.
+
+72
+00:07:24.080 --> 00:07:29.680
+We have eyelids, eyelashes, eyebrows, a brow ridge.
+
+73
+00:07:29.680 --> 00:07:33.360
+And all of these things reduce the effective dose to the eye.
+
+74
+00:07:33.360 --> 00:07:40.720
+So this does mean that, you know, despite these mechanical protections, the eye is more vulnerable.
+
+75
+00:07:40.720 --> 00:07:50.080
+There is the tear layer, which has some lipids and proteins, and that absorbs some of the Fourier UVC, but actually only about 15%.
+
+76
+00:07:50.080 --> 00:07:55.600
+The rest of the incident dose would be absorbed in the epithelium.
+
+77
+00:07:55.600 --> 00:08:02.880
+And this is a, you know, so a relatively lower dose might produce eye pain or discomfort.
+
+78
+00:08:02.880 --> 00:08:15.840
+The positive story there though is that this is still, even though these are living cells, they're still full of proteins, and the absorption is not to essentially totally stop after the first few cell layers.
+
+79
+00:08:15.840 --> 00:08:28.960
+So any chance of long-term damage is, in my opinion, fairly low, although we haven't, you know, this technology hasn't been around for long enough to do extremely long running studies.
+
+80
+00:08:28.960 --> 00:08:32.000
+There have been a few long run eye safety studies, actually.
+
+81
+00:08:32.000 --> 00:08:38.800
+There's a one one year one and one three year one going on in I think Japan.
+
+82
+00:08:38.800 --> 00:08:45.040
+But it does mean that the safe effective eye dose is lower than the safe effective skin dose.
+
+83
+00:08:45.120 --> 00:08:51.520
+We're still figuring out exactly what that is and exactly how to translate that into you know industry practice.
+
+84
+00:08:52.000 --> 00:08:55.360
+We're generally pretty conservative.
+
+85
+00:08:55.360 --> 00:09:06.040
+But the good news is is that it it's sort of like looking into a bright light where uh and not like looking into an infrared laser.
+
+86
+00:09:06.200 --> 00:09:17.480
+Where um if you feel any pain, that means that you flinch away and then you're not really worrying about long-term damage.
+
+87
+00:09:17.880 --> 00:09:24.200
+That distinction determines whether the technology can move from specialized settings into everyday rooms.
+
+88
+00:09:26.200 --> 00:09:29.000
+That's today's daily rundown.
+
+89
+00:09:29.000 --> 00:09:31.480
+See you tomorrow.

@@ -1,0 +1,89 @@
+Open weight AI as infrastructure, the currency effects of Asia's chip boom, and whether germicidal light belongs in every room.
+Three clips with the technical and economic stakes up front.
+On the A16Z podcast, the engine powering open source AI traces how platforms for running powerful open weight models became critical infrastructure.
+And why that matters if you're building AI products that need real differentiation.
+And so BLLM really from the early days, right?
+Was about running these more powerful models.
+Yeah, that you couldn't just sort of do it, figure it out on your own.
+Yeah.
+Yeah.
+And I think to get us to this present day, I think it would be good to talk about kind of at what point it really became critical infrastructure for these even larger open source models.
+And when did we even start to see these larger open source models kind of come into the field?
+Well, we really see the criticality of the software stack is always about bringing open frontier intelligence.
+This is open frontier intelligence is the cash phrase for the K3 model release this time.
+And it's also about VLM's mission about inferencing infrastructure.
+So if we look at it, when do they start being critical?
+Is when people are relying on it for their application for their day-to-day productivity.
+So maybe 2023, when GitHub Copilot and ChatGPT are something that people just cannot live out with anymore.
+And that point, open weight model is already backing and become a cornerstone of how people are living every day.
+Yeah.
+And at that point, we will need the accelerator running open weight model and open weight software to open source software to make sure it works well.
+Yeah, and have all flexibility and control over it.
+Yeah, it's sort of interesting from a startup standpoint.
+Like you mentioned, sort of GPT 3 or like early chat GPT, those closed source solutions were starting to become critical to like a small group of people around that time.
+And open source existed, but it was a little bit of a curiosity or sort of an enthusiast thing.
+As the frontier has expanded, particularly with closed source models, more and more open source has been dragged in as kind of like critical behind it, like if that makes sense.
+Like at any given point in time, including now, I think models from OpenAI and Anthropic are kind of more widely used and more critical kind of in general than open source models.
+But I do think we passed a threshold and I want to say about a year ago where a bunch of smaller companies or like new application companies, as they were trying to figure out how do I really build an AI without just being a wrapper on top of OpenAI?
+The answer to that question turned out to be open source.
+I mean, this is what Cursor did.
+This is what sort of Decagon and Harvey are in the process of doing now, and a bunch of other like really, really strong application-level startups sort of made the determination we can't build just on closed source.
+We need to do our own mid-training, our own post-training, our own sort of inference and deployment tricks.
+And all of that means it must be built on top of open source.
+The closed source vendors won't give you the access to do this.
+So my read is like kind of a year-ish ago.
+Open source became really central in a way that's not always visible because it's deeply embedded in some of these products.
+But some of the most innovative products and applications now really depend on us very deeply.
+Yeah.
+Yeah.
+And can you talk about where VLLM sits in that stack, where we do have these larger enterprise companies that are choosing to use open source models?
+Like where does VLLM sit in the stack for them?
+Yeah, I mean, you should add like just about everyone.
+The strategic layer isn't only the model, it's the infrastructure that makes customization practice.
+On odd lots, economist Brad sets or examines how Taiwan and South Korea limit currency appreciation, even as chip exports drive record trade surpluses, potentially hundreds of billions of dollars in Korea alone.
+And like, you know, Korea's current account surplus is going to go from 100 billion and change to somewhere between three and 400 billion.
+Massive.
+And you know, it was big to begin with.
+So we're doubling means going from like 15 to 25 to 30 percent of GDP.
+These are insane numbers.
+Uh with Taiwan, it's a bit different.
+Uh the central bank doesn't want its currency to strengthen.
+It has engineered uh a weakening of the Taiwan dollar compared to last year by reversing prudential regulations, basically letting the lifers unhedge their foreign assets.
+And then with Taiwan in particular, it's almost one company, TSMC.
+Okay.
+And you can kind of lean on that company to tell it when it converts and when it doesn't.
+Bloomberg actually did one of the best stories I've ever seen about the Central Bank of China Taipei and how it is managing Taiwan's dollar without actually using its balance sheet.
+Korea is different.
+Korea has been strange.
+It's been this story where the better the news is for Korea, the more the Korean stock market goes up, the more foreign holders of Korean stocks have to sell because they're hitting concentration limits.
+And that has created a weird situation where good news for the equities for Korea's equity, so you know, Heinrich and Samsung was leading to an outward flow and producing record weakness in the Korean wan.
+That is layered on to outflows from the pension system that is layered on to this whole story about Korean day traders who used to buy levered US uh ETFs, single stock ETFs, and then Korea let them buy levered single stock Korean ETFs.
+And that didn't turn out to be a great idea.
+But you know, it's sort of we end up with a world where you have this enormous positive terms of trade shock, enormous, that is producing record weakness.
+And that's in the it's in that context where we can think about the yen as being another of these country currencies that is you know kind of fundamentally okay.
+Japan has a current account surplus of uh 5% of GDP.
+It's investment income, it's not a trade.
+Uh its trade accounts would be improving but for oil, thanks to the AI stuff.
+So the AI hardware boom is reshaping exchange rates and trade politics, not just semiconductor profits.
+So I've never seen a study that showed any significant, you know, biological activity down at the basal skin cell layer where you would worry about cancer if there was any damage to the DNA there.
+Now, the story with the eyes is a little bit more complicated.
+And this is because there isn't a convenient dead skin cell layer or dead eye cell layer, whatever that might mean to protect us.
+But eyes are protected in the same way that are they are protected from sunlight.
+We have eyelids, eyelashes, eyebrows, a brow ridge.
+And all of these things reduce the effective dose to the eye.
+So this does mean that, you know, despite these mechanical protections, the eye is more vulnerable.
+There is the tear layer, which has some lipids and proteins, and that absorbs some of the Fourier UVC, but actually only about 15%.
+The rest of the incident dose would be absorbed in the epithelium.
+And this is a, you know, so a relatively lower dose might produce eye pain or discomfort.
+The positive story there though is that this is still, even though these are living cells, they're still full of proteins, and the absorption is not to essentially totally stop after the first few cell layers.
+So any chance of long-term damage is, in my opinion, fairly low, although we haven't, you know, this technology hasn't been around for long enough to do extremely long running studies.
+There have been a few long run eye safety studies, actually.
+There's a one one year one and one three year one going on in I think Japan.
+But it does mean that the safe effective eye dose is lower than the safe effective skin dose.
+We're still figuring out exactly what that is and exactly how to translate that into you know industry practice.
+We're generally pretty conservative.
+But the good news is is that it it's sort of like looking into a bright light where uh and not like looking into an infrared laser.
+Where um if you feel any pain, that means that you flinch away and then you're not really worrying about long-term damage.
+That distinction determines whether the technology can move from specialized settings into everyday rooms.
+That's today's daily rundown.
+See you tomorrow.

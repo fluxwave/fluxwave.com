@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-06",
+  "chapters": [
+    {
+      "startTime": 33.72,
+      "title": "a16z Podcast \u2014 Why open-weight models became critical infrastructure for differentiated AI applications"
+    },
+    {
+      "startTime": 243.496,
+      "title": "Odd Lots \u2014 How Taiwan and Korea suppress or distort currency appreciation despite booming chip exports"
+    },
+    {
+      "startTime": 411.192,
+      "title": "Complex Systems with Patrick McKenzie (patio11) \u2014 Eye safety, exposure limits, and the difference between temporary disc"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Engine Powering Open-Source AI",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/how-open-source-ai-became-critical-infrastructure-3yYJbsEz",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/40ae9846-5fcf-49d2-95de-fa631a615ad4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=40ae9846-5fcf-49d2-95de-fa631a615ad4&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-08-06T10:00:00+00:00"
+    },
+    {
+      "title": "Brad Setser on the US's Unusual Japanese Yen Intervention",
+      "podcast": "Odd Lots",
+      "link": "https://omny.fm/shows/odd-lots/brad-setser-on-the-uss-unusual-japanese-yen-intervention",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/09ad45b2-ee9c-4482-8700-b49d0161d97f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "transcript_url": "",
+      "published": "2026-08-06T08:00:00+00:00"
+    },
+    {
+      "title": "The economics of putting germicidal light in every room, with Misha Gurevich and Vivian Belenky of Aerolamp",
+      "podcast": "Complex Systems with Patrick McKenzie (patio11)",
+      "link": "https://www.complexsystemspodcast.com/the-economics-of-putting-germicidal-light-in-every-room/",
+      "audio_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/media.transistor.fm/9c03cc83/df608c7d.mp3",
+      "transcript_url": "",
+      "published": "2026-08-06T00:00:00-07:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-08-06.txt"
+}
