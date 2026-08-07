@@ -1,0 +1,345 @@
+WEBVTT
+
+1
+00:00:00.240 --> 00:00:11.760
+AI agents choosing the cheapest path into critical software, persistent AI coworkers reshaping cloud lock-in, and a warning on America's borrowing trajectory.
+
+2
+00:00:11.760 --> 00:00:19.280
+Three clips, three systems under pressure, software, enterprise data, and the federal debt.
+
+3
+00:00:19.280 --> 00:00:31.600
+From the A16Z podcast, experts from Truffle Security and Socket explain why an AI attacker might use leaked Apache admin credentials instead of hunting for a zero day.
+
+4
+00:00:31.600 --> 00:00:40.800
+As agentic models get more capable, their instinct for the lowest token path becomes a real supply chain risk.
+
+5
+00:00:41.840 --> 00:00:50.880
+And if you're in the shoes of the model and your goal is to get access to some data, certainly backdooring Apache is a pretty effective way to do it.
+
+6
+00:00:50.960 --> 00:00:56.320
+And to get access to Apache, are you going to use the secret that just allows you to directly log in?
+
+7
+00:00:56.320 --> 00:01:00.480
+Or are you gonna burn tokens and tokens and tokens and trying to find a zero day?
+
+8
+00:01:00.480 --> 00:01:04.080
+They're optimized to use the path of least tokens to accomplish their goals.
+
+9
+00:01:04.080 --> 00:01:08.480
+Of course, they're just gonna use the secret that's laying out there in the open to accomplish what they need to accomplish.
+
+10
+00:01:08.480 --> 00:01:20.480
+And so, yeah, I think supply chain and secrets are and have been the path of least resistance and will continue to be so as the models are incentivized to use fewer and fewer tokens to accomplish their goals.
+
+11
+00:01:20.480 --> 00:01:22.000
+Well, and I think that's absolutely right.
+
+12
+00:01:22.000 --> 00:01:24.400
+And I think it's that sort of chain of escalation, right?
+
+13
+00:01:24.400 --> 00:01:26.240
+Where if one thing fails, try another.
+
+14
+00:01:26.240 --> 00:01:31.440
+And at the top of that pyramid, right, the top of the hacker ecosystem is the zero day vulnerability, right?
+
+15
+00:01:31.440 --> 00:01:38.240
+That's basically finding a vulnerability that can be exploited in a product that everyone uses that you can use to basically unlock all the corporations.
+
+16
+00:01:38.240 --> 00:01:48.240
+And one of the really fascinating things about the breach disclosure that was made was that there's an incredibly popular CI CD tool that I think every enterprise uses that this thing just spat out a zero day for.
+
+17
+00:01:48.560 --> 00:01:48.880
+Right?
+
+18
+00:01:48.880 --> 00:01:52.640
+And that's just such a critical point in the supply chain that everyone should be thinking about.
+
+19
+00:01:52.640 --> 00:01:54.480
+Kind of how are you thinking about that?
+
+20
+00:01:54.480 --> 00:01:55.760
+That's really difficult.
+
+21
+00:01:55.760 --> 00:01:57.120
+Like the zero-day creation piece.
+
+22
+00:01:57.280 --> 00:01:57.600
+Yeah, yeah.
+
+23
+00:01:58.080 --> 00:02:00.520
+For specific parts of that, like the control of the supply chain.
+
+24
+00:01:59.840 --> 00:02:05.720
+Well, I mean, the whole world is built on this teetering infrastructure that everyone is using.
+
+25
+00:02:00.520 --> 00:02:01.400
+Yeah.
+
+26
+00:02:06.280 --> 00:02:09.720
+The classic picture of the match stick holding up the complicated machine.
+
+27
+00:02:10.200 --> 00:02:12.840
+That image probably pops into all the lines right now.
+
+28
+00:02:13.160 --> 00:02:17.640
+And so everything from package manager registries, like we like to focus on that because what we do at Socket.
+
+29
+00:02:17.640 --> 00:02:19.320
+A lot of those are run by volunteers.
+
+30
+00:02:19.320 --> 00:02:21.960
+They're under-resourced, underfunded.
+
+31
+00:02:21.960 --> 00:02:24.200
+There's lots of risk there, right?
+
+32
+00:02:24.200 --> 00:02:27.400
+And that kind of kind of cascades throughout the whole rest of the ecosystem.
+
+33
+00:02:27.400 --> 00:02:35.160
+So if you look at just the packages that we all depend on, a lot of those are single individuals that, like, there's almost certainly, you know, we know there's a lot of vulnerabilities in this software.
+
+34
+00:02:35.160 --> 00:02:37.160
+And there are resources to look for them.
+
+35
+00:02:37.160 --> 00:02:39.000
+And so I think that stuff's always been there.
+
+36
+00:02:39.000 --> 00:02:41.960
+It's just that these tools are like helping find them a lot easier.
+
+37
+00:02:41.960 --> 00:02:48.520
+And I think that the frontier models are gonna, they are causing kind of a massive reduction in the time between the vulnerability discovery.
+
+38
+00:02:49.800 --> 00:02:52.760
+The efficiency gain is also the threat.
+
+39
+00:02:52.760 --> 00:02:57.560
+Stolen credentials make the shortest path dangerously simple.
+
+40
+00:02:57.560 --> 00:03:02.600
+On the Dwarcash podcast, this is a prediction for continual learning AI.
+
+41
+00:03:02.600 --> 00:03:10.600
+Persistent coworkers that remember your work could make enterprise data and cloud switching costs even more strategic.
+
+42
+00:03:10.600 --> 00:03:18.360
+The question is who owns that accumulated context when your tools span multiple platforms?
+
+43
+00:03:18.360 --> 00:03:19.880
+Profit margins nonetheless.
+
+44
+00:03:19.880 --> 00:03:25.160
+You will have noticed this if you look at Amazon or Google's quarterly earnings, they're doing just fine.
+
+45
+00:03:25.160 --> 00:03:32.040
+But the reason that the cloud margins are so high is that it's really time consuming and expensive to switch from one cloud to another.
+
+46
+00:03:32.040 --> 00:03:41.000
+Currently, there's nothing that's stopping me from starting a software repository with codecs and then doing more work on it with cursor and then finishing it up with cloud code.
+
+47
+00:03:41.000 --> 00:03:50.240
+But once we have actual continual learning and the model you're working with is actually getting better as it interacts with you from session to session, then there are actually pretty significant switching costs.
+
+48
+00:03:50.400 --> 00:04:03.360
+If you want to change the AI that you're using, you basically have to fire an employee that has accumulated months of context on your organization and you replace them with a very fresh, very uh unexperienced new intern that you had to retrain from scratch.
+
+49
+00:04:03.360 --> 00:04:09.040
+And once you have this kind of lock-in, model providers can demand pretty hefty margins.
+
+50
+00:04:10.880 --> 00:04:13.440
+Really episode of a fashion term.
+
+51
+00:04:15.120 --> 00:04:15.760
+Seven.
+
+52
+00:04:15.760 --> 00:04:18.400
+Of course, enterprises will be wise to this kind of dynamic.
+
+53
+00:04:18.400 --> 00:04:20.640
+They will try to avoid this kind of lock-in.
+
+54
+00:04:20.640 --> 00:04:28.960
+But what if the choice is that you either get locked into a model provider or you lose out on this super valuable feature where your model improves for you from session to session?
+
+55
+00:04:28.960 --> 00:04:37.200
+If real usage ends up being the main way the models improve, then the AI labs may subsidize users in enterprises, which allow the model to train on their sessions.
+
+56
+00:04:37.200 --> 00:04:42.560
+This is already happening if you look at the kinds of deals that are offered to new users of coding products.
+
+57
+00:04:42.560 --> 00:04:45.040
+This is very similar to why Google gives away search.
+
+58
+00:04:45.040 --> 00:04:52.080
+And conversely, the labs may say that any enterprise that refuses to let them train on the sessions can't have access to the very best models.
+
+59
+00:04:52.080 --> 00:04:57.840
+With both Keras and Sticks, the labs can do a lot to get users to allow AIs to learn from experience.
+
+60
+00:04:57.840 --> 00:05:06.240
+Now, of course, I'm glossing over the fact that there's a difference between updating one user set of weights and pulling all these different weight forks back into the main model.
+
+61
+00:05:06.240 --> 00:05:10.560
+And the latter may be more technically challenging, but in due time, this too will be solved.
+
+62
+00:05:10.560 --> 00:05:13.760
+Eight, AI training already has large economies of scale.
+
+63
+00:05:13.760 --> 00:05:17.360
+You get to amortize all this expensive training across more users.
+
+64
+00:05:17.360 --> 00:05:21.080
+And you see the evidence for this in the fact that the Ross B.
+
+65
+00:05:21.240 --> 00:05:23.840
+Today's cloud lock-in is infrastructure.
+
+66
+00:05:23.840 --> 00:05:28.880
+Persistent agents could add memory and workflow lock-in on top.
+
+67
+00:05:28.880 --> 00:05:35.480
+Free economics radio looks back at the last financial crash and forward to rising federal borrowing.
+
+68
+00:05:35.960 --> 00:05:46.520
+You're about to hear why the Treasury yield curve, global savings, and higher real interest rates could determine when an unsustainable path finally becomes a crisis.
+
+69
+00:05:48.840 --> 00:05:50.600
+And I think we lost something.
+
+70
+00:05:50.600 --> 00:05:58.760
+Our first 200 or so years, the capital markets and the political markets were aligned where we couldn't borrow too much.
+
+71
+00:05:58.760 --> 00:06:01.960
+And then something shifted about 40, 50 years ago.
+
+72
+00:06:25.800 --> 00:06:27.240
+That's the debate.
+
+73
+00:06:33.800 --> 00:06:39.880
+This is from Jessica Riedel, who's at Brookings now used to be at Manhattan Institute, so both sides of the divide.
+
+74
+00:06:39.880 --> 00:06:53.480
+She says, Do you think that financial markets can absorb 200 trillion dollars in projected budget deficit borrowing over the next 30 years under the current policy baseline without interest rates significantly rising?
+
+75
+00:06:53.640 --> 00:07:01.920
+I would just add, I don't know if interest rates significantly rising is the biggest threat, or as you noted, people are still buying our debt, but that could stop too.
+
+76
+00:07:01.560 --> 00:07:03.760
+The answer to Jessica would be no.
+
+77
+00:07:04.000 --> 00:07:11.600
+I look at something in the capital markets, the spread between two-year borrowing treasury and 10-year borrowing.
+
+78
+00:07:11.600 --> 00:07:13.760
+It's called the yield curve.
+
+79
+00:07:13.720 --> 00:07:29.520
+And something happened over the last 20 or so years that narrowed, meaning the cost of borrowing for 10 years is only 40 to 50 basis points or a half a percent greater than for two-year debt on average.
+
+80
+00:07:29.520 --> 00:07:31.680
+For some time it was even less.
+
+81
+00:07:31.680 --> 00:07:37.280
+And when I grew up at Goldman Sachs, it usually was in the 80 to 100 basis points.
+
+82
+00:07:37.280 --> 00:07:42.400
+You'd say, well, again, sir, what's 30 or 50 basis points between and amongst friends?
+
+83
+00:07:42.400 --> 00:07:50.800
+But the central banks around the globe, plus China's excess savings pulled that down.
+
+84
+00:07:50.800 --> 00:07:53.760
+And it allowed the United States to lean in.
+
+85
+00:08:05.760 --> 00:08:06.880
+Thanks for listening.
+
+86
+00:08:06.880 --> 00:08:09.840
+We'll be back with the clips that matter tomorrow.

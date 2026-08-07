@@ -1,0 +1,86 @@
+AI agents choosing the cheapest path into critical software, persistent AI coworkers reshaping cloud lock-in, and a warning on America's borrowing trajectory.
+Three clips, three systems under pressure, software, enterprise data, and the federal debt.
+From the A16Z podcast, experts from Truffle Security and Socket explain why an AI attacker might use leaked Apache admin credentials instead of hunting for a zero day.
+As agentic models get more capable, their instinct for the lowest token path becomes a real supply chain risk.
+And if you're in the shoes of the model and your goal is to get access to some data, certainly backdooring Apache is a pretty effective way to do it.
+And to get access to Apache, are you going to use the secret that just allows you to directly log in?
+Or are you gonna burn tokens and tokens and tokens and trying to find a zero day?
+They're optimized to use the path of least tokens to accomplish their goals.
+Of course, they're just gonna use the secret that's laying out there in the open to accomplish what they need to accomplish.
+And so, yeah, I think supply chain and secrets are and have been the path of least resistance and will continue to be so as the models are incentivized to use fewer and fewer tokens to accomplish their goals.
+Well, and I think that's absolutely right.
+And I think it's that sort of chain of escalation, right?
+Where if one thing fails, try another.
+And at the top of that pyramid, right, the top of the hacker ecosystem is the zero day vulnerability, right?
+That's basically finding a vulnerability that can be exploited in a product that everyone uses that you can use to basically unlock all the corporations.
+And one of the really fascinating things about the breach disclosure that was made was that there's an incredibly popular CI CD tool that I think every enterprise uses that this thing just spat out a zero day for.
+Right?
+And that's just such a critical point in the supply chain that everyone should be thinking about.
+Kind of how are you thinking about that?
+That's really difficult.
+Like the zero-day creation piece.
+Yeah, yeah.
+For specific parts of that, like the control of the supply chain.
+Well, I mean, the whole world is built on this teetering infrastructure that everyone is using.
+Yeah.
+The classic picture of the match stick holding up the complicated machine.
+That image probably pops into all the lines right now.
+And so everything from package manager registries, like we like to focus on that because what we do at Socket.
+A lot of those are run by volunteers.
+They're under-resourced, underfunded.
+There's lots of risk there, right?
+And that kind of kind of cascades throughout the whole rest of the ecosystem.
+So if you look at just the packages that we all depend on, a lot of those are single individuals that, like, there's almost certainly, you know, we know there's a lot of vulnerabilities in this software.
+And there are resources to look for them.
+And so I think that stuff's always been there.
+It's just that these tools are like helping find them a lot easier.
+And I think that the frontier models are gonna, they are causing kind of a massive reduction in the time between the vulnerability discovery.
+The efficiency gain is also the threat.
+Stolen credentials make the shortest path dangerously simple.
+On the Dwarcash podcast, this is a prediction for continual learning AI.
+Persistent coworkers that remember your work could make enterprise data and cloud switching costs even more strategic.
+The question is who owns that accumulated context when your tools span multiple platforms?
+Profit margins nonetheless.
+You will have noticed this if you look at Amazon or Google's quarterly earnings, they're doing just fine.
+But the reason that the cloud margins are so high is that it's really time consuming and expensive to switch from one cloud to another.
+Currently, there's nothing that's stopping me from starting a software repository with codecs and then doing more work on it with cursor and then finishing it up with cloud code.
+But once we have actual continual learning and the model you're working with is actually getting better as it interacts with you from session to session, then there are actually pretty significant switching costs.
+If you want to change the AI that you're using, you basically have to fire an employee that has accumulated months of context on your organization and you replace them with a very fresh, very uh unexperienced new intern that you had to retrain from scratch.
+And once you have this kind of lock-in, model providers can demand pretty hefty margins.
+Really episode of a fashion term.
+Seven.
+Of course, enterprises will be wise to this kind of dynamic.
+They will try to avoid this kind of lock-in.
+But what if the choice is that you either get locked into a model provider or you lose out on this super valuable feature where your model improves for you from session to session?
+If real usage ends up being the main way the models improve, then the AI labs may subsidize users in enterprises, which allow the model to train on their sessions.
+This is already happening if you look at the kinds of deals that are offered to new users of coding products.
+This is very similar to why Google gives away search.
+And conversely, the labs may say that any enterprise that refuses to let them train on the sessions can't have access to the very best models.
+With both Keras and Sticks, the labs can do a lot to get users to allow AIs to learn from experience.
+Now, of course, I'm glossing over the fact that there's a difference between updating one user set of weights and pulling all these different weight forks back into the main model.
+And the latter may be more technically challenging, but in due time, this too will be solved.
+Eight, AI training already has large economies of scale.
+You get to amortize all this expensive training across more users.
+And you see the evidence for this in the fact that the Ross B.
+Today's cloud lock-in is infrastructure.
+Persistent agents could add memory and workflow lock-in on top.
+Free economics radio looks back at the last financial crash and forward to rising federal borrowing.
+You're about to hear why the Treasury yield curve, global savings, and higher real interest rates could determine when an unsustainable path finally becomes a crisis.
+And I think we lost something.
+Our first 200 or so years, the capital markets and the political markets were aligned where we couldn't borrow too much.
+And then something shifted about 40, 50 years ago.
+That's the debate.
+This is from Jessica Riedel, who's at Brookings now used to be at Manhattan Institute, so both sides of the divide.
+She says, Do you think that financial markets can absorb 200 trillion dollars in projected budget deficit borrowing over the next 30 years under the current policy baseline without interest rates significantly rising?
+I would just add, I don't know if interest rates significantly rising is the biggest threat, or as you noted, people are still buying our debt, but that could stop too.
+The answer to Jessica would be no.
+I look at something in the capital markets, the spread between two-year borrowing treasury and 10-year borrowing.
+It's called the yield curve.
+And something happened over the last 20 or so years that narrowed, meaning the cost of borrowing for 10 years is only 40 to 50 basis points or a half a percent greater than for two-year debt on average.
+For some time it was even less.
+And when I grew up at Goldman Sachs, it usually was in the 80 to 100 basis points.
+You'd say, well, again, sir, what's 30 or 50 basis points between and amongst friends?
+But the central banks around the globe, plus China's excess savings pulled that down.
+And it allowed the United States to lean in.
+Thanks for listening.
+We'll be back with the clips that matter tomorrow.

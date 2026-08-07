@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-07",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-07_20260807T200145Z_59999/clip_sources/728ca9884a6e5030/01_Empirical_analysis_versus_political_consensus_foll.mp3",
+      "source": "684. He Helped Clean Up the Last Crash. Does He See Another One Coming?",
+      "start_time": 448,
+      "end_time": 579,
+      "topic": "Empirical analysis versus political consensus, followed by the scale and sustainability of U.S. federal debt"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-07_20260807T200145Z_59999/clip_sources/8a80fefa4a724b1b/01_Cybersecurity_reinforcement_learning_and_well-defi.mp3",
+      "source": "The Reality of AI-Powered Cyberattacks | Truffle Security & Socket",
+      "start_time": 497,
+      "end_time": 617,
+      "topic": "Cybersecurity reinforcement learning and well-defined agent reward functions"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

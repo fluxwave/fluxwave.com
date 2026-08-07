@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-07",
+  "chapters": [
+    {
+      "startTime": 41.096,
+      "title": "a16z Podcast \u2014 Leaked Apache administrative credentials, token-efficient agent behavior, and software-supply-chain compr"
+    },
+    {
+      "startTime": 198.608,
+      "title": "Dwarkesh Podcast \u2014 From persistent AI coworkers to enterprise data-sharing strategies"
+    },
+    {
+      "startTime": 348.536,
+      "title": "Freakonomics Radio \u2014 Projected federal borrowing, the Treasury yield curve, global savings, and the prospect of higher r"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Reality of AI-Powered Cyberattacks | Truffle Security & Socket",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/the-reality-of-ai-powered-cyberattacks-truffle-security-socket-vbyiWFXA",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/87281352-dde8-4d86-8aca-b732656f750d/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=87281352-dde8-4d86-8aca-b732656f750d&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-08-07T10:00:00+00:00"
+    },
+    {
+      "title": "8 Predictions for the Era of Continual Learning",
+      "podcast": "Dwarkesh Podcast",
+      "link": "https://www.dwarkesh.com/p/era-of-continual-learning",
+      "audio_url": "https://api.substack.com/feed/podcast/210233020/686ae8afcbedeb0c29bb1f3d5ff3ce2e.mp3",
+      "transcript_url": "",
+      "published": "2026-08-07T17:17:40+00:00"
+    },
+    {
+      "title": "684. He Helped Clean Up the Last Crash. Does He See Another One Coming?",
+      "podcast": "Freakonomics Radio",
+      "link": "https://freakonomics.com",
+      "audio_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=58e5acb7-f1e6-4eb6-baf2-f2284d44d0b0&feed=Y8lFbOT4",
+      "transcript_url": "",
+      "published": "2026-08-07T10:00:00+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-08-07.txt"
+}
