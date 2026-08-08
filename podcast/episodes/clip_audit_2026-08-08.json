@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-08",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-08_20260808T200641Z_42897/clip_sources/cfea4fb72ca762b7/01_Investor_labels_Federal_Reserve_policy_and_whether.mp3",
+      "source": "David Rosenberg and Rich Bernstein on What Ends the AI Trade \u2014 And What They Own Instead",
+      "start_time": 343,
+      "end_time": 523,
+      "topic": "Investor labels, Federal Reserve policy, and whether current data justify rate hikes"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-08_20260808T200641Z_42897/clip_sources/2a2868156e749605/01_Escaping_remote-work_purgatory_funding_extended_tr.mp3",
+      "source": "Optimizing Life and Finances in Your Twenties with Jack Raines",
+      "start_time": 311,
+      "end_time": 495,
+      "topic": "Escaping remote-work purgatory, funding extended travel through SPAC trading, and taking calculated career risks"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-08_20260808T200641Z_42897/clip_sources/f13bb6f4a6cc3fb9/01_AI_market_structure_frontier-model_duopoly_versus.mp3",
+      "source": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
+      "start_time": 675,
+      "end_time": 795,
+      "topic": "AI market structure: frontier-model duopoly versus commodity intelligence"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

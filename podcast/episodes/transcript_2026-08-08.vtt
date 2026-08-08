@@ -1,0 +1,341 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:02.480
+Google's AI brain drain.
+
+2
+00:00:02.480 --> 00:00:10.800
+Why the Fed's own math may argue for higher rates and how to invest without sacrificing the experiences that expire.
+
+3
+00:00:10.800 --> 00:00:20.800
+Three clips, three trade-offs, compute versus models, inflation versus growth, and compounding versus actually living.
+
+4
+00:00:20.800 --> 00:00:33.440
+On all in, the panel looks at why Google, despite building a chat GPT-like system early, may favor the steadier economics of AI compute infrastructure over the frontier model race.
+
+5
+00:00:33.440 --> 00:00:38.400
+With Deep Seek V4 Flash landing today, that choice matters.
+
+6
+00:00:38.400 --> 00:00:45.360
+Cheaper models can shift more leverage toward whoever owns the infrastructure.
+
+7
+00:00:48.720 --> 00:01:02.720
+You can look at some of the early interviews with Jeff Dean from a couple of years ago, where they actually had a chat GPT equivalent internally a year before ChatGPT came out from OpenAI, Google chose not to release it for fear of cannibalizing search and so on.
+
+8
+00:01:02.720 --> 00:01:06.400
+That's when Sergei stepped in, and there was this whole kind of revitalization.
+
+9
+00:01:06.400 --> 00:01:25.200
+But as time has gone on, and as everyone has competed on models, as we've talked about many times on the show, I think it's pretty obvious that it is very hard to get the same sort of return on capital invested in model development as it is in capital invested on compute infrastructure and being model agnostic.
+
+10
+00:01:25.200 --> 00:01:31.280
+What Google has is probably one of the greatest install enterprise bases in the world for compute.
+
+11
+00:01:31.280 --> 00:01:34.400
+So they have the most enterprise customers, they have the most consumers.
+
+12
+00:01:34.400 --> 00:01:40.000
+And in both cases, they don't necessarily need to have the best model to make an incredible business.
+
+13
+00:01:40.000 --> 00:01:51.560
+They can be model agnostic, they can work with anthropic, they can work with open AI, they can work with SpaceX, they have a significant ownership stake in SpaceX and in Anthropic, and they can work with all the open weights models.
+
+14
+00:01:51.560 --> 00:01:52.640
+They can host them all.
+
+15
+00:01:52.640 --> 00:02:10.120
+So now, if you're one of the great computer scientists, your demis, your Jeff Dean, you're this whole crew, and you're inside of Google and they're allocating capital not to your models, not to the things that you're most interested in, but they're allocating capital to infrastructure and data centers and supporting the broad ecosystem of models.
+
+16
+00:02:10.120 --> 00:02:21.240
+You start to say, well, given the fact that I can go down the road and visit Brad Gersner and a couple other people and raise a couple billion dollars at a multi-billion dollar pre-money with a PowerPoint deck, because I'm the greatest in the world at doing this.
+
+17
+00:02:21.240 --> 00:02:23.000
+That might be a better path for me.
+
+18
+00:02:23.000 --> 00:02:24.200
+And I think that that's the moment.
+
+19
+00:02:24.200 --> 00:02:32.040
+So I the way I would frame it is CapEx is high alpha, low beta in data center infrastructure, that capital.
+
+20
+00:02:32.040 --> 00:02:37.640
+And model development theoretically could be high alpha, but it's very high beta.
+
+21
+00:02:37.640 --> 00:02:39.960
+It's a very risky way to deploy capital.
+
+22
+00:02:39.960 --> 00:02:46.120
+So if I'm the board, I'm the management, I'm deploying more capital in compute and infrastructure, less capital into model development.
+
+23
+00:02:46.120 --> 00:02:47.240
+That's what I think is going on.
+
+24
+00:02:47.240 --> 00:02:49.160
+Brad, what's your take on this?
+
+25
+00:02:49.160 --> 00:02:51.160
+I think.
+
+26
+00:03:25.880 --> 00:03:33.480
+I think you've been commenting on the internal models, not necessarily with your external commentary, that the Fed, by their own definition, should be hiking.
+
+27
+00:03:33.480 --> 00:03:41.560
+Can we talk a little bit about how that, how that morphs and how you're looking at your own data versus what you're actually thinking they're gonna do?
+
+28
+00:03:41.560 --> 00:03:42.120
+Yeah.
+
+29
+00:03:42.120 --> 00:03:46.480
+So you you've started out on topic here that Dave and I may disagree.
+
+30
+00:03:44.520 --> 00:03:48.720
+We may have some disagreement right at the beginning.
+
+31
+00:03:48.960 --> 00:04:09.200
+But but um look, I think what we tried to point out, not so much that that their own models are saying they should hype, but um, you know, for many, many years, there was this notion in conservative monetary circles that the Taylor rule was the be-all of the end-all.
+
+32
+00:04:09.200 --> 00:04:11.600
+I'm not sure I subscribe to that, by the way.
+
+33
+00:04:11.600 --> 00:04:14.320
+But, you know, that that was that was the story.
+
+34
+00:04:14.320 --> 00:04:28.160
+That the Taylor rule said that the Fed should be hiking rates, and therefore, whether it was Vernaki or Yellen or who whoever was the Fed chair, that they were they were uh lowering rates and and they shouldn't be.
+
+35
+00:04:28.240 --> 00:04:31.760
+It was the wrong policy because the Taylor rule said they shouldn't be.
+
+36
+00:04:31.760 --> 00:04:49.440
+And so all I've really done in my commentary over the past year or so is kind of poke people about that and say, hey, you know, how come the Taylor rule was was the the Rosetta stone, if you will, of conservative monetary policy, and now nobody talks about it.
+
+37
+00:04:49.440 --> 00:05:00.480
+And the reason nobody talks about it is because the the Atlanta Fed has 30 different versions of the Taylor rule, and they do that on purpose because if you have one version, people say, Oh, you're using the wrong version.
+
+38
+00:05:00.480 --> 00:05:03.520
+So the Atlanta Fed has 30 different versions.
+
+39
+00:05:03.520 --> 00:05:07.760
+All 30 suggest that the Fed should be hiking rates.
+
+40
+00:05:07.760 --> 00:05:18.640
+So the reason I bring that up is not so much to say that the Fed should be hiking rates, although I personally believe they should be hiking rates given some of the other economic data that's gone.
+
+41
+00:05:18.640 --> 00:05:35.320
+Um, but to kind of say, like, what happened to all of you conservative economists that were saying for so long that monetary policy was too loose, and now the model is clearly the Taylor rule is clearly, no matter how you want to configure it, is clearly saying that the Fed should be hiking rates.
+
+42
+00:05:35.320 --> 00:05:36.280
+Where are you guys?
+
+43
+00:05:36.280 --> 00:05:37.800
+How come you're all mute?
+
+44
+00:05:37.800 --> 00:05:39.880
+That that doesn't make a lot of sense to me.
+
+45
+00:05:39.880 --> 00:05:45.800
+And so I'm not sure I would argue it's I I think that they should raise rates because of the Taylor rule.
+
+46
+00:05:45.800 --> 00:05:54.040
+I think there's other better reasons, but it's really just kind of poking people and having a little fun with people in politics.
+
+47
+00:05:54.200 --> 00:06:00.440
+Restraint points for no poking the bear references directed at your code guest here in this seat.
+
+48
+00:06:00.440 --> 00:06:02.600
+Dave, what it what are you thinking about that?
+
+49
+00:06:02.600 --> 00:06:04.840
+Because you've been talking about the Fed in a different way.
+
+50
+00:06:04.840 --> 00:06:06.120
+Which camp are you in?
+
+51
+00:06:06.120 --> 00:06:07.960
+Give us the view on hikes.
+
+52
+00:06:07.960 --> 00:06:15.960
+Well, I I don't think that um I don't think the Fed should be hiking rates.
+
+53
+00:06:15.960 --> 00:06:19.720
+I understand the arguments as to why they should.
+
+54
+00:06:19.720 --> 00:06:21.560
+Uh I don't agree with them.
+
+55
+00:06:21.560 --> 00:06:27.240
+And um, you know, the Taylor rule, and there's as Rich said, there's dozens of different versions.
+
+56
+00:06:27.240 --> 00:06:37.480
+They all have a a lot of assumptions behind them, especially on the appropriate real interest rate and what measure of inflation expectations are you really using.
+
+57
+00:06:37.560 --> 00:06:43.960
+Higher for longer rates would make today's expensive growth bets much harder to justify.
+
+58
+00:06:43.960 --> 00:06:55.640
+On masters and business, Jack Rains explains stage-specific investing, protecting decades of compound growth while spending on experiences with real expiration dates.
+
+59
+00:06:55.720 --> 00:07:03.840
+It's a useful framework for younger listeners deciding when saving more is smart and when waiting carries its own cost.
+
+60
+00:07:05.400 --> 00:07:06.720
+And stuff.
+
+61
+00:07:06.920 --> 00:07:08.520
+Um, I loved it though.
+
+62
+00:07:08.520 --> 00:07:10.440
+I mean, I I love I love Columbia.
+
+63
+00:07:10.440 --> 00:07:16.080
+Honestly, I love New York in general, best city in the world, um, particularly in your 20s.
+
+64
+00:07:16.080 --> 00:07:23.520
+And it took a couple of months to really get in the flow of like living here, and then also like you're meeting hundreds of new people like that.
+
+65
+00:07:23.520 --> 00:07:26.160
+But actually getting integrated, not hard.
+
+66
+00:07:26.160 --> 00:07:27.760
+It it felt like a perfect fit.
+
+67
+00:07:28.080 --> 00:07:29.680
+Really, really interesting.
+
+68
+00:07:29.680 --> 00:07:39.840
+So I'm curious, you learn a lot of things in in both your office career or remote work from home career and business school.
+
+69
+00:07:39.840 --> 00:07:45.520
+What did you learn about finance money time while you were traveling?
+
+70
+00:07:45.520 --> 00:07:54.480
+I mean, the the biggest thing that really jumped out was it's something I write about a lot in the book, like the I call it the stage specificity of life.
+
+71
+00:07:54.480 --> 00:08:00.240
+But by that I mean that it's it's pretty easy to conceptualize money.
+
+72
+00:08:00.240 --> 00:08:07.360
+Like what you're taught from like in high school how money compounds over time if you invested, and it's you know, you should be frugal and save up money.
+
+73
+00:08:07.360 --> 00:08:12.160
+But what you what you miss is like what's the optimal time to spend that money on different things.
+
+74
+00:08:12.160 --> 00:08:22.000
+And the the example that I give a lot is like I was 24 and like sleeping in a bunk bed in a hostel with 12 roommates or whatever, and it was actually just a hilarious setup.
+
+75
+00:08:22.000 --> 00:08:23.920
+Like it's just a bunch of nonsense.
+
+76
+00:08:23.920 --> 00:08:31.600
+You have a French guy here, and then like a Mexican girl here, and it's like half the a lot of the dorms are co-ed, and it's like it's like summer camp for like young adults.
+
+77
+00:08:31.600 --> 00:08:44.960
+Um, but then occasionally you meet somebody in their like early 30s staying in the same hostel, and it's like you can almost tell that they noticed they're like probably six or seven years too late to have done that type of trip.
+
+78
+00:08:44.960 --> 00:08:51.680
+And like the the biggest takeaway from traveling was like if I really wanted to do this trip, this was the like this was the right window to do this.
+
+79
+00:08:51.680 --> 00:08:56.880
+Like I optimized like that phase of my life correctly for somebody who wanted to do that type of thing.
+
+80
+00:08:56.880 --> 00:09:07.720
+And that's kind of what stuck with me the most after is not just being aware of like what you want to get out of life, but like what things have done.
+
+81
+00:09:07.720 --> 00:09:10.200
+Some returns compound in a portfolio.
+
+82
+00:09:10.200 --> 00:09:15.720
+Others depend on doing the thing while the window is open.
+
+83
+00:09:15.960 --> 00:09:18.680
+That's today's daily rundown.
+
+84
+00:09:18.680 --> 00:09:19.960
+Thanks for listening.
+
+85
+00:09:19.960 --> 00:09:22.040
+We'll be back tomorrow.
