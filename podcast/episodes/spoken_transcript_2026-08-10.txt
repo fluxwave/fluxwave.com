@@ -1,0 +1,69 @@
+Rebuilding a company around AI agents, the data breakthrough that change computer vision, and how the New York Times thinks about audience loyalty in the platform era.
+Three clips, three parts of the AI stack: operations, training, and distribution.
+On the A16Z podcast, Kavak's leadership explains what it actually took to rebuild the company around agents.
+Agent-ready APIs, tight feedback loops, and business metrics after the approach struggle for a year.
+Useful context as local models and disposable agent sandboxes make experimentation easier, but production systems still have to deliver measurable results.
+Okay, so we're gonna jump to the nuances that.
+We had to make this work, you had to downsize dramatically.
+It didn't work for a year.
+Right.
+Did you want to talk through obviously you had to tune a lot of things to make that work?
+Like describe the harness at that time and what models you were using and sort of specifically.
+Yeah.
+So there were like three main decisions that we had to make.
+The first, and this is where I think many companies are stuck right now, is the first instinct is okay, let's adopt AI.
+And you basically leave your structure as it is and just give Chad Jipity or Claude to your team, and then there's no efficiencies, your customers have the same problems and nothing happens, right?
+And so you need to redesign your whole company around the agents and around the future capabilities.
+And this means really rebuilding most of your APIs, rebuilding your system so the agents can use them to perform.
+Then you need to start generating the data and the feedback loops to fine-tune these agents.
+The only way to really make them work is if you teach them.
+Like how do you teach them?
+You put them out in the open, you put them in front of customers, you get that data, you get those evolves, and then you train your agents.
+And this is the second bet that we made that we could build superhuman agents.
+This means that by every dimension that matters, like conversion, lifetime value, customer experience, our agents would outperform the best human we had ever hired.
+And we put them in front of the hardest problems.
+And finally, you start to change how you measure the success of the company.
+Cavak was a transactional company.
+We used to measure how many cars were bought, how many cars we sold, how many brake pads we needed to buy, and we moved to a relational company where now I have 10 million customers in my database, and I have agents assigned to most of them with the task of maximizing their lifetime value.
+Now, we're selling cars and personal loans and very high ticket.
+The hard part isn't starting an agent workflow.
+It's redesigning the company so that workflow can improve.
+That we're trying to get these algorithms to work so that we can empower the machine to read or to see.
+A group of us, computer vision scientists, were struggling with these algorithms.
+And I was a very young faculty, first year faculty, 2006 at Princeton.
+And my students and I are looking at these algorithms and how little data were fed into these algorithms to learn.
+So I turned to cognitive neuroscience literature, namely vision literature, and started to study how much humans learn, how much humans can see.
+And the numbers were incredible.
+Humans were by age six can learn tens of thousands of different object categories.
+And the exposure to visual world is also massive, right?
+Babies can see the most of the time the moment they're born.
+So they're inundated with this big data.
+So we conjectured that the lack of data was a huge part of the reason that's the lack of progress in AI.
+So we took a departure from everybody else who are really focusing only on algorithms and said that we need data.
+We need data to drive these algorithms.
+So, long story short, we led this ImageNet project that collected the first ever internet scale large data set for the field of artificial intelligence, but really through the field of vision, because ImageNet is a collection of 15 million images.
+And the goal of ImageNet was to drive machines to recognize everyday objects, you know, microphones, cops, chairs.
+ImageNet turned data itself into a core piece of AI infrastructure.
+On OBLOS, New York Times CEO Meredith Coppett Levine explains why engaged users and direct traffic create more durable value than sheer reach handed out by platforms.
+With AI reshaping search and content discovery, owning the audience relationship is becoming even more important.
+So that's like around my own transition of role.
+We were beginning to transition from kind of playing defense to thinking more ambitiously about what is all that the New York Times can be and do as a force for value creation for its users, for society, for investors.
+So I, to me, like the my own transition kind of came at a time where we were beginning to say, how do we think even more ambitiously about it?
+And then I'll just say that in all the time that I've been there, so I've been there 13 years, and this is true, I came from two other media companies, so I spent the better part of my career working in and around journalism and media.
+The big lesson I've learned is that how and how much you can grow your media business is like first and always a question of how and how much you can grow the engaged audience for your work.
+Grow it, sustain it, grow it more, find the next group of people.
+And so I would say I regarded the job coming into it as how do we find that next tranche of growth of engagement for our work?
+Yeah, I remember when I was a business insider, you know, we get trap a lot more a lot of traffic from Google News, a lot of traffic from Facebook.
+And I remember even thinking about the time.
+I was like, that's great.
+Clicks are great, but that's not your that's not a real audience if they're not coming to you directly.
+But I want to ask one more sort of like big picture question because I think that might inform some of the more specific questions we ask.
+But okay, so now the New York Times is a news publication, but it's also a games developer.
+You've purchased games, you've developed in-house games.
+It's obviously a major food media recipe brand.
+What is the through line here such that all of these different things fit under a brand called the New York Times?
+Yeah.
+We do reach can disappear with an algorithm change.
+A direct habit is much harder to displace.
+That's today's daily rundown.
+We'll be back tomorrow with a clip's worth your time.

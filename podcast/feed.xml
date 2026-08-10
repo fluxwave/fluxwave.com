@@ -9,6 +9,55 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — August 10, 2026</title>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-08-10.mp3" length="8085933" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-08-10.mp3</guid>
+      <itunes:duration>8:25</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-08-10.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-08-10.json" type="application/json+chapters"/>
+      <description>Daily Digest — August 10, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-08-10.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-08-10.txt
+
+Chapters:
+0:45 — a16z Podcast — Rebuilding the company around agents, including agent-ready APIs,
+3:26 — Huberman Lab — Why large-scale training data—and ImageNet—unlocked progress in A
+6:00 — Odd Lots — Engaged audiences, direct traffic, and the limits of platform-distrib
+
+Sources:
+- The Self-Improving Company | Kavak's AI Playbook (a16z Podcast)
+  Link: https://a16z.simplecast.com/episodes/how-kavak-rebuilt-itself-around-ai-agents-alejandro-maza-ayala-lp7LuwGh
+  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/64ca2d41-4e29-406a-b05e-d686b57f1a61/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=64ca2d41-4e29-406a-b05e-d686b57f1a61&amp;feed=JGE3yC0V
+- Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li (Huberman Lab)
+  Link: https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li
+  Source audio: https://traffic.megaphone.fm/SCIM5701398040.mp3
+- NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI (Odd Lots)
+  Link: https://omny.fm/shows/odd-lots/nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai
+  Source audio: https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f7ff667e-d517-457f-b745-b49f0150c4e6/audio.mp3?utm_source=Podcast&amp;in_playlist=982f5071-765c-403d-969d-ae27003a8d83</description>
+      <itunes:summary>Daily Digest — August 10, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-08-10.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-08-10.txt
+
+Chapters:
+0:45 — a16z Podcast — Rebuilding the company around agents, including agent-ready APIs,
+3:26 — Huberman Lab — Why large-scale training data—and ImageNet—unlocked progress in A
+6:00 — Odd Lots — Engaged audiences, direct traffic, and the limits of platform-distrib
+
+Sources:
+- The Self-Improving Company | Kavak's AI Playbook (a16z Podcast)
+  Link: https://a16z.simplecast.com/episodes/how-kavak-rebuilt-itself-around-ai-agents-alejandro-maza-ayala-lp7LuwGh
+  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/64ca2d41-4e29-406a-b05e-d686b57f1a61/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=64ca2d41-4e29-406a-b05e-d686b57f1a61&amp;feed=JGE3yC0V
+- Using AI to Increase Your Intelligence &amp; Enrich Humanity | Dr. Fei-Fei Li (Huberman Lab)
+  Link: https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li
+  Source audio: https://traffic.megaphone.fm/SCIM5701398040.mp3
+- NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI (Odd Lots)
+  Link: https://omny.fm/shows/odd-lots/nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai
+  Source audio: https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f7ff667e-d517-457f-b745-b49f0150c4e6/audio.mp3?utm_source=Podcast&amp;in_playlist=982f5071-765c-403d-969d-ae27003a8d83</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — August 08, 2026</title>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-08-08.mp3" length="8996013" type="audio/mpeg"/>
@@ -630,55 +679,6 @@ Sources:
 - Pentagon Covers Up Iran War Casualties (Pod Save the World)
   Link: https://audioboom.com/posts/8930994
   Source audio: https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8930994.mp3?modified=1784695407&amp;sid=5166626&amp;source=rss</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — July 21, 2026</title>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-07-21.mp3" length="9002541" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-07-21.mp3</guid>
-      <itunes:duration>9:22</itunes:duration>
-      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-07-21.vtt" type="text/vtt" rel="captions"/>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-07-21.json" type="application/json+chapters"/>
-      <description>Daily Digest — July 21, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-07-21.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-07-21.txt
-
-Chapters:
-0:38 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Why enterprise AI agents remain 
-4:28 — Invest Like the Best with Patrick O'Shaughnessy — Bottom-up modeling of AI data-
-6:59 — The Knowledge Project with Shane Parrish — Changing destructive organizational d
-
-Sources:
-- Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out? (All-In with Chamath, Jason, Sacks &amp; Friedberg)
-  Link: https://allinchamathjason.libsyn.com/mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out
-  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_MC_RAISE_Ch.mp3?dest-id=1928300
-- Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483] (Invest Like the Best with Patrick O'Shaughnessy)
-  Link: https://colossus.com/episode/americas-next-energy-crisis/
-  Source audio: https://traffic.megaphone.fm/CLS1352215254.mp3
-- Truth Over Feelings: Inside Opendoor’s Massive Turnaround (The Knowledge Project with Shane Parrish)
-  Link: https://fs.blog/knowledge-project-podcast/kaz-nejatian/
-  Source audio: https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/FSMI7634016220.mp3</description>
-      <itunes:summary>Daily Digest — July 21, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-07-21.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-07-21.txt
-
-Chapters:
-0:38 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Why enterprise AI agents remain 
-4:28 — Invest Like the Best with Patrick O'Shaughnessy — Bottom-up modeling of AI data-
-6:59 — The Knowledge Project with Shane Parrish — Changing destructive organizational d
-
-Sources:
-- Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out? (All-In with Chamath, Jason, Sacks &amp; Friedberg)
-  Link: https://allinchamathjason.libsyn.com/mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out
-  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN_MC_RAISE_Ch.mp3?dest-id=1928300
-- Matthew Smith — Natural Gas: The Next Bottleneck - [Invest Like the Best, EP.483] (Invest Like the Best with Patrick O'Shaughnessy)
-  Link: https://colossus.com/episode/americas-next-energy-crisis/
-  Source audio: https://traffic.megaphone.fm/CLS1352215254.mp3
-- Truth Over Feelings: Inside Opendoor’s Massive Turnaround (The Knowledge Project with Shane Parrish)
-  Link: https://fs.blog/knowledge-project-podcast/kaz-nejatian/
-  Source audio: https://pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/FSMI7634016220.mp3</itunes:summary>
     </item>
   </channel>
 </rss>

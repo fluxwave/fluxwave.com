@@ -1,0 +1,53 @@
+Daily Digest — 2026-08-10
+
+Chapters
+- 0:45 — a16z Podcast — Rebuilding the company around agents, including agent-ready APIs, feedback loops, and business metrics
+- 3:26 — Huberman Lab — Why large-scale training data—and ImageNet—unlocked progress in AI
+- 6:00 — Odd Lots — Engaged audiences, direct traffic, and the limits of platform-distributed reach
+
+Sources
+- The Self-Improving Company | Kavak's AI Playbook
+  Podcast: a16z Podcast
+  Link: https://a16z.simplecast.com/episodes/how-kavak-rebuilt-itself-around-ai-agents-alejandro-maza-ayala-lp7LuwGh
+  Audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/64ca2d41-4e29-406a-b05e-d686b57f1a61/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=64ca2d41-4e29-406a-b05e-d686b57f1a61&feed=JGE3yC0V
+- Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li
+  Podcast: Huberman Lab
+  Link: https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li
+  Audio: https://traffic.megaphone.fm/SCIM5701398040.mp3
+- NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI
+  Podcast: Odd Lots
+  Link: https://omny.fm/shows/odd-lots/nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai
+  Audio: https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f7ff667e-d517-457f-b745-b49f0150c4e6/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83
+
+Host Script
+[OPEN]
+[A] Today: rebuilding a company around AI agents, the data breakthrough that changed computer vision, and how The New York Times thinks about audience loyalty in the platform era.
+[B] Three clips, three parts of the AI stack—operations, training, and distribution.
+
+[INTRO_1]
+[A] On the a16z Podcast, Kavak’s leadership explains what it actually took to rebuild the company around agents—agent-ready APIs, tight feedback loops, and business metrics—after the approach struggled for a year.
+[B] Useful context as local models and disposable agent sandboxes make experimentation easier, but production systems still have to deliver measurable results.
+[CLIP_1]
+(clip plays here)
+[REACT_1]
+[A] The hard part isn’t starting an agent workflow; it’s redesigning the company so that workflow can improve.
+
+[INTRO_2]
+[B] On Huberman Lab, computer-vision pioneer Dr. Fei-Fei Li looks back at the insight behind ImageNet: algorithms needed training data at enormous scale before machines could reliably learn to see.
+[A] That lesson still matters as today’s models compete on data quality, scale, and what they can learn locally.
+[CLIP_2]
+(clip plays here)
+[REACT_2]
+[B] ImageNet turned data itself into a core piece of AI infrastructure.
+
+[INTRO_3]
+[A] On Odd Lots, New York Times CEO Meredith Kopit Levien explains why engaged users and direct traffic create more durable value than sheer reach handed out by platforms.
+[B] With AI reshaping search and content discovery, owning the audience relationship is becoming even more important.
+[CLIP_3]
+(clip plays here)
+[REACT_3]
+[A] Reach can disappear with an algorithm change; a direct habit is much harder to displace.
+
+[CLOSE]
+[B] That’s today’s Daily Rundown.
+[A] We’ll be back tomorrow with the clips worth your time.

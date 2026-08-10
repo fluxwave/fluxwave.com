@@ -1,0 +1,277 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:10.640
+Rebuilding a company around AI agents, the data breakthrough that change computer vision, and how the New York Times thinks about audience loyalty in the platform era.
+
+2
+00:00:10.640 --> 00:00:16.640
+Three clips, three parts of the AI stack: operations, training, and distribution.
+
+3
+00:00:18.560 --> 00:00:25.440
+On the A16Z podcast, Kavak's leadership explains what it actually took to rebuild the company around agents.
+
+4
+00:00:25.440 --> 00:00:32.880
+Agent-ready APIs, tight feedback loops, and business metrics after the approach struggle for a year.
+
+5
+00:00:32.960 --> 00:00:45.520
+Useful context as local models and disposable agent sandboxes make experimentation easier, but production systems still have to deliver measurable results.
+
+6
+00:00:45.520 --> 00:00:48.160
+Okay, so we're gonna jump to the nuances that.
+
+7
+00:00:57.280 --> 00:00:59.920
+We had to make this work, you had to downsize dramatically.
+
+8
+00:00:59.920 --> 00:01:02.720
+It didn't work for a year.
+
+9
+00:01:02.720 --> 00:01:03.200
+Right.
+
+10
+00:01:03.200 --> 00:01:07.680
+Did you want to talk through obviously you had to tune a lot of things to make that work?
+
+11
+00:01:07.680 --> 00:01:12.480
+Like describe the harness at that time and what models you were using and sort of specifically.
+
+12
+00:01:12.480 --> 00:01:12.960
+Yeah.
+
+13
+00:01:12.960 --> 00:01:16.240
+So there were like three main decisions that we had to make.
+
+14
+00:01:16.240 --> 00:01:24.160
+The first, and this is where I think many companies are stuck right now, is the first instinct is okay, let's adopt AI.
+
+15
+00:01:24.160 --> 00:01:35.200
+And you basically leave your structure as it is and just give Chad Jipity or Claude to your team, and then there's no efficiencies, your customers have the same problems and nothing happens, right?
+
+16
+00:01:35.200 --> 00:01:41.840
+And so you need to redesign your whole company around the agents and around the future capabilities.
+
+17
+00:01:41.840 --> 00:01:50.080
+And this means really rebuilding most of your APIs, rebuilding your system so the agents can use them to perform.
+
+18
+00:01:50.320 --> 00:01:55.040
+Then you need to start generating the data and the feedback loops to fine-tune these agents.
+
+19
+00:01:55.040 --> 00:01:58.480
+The only way to really make them work is if you teach them.
+
+20
+00:01:58.480 --> 00:01:59.360
+Like how do you teach them?
+
+21
+00:01:59.360 --> 00:02:06.840
+You put them out in the open, you put them in front of customers, you get that data, you get those evolves, and then you train your agents.
+
+22
+00:02:06.920 --> 00:02:12.680
+And this is the second bet that we made that we could build superhuman agents.
+
+23
+00:02:12.680 --> 00:02:23.000
+This means that by every dimension that matters, like conversion, lifetime value, customer experience, our agents would outperform the best human we had ever hired.
+
+24
+00:02:23.000 --> 00:02:25.320
+And we put them in front of the hardest problems.
+
+25
+00:02:25.320 --> 00:02:30.600
+And finally, you start to change how you measure the success of the company.
+
+26
+00:02:30.600 --> 00:02:33.240
+Cavak was a transactional company.
+
+27
+00:02:33.240 --> 00:02:49.560
+We used to measure how many cars were bought, how many cars we sold, how many brake pads we needed to buy, and we moved to a relational company where now I have 10 million customers in my database, and I have agents assigned to most of them with the task of maximizing their lifetime value.
+
+28
+00:02:49.560 --> 00:02:55.800
+Now, we're selling cars and personal loans and very high ticket.
+
+29
+00:02:55.800 --> 00:02:58.920
+The hard part isn't starting an agent workflow.
+
+30
+00:02:58.920 --> 00:03:03.320
+It's redesigning the company so that workflow can improve.
+
+31
+00:03:30.720 --> 00:03:38.000
+That we're trying to get these algorithms to work so that we can empower the machine to read or to see.
+
+32
+00:03:38.000 --> 00:03:45.360
+A group of us, computer vision scientists, were struggling with these algorithms.
+
+33
+00:03:45.360 --> 00:03:54.240
+And I was a very young faculty, first year faculty, 2006 at Princeton.
+
+34
+00:03:54.240 --> 00:04:04.320
+And my students and I are looking at these algorithms and how little data were fed into these algorithms to learn.
+
+35
+00:04:04.320 --> 00:04:16.080
+So I turned to cognitive neuroscience literature, namely vision literature, and started to study how much humans learn, how much humans can see.
+
+36
+00:04:16.080 --> 00:04:18.000
+And the numbers were incredible.
+
+37
+00:04:18.000 --> 00:04:24.800
+Humans were by age six can learn tens of thousands of different object categories.
+
+38
+00:04:24.800 --> 00:04:30.320
+And the exposure to visual world is also massive, right?
+
+39
+00:04:30.320 --> 00:04:34.480
+Babies can see the most of the time the moment they're born.
+
+40
+00:04:34.480 --> 00:04:37.920
+So they're inundated with this big data.
+
+41
+00:04:37.920 --> 00:04:46.240
+So we conjectured that the lack of data was a huge part of the reason that's the lack of progress in AI.
+
+42
+00:04:46.240 --> 00:04:57.120
+So we took a departure from everybody else who are really focusing only on algorithms and said that we need data.
+
+43
+00:04:57.120 --> 00:05:00.560
+We need data to drive these algorithms.
+
+44
+00:05:00.560 --> 00:05:22.320
+So, long story short, we led this ImageNet project that collected the first ever internet scale large data set for the field of artificial intelligence, but really through the field of vision, because ImageNet is a collection of 15 million images.
+
+45
+00:05:22.320 --> 00:05:32.680
+And the goal of ImageNet was to drive machines to recognize everyday objects, you know, microphones, cops, chairs.
+
+46
+00:05:32.680 --> 00:05:38.360
+ImageNet turned data itself into a core piece of AI infrastructure.
+
+47
+00:05:38.360 --> 00:05:50.280
+On OBLOS, New York Times CEO Meredith Coppett Levine explains why engaged users and direct traffic create more durable value than sheer reach handed out by platforms.
+
+48
+00:05:50.280 --> 00:06:00.360
+With AI reshaping search and content discovery, owning the audience relationship is becoming even more important.
+
+49
+00:06:06.920 --> 00:06:10.280
+So that's like around my own transition of role.
+
+50
+00:06:10.280 --> 00:06:27.160
+We were beginning to transition from kind of playing defense to thinking more ambitiously about what is all that the New York Times can be and do as a force for value creation for its users, for society, for investors.
+
+51
+00:06:27.160 --> 00:06:37.320
+So I, to me, like the my own transition kind of came at a time where we were beginning to say, how do we think even more ambitiously about it?
+
+52
+00:06:37.320 --> 00:06:50.840
+And then I'll just say that in all the time that I've been there, so I've been there 13 years, and this is true, I came from two other media companies, so I spent the better part of my career working in and around journalism and media.
+
+53
+00:06:50.840 --> 00:07:09.480
+The big lesson I've learned is that how and how much you can grow your media business is like first and always a question of how and how much you can grow the engaged audience for your work.
+
+54
+00:07:09.480 --> 00:07:13.720
+Grow it, sustain it, grow it more, find the next group of people.
+
+55
+00:07:13.720 --> 00:07:24.080
+And so I would say I regarded the job coming into it as how do we find that next tranche of growth of engagement for our work?
+
+56
+00:07:24.080 --> 00:07:31.200
+Yeah, I remember when I was a business insider, you know, we get trap a lot more a lot of traffic from Google News, a lot of traffic from Facebook.
+
+57
+00:07:31.440 --> 00:07:32.960
+And I remember even thinking about the time.
+
+58
+00:07:32.960 --> 00:07:33.840
+I was like, that's great.
+
+59
+00:07:33.840 --> 00:07:40.320
+Clicks are great, but that's not your that's not a real audience if they're not coming to you directly.
+
+60
+00:07:40.320 --> 00:07:46.640
+But I want to ask one more sort of like big picture question because I think that might inform some of the more specific questions we ask.
+
+61
+00:07:46.640 --> 00:07:53.280
+But okay, so now the New York Times is a news publication, but it's also a games developer.
+
+62
+00:07:53.280 --> 00:07:55.920
+You've purchased games, you've developed in-house games.
+
+63
+00:07:55.920 --> 00:07:59.760
+It's obviously a major food media recipe brand.
+
+64
+00:07:59.760 --> 00:08:06.800
+What is the through line here such that all of these different things fit under a brand called the New York Times?
+
+65
+00:08:06.800 --> 00:08:07.600
+Yeah.
+
+66
+00:08:07.600 --> 00:08:13.520
+We do reach can disappear with an algorithm change.
+
+67
+00:08:13.520 --> 00:08:17.040
+A direct habit is much harder to displace.
+
+68
+00:08:19.040 --> 00:08:21.920
+That's today's daily rundown.
+
+69
+00:08:21.920 --> 00:08:24.720
+We'll be back tomorrow with a clip's worth your time.

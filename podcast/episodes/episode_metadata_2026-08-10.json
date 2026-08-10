@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-10",
+  "chapters": [
+    {
+      "startTime": 45.272,
+      "title": "a16z Podcast \u2014 Rebuilding the company around agents, including agent-ready APIs, feedback loops, and business metrics"
+    },
+    {
+      "startTime": 206.176,
+      "title": "Huberman Lab \u2014 Why large-scale training data\u2014and ImageNet\u2014unlocked progress in AI"
+    },
+    {
+      "startTime": 360.056,
+      "title": "Odd Lots \u2014 Engaged audiences, direct traffic, and the limits of platform-distributed reach"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Self-Improving Company | Kavak's AI Playbook",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/how-kavak-rebuilt-itself-around-ai-agents-alejandro-maza-ayala-lp7LuwGh",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/64ca2d41-4e29-406a-b05e-d686b57f1a61/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=64ca2d41-4e29-406a-b05e-d686b57f1a61&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-08-10T10:00:00+00:00"
+    },
+    {
+      "title": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+      "podcast": "Huberman Lab",
+      "link": "https://www.hubermanlab.com/episode/using-ai-to-increase-your-intelligence-and-enrich-humanity-fei-fei-li",
+      "audio_url": "https://traffic.megaphone.fm/SCIM5701398040.mp3",
+      "transcript_url": "",
+      "published": "2026-08-10T08:00:00+00:00"
+    },
+    {
+      "title": "NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI",
+      "podcast": "Odd Lots",
+      "link": "https://omny.fm/shows/odd-lots/nyt-ceo-meredith-kopit-levien-on-running-a-media-brand-in-the-age-of-ai",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/f7ff667e-d517-457f-b745-b49f0150c4e6/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "transcript_url": "",
+      "published": "2026-08-10T08:00:00+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-08-10.txt"
+}

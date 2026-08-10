@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-10",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-10_20260810T200201Z_53133/clip_sources/238caec32b40877d/01_Production_agent_scale_long-running_execution_and.mp3",
+      "source": "The Self-Improving Company | Kavak's AI Playbook",
+      "start_time": 444,
+      "end_time": 624,
+      "topic": "Production agent scale, long-running execution, and eval-driven development"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-10_20260810T200201Z_53133/clip_sources/ab4c0e09d0582c26/01_The_convergence_of_GPUs_mature_neural_networks_and.mp3",
+      "source": "Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li",
+      "start_time": 706,
+      "end_time": 898,
+      "topic": "The convergence of GPUs, mature neural networks, and big data that launched modern AI"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-10_20260810T200201Z_53133/clip_sources/deb4492b0cdc0fe8/01_Capital_allocation_between_core_journalism_star_ta.mp3",
+      "source": "NYT CEO Meredith Kopit Levien on Running a Media Brand in the Age of AI",
+      "start_time": 602,
+      "end_time": 728,
+      "topic": "Capital allocation between core journalism, star talent, games, and new product verticals"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
