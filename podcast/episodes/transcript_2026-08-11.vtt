@@ -1,0 +1,369 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:04.000
+Who gets access when AI agents query company data?
+
+2
+00:00:04.000 --> 00:00:11.840
+How tool using AI researchers could train better models and whether massive cloud spending is already paying off.
+
+3
+00:00:11.840 --> 00:00:18.960
+Three clips all about the systems and economics behind the AI boom.
+
+4
+00:00:18.960 --> 00:00:31.040
+On the A16Z podcast, the Datadog team explains why enterprises need role-based MCP servers as AI agents, put database access in more employees' hands.
+
+5
+00:00:31.040 --> 00:00:32.160
+The stakes.
+
+6
+00:00:32.160 --> 00:00:39.520
+A simple sales question can cross data boundaries that companies normally keep separate.
+
+7
+00:00:39.520 --> 00:00:40.800
+SQL well enough.
+
+8
+00:00:40.800 --> 00:00:41.520
+Yeah.
+
+9
+00:00:41.520 --> 00:00:51.520
+Well, then what happened is that you went from only people who really know SQL are using this to now having a sales rep telling asking, like, hey, what are what is I'm a commercial sales rep.
+
+10
+00:00:51.520 --> 00:00:52.640
+I'm just coming up with an example.
+
+11
+00:00:52.640 --> 00:00:54.000
+I'm a commercial sales rep.
+
+12
+00:00:54.000 --> 00:00:56.800
+How is the enterprise deal enterprise tier team doing?
+
+13
+00:00:56.800 --> 00:00:57.200
+Yeah.
+
+14
+00:00:57.200 --> 00:01:00.320
+Which normally you want to keep those things separate and what have you.
+
+15
+00:01:00.320 --> 00:01:02.320
+And the agent just took out the SQL to do it.
+
+16
+00:01:02.320 --> 00:01:02.880
+Yeah, yeah, yeah.
+
+17
+00:01:03.120 --> 00:01:04.800
+But it tells them what the comp plan is.
+
+18
+00:01:05.600 --> 00:01:09.040
+So, but it's not always find a way around the permissioning and all that.
+
+19
+00:01:09.040 --> 00:01:11.600
+It's like we had the right permissioning for the right time.
+
+20
+00:01:11.600 --> 00:01:12.000
+Yeah.
+
+21
+00:01:12.000 --> 00:01:13.040
+And then the age.
+
+22
+00:01:13.040 --> 00:01:15.280
+So we've been obviously improving all of that.
+
+23
+00:01:15.280 --> 00:01:21.920
+And then luckily, my IT group is what we've done is now we're at the point where we have role-based MCP servers as well.
+
+24
+00:01:21.920 --> 00:01:24.960
+So we have an MCP server for SDRs and things like that.
+
+25
+00:01:24.960 --> 00:01:27.120
+So we control and govern that data.
+
+26
+00:01:27.120 --> 00:01:27.440
+Yeah.
+
+27
+00:01:27.440 --> 00:01:31.040
+And then we're like, let them have it with whatever tool they want to use.
+
+28
+00:01:31.040 --> 00:01:47.360
+On the engineering side, obviously, in the coding agent, like when my security team is worried about, similar to what you were just talking about is on what can the agents do, what tools can they call, what binaries can they pull, what dependencies can they use, and also, how do they get access to credentials?
+
+29
+00:01:47.760 --> 00:01:59.360
+So, for that, we have a few things going on where we've contributed to these open source sandbox and expanding on that where the agent doesn't actually get access to the any sort of credential file.
+
+30
+00:01:59.360 --> 00:02:08.120
+So even if you have a file in your home directory that has your AWS secret, your NPM published secret or what have you, the agent on this sandbox can't touch it.
+
+31
+00:02:08.280 --> 00:02:12.040
+The credentials get injected into the agent the moment he needs it.
+
+32
+00:02:12.040 --> 00:02:17.960
+And the beauty of it is we already have CLI tool that will give you these ephemeral tokens to these things.
+
+33
+00:02:17.960 --> 00:02:20.120
+We just have the agent not know how to call it.
+
+34
+00:02:20.440 --> 00:02:23.560
+So it's like, oh, I'm a millionaire, I'm an engineer on this team.
+
+35
+00:02:23.560 --> 00:02:26.840
+I want to authenticate to GitHub, for example.
+
+36
+00:02:26.840 --> 00:02:41.000
+I call this tool auth GitHub, and it gives me a credential that's valid for I don't know how long, and it gives me my access to GitHub, but now is the agent getting my access to GitHub, but not it's just a static token written in a file.
+
+37
+00:02:41.000 --> 00:02:41.720
+Yeah, yeah, yeah.
+
+38
+00:02:41.720 --> 00:02:45.000
+The second thing is we know things that the threat has expanded.
+
+39
+00:02:45.000 --> 00:02:48.440
+Developers are now the main target.
+
+40
+00:02:48.440 --> 00:02:55.880
+AI access controls increasingly have to govern what someone can ask, not just which database they can open.
+
+41
+00:02:55.880 --> 00:03:09.240
+On the DwarCash podcast, AI safety researcher Ryan Greenblatt describes training tool using AI researchers inside verifiable, containerized machine learning environments.
+
+42
+00:03:09.240 --> 00:03:14.920
+As tiny agentic models move onto phones and devices, this is the larger question.
+
+43
+00:03:14.920 --> 00:03:21.640
+How quickly can capable agents learn to run real research workflows?
+
+44
+00:03:21.640 --> 00:03:23.800
+And we could do that for a bunch of different tasks.
+
+45
+00:03:23.800 --> 00:03:31.800
+Like we could have it train like image classification models, video generation models, image generation models, all kinds of different sort of ML training tasks.
+
+46
+00:03:31.800 --> 00:03:39.640
+And we could RL it on the task of training increasingly good models and also doing things like, oh, here's a particular direction you could pursue for an algorithm.
+
+47
+00:03:39.640 --> 00:03:40.680
+Can you go and implement that?
+
+48
+00:03:40.680 --> 00:03:48.160
+And so basically there's this whole class of containerizable, verifiable small scale ARD tasks that we can aggressively RL the AIs on.
+
+49
+00:03:48.320 --> 00:04:00.800
+And I would say that already companies are presumably doing some RL on these sorts of tasks, and you could just keep scaling that up, keep making more of these sort of small scale ARD tasks, and then the AIs could keep getting better at this.
+
+50
+00:04:00.800 --> 00:04:05.840
+And then implicitly I'm claiming this will transfer to extremely load bearing aspects of ARD.
+
+51
+00:04:05.840 --> 00:04:07.680
+But maybe let's stop there for a second and then we get to that part.
+
+52
+00:04:07.920 --> 00:04:10.000
+So let's talk through what this concretely looks like.
+
+53
+00:04:10.000 --> 00:04:19.120
+So you can imagine that we have GPT 7.5, and we say, GPT 7.5, we want to make you so good at AI RD that you help us train GPT 9.
+
+54
+00:04:19.120 --> 00:04:21.520
+Okay, so now we train, we want to train GPT 7.5.
+
+55
+00:04:21.520 --> 00:04:23.440
+And we can come up with a bunch of different environments.
+
+56
+00:04:23.440 --> 00:04:41.280
+Like as you mentioned, we could do there's already this repo that is the descendant of Andre Karpathi's nano GPT speedrun, where you just try to change everything about the model from like the optimizer to the hyperparameters to the architecture to get it to get to a fixed training loss as fast as possible.
+
+57
+00:04:41.280 --> 00:04:49.440
+Um you could have other kinds of uh environments where you could say, hey, uh GPT 7.5, I want you to train a really good video video game playing model.
+
+58
+00:04:49.440 --> 00:04:53.040
+And I want you to train a model that actually improves as it plays the same video game again and again.
+
+59
+00:04:53.040 --> 00:04:56.320
+So you learn how to maybe help the model get better at online learning.
+
+60
+00:04:56.320 --> 00:04:58.880
+Maybe it gets we don't care how you figure this out.
+
+61
+00:04:58.880 --> 00:05:04.080
+Maybe it's some kind of crazy neural ease or vector memory, maybe it's some crazy, or maybe just like better long context stuff.
+
+62
+00:05:04.080 --> 00:05:04.720
+We don't care.
+
+63
+00:05:04.720 --> 00:05:07.600
+Get figure out how to like do online learning research.
+
+64
+00:05:07.600 --> 00:05:16.800
+Obviously, then the fact that GPT 7.5 will already have become very good at normal, like become it'll be a smart model in the same way the models currently are getting smarter.
+
+65
+00:05:16.800 --> 00:05:20.400
+It'll be better and better at coding in the way that models are currently getting better in coding.
+
+66
+00:05:20.400 --> 00:05:33.240
+And you can imagine a hundred other environments like this, which are incentivizing the ability to do AI RD, but getting GPT 7.5 to like containerized versions of getting GPT 7.5 to develop GPT-2 size models, et cetera, et cetera.
+
+67
+00:05:29.840 --> 00:05:38.360
+And you basically then you've like you put GPT 7.5 through a bunch of this kind of training.
+
+68
+00:05:38.360 --> 00:05:39.800
+You build GPT-8.
+
+69
+00:05:39.800 --> 00:05:46.440
+And GPT-8 is now an amazing containerized tasks make the work measurable.
+
+70
+00:05:46.440 --> 00:05:50.920
+The system either trains a better model or it doesn't.
+
+71
+00:05:50.920 --> 00:06:02.200
+On excess returns, T roe prices $8 billion tech manager examines Amazon's cloud AI growth and the return on hyperscaler infrastructure spending.
+
+72
+00:06:02.200 --> 00:06:11.160
+With investors questioning record capital budgets, the key evidence is whether that spending becomes durable revenue and cash flow.
+
+73
+00:06:13.320 --> 00:06:29.880
+And so let's take uh Amazon first, because that was the clearest articulation by any of the hyperscalers on what the CapEx really would translate to into to revenue and cash flow out of out of Jassy.
+
+74
+00:06:29.880 --> 00:06:33.320
+So one, they they broke out the different pieces of the CapEx, right?
+
+75
+00:06:33.400 --> 00:06:37.400
+There's there's long life cycle assets and short life cycle assets, right?
+
+76
+00:06:37.400 --> 00:06:43.080
+You know, long life cycle assets, you know, being property and and you know, actual infrastructure.
+
+77
+00:06:43.080 --> 00:06:50.040
+And then the short life cycle assets being, you know, the chips, the networking equipment, the date, the data center spend, right?
+
+78
+00:06:50.040 --> 00:07:05.000
+Uh and and Jassy laid out on the call that on that short life cycle piece, which is the piece that everyone would naturally worry about the most, that they break even in roughly two to three years, and then they last five to six years of useful life.
+
+79
+00:07:05.000 --> 00:07:05.400
+Right?
+
+80
+00:07:05.400 --> 00:07:11.320
+So two to three years to get your money back, and then two to three years of of great cash flow.
+
+81
+00:07:11.320 --> 00:07:23.360
+Um when you when you think about what that means, it means that even on the shortest lifecycle piece of this, the company should have very, very strong ROICs.
+
+82
+00:07:23.360 --> 00:07:24.080
+Right.
+
+83
+00:07:24.080 --> 00:07:38.640
+And then when you take that in the context of AWS growth accelerating to 37% at 50% incremental operating margins, you don't just have management saying ROICs are going to be strong.
+
+84
+00:07:38.640 --> 00:07:44.720
+You see that coming through in the acceleration of the revenue growth and the eBIT margin expansion as well.
+
+85
+00:07:44.720 --> 00:08:02.560
+And then you take that in context of Microsoft Azure growing 43%, guiding to accelerating to 45%, and to context of Google cloud platform to GCP growing 82%, also at 50% incremental operating margins.
+
+86
+00:08:02.560 --> 00:08:09.200
+I think you have a lot of evidence that the hyperscale CapEx business is hitting that inflection point.
+
+87
+00:08:09.200 --> 00:08:22.720
+And then I think the cherry on top of all this was Sacha and Dela kind of, you know, retweeting the Morgan Stanley analysis of 30% ROIC for the broader hyperscaler universe.
+
+88
+00:08:22.720 --> 00:08:39.760
+Um I I, you know, that tacit blessing, I think, gives people comfort that this immense capital build will also be coupled with revenue acceleration and operating margin expansion out of the major hybrid.
+
+89
+00:08:39.840 --> 00:08:49.040
+That long life versus short life asset split matters because each puts a different clock on the expected payoff.
+
+90
+00:08:49.040 --> 00:08:51.760
+That's today's daily rundown.
+
+91
+00:08:51.760 --> 00:08:53.040
+Thanks for listening.
+
+92
+00:08:53.040 --> 00:08:55.040
+We'll be back tomorrow.

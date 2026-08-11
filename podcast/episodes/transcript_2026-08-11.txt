@@ -1,0 +1,50 @@
+Daily Digest — 2026-08-11
+
+Chapters
+- 0:39 — a16z Podcast — Role-based MCP servers and governing enterprise data access for AI agents
+- 3:21 — Dwarkesh Podcast — Training tool-using AI researchers in verifiable, containerized ML environments
+- 6:13 — Excess Returns — Cloud AI revenue growth and evidence of strong infrastructure ROIC
+
+Sources
+- The CISO Playbook for AI Agents | Datadog
+  Podcast: a16z Podcast
+  Link: https://a16z.simplecast.com/episodes/the-ciso-playbook-for-ai-agents-datadog-rhAxFNQK
+  Audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7ea50811-6563-4656-abeb-05535ef9cfd6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7ea50811-6563-4656-abeb-05535ef9cfd6&feed=JGE3yC0V
+- Ryan Greenblatt – Human level AIs might build runaway superintelligences by 2032
+  Podcast: Dwarkesh Podcast
+  Link: https://www.dwarkesh.com/p/ryan-greenblatt
+  Audio: https://api.substack.com/feed/podcast/210737923/e93bde91ce72fbf50e2faa22a7a594d0.mp3
+- We Asked T. Rowe's $8 Billion Tech Manager Why We Are in 1998 — And Why Software Is in Trouble
+  Podcast: Excess Returns
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/We-Asked-T--Rowes-8-Billion-Tech-Manager-Why-We-Are-in-1998--And-Why-Software-Is-in-Trouble-e3n90mi
+  Audio: https://traffic.megaphone.fm/APO9129161882.mp3
+
+Host Script
+[OPEN]
+[A] Today: who gets access when AI agents query company data, how tool-using AI researchers could train better models, and whether massive cloud spending is already paying off.
+[B] Three clips, all about the systems—and economics—behind the AI boom.
+
+[INTRO_1]
+[B] On the a16z Podcast, the Datadog team explains why enterprises need role-based MCP servers as AI agents put database access in more employees’ hands.
+[A] The stakes: a simple sales question can cross data boundaries that companies normally keep separate.
+[CLIP_1]
+[REACT_1]
+[B] AI access controls increasingly have to govern what someone can ask—not just which database they can open.
+
+[INTRO_2]
+[A] On the Dwarkesh Podcast, AI safety researcher Ryan Greenblatt describes training tool-using AI researchers inside verifiable, containerized machine-learning environments.
+[B] As tiny agentic models move onto phones and devices, this is the larger question: how quickly can capable agents learn to run real research workflows?
+[CLIP_2]
+[REACT_2]
+[A] Containerized tasks make the work measurable—the system either trains a better model, or it doesn’t.
+
+[INTRO_3]
+[B] On Excess Returns, T. Rowe Price’s eight-billion-dollar tech manager examines Amazon’s cloud AI growth and the return on hyperscaler infrastructure spending.
+[A] With investors questioning record capital budgets, the key evidence is whether that spending becomes durable revenue and cash flow.
+[CLIP_3]
+[REACT_3]
+[B] That long-life versus short-life asset split matters because each puts a different clock on the expected payoff.
+
+[CLOSE]
+[A] That’s today’s Daily Rundown.
+[B] Thanks for listening—we’ll be back tomorrow.

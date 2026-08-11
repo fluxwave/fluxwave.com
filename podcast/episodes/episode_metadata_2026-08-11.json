@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-11",
+  "chapters": [
+    {
+      "startTime": 39.752,
+      "title": "a16z Podcast \u2014 Role-based MCP servers and governing enterprise data access for AI agents"
+    },
+    {
+      "startTime": 201.656,
+      "title": "Dwarkesh Podcast \u2014 Training tool-using AI researchers in verifiable, containerized ML environments"
+    },
+    {
+      "startTime": 373.128,
+      "title": "Excess Returns \u2014 Cloud AI revenue growth and evidence of strong infrastructure ROIC"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The CISO Playbook for AI Agents | Datadog",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/the-ciso-playbook-for-ai-agents-datadog-rhAxFNQK",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7ea50811-6563-4656-abeb-05535ef9cfd6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7ea50811-6563-4656-abeb-05535ef9cfd6&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-08-11T10:00:00+00:00"
+    },
+    {
+      "title": "Ryan Greenblatt \u2013 Human level AIs might build runaway superintelligences by 2032",
+      "podcast": "Dwarkesh Podcast",
+      "link": "https://www.dwarkesh.com/p/ryan-greenblatt",
+      "audio_url": "https://api.substack.com/feed/podcast/210737923/e93bde91ce72fbf50e2faa22a7a594d0.mp3",
+      "transcript_url": "",
+      "published": "2026-08-11T16:31:23+00:00"
+    },
+    {
+      "title": "We Asked T. Rowe's $8 Billion Tech Manager Why We Are in 1998 \u2014 And Why Software Is in Trouble",
+      "podcast": "Excess Returns",
+      "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/We-Asked-T--Rowes-8-Billion-Tech-Manager-Why-We-Are-in-1998--And-Why-Software-Is-in-Trouble-e3n90mi",
+      "audio_url": "https://traffic.megaphone.fm/APO9129161882.mp3",
+      "transcript_url": "",
+      "published": "2026-08-11T15:24:58+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-08-11.txt"
+}

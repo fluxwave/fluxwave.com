@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-11",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-11_20260811T202602Z_70491/clip_sources/29c7b5d3da31debc/01_Sandboxing_coding_agents_with_ephemeral_credential.mp3",
+      "source": "The CISO Playbook for AI Agents | Datadog",
+      "start_time": 382,
+      "end_time": 504,
+      "topic": "Sandboxing coding agents with ephemeral credentials and constrained tool access"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-11_20260811T202602Z_70491/clip_sources/4ef8c1d87728a8b5/01_From_specialized_reinforcement-learning_tasks_to_a.mp3",
+      "source": "Ryan Greenblatt \u2013 Human level AIs might build runaway superintelligences by 2032",
+      "start_time": 380,
+      "end_time": 510,
+      "topic": "From specialized reinforcement-learning tasks to an expert autonomous ML researcher"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-11_20260811T202602Z_70491/clip_sources/9eea19988c193d9c/01_OpenAI_and_Anthropic_concentration_risk_for_hypers.mp3",
+      "source": "We Asked T. Rowe's $8 Billion Tech Manager Why We Are in 1998 \u2014 And Why Software Is in Trouble",
+      "start_time": 575,
+      "end_time": 716,
+      "topic": "OpenAI and Anthropic concentration risk for hyperscalers"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
