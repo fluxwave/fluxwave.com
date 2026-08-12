@@ -9,6 +9,55 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — August 12, 2026</title>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-08-12.mp3" length="9407661" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-08-12.mp3</guid>
+      <itunes:duration>9:47</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-08-12.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-08-12.json" type="application/json+chapters"/>
+      <description>Daily Digest — August 12, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-08-12.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-08-12.txt
+
+Chapters:
+0:44 — Dwarkesh Podcast — Training future models as autonomous AI researchers using con
+3:31 — Planet Money — Dollar savings, capital controls, and Argentina's parallel foreig
+6:10 — Conversations with Tyler — Why utility and cost-benefit analysis cannot mechanic
+
+Sources:
+- Ryan Greenblatt – What happens once AI can automate AI research? (Dwarkesh Podcast)
+  Link: https://www.dwarkesh.com/p/ryan-greenblatt
+  Source audio: https://api.substack.com/feed/podcast/210737923/e93bde91ce72fbf50e2faa22a7a594d0.mp3
+- Currency Chaos in Argentina (Summer School) (Planet Money)
+  Link: https://www.npr.org/2026/08/12/nx-s1-5914841/summer-school-argentina-inflation-currency-volatility
+  Source audio: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&amp;awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&amp;feed=1e5vv9pg&amp;t=podcast&amp;e=nx-s1-5914841&amp;p=510289&amp;d=2364&amp;size=37828318
+- Daron Acemoglu on Liberalism, Automation, and the Educated Elite (Conversations with Tyler)
+  Link: https://cowenconvos.libsyn.com/daron-acemoglu-on-liberalism-automation-and-the-educated-elite
+  Source audio: https://traffic.libsyn.com/secure/cowenconvos/CWT-292-DaronAcemoglu-Podcast-v2.mp3?dest-id=850607</description>
+      <itunes:summary>Daily Digest — August 12, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-08-12.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-08-12.txt
+
+Chapters:
+0:44 — Dwarkesh Podcast — Training future models as autonomous AI researchers using con
+3:31 — Planet Money — Dollar savings, capital controls, and Argentina's parallel foreig
+6:10 — Conversations with Tyler — Why utility and cost-benefit analysis cannot mechanic
+
+Sources:
+- Ryan Greenblatt – What happens once AI can automate AI research? (Dwarkesh Podcast)
+  Link: https://www.dwarkesh.com/p/ryan-greenblatt
+  Source audio: https://api.substack.com/feed/podcast/210737923/e93bde91ce72fbf50e2faa22a7a594d0.mp3
+- Currency Chaos in Argentina (Summer School) (Planet Money)
+  Link: https://www.npr.org/2026/08/12/nx-s1-5914841/summer-school-argentina-inflation-currency-volatility
+  Source audio: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&amp;awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&amp;feed=1e5vv9pg&amp;t=podcast&amp;e=nx-s1-5914841&amp;p=510289&amp;d=2364&amp;size=37828318
+- Daron Acemoglu on Liberalism, Automation, and the Educated Elite (Conversations with Tyler)
+  Link: https://cowenconvos.libsyn.com/daron-acemoglu-on-liberalism-automation-and-the-educated-elite
+  Source audio: https://traffic.libsyn.com/secure/cowenconvos/CWT-292-DaronAcemoglu-Podcast-v2.mp3?dest-id=850607</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — August 11, 2026</title>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-08-11.mp3" length="8565549" type="audio/mpeg"/>
@@ -634,53 +683,6 @@ Sources:
 - Balancing $5.7T in Active and Passive Management with Lori Heinel (Masters in Business)
   Link: https://omny.fm/shows/masters-in-business/balancing-5-7t-in-active-and-passive-management-with-lori-heinel
   Source audio: https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/a9f7ea4e-c6cf-421b-8360-b491014db8fa/audio.mp3?utm_source=Podcast&amp;in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — July 25, 2026</title>
-      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-07-25.mp3" length="8413869" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-07-25.mp3</guid>
-      <itunes:duration>8:45</itunes:duration>
-      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-07-25.vtt" type="text/vtt" rel="captions"/>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-07-25.json" type="application/json+chapters"/>
-      <description>Daily Digest — July 25, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-07-25.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-07-25.txt
-
-Chapters:
-0:40 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Enterprise adoption of on-premis
-3:21 — Masters of Scale — Enterprise AI as a hill-climbing system built around propriet
-6:21 — Freakonomics Radio — Multi-agent disagreement and emergent subagents inside reas
-
-Sources:
-- The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence? (All-In with Chamath, Jason, Sacks &amp; Friedberg)
-  Link: https://allinchamathjason.libsyn.com/the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence
-  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300
-- Possible: Satya Nadella on making human and token capital compound (Masters of Scale)
-  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/c9873675-e551-4f4b-a6b4-ae2086338972.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
-- 682. Should A.I. Move to Space? (Freakonomics Radio)
-  Link: https://freakonomics.com
-  Source audio: https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&amp;awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&amp;feed=Y8lFbOT4</description>
-      <itunes:summary>Daily Digest — July 25, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-07-25.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-07-25.txt
-
-Chapters:
-0:40 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Enterprise adoption of on-premis
-3:21 — Masters of Scale — Enterprise AI as a hill-climbing system built around propriet
-6:21 — Freakonomics Radio — Multi-agent disagreement and emergent subagents inside reas
-
-Sources:
-- The Fight Over Open Source AI, Anthropic's $1.5B Payout, NYC Socialists: Evictions = Violence? (All-In with Chamath, Jason, Sacks &amp; Friedberg)
-  Link: https://allinchamathjason.libsyn.com/the-fight-over-open-source-ai-anthropics-15b-payout-nyc-socialists-evictions-violence
-  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E282_Ch.mp3?dest-id=1928300
-- Possible: Satya Nadella on making human and token capital compound (Masters of Scale)
-  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/c9873675-e551-4f4b-a6b4-ae2086338972.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
-- 682. Should A.I. Move to Space? (Freakonomics Radio)
-  Link: https://freakonomics.com
-  Source audio: https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/17a369fe-ef5b-4c24-b850-4bfa81144e1a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&amp;awEpisodeId=17a369fe-ef5b-4c24-b850-4bfa81144e1a&amp;feed=Y8lFbOT4</itunes:summary>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,102 @@
+Training AI to automate AI research, Argentina's underground dollar economy, and why cost benefit analysis can't settle every clash of values.
+Three clips, three systems under pressure, from machine learning labs to money and liberal democracy.
+On the DwarCache podcast, AI safety researcher Ryan Greenblad explains how reinforcement learning on containerized nano GPT style experiments could train models to become autonomous AI researchers.
+With AI already squeezing the middle of software engineering, the bigger question is whether it can start improving the systems driving that shift.
+And I would say that already companies are presumably doing some RL on these sorts of tasks, and you could just keep scaling that up, keep making more of these sort of small-scale ARD tasks, and then the AIs could, you know, keep getting better at this.
+And then implicitly, I'm claiming this will transfer to extremely load-bearing aspects of ARD.
+But maybe let's stop there for a second and then we get to that part.
+So let's talk through what this concretely looks like.
+So you can imagine that we have GPT 7.5, and we say, GPT 7.5, we want to make you so good at AI RD that you help us train GPT-9.
+Okay, so now we train, we want to train GPT 7.5.
+And we come up with a bunch of different environments.
+Like we, as you mentioned, we could do there's already this repo that is the descendant of Andre Karpathi's nano GPT speedrun, where you just try to change everything about the model from like the optimizer to the hyperparameters to the architecture to get it to get to a fixed training loss as fast as possible.
+Um, you could have other kinds of uh environments where you could say, hey, uh GPT 7.5, I want you to train a really good video video game playing model.
+And I want you to train a model that actually improves as it plays the same video game again and again.
+So you learn how to maybe help the model get better at online learning.
+Maybe it gets we don't care how you figure this out.
+Maybe it's some kind of crazy New Orleans or a vector memory.
+Maybe it's some crazy, or maybe just like better long context stuff.
+We don't care.
+Get figure out how to like do online learning research.
+Obviously, then the fact that GPT 7.5 will already have become very good at normal, like become it'll be a smart model in the same way the models currently are getting smarter.
+It'll be better and better at coding in the way that models are currently getting better in coding.
+And you can imagine a hundred other environments like this, which are incentivizing the ability to do AI RD by getting GPT-7.5 to like containerized versions of getting GPT-7.5 to develop GPT-2 size models, etc.
+etc.
+And you basically then you've like you put GPT 7.5 through a bunch of this kind of training, you build GPT-8.
+And GPT-8 is now an amazing ML researcher.
+It has so much intuition from doing all this kind of training.
+Um honestly a huge intuition pump for me is seeing the progress that AI has made in mathematics, where I'm just like, if it's a very verifiable domain, AIs can get even like mathematics also involves so much like I I don't know, really know this object level details of the mathematics research, but I'm just like the key bet is transfer.
+Whether success on small experiments carries into the load-bearing work of AI research.
+Planet Money's currency chaos in Argentina follows how inflation and capital controls pushed ordinary Argentines toward dollar savings and a parallel exchange market.
+So I'm not rich, but yes, I do have like $500 in my shoebox, like Jay-Z said it.
+You gotta start with a shoebox.
+So Lucas and I are talking over Zoom.
+At mid-sentence.
+I'm really like standing up and going away.
+I'm sorry.
+Okay, Lucas has like wandered away.
+But like for real.
+This is my shoebox.
+Lucas, what are you saving the American dollars for?
+I hold this thing because this is not gonna devaluate.
+I uh $10 is gonna still be $10.
+Bro, I can leave like a week and a half with this.
+Just this.
+Next he picks up some Argentine money.
+This is a thousand pesos.
+Lucas waves it at me and he's kind of like, what can I buy with this?
+I can go to McDonald's and buy like a really big combo with like bacon and cheese and like uh for real.
+Like a big combo on McDonald's, it I'm not gonna be able to pay it with a thousand pesos.
+I gotta go with two of this.
+He shakes his sad peso.
+And in a year or two, he might need to take three or four of these thousand peso bills to go get that combo meal.
+Because inflation might hit 100%.
+And what Lucas wants to buy with his pesos, it's not combo meals.
+It's more US dollars to stash in his shoebox.
+And this is where the story gets kind of weird, because buying dollars is not straightforward.
+The Argentine government controls foreign exchange transactions because they don't want US dollars to run off and leave Argentina.
+There is an official rate.
+Okay, so here we go.
+So if Lucas wants to play by the rules, he can go to a bank and buy.
+On conversations with Tyler, economist Darren Assimigou examines what happens when values conflict and utility or cost-benefit analysis offers no mechanical answer.
+It matters wherever technology policy pits efficiency against rights, power, and protections that only institutions can provide.
+So if if we're siguic, we might say, well, when values clash, we look to utility.
+Or maybe it'd be cost-benefit analysis to decide which gets priority.
+And you're not willing to say that.
+So why not?
+What's wrong with that answer?
+Because I think So let me start with what's wrong with a general will type answer.
+I'm simplifying it, but I would say in a general will type of approach is that we have a book in our hand which says when values clash and when there's something, here is a higher value, and we're gonna follow that.
+And ultimately, even though he's a true liberal, John Rawls also goes into that direction.
+Now, you might think utilitarianism avoids that, because it says, no, we don't have a book.
+All we do is we turn everything to utils and then we compare those utils.
+But who decides how to compare how to turn things into utils?
+Who decides, you know, when there are externalities that are important?
+You know, there again needs to be a book.
+And I don't like that book, because who decides that what that book is, and how can we be certain that that book exists?
+So that's why once we have the building blocks of individual liberty, then I think we have to go back to society and seek consensus on what our temporary book should be.
+There's a lot of talk in your book about what you call working class liberalism.
+But say today in America, what exactly is working class?
+You know, household income, it's almost six figures.
+Percentage working in manufacturing, it's what, eight to nine percent.
+Private sector unions are very small.
+Is this even a meaningful notion today, the working class?
+May or may not be.
+That's why I say that social democracy as it evolved in Scandinavia and then spread to Europe and to some extent in a uh modified version to the United States, isn't the right actualization of liberal ideas today, because it very strongly relies on unions and a particular kind of industrial working class.
+Today we don't have an industrial working class.
+So if you're by working class, I meant industrial working class, obviously that would be almost a vacuous notion.
+But we have the vast majority of people who live by earning their living in the labor market.
+That's the working class.
+If you're getting your income from the labor market mostly, not from capital, not from your parents, then in my definition, you're part of the working class.
+And the working class is distinguished by having a very, very diverse set of skills.
+Not just one skill.
+It's going to have the manual part, it's going to have the trades, it's going to have office jobs, it's going to have entrepreneurship of some sort.
+But that's what the unifying theme is.
+And that's, of course, not a very simple unifying theme.
+So there's going to be a lot of heterogeneity within the working class.
+That's why I am emphasize in the working class liberalism, different communities that are going to have their own practices and values.
+Some choices aren't optimization problems.
+They're judgments about which protections a society refuses to trade away.
+That's today's daily rundown.
+Thanks for listening.
+We'll be back tomorrow.

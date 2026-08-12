@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-12",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-12_20260812T201904Z_40034/clip_sources/f0693982f1196f89/01_Building_an_AI_researcher_through_online-learning.mp3",
+      "source": "Ryan Greenblatt \u2013 What happens once AI can automate AI research?",
+      "start_time": 387,
+      "end_time": 521,
+      "topic": "Building an AI researcher through online-learning environments, coding improvements, and repeated small-model training tasks"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-12_20260812T201904Z_40034/clip_sources/9bfcb915ed9926e1/01_Educated_elites_institutional_decision-making_and.mp3",
+      "source": "Daron Acemoglu on Liberalism, Automation, and the Educated Elite",
+      "start_time": 645,
+      "end_time": 726,
+      "topic": "Educated elites, institutional decision-making, and liberalism's post-industrial crisis"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-12_20260812T201904Z_40034/clip_sources/71494e4f7ac35f05/01_How_macroeconomic_instability_eliminates_long-term.mp3",
+      "source": "Currency Chaos in Argentina (Summer School)",
+      "start_time": 508,
+      "end_time": 631,
+      "topic": "How macroeconomic instability eliminates long-term financial products such as fixed-rate mortgages"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

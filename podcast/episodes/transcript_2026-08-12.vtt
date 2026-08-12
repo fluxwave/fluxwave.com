@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:11.200
+Training AI to automate AI research, Argentina's underground dollar economy, and why cost benefit analysis can't settle every clash of values.
+
+2
+00:00:11.200 --> 00:00:17.440
+Three clips, three systems under pressure, from machine learning labs to money and liberal democracy.
+
+3
+00:00:19.520 --> 00:00:34.640
+On the DwarCache podcast, AI safety researcher Ryan Greenblad explains how reinforcement learning on containerized nano GPT style experiments could train models to become autonomous AI researchers.
+
+4
+00:00:34.640 --> 00:00:42.800
+With AI already squeezing the middle of software engineering, the bigger question is whether it can start improving the systems driving that shift.
+
+5
+00:00:45.600 --> 00:00:58.000
+And I would say that already companies are presumably doing some RL on these sorts of tasks, and you could just keep scaling that up, keep making more of these sort of small-scale ARD tasks, and then the AIs could, you know, keep getting better at this.
+
+6
+00:00:58.000 --> 00:01:03.120
+And then implicitly, I'm claiming this will transfer to extremely load-bearing aspects of ARD.
+
+7
+00:01:03.120 --> 00:01:05.120
+But maybe let's stop there for a second and then we get to that part.
+
+8
+00:01:05.120 --> 00:01:07.280
+So let's talk through what this concretely looks like.
+
+9
+00:01:07.280 --> 00:01:16.400
+So you can imagine that we have GPT 7.5, and we say, GPT 7.5, we want to make you so good at AI RD that you help us train GPT-9.
+
+10
+00:01:16.400 --> 00:01:18.800
+Okay, so now we train, we want to train GPT 7.5.
+
+11
+00:01:18.800 --> 00:01:20.720
+And we come up with a bunch of different environments.
+
+12
+00:01:20.720 --> 00:01:38.560
+Like we, as you mentioned, we could do there's already this repo that is the descendant of Andre Karpathi's nano GPT speedrun, where you just try to change everything about the model from like the optimizer to the hyperparameters to the architecture to get it to get to a fixed training loss as fast as possible.
+
+13
+00:01:38.560 --> 00:01:46.640
+Um, you could have other kinds of uh environments where you could say, hey, uh GPT 7.5, I want you to train a really good video video game playing model.
+
+14
+00:01:46.640 --> 00:01:50.320
+And I want you to train a model that actually improves as it plays the same video game again and again.
+
+15
+00:01:50.320 --> 00:01:53.600
+So you learn how to maybe help the model get better at online learning.
+
+16
+00:01:53.600 --> 00:01:56.240
+Maybe it gets we don't care how you figure this out.
+
+17
+00:01:56.240 --> 00:01:58.760
+Maybe it's some kind of crazy New Orleans or a vector memory.
+
+18
+00:01:58.760 --> 00:02:01.320
+Maybe it's some crazy, or maybe just like better long context stuff.
+
+19
+00:02:01.320 --> 00:02:02.040
+We don't care.
+
+20
+00:02:02.040 --> 00:02:04.840
+Get figure out how to like do online learning research.
+
+21
+00:02:04.840 --> 00:02:14.040
+Obviously, then the fact that GPT 7.5 will already have become very good at normal, like become it'll be a smart model in the same way the models currently are getting smarter.
+
+22
+00:02:14.040 --> 00:02:17.640
+It'll be better and better at coding in the way that models are currently getting better in coding.
+
+23
+00:02:17.640 --> 00:02:29.640
+And you can imagine a hundred other environments like this, which are incentivizing the ability to do AI RD by getting GPT-7.5 to like containerized versions of getting GPT-7.5 to develop GPT-2 size models, etc.
+
+24
+00:02:29.720 --> 00:02:30.120
+etc.
+
+25
+00:02:30.520 --> 00:02:37.080
+And you basically then you've like you put GPT 7.5 through a bunch of this kind of training, you build GPT-8.
+
+26
+00:02:37.080 --> 00:02:40.120
+And GPT-8 is now an amazing ML researcher.
+
+27
+00:02:40.120 --> 00:02:43.400
+It has so much intuition from doing all this kind of training.
+
+28
+00:02:43.400 --> 00:03:03.560
+Um honestly a huge intuition pump for me is seeing the progress that AI has made in mathematics, where I'm just like, if it's a very verifiable domain, AIs can get even like mathematics also involves so much like I I don't know, really know this object level details of the mathematics research, but I'm just like the key bet is transfer.
+
+29
+00:03:03.560 --> 00:03:09.720
+Whether success on small experiments carries into the load-bearing work of AI research.
+
+30
+00:03:09.720 --> 00:03:21.320
+Planet Money's currency chaos in Argentina follows how inflation and capital controls pushed ordinary Argentines toward dollar savings and a parallel exchange market.
+
+31
+00:03:39.960 --> 00:03:48.320
+So I'm not rich, but yes, I do have like $500 in my shoebox, like Jay-Z said it.
+
+32
+00:03:49.280 --> 00:03:51.680
+You gotta start with a shoebox.
+
+33
+00:03:51.680 --> 00:03:54.080
+So Lucas and I are talking over Zoom.
+
+34
+00:03:54.080 --> 00:03:55.280
+At mid-sentence.
+
+35
+00:03:55.280 --> 00:03:58.000
+I'm really like standing up and going away.
+
+36
+00:03:58.000 --> 00:03:58.720
+I'm sorry.
+
+37
+00:03:58.720 --> 00:04:01.040
+Okay, Lucas has like wandered away.
+
+38
+00:04:01.040 --> 00:04:04.400
+But like for real.
+
+39
+00:04:04.400 --> 00:04:06.320
+This is my shoebox.
+
+40
+00:04:06.320 --> 00:04:09.520
+Lucas, what are you saving the American dollars for?
+
+41
+00:04:09.520 --> 00:04:14.320
+I hold this thing because this is not gonna devaluate.
+
+42
+00:04:14.320 --> 00:04:18.160
+I uh $10 is gonna still be $10.
+
+43
+00:04:18.160 --> 00:04:23.360
+Bro, I can leave like a week and a half with this.
+
+44
+00:04:23.360 --> 00:04:24.640
+Just this.
+
+45
+00:04:24.640 --> 00:04:27.040
+Next he picks up some Argentine money.
+
+46
+00:04:27.040 --> 00:04:29.440
+This is a thousand pesos.
+
+47
+00:04:29.440 --> 00:04:34.320
+Lucas waves it at me and he's kind of like, what can I buy with this?
+
+48
+00:04:34.320 --> 00:04:44.480
+I can go to McDonald's and buy like a really big combo with like bacon and cheese and like uh for real.
+
+49
+00:04:44.480 --> 00:04:51.920
+Like a big combo on McDonald's, it I'm not gonna be able to pay it with a thousand pesos.
+
+50
+00:04:51.920 --> 00:04:54.800
+I gotta go with two of this.
+
+51
+00:04:54.800 --> 00:04:57.680
+He shakes his sad peso.
+
+52
+00:04:57.680 --> 00:05:05.600
+And in a year or two, he might need to take three or four of these thousand peso bills to go get that combo meal.
+
+53
+00:05:05.600 --> 00:05:08.880
+Because inflation might hit 100%.
+
+54
+00:05:08.880 --> 00:05:12.640
+And what Lucas wants to buy with his pesos, it's not combo meals.
+
+55
+00:05:12.640 --> 00:05:16.000
+It's more US dollars to stash in his shoebox.
+
+56
+00:05:16.000 --> 00:05:22.000
+And this is where the story gets kind of weird, because buying dollars is not straightforward.
+
+57
+00:05:22.000 --> 00:05:29.880
+The Argentine government controls foreign exchange transactions because they don't want US dollars to run off and leave Argentina.
+
+58
+00:05:29.840 --> 00:05:33.560
+There is an official rate.
+
+59
+00:05:30.200 --> 00:05:31.880
+Okay, so here we go.
+
+60
+00:05:33.720 --> 00:05:39.720
+So if Lucas wants to play by the rules, he can go to a bank and buy.
+
+61
+00:05:47.400 --> 00:05:59.080
+On conversations with Tyler, economist Darren Assimigou examines what happens when values conflict and utility or cost-benefit analysis offers no mechanical answer.
+
+62
+00:05:59.480 --> 00:06:09.720
+It matters wherever technology policy pits efficiency against rights, power, and protections that only institutions can provide.
+
+63
+00:06:33.480 --> 00:06:38.600
+So if if we're siguic, we might say, well, when values clash, we look to utility.
+
+64
+00:06:38.600 --> 00:06:42.520
+Or maybe it'd be cost-benefit analysis to decide which gets priority.
+
+65
+00:06:42.520 --> 00:06:43.960
+And you're not willing to say that.
+
+66
+00:06:43.960 --> 00:06:44.520
+So why not?
+
+67
+00:06:44.520 --> 00:06:45.880
+What's wrong with that answer?
+
+68
+00:06:45.880 --> 00:06:50.360
+Because I think So let me start with what's wrong with a general will type answer.
+
+69
+00:06:50.520 --> 00:07:01.320
+I'm simplifying it, but I would say in a general will type of approach is that we have a book in our hand which says when values clash and when there's something, here is a higher value, and we're gonna follow that.
+
+70
+00:07:01.320 --> 00:07:06.760
+And ultimately, even though he's a true liberal, John Rawls also goes into that direction.
+
+71
+00:07:06.760 --> 00:07:12.360
+Now, you might think utilitarianism avoids that, because it says, no, we don't have a book.
+
+72
+00:07:12.360 --> 00:07:16.000
+All we do is we turn everything to utils and then we compare those utils.
+
+73
+00:07:16.720 --> 00:07:20.080
+But who decides how to compare how to turn things into utils?
+
+74
+00:07:20.080 --> 00:07:24.080
+Who decides, you know, when there are externalities that are important?
+
+75
+00:07:24.080 --> 00:07:26.160
+You know, there again needs to be a book.
+
+76
+00:07:26.160 --> 00:07:31.200
+And I don't like that book, because who decides that what that book is, and how can we be certain that that book exists?
+
+77
+00:07:31.200 --> 00:07:44.000
+So that's why once we have the building blocks of individual liberty, then I think we have to go back to society and seek consensus on what our temporary book should be.
+
+78
+00:07:44.320 --> 00:07:48.320
+There's a lot of talk in your book about what you call working class liberalism.
+
+79
+00:07:48.320 --> 00:07:51.920
+But say today in America, what exactly is working class?
+
+80
+00:07:51.920 --> 00:07:55.680
+You know, household income, it's almost six figures.
+
+81
+00:07:55.680 --> 00:07:58.960
+Percentage working in manufacturing, it's what, eight to nine percent.
+
+82
+00:07:58.960 --> 00:08:01.200
+Private sector unions are very small.
+
+83
+00:08:01.200 --> 00:08:04.240
+Is this even a meaningful notion today, the working class?
+
+84
+00:08:05.040 --> 00:08:06.000
+May or may not be.
+
+85
+00:08:06.000 --> 00:08:31.600
+That's why I say that social democracy as it evolved in Scandinavia and then spread to Europe and to some extent in a uh modified version to the United States, isn't the right actualization of liberal ideas today, because it very strongly relies on unions and a particular kind of industrial working class.
+
+86
+00:08:31.600 --> 00:08:33.440
+Today we don't have an industrial working class.
+
+87
+00:08:33.440 --> 00:08:39.200
+So if you're by working class, I meant industrial working class, obviously that would be almost a vacuous notion.
+
+88
+00:08:39.200 --> 00:08:47.440
+But we have the vast majority of people who live by earning their living in the labor market.
+
+89
+00:08:47.440 --> 00:08:48.880
+That's the working class.
+
+90
+00:08:48.880 --> 00:09:01.480
+If you're getting your income from the labor market mostly, not from capital, not from your parents, then in my definition, you're part of the working class.
+
+91
+00:09:01.480 --> 00:09:06.920
+And the working class is distinguished by having a very, very diverse set of skills.
+
+92
+00:09:06.920 --> 00:09:08.120
+Not just one skill.
+
+93
+00:09:08.120 --> 00:09:16.200
+It's going to have the manual part, it's going to have the trades, it's going to have office jobs, it's going to have entrepreneurship of some sort.
+
+94
+00:09:16.200 --> 00:09:18.840
+But that's what the unifying theme is.
+
+95
+00:09:18.840 --> 00:09:21.240
+And that's, of course, not a very simple unifying theme.
+
+96
+00:09:21.240 --> 00:09:23.480
+So there's going to be a lot of heterogeneity within the working class.
+
+97
+00:09:23.480 --> 00:09:29.880
+That's why I am emphasize in the working class liberalism, different communities that are going to have their own practices and values.
+
+98
+00:09:32.120 --> 00:09:34.840
+Some choices aren't optimization problems.
+
+99
+00:09:34.840 --> 00:09:39.320
+They're judgments about which protections a society refuses to trade away.
+
+100
+00:09:41.640 --> 00:09:44.120
+That's today's daily rundown.
+
+101
+00:09:44.360 --> 00:09:45.720
+Thanks for listening.
+
+102
+00:09:45.720 --> 00:09:47.560
+We'll be back tomorrow.

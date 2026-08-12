@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-12",
+  "chapters": [
+    {
+      "startTime": 44.936,
+      "title": "Dwarkesh Podcast \u2014 Training future models as autonomous AI researchers using containerized ML experiments, nanoGPT-style"
+    },
+    {
+      "startTime": 211.36,
+      "title": "Planet Money \u2014 Dollar savings, capital controls, and Argentina's parallel foreign-exchange market"
+    },
+    {
+      "startTime": 370.336,
+      "title": "Conversations with Tyler \u2014 Why utility and cost-benefit analysis cannot mechanically resolve conflicting values"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ryan Greenblatt \u2013 What happens once AI can automate AI research?",
+      "podcast": "Dwarkesh Podcast",
+      "link": "https://www.dwarkesh.com/p/ryan-greenblatt",
+      "audio_url": "https://api.substack.com/feed/podcast/210737923/e93bde91ce72fbf50e2faa22a7a594d0.mp3",
+      "transcript_url": "",
+      "published": "2026-08-11T16:31:23+00:00"
+    },
+    {
+      "title": "Currency Chaos in Argentina (Summer School)",
+      "podcast": "Planet Money",
+      "link": "https://www.npr.org/2026/08/12/nx-s1-5914841/summer-school-argentina-inflation-currency-volatility",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&feed=1e5vv9pg&t=podcast&e=nx-s1-5914841&p=510289&d=2364&size=37828318",
+      "transcript_url": "",
+      "published": "2026-08-12T07:30:00+00:00"
+    },
+    {
+      "title": "Daron Acemoglu on Liberalism, Automation, and the Educated Elite",
+      "podcast": "Conversations with Tyler",
+      "link": "https://cowenconvos.libsyn.com/daron-acemoglu-on-liberalism-automation-and-the-educated-elite",
+      "audio_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-292-DaronAcemoglu-Podcast-v2.mp3?dest-id=850607",
+      "transcript_url": "",
+      "published": "2026-08-12T11:10:00+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-08-12.txt"
+}
