@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-13",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-13_20260813T201350Z_1285/clip_sources/090a0a901a4ee2a3/01_How_generative_AI_collapses_the_operating_cost_of.mp3",
+      "source": "LLMs and the economics of Evil, Inc., with Manish Goregaokar",
+      "start_time": 538,
+      "end_time": 665,
+      "topic": "How generative AI collapses the operating cost of sophisticated scams"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-13_20260813T201350Z_1285/clip_sources/b9a288c8929ef1cb/01_Samsaras_electronic_logging_devices_and_automated.mp3",
+      "source": "The Two Ways to Sell AI: Lighthouse or Landgrab?",
+      "start_time": 454,
+      "end_time": 579,
+      "topic": "Samsara's electronic logging devices and automated transportation data collection"
+    },
+    {
+      "clip_path": "/Users/smith/.openclaw/workspace/projects/audio-digest/runs/2026-08-13_20260813T201350Z_1285/clip_sources/60b48d04be715a0e/01_China_and_the_United_States_exporting_their_domest.mp3",
+      "source": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
+      "start_time": 321,
+      "end_time": 444,
+      "topic": "China and the United States exporting their domestic economic and political dysfunction worldwide"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
