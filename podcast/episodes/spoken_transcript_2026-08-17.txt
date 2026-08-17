@@ -1,0 +1,108 @@
+Stripe's bet that cheaper coding means more software, not fewer builders.
+Plus, Laura Modi's crash course inside Google Finance, the power struggle behind industrialization, and why psychiatry still lacks objective biomarkers.
+On the A16Z podcast, Stripe's leadership argues that agentic coding shouldn't just cut costs.
+It should make building software cheap enough to unleash a wave of new companies.
+Timely, with Stripe reportedly pursuing open router for more than seven billion dollars.
+And I think a lot of companies have skewed in that direction where they've seen this new, you know, agentic uh efficiency and power as a way to optimize cost structure.
+Uh, you saw some layoffs, you saw you know, companies shrinking op X.
+And our belief is that it's just an opportunity to, I'm being a little cheeky, but build everything.
+Yes.
+Yeah.
+And, you know, uh, the best way to optimize your cost structure is to grow more.
+Yes.
+Exactly.
+We have reams of user asks going back many years that are unmet, and so we just want to get through them all faster.
+And so while we have, you know, more and more productivity from most senior engineers, if you want to ship more and build faster, you have to create founder-like agency inside your company.
+And so the main things that are holding back our progress today are actually sort of back office things.
+You know, we are merging so much more code than last year, and it is stressing every system.
+It is stressing how do we get things into our seller systems, how do we get things onto our pricing page.
+How do we actually bring things to market when we can't train sellers on them fast enough.
+And so we are really trying at this stage to optimize every single phase of, we think of it as sort of the critical path in Stripe from the ideas behind product development, the user asks, all the way to products being in users' hands.
+And so, you know, to your question of how do you go faster, it's really two things.
+It's one, just how do you create that agency for everyone at Stripe?
+How do you let everyone at Stripe be an auteur, like a founder, you know, a creative and not have them held back by the morass of you know centralized processes.
+Yeah, exactly.
+Exactly.
+Exactly.
+And on the other side, then it's how do you, you know, with your develop uh your dev prod team just make the tools better and better and better.
+So we create something called Stripe Minions, which we've blogged about a little bit.
+And, you know, of course we've got tons of developer tooling to help users iterate with agents, but minions uh we think of as you know the most important, like one of our most important metrics internally is how many PRs and what percentage of our PRs are created by minions.
+And the reason for that is that minions are one shot.
+Yeah.
+So you you give it a prompt, and you know, it's going to build it and then it's going to, you know, go through CI CD and all of testing.
+And then you're gonna review it.
+So you're not gonna iterate, you're not going to planning mode.
+You're just gonna say, this is what I want, go do it.
+And so we think, you know, that's kind of where the world is going.
+You know, it's the the one shot or the glorified rel floop where you're just sort of letting the agent be super, super powerful.
+And so we blogged about minions, I think in January, February, and they were doing 1,200, you know, PRs per week.
+And last week, I think 7,000 PRs came from minions.
+Wow.
+Yeah.
+And about 30% of our PRs in that week came from minions.
+So, you know, that sort of developer tooling and then the real bet is that lower costs expand ambition, not just margins.
+On how I built this with Gairaz, Bobby founder Laura Modi looks back at running product operations for Google Finance when it was competing with Yahoo.
+She describes startup level autonomy and how day trading taught her the markets from the inside.
+I was maybe fed too much.
+I was given a level of work autonomy and freedom.
+But also I got to watch, and it was it was like doing an early MBA.
+Not only you're learning from brilliant people, but the work ethic was just next level.
+And my day-to-day job was supporting product operations for Google Finance, which almost felt like a little startup within itself.
+The goal at the time was to go up against Yahoo Finance, which was the number one platform.
+And I had no real understanding of the stock market and using, you know, these financial platforms before this, but I became such a fast learner.
+I found myself day trading.
+So not only did I love working there and love the job, I also felt like I was growing in my own sort of knowledge and understanding of a new world.
+And how'd you do, by the way, as a day trader?
+Uh, not too bad.
+Actually, my first home was mainly the proceeds of some day trading.
+Yeah.
+All right.
+So you were you end up, you're a Google for about five years, I think.
+Yeah, just under five years.
+And you join a small-ish at that time startup, Airbnb.
+I had started in 2008.
+Um, but still in 2011, it was gaining traction for sure.
+No question about it.
+But tell me about that decision.
+But you got a job.
+I mean, it must have been exciting to be part of something that you felt had a lot of potential.
+So I remember I had to do a work trip to New York while I was working at Google.
+And I had a colleague turn to me and said, Well, why don't you just book an airbed and breakfast?
+And I was like, what the hell is this?
+So I go on the site and I book myself a two-bedroom flat.
+And I remember calling my friends back in Dublin and Ireland.
+I was like, guys, I have my own apartment in New York City, and I lived a real New York life.
+And I left that week going, I have to work for this company.
+And I will do whatever it takes because whatever they're doing, whatever they're on.
+That small team ownership became useful training for taking on two formula giants.
+On econ talk, economist Ben Southwood frames the English, glorious, and American revolutions as versions of one recurring conflict.
+And basically you can see, if you want, you can see the English Civil War in the mid 1600s, then the Glorious Revolution in the late 1600s, and then the American Civil War in the in the in the mid 1800s as being like the same struggle playing out a few different times.
+And so ultimately, there's that I mean, as I say, I think that this is actually stretching, stretching things.
+But I think it's a useful way of thinking about things in the Britain, before that, England, and then after that, the US, there's ultimately a struggle between older aristocracies that depend on rents from their farmland, and their you know, they're they've been they've taken this farmland through conquest hundreds of years before, been given it by the king, whatever.
+Um, and then new mercantile elites who are growing up because of trade and technology and science and whatever.
+And I mean, this is as I said, this is the very broad brush.
+I think it's actually slightly overfitting things to a simplistic model.
+But like it's a nice way of looking at things.
+Um, and then the civil war, the English Civil War, you have this, the mercantile side effectively wins, takes over, but then tries to set up its own hereditary system.
+Everyone decides to restore the king, king comes back, Charles II, son of Charles I, who was executed um at the beginning of the English Civil War.
+Um, then when he tries to hand over to, sorry, when he he hands over to James I, but when he has tries to hand over to James II, who is an open Catholic, then the same mercantile elites are worried, we're going back to absolutism, we're going back to rule by the aristocratic uh elites, and we we're not gonna have the um the system of I guess like mercantile freedom that they wanted, but lots of other stuff is wrapped up in that, like different kinds of Christianity and so on.
+And so they invite in the ruler of the Netherlands, the ruler of Holland, well, they would have said Holland at the time, William, who happens to be married to the daughter of the English king, um, and they they invade in Devon in southwest England, and pretty much normal it's a deliberately broad model, but it links technological progress to who holds political power.
+On the Peter Atia Drive, psychiatrist Linus Abrams examines a basic limitation of his field.
+Diagnoses still rely heavily on symptoms without objective biomarkers.
+Is to really get to know people in depth who are remarkable human beings.
+And that's what inspired me to go into psychiatry in the first place, because understanding the patient is always greater than my ability or any provider to use that word, any provider's ability to understand them, because the nature of a human being is so unique and remarkable.
+So it's progressive layers of insight and progressive attempts to understand and reinterpret or misinterpretations, if you will.
+I mean, one of the things about psychiatry that is quite unique to medicine when you consider all of the medical subspecialties and the surgical subspecialties, is the lack of measurable biomarkers or objective findings that could be measured on imaging, for example.
+So when you think through presumably the spectrum of conditions that a psychiatrist would be treating from anxiety to depression to hypomania, bipolar disorder, all of the different clustered all of these things.
+There's nothing that's going to show up on a CT scan or an MRI of the brain that makes that diagnosis.
+There isn't a blood-based biomarker that's going to say, oh, this, you know, this person has high ferritin or this person has low this or low that.
+Not yet.
+Yep.
+So yet, in other words, something you said a moment ago rings very important, which is even though you you've used the term psychopharmacologist several times already, implying that the tool, the main tool you use is a pharmacologic tool.
+The human story piece of it is the diagnosis, right?
+I mean, presumably part of the diagnosis is ratified through a hypothesis of, hey, I think if if my if I'm right on the diagnosis, this medication should make things a little bit better.
+But you have to have a very good hypothesis based on your subjective interaction.
+That gap shapes both how mental illness is measured and what counts as recovery.
+That's today's daily rundown.
+Thanks for listening.
+We'll be back tomorrow.
