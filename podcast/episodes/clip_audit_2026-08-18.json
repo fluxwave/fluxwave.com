@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-18",
+  "selected_clips": 3,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-18_20260818T200151Z_84056/clip_sources/a2d2e9d1c95b0500/01_Securing_agent_actions_when_models_pursue_goals_un.mp3",
+      "source": "How Do You Defend Against AI That Can Hack?",
+      "start_time": 382,
+      "end_time": 506,
+      "topic": "Securing agent actions when models pursue goals unpredictably"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-18_20260818T200151Z_84056/clip_sources/34336c89f5ff71d1/01_The_global_AI_equilibrium_frontier_labs_Chinese_mo.mp3",
+      "source": "Ben Thompson on Big Tech, China, and the AI Boom Running Out of Money - [Invest Like the Best, EP.487]",
+      "start_time": 327,
+      "end_time": 456,
+      "topic": "The global AI equilibrium: frontier labs, Chinese model distillation, and whether competitors can catch up"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-18_20260818T200151Z_84056/clip_sources/28abc29a1f69c28e/01_Labor-market_weakness_alongside_rapid_growth_in_AI.mp3",
+      "source": "What the jobs report isn't telling you about AI & the workforce, with Upwork\u2019s Hayden Brown",
+      "start_time": 310,
+      "end_time": 439,
+      "topic": "Labor-market weakness alongside rapid growth in AI-related freelance work and fractional hiring"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

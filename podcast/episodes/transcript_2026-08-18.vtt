@@ -1,0 +1,353 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:11.280
+Why endpoint security breaks down around AI agents, whether AI economics still favor the US and what autonomous agents can actually deliver at work.
+
+2
+00:00:11.280 --> 00:00:20.560
+Three clips, all published today from a 16Z, Invest Like the Best, and Masters of Scale.
+
+3
+00:00:20.560 --> 00:00:25.760
+On the A16Z podcast, how do you defend against AI that can hack?
+
+4
+00:00:25.760 --> 00:00:34.160
+Examines why endpoint tools struggle to monitor agentic processes and how guardrails can misfire on ambiguous context.
+
+5
+00:00:34.240 --> 00:00:39.520
+That matters is companies give AI agents more access to real systems.
+
+6
+00:00:41.600 --> 00:00:42.880
+Right to validate that.
+
+7
+00:00:42.880 --> 00:00:46.480
+And so I almost find it more helpful to look at it in reverse.
+
+8
+00:00:46.480 --> 00:00:52.720
+Now, as is the case with any kind of guardrail based system, you will run into false positives, right?
+
+9
+00:00:52.720 --> 00:01:04.480
+We noticed a very fun one maybe a quarter ago where there's a security tool out there called Vectra, and it just so happens to be also a drug used by veterinarians to treat, I think dogs or something like that.
+
+10
+00:01:04.480 --> 00:01:08.720
+So we notice folks using the the vector tool were hitting a biofilter, right?
+
+11
+00:01:08.720 --> 00:01:12.880
+Oh, this could be used to generate bioweapons, and so we're gonna refuse this request.
+
+12
+00:01:12.880 --> 00:01:18.480
+And so it's not always an exact science, but there's just a myriad of reasons why you can manage this stuff.
+
+13
+00:01:18.720 --> 00:01:24.640
+And so Nick, NEO is building a way to defend endpoints from these inference style attacks.
+
+14
+00:01:24.640 --> 00:01:28.800
+Or to deal with, I'd say, I guess they call it AI governance, sort of sort of more broadly, right?
+
+15
+00:01:28.800 --> 00:01:32.640
+But from a brass tax perspective, all things ultimately come to the endpoint, right?
+
+16
+00:01:32.640 --> 00:01:35.760
+The dust ultimately settles on the floor, and that's your infrastructure.
+
+17
+00:01:35.760 --> 00:01:41.280
+How are you guys thinking about defending and playing in this kind of world where the automated attacks need an automated response?
+
+18
+00:01:41.280 --> 00:01:47.600
+Yeah, I think part of the challenge with the existing security tools that are out there is they really really were built to tackle two things.
+
+19
+00:01:47.600 --> 00:01:49.920
+The first being people, and the second is malware.
+
+20
+00:01:49.920 --> 00:01:53.520
+AI and AI agents and agentic processes are neither one of those things.
+
+21
+00:01:53.600 --> 00:01:59.440
+And so what we wanted to do is get ourselves right at the layer between the human and AI interaction.
+
+22
+00:01:59.440 --> 00:02:06.040
+So a big part of what we're building is a way to properly set guardrails and controls around the software before it runs.
+
+23
+00:02:06.040 --> 00:02:09.000
+And we thought the best way to do that would be at the endpoint.
+
+24
+00:02:09.000 --> 00:02:09.560
+Yeah.
+
+25
+00:02:09.560 --> 00:02:11.000
+Yeah, that makes a lot of sense.
+
+26
+00:02:11.000 --> 00:02:12.200
+And it's interesting, right?
+
+27
+00:02:12.200 --> 00:02:20.920
+Because the attacks now, if you look at sort of the way the models are behaving, it's a very different style of attack than what I would say the traditional hacker does, right?
+
+28
+00:02:20.920 --> 00:02:22.920
+Like it is, to your point, not malware.
+
+29
+00:02:22.920 --> 00:02:30.200
+And there is the element of social engineering, but there's also sort of the I'm gonna use a payload that gets the model to do something malicious, right?
+
+30
+00:02:30.200 --> 00:02:33.560
+And that's sort of like the category of attacks that are completely new.
+
+31
+00:02:33.560 --> 00:02:41.800
+Yeah, you know, and I think what a lot of these things that we've read about recently embody is the end justifies the means in the mind of the model.
+
+32
+00:02:41.800 --> 00:02:51.480
+And I think what people have learned is that regardless of guardrails that the AI labs are putting around these things, you can't rely on models to stop themselves or to understand content.
+
+33
+00:02:51.480 --> 00:02:57.240
+Security built around human actions needs a different way to judge machine behavior.
+
+34
+00:02:57.240 --> 00:03:07.800
+On invest like the best, analyst Ben Thompson weighs AI self-improvement, inference costs, and the hidden economics of open weight models.
+
+35
+00:03:07.800 --> 00:03:19.640
+With GPT, 5.6 sole pricing cut in half on open router today, the cost of running models is becoming as strategic as building them.
+
+36
+00:03:20.040 --> 00:03:25.880
+And it feels like a pretty good equilibrium that I think is generally favorable to the US.
+
+37
+00:03:25.880 --> 00:03:28.520
+Now, the question is how long could it stay this way?
+
+38
+00:03:28.520 --> 00:03:32.680
+And there's lots of questions out there, like can the Chinese actually pull ahead?
+
+39
+00:03:32.680 --> 00:03:40.680
+I'm still a little skeptical for various reasons, whether we from chips, getting to the leading edge, I think that lasts six to nine months is very difficult.
+
+40
+00:03:40.680 --> 00:03:51.360
+It's gonna be instructive how Meta and Grok do in terms of actually catching up, especially as we get into the world of AI improving itself, using AI to make the AI better, which I think is definitely a real thing.
+
+41
+00:03:51.520 --> 00:03:58.560
+I think you see a real acceleration from both OpenAI and Anthropic recently, which was sort of theorized and it seems to be coming true.
+
+42
+00:03:58.560 --> 00:04:01.760
+And to the extent that's true, can you actually catch up?
+
+43
+00:04:01.760 --> 00:04:08.640
+And I think the other question about this, by the way, is to what extent does that apply to cost to serve, to marginal costs?
+
+44
+00:04:08.640 --> 00:04:17.360
+If you can apply AI to optimizing your stack to figuring things out, to analyzing all the data, is your cost to serve structurally lowered than anyone else?
+
+45
+00:04:17.360 --> 00:04:20.080
+This is the thing about the open source models.
+
+46
+00:04:20.080 --> 00:04:24.400
+The talk about them being free is bizarre to me because it's marginal costs.
+
+47
+00:04:24.400 --> 00:04:28.400
+You still have to run inference like GLM or Kimmy.
+
+48
+00:04:28.400 --> 00:04:30.160
+Kimmy is very expensive to serve.
+
+49
+00:04:30.160 --> 00:04:32.560
+The cost per answer is significantly higher.
+
+50
+00:04:32.560 --> 00:04:34.400
+Everyone referring to these as free.
+
+51
+00:04:34.400 --> 00:04:37.760
+It feels like in the narrative, it's in people's head that free is free.
+
+52
+00:04:37.760 --> 00:04:39.040
+Now I can use AI for free.
+
+53
+00:04:39.040 --> 00:04:40.320
+No, you can't use AI for free.
+
+54
+00:04:40.320 --> 00:04:47.120
+You're not paying necessarily the RD to create the AI, but you're definitely paying the inference to sort of run it.
+
+55
+00:04:47.120 --> 00:04:50.160
+So right now, I kind of like where we are.
+
+56
+00:04:50.160 --> 00:04:57.200
+And the pushback would be that's right now, it's not gonna stay that way, which I think is fair pushback, but I don't know, this way longer than we think.
+
+57
+00:04:57.200 --> 00:05:04.240
+If you could know anything about the future of how this will go, to be more confident in like where the equilibrium will end up, what is it?
+
+58
+00:05:04.240 --> 00:05:07.360
+Is it like the length of the S curve, like how far up the S curve we are?
+
+59
+00:05:07.600 --> 00:05:10.720
+At some point these things presumably will level out, maybe not.
+
+60
+00:05:10.720 --> 00:05:15.760
+What would be the thing you'd want to know that would give you a better sense of what the future might look like?
+
+61
+00:05:15.760 --> 00:05:35.000
+I am concerned that with the scare around people freaking out about mythos and this hugging face incident, that the actual implication of that is not that we reduce these dangers, but we just stop releasing stuff.
+
+62
+00:05:36.200 --> 00:05:42.440
+Cheaper inference can reshape the market before the underlying technology changes.
+
+63
+00:05:42.440 --> 00:05:53.160
+On Masters of Scale, Upwork CEO Hayden Brown discusses autonomous agents, high failure rates and upworks plan to give them platform access through MCP.
+
+64
+00:05:53.160 --> 00:06:02.840
+It's a practical test of whether workplace agents can move beyond demos without sacrificing reliability.
+
+65
+00:06:02.920 --> 00:06:04.840
+You know, their stock price goes up.
+
+66
+00:06:04.840 --> 00:06:06.440
+It's like it's a positive.
+
+67
+00:06:06.440 --> 00:06:12.600
+And I wonder whether when as you were thinking about this, you're like, well, do I lean into that part of the messaging?
+
+68
+00:06:12.600 --> 00:06:17.240
+Because maybe, you know, that that helps the story.
+
+69
+00:06:17.240 --> 00:06:23.240
+You know, it was so important to me that our messaging around this be really true and authentic.
+
+70
+00:06:23.240 --> 00:06:28.920
+Because frankly, of course, AI is helping us and it is a contributor to our efficiency and our productivity.
+
+71
+00:06:28.920 --> 00:06:36.920
+But um, that is not the biggest reason A that we made the changes, nor the biggest benefit um that we were able to get from and kind of driving these changes.
+
+72
+00:06:36.920 --> 00:06:54.760
+So, you know, we're actually seeing the opposite trend in our platform in the sense that the AI washing that you're talking about has been happening, but also a lot of folks are now reconsidering and coming back because they're seeing that the humans they let go actually they still need, and the AI can't do all of the things that they hoped that it could do.
+
+73
+00:06:54.760 --> 00:07:03.880
+Uh, a recent survey we did showed that 23% of our own clients have actually already moved work back to humans from AI or are about to do so.
+
+74
+00:07:03.880 --> 00:07:06.840
+So I think this pendulum, you know, it will keep swinging.
+
+75
+00:07:06.840 --> 00:07:16.320
+When we've actually done testing of um clients trying to use agents directly to deliver work products through our platform, the failure rate of agents is incredibly high.
+
+76
+00:07:14.680 --> 00:07:22.000
+They almost never succeed in delivering even fairly simple tasks from clients end to end.
+
+77
+00:07:22.080 --> 00:07:29.840
+But when you just add a little bit of human expertise and a few back and forths with an expert study, the success rate goes up more than 70%.
+
+78
+00:07:29.840 --> 00:07:32.720
+We have to sharpen our intuition around when to trust AI.
+
+79
+00:07:32.720 --> 00:07:36.560
+And I think increasingly people are realizing ah, I'm not going to take this at face value.
+
+80
+00:07:36.560 --> 00:07:41.680
+I want to couple that with a valued human expert who can bring a lot more to that equation.
+
+81
+00:07:41.760 --> 00:07:47.360
+AI is directly impacting things that happen on your platform.
+
+82
+00:07:47.360 --> 00:07:55.840
+There's been a rise in AI agents posting job ads, machines, essentially trying to hire humans.
+
+83
+00:08:01.920 --> 00:08:03.440
+It could sound a little spooky.
+
+84
+00:08:03.440 --> 00:08:07.440
+Did it feel that way to you when it first started?
+
+85
+00:08:07.520 --> 00:08:14.720
+Agent access is useful only if the work survives contact with the real world.
+
+86
+00:08:14.720 --> 00:08:17.520
+That's today's daily rundown.
+
+87
+00:08:17.520 --> 00:08:18.800
+Thanks for listening.
+
+88
+00:08:18.800 --> 00:08:20.800
+We'll be back tomorrow.

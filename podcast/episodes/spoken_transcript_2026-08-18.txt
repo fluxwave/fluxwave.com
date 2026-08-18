@@ -1,0 +1,88 @@
+Why endpoint security breaks down around AI agents, whether AI economics still favor the US and what autonomous agents can actually deliver at work.
+Three clips, all published today from a 16Z, Invest Like the Best, and Masters of Scale.
+On the A16Z podcast, how do you defend against AI that can hack?
+Examines why endpoint tools struggle to monitor agentic processes and how guardrails can misfire on ambiguous context.
+That matters is companies give AI agents more access to real systems.
+Right to validate that.
+And so I almost find it more helpful to look at it in reverse.
+Now, as is the case with any kind of guardrail based system, you will run into false positives, right?
+We noticed a very fun one maybe a quarter ago where there's a security tool out there called Vectra, and it just so happens to be also a drug used by veterinarians to treat, I think dogs or something like that.
+So we notice folks using the the vector tool were hitting a biofilter, right?
+Oh, this could be used to generate bioweapons, and so we're gonna refuse this request.
+And so it's not always an exact science, but there's just a myriad of reasons why you can manage this stuff.
+And so Nick, NEO is building a way to defend endpoints from these inference style attacks.
+Or to deal with, I'd say, I guess they call it AI governance, sort of sort of more broadly, right?
+But from a brass tax perspective, all things ultimately come to the endpoint, right?
+The dust ultimately settles on the floor, and that's your infrastructure.
+How are you guys thinking about defending and playing in this kind of world where the automated attacks need an automated response?
+Yeah, I think part of the challenge with the existing security tools that are out there is they really really were built to tackle two things.
+The first being people, and the second is malware.
+AI and AI agents and agentic processes are neither one of those things.
+And so what we wanted to do is get ourselves right at the layer between the human and AI interaction.
+So a big part of what we're building is a way to properly set guardrails and controls around the software before it runs.
+And we thought the best way to do that would be at the endpoint.
+Yeah.
+Yeah, that makes a lot of sense.
+And it's interesting, right?
+Because the attacks now, if you look at sort of the way the models are behaving, it's a very different style of attack than what I would say the traditional hacker does, right?
+Like it is, to your point, not malware.
+And there is the element of social engineering, but there's also sort of the I'm gonna use a payload that gets the model to do something malicious, right?
+And that's sort of like the category of attacks that are completely new.
+Yeah, you know, and I think what a lot of these things that we've read about recently embody is the end justifies the means in the mind of the model.
+And I think what people have learned is that regardless of guardrails that the AI labs are putting around these things, you can't rely on models to stop themselves or to understand content.
+Security built around human actions needs a different way to judge machine behavior.
+On invest like the best, analyst Ben Thompson weighs AI self-improvement, inference costs, and the hidden economics of open weight models.
+With GPT, 5.6 sole pricing cut in half on open router today, the cost of running models is becoming as strategic as building them.
+And it feels like a pretty good equilibrium that I think is generally favorable to the US.
+Now, the question is how long could it stay this way?
+And there's lots of questions out there, like can the Chinese actually pull ahead?
+I'm still a little skeptical for various reasons, whether we from chips, getting to the leading edge, I think that lasts six to nine months is very difficult.
+It's gonna be instructive how Meta and Grok do in terms of actually catching up, especially as we get into the world of AI improving itself, using AI to make the AI better, which I think is definitely a real thing.
+I think you see a real acceleration from both OpenAI and Anthropic recently, which was sort of theorized and it seems to be coming true.
+And to the extent that's true, can you actually catch up?
+And I think the other question about this, by the way, is to what extent does that apply to cost to serve, to marginal costs?
+If you can apply AI to optimizing your stack to figuring things out, to analyzing all the data, is your cost to serve structurally lowered than anyone else?
+This is the thing about the open source models.
+The talk about them being free is bizarre to me because it's marginal costs.
+You still have to run inference like GLM or Kimmy.
+Kimmy is very expensive to serve.
+The cost per answer is significantly higher.
+Everyone referring to these as free.
+It feels like in the narrative, it's in people's head that free is free.
+Now I can use AI for free.
+No, you can't use AI for free.
+You're not paying necessarily the RD to create the AI, but you're definitely paying the inference to sort of run it.
+So right now, I kind of like where we are.
+And the pushback would be that's right now, it's not gonna stay that way, which I think is fair pushback, but I don't know, this way longer than we think.
+If you could know anything about the future of how this will go, to be more confident in like where the equilibrium will end up, what is it?
+Is it like the length of the S curve, like how far up the S curve we are?
+At some point these things presumably will level out, maybe not.
+What would be the thing you'd want to know that would give you a better sense of what the future might look like?
+I am concerned that with the scare around people freaking out about mythos and this hugging face incident, that the actual implication of that is not that we reduce these dangers, but we just stop releasing stuff.
+Cheaper inference can reshape the market before the underlying technology changes.
+On Masters of Scale, Upwork CEO Hayden Brown discusses autonomous agents, high failure rates and upworks plan to give them platform access through MCP.
+It's a practical test of whether workplace agents can move beyond demos without sacrificing reliability.
+You know, their stock price goes up.
+It's like it's a positive.
+And I wonder whether when as you were thinking about this, you're like, well, do I lean into that part of the messaging?
+Because maybe, you know, that that helps the story.
+You know, it was so important to me that our messaging around this be really true and authentic.
+Because frankly, of course, AI is helping us and it is a contributor to our efficiency and our productivity.
+But um, that is not the biggest reason A that we made the changes, nor the biggest benefit um that we were able to get from and kind of driving these changes.
+So, you know, we're actually seeing the opposite trend in our platform in the sense that the AI washing that you're talking about has been happening, but also a lot of folks are now reconsidering and coming back because they're seeing that the humans they let go actually they still need, and the AI can't do all of the things that they hoped that it could do.
+Uh, a recent survey we did showed that 23% of our own clients have actually already moved work back to humans from AI or are about to do so.
+So I think this pendulum, you know, it will keep swinging.
+When we've actually done testing of um clients trying to use agents directly to deliver work products through our platform, the failure rate of agents is incredibly high.
+They almost never succeed in delivering even fairly simple tasks from clients end to end.
+But when you just add a little bit of human expertise and a few back and forths with an expert study, the success rate goes up more than 70%.
+We have to sharpen our intuition around when to trust AI.
+And I think increasingly people are realizing ah, I'm not going to take this at face value.
+I want to couple that with a valued human expert who can bring a lot more to that equation.
+AI is directly impacting things that happen on your platform.
+There's been a rise in AI agents posting job ads, machines, essentially trying to hire humans.
+It could sound a little spooky.
+Did it feel that way to you when it first started?
+Agent access is useful only if the work survives contact with the real world.
+That's today's daily rundown.
+Thanks for listening.
+We'll be back tomorrow.
