@@ -1,0 +1,509 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:02.480
+How Wall Street hides big trades.
+
+2
+00:00:02.480 --> 00:00:09.360
+Nick Bostrom on controlling superintelligence and why startup geography still matters.
+
+3
+00:00:09.360 --> 00:00:17.920
+Plus, Raul Powell's case for investing through technological disruption, not freezing in fear.
+
+4
+00:00:17.920 --> 00:00:28.560
+On complex systems with Patrick McKenzie, Alex Ellie explains how algorithms slice and route million share orders without revealing the full trade.
+
+5
+00:00:28.960 --> 00:00:35.360
+Because once rivals detect that pattern, they can move the price against you.
+
+6
+00:00:36.000 --> 00:00:38.960
+Like someone can see that a buyer sell happened.
+
+7
+00:00:38.960 --> 00:00:48.320
+But they don't want to tip their hand as to like, okay, if I'm selling a million shares on Microsoft, it's quite likely that that is not the only Microsoft I will be selling that day.
+
+8
+00:00:48.320 --> 00:00:58.880
+And so that uh might suggest to the rest of the market, like, hey, the price of Microsoft is probably going down unless someone really, really wants Microsoft right now.
+
+9
+00:00:58.880 --> 00:01:17.680
+And uh this is one of the the sort of core problems in trading is doing large block trades in a in ways such that you get the execution you want at a price that is acceptable without informing the rest of the market that you are doing a large block trade because that will have what is typically called price impact.
+
+10
+00:01:17.680 --> 00:01:24.800
+Uh the rest of the market will understand the totality of the trade before you put it on and uh start quoting less for your rule numbers to you.
+
+11
+00:01:24.800 --> 00:01:29.600
+Yes, yeah, and and you bring up at an excellent point, and I I can talk about some different ways that people do it.
+
+12
+00:01:29.600 --> 00:01:38.960
+So let's say you are a uh a firm and you have some alpha or or signal or you have some state on where you think things are going to go.
+
+13
+00:01:38.960 --> 00:01:45.440
+One thing you could do is you could tell, let's say you want to go through a broker, you could tell the broker, hey, here's this giant order, work it for me.
+
+14
+00:01:45.440 --> 00:01:48.160
+Now the broker knows that you think this is the case.
+
+15
+00:01:48.160 --> 00:01:52.800
+And so there are rules to prevent them taking advantage of that, aka front running.
+
+16
+00:01:52.800 --> 00:01:57.040
+But if you just put out this giant block, as you mentioned, other people will see it.
+
+17
+00:01:57.040 --> 00:02:01.160
+So some of the techniques you can do is you can uh chop up the order over the day.
+
+18
+00:02:01.240 --> 00:02:09.880
+And there's different ways you can do that in terms of uh what's called smart routing, where you give it to AK an algorithm and we'll make lots of little pieces and it'll send it to different places.
+
+19
+00:02:09.880 --> 00:02:12.280
+You can send it to different venues yourself.
+
+20
+00:02:12.280 --> 00:02:18.360
+So you might have five or six different brokers and you can say I'm gonna give 10% to this broker, 20% to this broker.
+
+21
+00:02:18.360 --> 00:02:29.480
+You might even go to the investment bank and they you can say something like, Hey, I want you to execute this million for me so it won't show up as me executing it and it'll show up as you.
+
+22
+00:02:29.480 --> 00:02:36.120
+And this gets more into what's called reg and a mess and how orders are routed and fills are sent to clients, et cetera.
+
+23
+00:02:36.120 --> 00:02:43.560
+But uh the the bank can then chop it up themselves, they can give you one big fill, and then they can aka work the order over the day.
+
+24
+00:02:43.560 --> 00:02:49.320
+So yeah, there's a lot of different kind of flows through the system to basically uh to get you the position that you want.
+
+25
+00:02:49.320 --> 00:02:52.200
+Um, some firms do it over multiple days, et cetera.
+
+26
+00:02:52.280 --> 00:03:36.280
+And for each of these, there are people with uh generally opposed uh incentives, where uh you know if you are aware that there are technologies to like chop an order up over the course of a working day, then that suggests that uh at 11.02 in the morning, you might be able to say, wait a minute, you know, if the naive way to do this, and believe me, people have tried the naive way to do this, if the naive way to do this is just like sending in an order every five minutes, and we've seen dozens of orders at this point that are all for the same quantity and the same in the same symbol at the same price, then I naturally assume that I will see more dozens of orders through the rest of the day and can start positioning myself uh uh against those orders before they have actually been uh made.
+
+27
+00:03:36.280 --> 00:03:37.400
+Yes, that's that's correct.
+
+28
+00:03:37.400 --> 00:03:52.480
+Yeah, they um without going into too many of the alpha details, firms look at all kinds of data on just smart execution is partly a contest over who can infer the other side's next move first.
+
+29
+00:03:52.560 --> 00:04:05.040
+On odd lots, philosopher Nick Bostrom revisits his path from the 2014 book Superintelligence to today's central problem controlling systems more capable than their creators.
+
+30
+00:04:05.120 --> 00:04:10.560
+That question feels less theoretical as frontier models keep gaining autonomy.
+
+31
+00:04:12.560 --> 00:04:23.280
+And then you also have superintelligence, which seemed to paint a different scenario where AI poses a physical and possibly existential danger to humanity.
+
+32
+00:04:23.280 --> 00:04:27.040
+Which one do you think we're closer to right now?
+
+33
+00:04:27.360 --> 00:04:29.120
+We are somewhere in the middle, maybe.
+
+34
+00:04:29.120 --> 00:04:32.160
+Uh so the first one was superintelligence.
+
+35
+00:04:32.160 --> 00:04:37.360
+It came out in 2014, and I had been working on it for uh six years before that.
+
+36
+00:04:37.360 --> 00:04:49.040
+And at that time, the whole notion of having human level or or even super intelligent machines was generally just ignored, or you know, people dismissed it as science fiction.
+
+37
+00:04:49.040 --> 00:04:56.960
+And it seemed to me clear that this would one day happen if science and technology were allowed to continue on a wide front.
+
+38
+00:04:56.960 --> 00:05:02.400
+We would eventually figure out how to make smart algorithms and build big computers.
+
+39
+00:05:02.400 --> 00:05:21.120
+And that once we succeeded with that, we would then be faced with uh kind of a bunch of challenges, including this alignment problem of how how you can sort of design a mind more brilliant than any human and still steer it so that it will actually have an impact on the world that is beneficial.
+
+40
+00:05:21.360 --> 00:05:28.480
+So that I guess, like with many other developments, helped eventually build a kind of global conversation.
+
+41
+00:05:28.480 --> 00:05:34.440
+And so now all the frontier labs have research teams trying to develop scalable methods for AI control.
+
+42
+00:05:34.840 --> 00:05:43.160
+And um the conversation really has kind of swung, and there's like this rise of people really worried about what will happen.
+
+43
+00:05:43.160 --> 00:05:47.320
+And I thought it might be time to have a look at the other side of the coin.
+
+44
+00:05:47.320 --> 00:05:51.960
+Like what happens if things actually go well, if if we solve this alignment problem.
+
+45
+00:05:51.960 --> 00:06:03.480
+Let's also imagine we solve to the extent, whatever extent it can be solved, like the governance challenge, like we don't use this technology to oppress each other or wage war, and we get like the best possible outcome.
+
+46
+00:06:03.480 --> 00:06:20.920
+Like what would a human life actually look like in this kind of I call it a solved world, where all practical problems either have already been solved or to the extent that they remain, or are better worked on by these uh superintelligent machines and robots, and where there is no longer any need for human economic labor.
+
+47
+00:06:20.920 --> 00:06:34.120
+And in fact, if you think more deeply about it, you realize it's not just earning wages that becomes unnecessary for humans to do, but but a lot of other instrumentally motivated efforts as well would be a good idea.
+
+48
+00:06:34.280 --> 00:06:41.560
+Capability and control are separate engineering problems, and progress on one does not guarantee the other.
+
+49
+00:07:02.760 --> 00:07:03.080
+Yeah.
+
+50
+00:07:03.080 --> 00:07:05.320
+Like I'll use Santi from Adi, for instance.
+
+51
+00:07:05.400 --> 00:07:12.360
+Grew up in Columbia, went to Yale, spent some time with a bunch of financial services companies, both large and small in the US, and then came back home.
+
+52
+00:07:12.360 --> 00:07:12.760
+Yeah.
+
+53
+00:07:12.760 --> 00:07:18.160
+And so it's a combination of saw the models that works in the US, but then deeply understand their home market.
+
+54
+00:07:18.160 --> 00:07:20.640
+And so then he was able to start Adi.
+
+55
+00:07:20.640 --> 00:07:24.720
+He recruited one of his childhood best friends who was very, very technical.
+
+56
+00:07:24.720 --> 00:07:35.200
+And then the other thing you have to know is unlike in the US, where you can get everything as a service at every layer of the stack, in many other markets, including Latin America, you just can't do that.
+
+57
+00:07:35.200 --> 00:07:38.240
+There's no sort of fraud as a stack, KYC is a stack.
+
+58
+00:07:38.240 --> 00:07:45.440
+So you end up having to build everything, which requires a much deeper local market knowledge, but it's very helpful to be able to borrow from around the world.
+
+59
+00:07:45.440 --> 00:07:46.240
+Yeah.
+
+60
+00:07:46.240 --> 00:07:51.200
+And so it sounds like this finds its origins in a WhatsApp group.
+
+61
+00:07:51.200 --> 00:07:56.720
+And then now suddenly is an entire strategy that you two are really leading at this firm.
+
+62
+00:07:56.720 --> 00:08:04.800
+And I'm curious, kind of what was the moment for you where you were like, oh, okay, this needs to sort of evolve past what we're doing right now.
+
+63
+00:08:04.800 --> 00:08:05.680
+It was interesting.
+
+64
+00:08:05.680 --> 00:08:09.120
+We had very active communities across regions.
+
+65
+00:08:09.120 --> 00:08:12.320
+And then really what happened was AI.
+
+66
+00:08:12.960 --> 00:08:18.640
+And there's this interesting dichotomy in that this technology is very democratic.
+
+67
+00:08:18.640 --> 00:08:21.200
+It distributes the ability to get it anywhere in the world.
+
+68
+00:08:21.200 --> 00:08:23.040
+It opens up other markets.
+
+69
+00:08:23.040 --> 00:08:30.160
+But then it also concentrates the kind of epicenter of where things are moving the fastest to the Bay Area.
+
+70
+00:08:30.160 --> 00:08:30.640
+Yeah.
+
+71
+00:08:30.640 --> 00:08:37.200
+And so then it changed versus Brazilian founders, Colombian founders wanting us to come down to Brazil and Colombia and connect.
+
+72
+00:08:37.280 --> 00:08:39.040
+They all wanted to come to the Bay Area.
+
+73
+00:08:39.040 --> 00:08:39.440
+Yeah.
+
+74
+00:08:39.440 --> 00:08:41.280
+And get integrated a lot faster.
+
+75
+00:08:41.760 --> 00:08:48.480
+And when that happened, sort of like what kinds of problems were they negotiating or challenges or opportunities?
+
+76
+00:08:48.480 --> 00:08:52.000
+You're an international founder, you come to the Bay Area.
+
+77
+00:08:52.000 --> 00:08:58.720
+Maybe you do have some connections, you know, some investors, you know some customers, you know some other founders.
+
+78
+00:08:58.720 --> 00:09:00.440
+But what are the challenges?
+
+79
+00:08:59.840 --> 00:09:04.440
+And also, what are you bringing with you from your home country?
+
+80
+00:09:06.200 --> 00:09:13.560
+Global playbooks travel, but distribution, regulation, and trust still have to be built locally.
+
+81
+00:09:13.560 --> 00:09:22.040
+On impact theory, investor Raul Powell argues that doom-driven paralysis is the wrong response to rapid technological change.
+
+82
+00:09:22.360 --> 00:09:29.640
+His prescription is to plan for disruption, then invest in long-term growth rather than trying to hide from it.
+
+83
+00:09:36.520 --> 00:09:38.600
+And this is exactly what I've been talking about.
+
+84
+00:09:38.600 --> 00:09:43.640
+You know, when I started, I said you have six years to unfuck your future, then five years to unfuck your future.
+
+85
+00:09:43.640 --> 00:09:46.760
+We've got about four years to get this right.
+
+86
+00:09:46.760 --> 00:09:48.600
+The gift of the opportunity was there.
+
+87
+00:09:48.600 --> 00:09:53.320
+I mean, technology, we had crypto before it now we've got technology, crypto probably have another run.
+
+88
+00:09:53.560 --> 00:09:54.520
+It's all there.
+
+89
+00:09:54.520 --> 00:09:56.600
+Just invest in your own demise.
+
+90
+00:09:56.600 --> 00:09:58.280
+Don't fear the demise.
+
+91
+00:09:58.760 --> 00:10:07.560
+And if you if you if you always think that tomorrow's going to be a rainy day, you never go out anywhere.
+
+92
+00:10:07.560 --> 00:10:12.280
+Or today, you know, you just and it stops you investing.
+
+93
+00:10:12.280 --> 00:10:17.720
+And that's what I've I learned the hard way that I always looked for the doom.
+
+94
+00:10:17.720 --> 00:10:20.600
+And what I did was miss the upside.
+
+95
+00:10:20.600 --> 00:10:24.360
+And not over short periods of time, but I still see it with friends of mine.
+
+96
+00:10:24.360 --> 00:10:35.880
+The kind of gold bugs who've been doing this, doom mongering for 30 years, and they've not made money because they haven't been able to invest.
+
+97
+00:10:35.880 --> 00:10:38.440
+They've kept their capital.
+
+98
+00:10:38.440 --> 00:10:51.200
+You know, they they've they've staved off devaluation and and um debasement by owning gold, let's say, but they've missed the entire output of humanity, which is this increase in intelligence.
+
+99
+00:10:51.200 --> 00:10:54.720
+They hated it because it was always going to go bust.
+
+100
+00:10:54.720 --> 00:10:56.720
+But that's mad.
+
+101
+00:10:56.720 --> 00:11:06.000
+When human ingenuity and the rise of intelligence and the increase in the value of NASDAQ companies or technology companies overall is relentless.
+
+102
+00:11:06.000 --> 00:11:11.280
+The technology companies of the past, you know, get replaced by new technology companies.
+
+103
+00:11:11.280 --> 00:11:13.360
+So yeah, could you be in the wrong company?
+
+104
+00:11:13.360 --> 00:11:14.960
+Just buy the Nasdaq.
+
+105
+00:11:14.960 --> 00:11:16.480
+It's the same thing with the crypto.
+
+106
+00:11:16.560 --> 00:11:22.320
+I mean, just buy Bitcoin, buy Nasdaq, and save up some cash.
+
+107
+00:11:22.320 --> 00:11:28.640
+And if there's a big sell-off when it's down 50%, you say thank you very much and buy some more.
+
+108
+00:11:28.640 --> 00:11:35.600
+How does somebody avoid the um reality that when the dot-com bust happened?
+
+109
+00:11:35.600 --> 00:11:41.440
+Um it took 15 to 20 years for a lot of those companies to rebound.
+
+110
+00:11:41.440 --> 00:11:44.240
+So you're missing what I'm saying.
+
+111
+00:11:44.240 --> 00:11:48.400
+Let's say price of asset at peak is 100.
+
+112
+00:11:48.400 --> 00:11:51.680
+Let's say you got in at the last part of it.
+
+113
+00:11:51.680 --> 00:11:54.160
+So you got in at 70 or 80, let's say, right?
+
+114
+00:11:54.160 --> 00:11:58.080
+So you didn't get the absolute top, and it falls 90%.
+
+115
+00:11:58.080 --> 00:11:59.760
+So it's down to 10.
+
+116
+00:11:59.760 --> 00:12:00.880
+Yep.
+
+117
+00:12:00.880 --> 00:12:02.640
+And you double your position.
+
+118
+00:12:02.640 --> 00:12:05.600
+Your average is now 50.
+
+119
+00:12:05.600 --> 00:12:08.080
+Where did it how long did it take to clear that?
+
+120
+00:12:08.080 --> 00:12:09.440
+Not very long at all.
+
+121
+00:12:09.440 --> 00:12:17.760
+If you chose a bit of stock picking, had you chosen Amazon into that fall, which went down 96%.
+
+122
+00:12:17.760 --> 00:12:23.600
+I mean, Chris, the amount of money you have made, you were more than compensated for that sell-off that you had.
+
+123
+00:12:23.600 --> 00:12:26.480
+But people just think so short term.
+
+124
+00:12:26.480 --> 00:12:31.080
+Because what they're not doing is projecting their future self here.
+
+125
+00:12:29.440 --> 00:12:34.040
+You're projecting your current self onto your future.
+
+126
+00:12:34.520 --> 00:12:45.880
+So if you're saying, hey, there's a secular trend that goes probably into infinity, and there'll be some big ups and downs en route, and I'll take advantage of those by if it gets wildly overpriced, I might sell some.
+
+127
+00:12:45.880 --> 00:12:51.480
+And if it gets back down to super cheap levels, I'll just buy more.

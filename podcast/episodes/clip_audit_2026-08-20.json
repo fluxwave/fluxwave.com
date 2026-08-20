@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-20",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-20_20260820T200318Z_44917/clip_sources/62bc7c8a17b7391c/01_Trade_anonymity_information_leakage_and_market_imp.mp3",
+      "source": "Two banks can't agree on fourth-grade math | Alex Elliott",
+      "start_time": 328,
+      "end_time": 453,
+      "topic": "Trade anonymity, information leakage, and market impact when executing large block orders"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-20_20260820T200318Z_44917/clip_sources/5b059c4f3f6d77ae/01_A_fully_automated_economy_and_the_search_for_purpo.mp3",
+      "source": "Nick Bostrom on What Happens if AI Solves All of Our Problems",
+      "start_time": 600,
+      "end_time": 722,
+      "topic": "A fully automated economy and the search for purpose in an AI-solved world"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-20_20260820T200318Z_44917/clip_sources/b0e43b875f0cf6e8/01_How_AI_changed_international_startup_strategy_and.mp3",
+      "source": "How Global Networks Are Reshaping Startup Success",
+      "start_time": 380,
+      "end_time": 507,
+      "topic": "How AI changed international startup strategy and how founders use country-specific technical talent networks in Silicon Valley"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-20_20260820T200318Z_44917/clip_sources/b4273bb9ba361128/01_Dollar-cost_averaging_into_technology_crashes_and.mp3",
+      "source": "Raoul Pal: The Economic Singularity Is Coming by 2030 \u2014 Here's How to Position Now",
+      "start_time": 399,
+      "end_time": 607,
+      "topic": "Dollar-cost averaging into technology crashes and the psychology of severe drawdowns"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
