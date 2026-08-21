@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-21",
+  "chapters": [
+    {
+      "startTime": 42.344,
+      "title": "a16z Podcast \u2014 Agent-specific identities, bounded execution, logging, and containment"
+    },
+    {
+      "startTime": 200.576,
+      "title": "All-In with Chamath, Jason, Sacks & Friedberg \u2014 Agentic AI misuse scenarios involving cyberattacks, bioweapons, and medi"
+    },
+    {
+      "startTime": 361.856,
+      "title": "The Meb Faber Show - Better Investing \u2014 Surviving a nine-year period of extreme small-cap underperformance"
+    },
+    {
+      "startTime": 514.768,
+      "title": "Developer Tea \u2014 Using YAGNI and calibrated risk tolerance to avoid premature abstractions and unnecessary flexibility"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Microsoft's Deputy CISO on Securing AI Agents",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/how-microsoft-is-securing-the-agentic-enterprise-aaron-zollman-j7eOe8NH",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c9e8f5d5-86c0-4e2d-98c4-2133fcb293ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c9e8f5d5-86c0-4e2d-98c4-2133fcb293ea&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-08-21T11:40:08+00:00"
+    },
+    {
+      "title": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+      "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
+      "link": "https://allinchamathjason.libsyn.com/dario-defends-himself-datacenter-panic-ai-doomer-trap-senate-toss-up",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E286_99_AUDIO.mp3?dest-id=1928300",
+      "transcript_url": "",
+      "published": "2026-08-21T14:14:00+00:00"
+    },
+    {
+      "title": "David Booth: 45 Years to $1 Trillion at Dimensional | #646",
+      "podcast": "The Meb Faber Show - Better Investing",
+      "link": "",
+      "audio_url": "https://traffic.megaphone.fm/TIFM6639128171.mp3",
+      "transcript_url": "",
+      "published": "2026-08-21T08:30:00+00:00"
+    },
+    {
+      "title": "Why Reducing Complexity Is A Sign of Seniority",
+      "podcast": "Developer Tea",
+      "link": "http://www.developertea.com",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/f3b1e4d3-9f59-48fb-9bec-00016c5e6e1d/audio/003ecf20-7aea-4318-96c0-47e2ded7dd03/default_tc.mp3?aid=rss_feed&feed=dLRotFGk",
+      "transcript_url": "",
+      "published": "2026-08-21T07:00:00+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-08-21.txt"
+}

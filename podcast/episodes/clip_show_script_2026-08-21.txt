@@ -1,0 +1,35 @@
+[OPEN]
+[A] Today: securing AI agents, the darkest misuse scenarios, and what nine years of small-cap pain can teach investors.
+[B] Plus, why senior developers often write less flexible code—not more.
+
+[INTRO_1]
+[B] On the a16z Podcast, Microsoft’s deputy CISO explains what happened when employees connected the company’s Scout agent to everything—and why agents need distinct identities, bounded execution, logging, and containment.
+[A] Timely lessons after the August 17 outage, as increasingly autonomous tools get access to real business systems.
+[CLIP_1]
+[REACT_1]
+[B] The key distinction: an agent’s permissions should reflect its task, not inherit everything its user can access.
+
+[INTRO_2]
+[A] On All-In, the hosts steel-man warnings from frontier AI labs about agents enabling cyberattacks, bioweapons, and mass media manipulation.
+[B] The stakes are whether lab leaders see capabilities the public doesn’t—or whether worst-case scenarios are driving policy ahead of the evidence.
+[CLIP_2]
+[REACT_2]
+[A] That gap between private testing and public capability makes these warnings unusually hard to verify.
+
+[INTRO_3]
+[B] On The Meb Faber Show, Dimensional founder David Booth looks back at surviving nine years of severe small-cap underperformance while large companies dominated.
+[A] It’s a useful reality check for investors watching today’s market stay concentrated in mega-cap winners.
+[CLIP_3]
+[REACT_3]
+[B] A sound strategy can underperform far longer than most investors—or firms—can comfortably endure.
+
+[INTRO_4]
+[A] On Developer Tea, Jonathan Cutrell uses YAGNI—“you aren’t going to need it”—to explain why senior engineers avoid premature abstractions and unnecessary flexibility.
+[B] With AI making code cheap to generate, knowing what not to build is becoming the more valuable skill.
+[CLIP_4]
+[REACT_4]
+[A] Extra flexibility isn’t free; every unused option becomes something the team still has to understand.
+
+[CLOSE]
+[B] That’s today’s Daily Rundown.
+[A] Thanks for listening. We’ll be back tomorrow.

@@ -1,0 +1,1866 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T20:24:33.183063+00:00",
+  "run_state": "completed",
+  "outcome": "ready",
+  "quality": "clean",
+  "status": "clean",
+  "publication_allowed": true,
+  "detector_version": "podcast-llm-ad-judge/1.4.0",
+  "ad_classifier": {
+    "authority": "llm",
+    "model": "openai/gpt-5.6-sol",
+    "version": "podcast-llm-ad-judge/1.4.0"
+  },
+  "providers": {
+    "tts": "edge-tts",
+    "tts_configured": "edge-tts",
+    "llm": "openclaw",
+    "llm_route": "openclaw-agent/codex-native",
+    "model": "openai/gpt-5.6-sol"
+  },
+  "assembly_manifest": [
+    {
+      "kind": "host_open",
+      "title": "",
+      "sha256": "0778369ef9c08af22d9702320b01ea11334a76bb334e2508d04fa2bd90633c93",
+      "duration_s": 8.184
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_open",
+      "title": "",
+      "sha256": "34b5be952077d4e6bb676879219ddcbbe576f236231cd358c9f57c8012d906d1",
+      "duration_s": 5.28
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "host_intro_1",
+      "title": "",
+      "sha256": "a126efc9db57d27ecc85b1d01dba6394a8c037132e6aed094fe6637c2c245c7f",
+      "duration_s": 14.472
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_1",
+      "title": "",
+      "sha256": "b355128c890cd1210433c40977cb4526f49040720f4d63c99a2198350eca6049",
+      "duration_s": 8.208
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "clip_1",
+      "title": "a16z Podcast \u2014 Agent-specific identities, bounded execution, logging, and containment",
+      "sha256": "39ba37af3c0366a38ccb8fee8e2d1755849e28c39ec7fb659be36ca8904c816e",
+      "duration_s": 127.2
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "host_react_1",
+      "title": "",
+      "sha256": "2076df4b205511d798429f4ec1e44770bdb7506ea3a187fef1aa8970b04b1eb7",
+      "duration_s": 7.08
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_2",
+      "title": "",
+      "sha256": "6045eae0b73532c87a8ac52e0b74581fe7f4791adcc8966fddce557ebd8c6eb9",
+      "duration_s": 9.864
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_2",
+      "title": "",
+      "sha256": "f9b450ac4594511bc8537a042b7e77eff3bf0ebe1ff5038b52793ee56c405425",
+      "duration_s": 8.688
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "clip_2",
+      "title": "All-In with Chamath, Jason, Sacks & Friedberg \u2014 Agentic AI misuse scenarios involving cyberattacks, bioweapons, and medi",
+      "sha256": "49abc2f8c4d3ec99509b8c2b8080cd0816d39a374e731ef74c8f2513cf429a9c",
+      "duration_s": 133.2
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "host_react_2",
+      "title": "",
+      "sha256": "ab87257c04345f7f80dac98ec175230afa4b75e239b64f981e7606b48631e763",
+      "duration_s": 6.48
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_3",
+      "title": "",
+      "sha256": "4c6556e3d4b4cb431c5eb19053a62df25f9e7603272ee9d7fe8f9dd51f32dbd3",
+      "duration_s": 9.696
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_3",
+      "title": "",
+      "sha256": "c34413dff772ca1ef96149dbffc7bc9b1dfeaf622b8e54f740bfa7f9ada829f2",
+      "duration_s": 6.504
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "clip_3",
+      "title": "The Meb Faber Show - Better Investing \u2014 Surviving a nine-year period of extreme small-cap underperformance",
+      "sha256": "d33001f3968b97ac0ed3e8f89eb96c9c66c3831c3a8d1b564b6a99fd2e450727",
+      "duration_s": 123.2
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "host_react_3",
+      "title": "",
+      "sha256": "bf02294689ad5bacfe0c77852a65968a47fc85f314e1c9ffb2ea87a981a68c31",
+      "duration_s": 6.408
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_4",
+      "title": "",
+      "sha256": "390141a8a974497341bf48f982b4740ca488ad93b514fcd288643d6fdc322dca",
+      "duration_s": 11.856
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_4",
+      "title": "",
+      "sha256": "4d2c23067dd4a3f0d350666b96733df4706b8c2aa85ef6d15af35126c79933a7",
+      "duration_s": 6.048
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "clip_4",
+      "title": "Developer Tea \u2014 Using YAGNI and calibrated risk tolerance to avoid premature abstractions and unnecessary flexibility",
+      "sha256": "700bf8e46227a12226cd71a08a437ea2afa5ffaf6b30a472e0958e45cfec5cf6",
+      "duration_s": 133.2
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "host_react_4",
+      "title": "",
+      "sha256": "89fab4a661a1d8cfcdedfb204e6f9a81cc1bf5e9f568747532d7a9f9de0e7281",
+      "duration_s": 7.08
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "host_close",
+      "title": "",
+      "sha256": "beb0bea434fcf4297f01c061e779d9eb4f3587c608be232b0d83c902b8b37831",
+      "duration_s": 2.112
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_close",
+      "title": "",
+      "sha256": "e794bc9d7b2179ef9f288cd1be106d2bbd01871690d59ef09f723b40916f243f",
+      "duration_s": 2.544
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    }
+  ],
+  "failures": [],
+  "degraded_reasons": [],
+  "integrity": {
+    "status": "clean",
+    "errors": [],
+    "audio_duration_s": 665.107,
+    "duration_band": "target",
+    "clip_count": 4,
+    "unique_source_count": 4,
+    "chapter_count": 4
+  },
+  "clip_scans": [
+    {
+      "clip": "00_Agent-specific_identities_bounded_execution_loggin.mp3",
+      "source": "a16z Podcast",
+      "source_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c9e8f5d5-86c0-4e2d-98c4-2133fcb293ea/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c9e8f5d5-86c0-4e2d-98c4-2133fcb293ea&feed=JGE3yC0V",
+      "source_audio_sha256": "1ee6872b1d837641e138a659fdacf033295a160a99a4caeff6d41fa3fd9b3002",
+      "source_ad_scan": {
+        "authority": "llm",
+        "classifier_version": "podcast-llm-ad-judge/1.4.0",
+        "classifier_model": "openai/gpt-5.6-sol",
+        "classifier_provider": "openclaw-agent/codex-native",
+        "schema_version": 1,
+        "audio_sha256": "1ee6872b1d837641e138a659fdacf033295a160a99a4caeff6d41fa3fd9b3002",
+        "transcript_sha256": "26ddc5bbc95756174ec674a201ea96e578763111d156e70ffd9f4bee82caa25c",
+        "asr_identity": "parakeet-mlx",
+        "segment_count": 359,
+        "input_order_normalized": true,
+        "status": "ad",
+        "reason": "llm_semantic_verdict",
+        "confidence": 0.99,
+        "summary": "The transcript ends with promotional calls to like, subscribe, review, share, follow the show, visit podcast platforms, and subscribe to its Substack.",
+        "ad_ranges": [
+          {
+            "start_s": 1447.64,
+            "end_s": 1526.08,
+            "segment_ids": [
+              "s000351",
+              "s000352",
+              "s000353"
+            ],
+            "authority": "llm"
+          }
+        ],
+        "ad_segment_ids": [
+          "s000351",
+          "s000352",
+          "s000353"
+        ],
+        "chunk_verdicts": [
+          {
+            "chunk_index": 0,
+            "first_segment_id": "s000000",
+            "last_segment_id": "s000074",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial introduction and discussion of AI-agent security; no paid pitch or promotional call to action."
+          },
+          {
+            "chunk_index": 1,
+            "first_segment_id": "s000072",
+            "last_segment_id": "s000145",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial technical discussion about AI-agent security, threat modeling, containment, monitoring, and internal tools; no commercial pitch or promotional call to action."
+          },
+          {
+            "chunk_index": 2,
+            "first_segment_id": "s000143",
+            "last_segment_id": "s000221",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion of AI evaluation and software security; no sponsorship, commercial pitch, promo offer, or promotional call to action."
+          },
+          {
+            "chunk_index": 3,
+            "first_segment_id": "s000219",
+            "last_segment_id": "s000293",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion about CISO roles, AI, security risks, and the Black Hat conference; no commercial pitch or promotional call to action."
+          },
+          {
+            "chunk_index": 4,
+            "first_segment_id": "s000291",
+            "last_segment_id": "s000358",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000351",
+              "s000352",
+              "s000353"
+            ],
+            "confidence": 0.99,
+            "summary": "Promotional calls to like, subscribe, review, share, visit podcast platforms, follow the show, and subscribe to its Substack."
+          }
+        ],
+        "chunk_count": 5,
+        "semantic_retry_used": false,
+        "initial_final_verdict": null,
+        "publication_eligible": false,
+        "decision_key": "f594a89a1570eae032ce0195bad103501a4a6303152db0f9997a127f0ff01875",
+        "decision_sha256": "84512e0737d4ccb0dff4bb2497c45a3e77207258f2353137071e85a2cd5bf646",
+        "gateway_metadata": [
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16452,
+              "output": 42,
+              "total": 16494
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16471,
+              "output": 52,
+              "total": 16523
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16562,
+              "output": 48,
+              "total": 16610
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6638,
+              "output": 51,
+              "cacheRead": 9984,
+              "total": 16673
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16079,
+              "output": 63,
+              "total": 16142
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 13769,
+              "output": 66,
+              "total": 13835
+            }
+          }
+        ],
+        "cache_hit": false,
+        "generated_at": "2026-08-21T20:04:39.089261+00:00"
+      },
+      "expected_transcript_overlap": 0.982,
+      "authority": "llm",
+      "classifier_version": "podcast-llm-ad-judge/1.4.0",
+      "classifier_model": "openai/gpt-5.6-sol",
+      "classifier_provider": "openclaw-agent/codex-native",
+      "schema_version": 1,
+      "audio_sha256": "91626803932c2e7938c38506254d2fb559d6059069110f89bf866d737f44a6f0",
+      "transcript_sha256": "4da5368362511121665dc042daef08207ed9a9a21fd0b3135d7598847f9b07f6",
+      "asr_identity": "parakeet-mlx",
+      "segment_count": 22,
+      "input_order_normalized": false,
+      "status": "clean",
+      "reason": "llm_semantic_verdict",
+      "confidence": 0.99,
+      "summary": "The complete transcript contains only editorial technical discussion, with no commercial pitch, sponsorship, affiliate offer, house ad, or promotional call to action.",
+      "ad_ranges": [],
+      "ad_segment_ids": [],
+      "chunk_verdicts": [
+        {
+          "chunk_index": 0,
+          "first_segment_id": "s000000",
+          "last_segment_id": "s000021",
+          "verdict": "clean",
+          "ad_segment_ids": [],
+          "confidence": 0.99,
+          "summary": "Editorial technical discussion of enterprise AI-agent adoption, identity, containment, monitoring, and security risks; no promotional call to action or discernible commercial pitch."
+        }
+      ],
+      "chunk_count": 1,
+      "semantic_retry_used": false,
+      "initial_final_verdict": null,
+      "publication_eligible": true,
+      "decision_key": "686e91aa104281c0da184667298cfd5450190ff97177831fb5a388f2d77cf5d5",
+      "decision_sha256": "9764ce269c8c93b96da19daeece7095f0cfdbbed2927b4c7b91ea5db43c758ac",
+      "gateway_metadata": [
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 4459,
+            "output": 54,
+            "cacheRead": 9984,
+            "total": 14497
+          }
+        },
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 3522,
+            "output": 52,
+            "cacheRead": 9984,
+            "total": 13558
+          }
+        }
+      ],
+      "cache_hit": false,
+      "generated_at": "2026-08-21T20:22:40.902922+00:00",
+      "detector_version": "podcast-llm-ad-judge/1.4.0",
+      "ad_classifier": {
+        "authority": "llm",
+        "model": "openai/gpt-5.6-sol",
+        "version": "podcast-llm-ad-judge/1.4.0"
+      },
+      "audio_duration_s": 127.2
+    },
+    {
+      "clip": "00_Agentic_AI_misuse_scenarios_involving_cyberattacks.mp3",
+      "source": "All-In with Chamath, Jason, Sacks & Friedberg",
+      "source_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E286_99_AUDIO.mp3?dest-id=1928300",
+      "source_audio_sha256": "56119accaa0fa9815ce73694f0e04a91315f0e3b670eddfb28fd79b647c98306",
+      "source_ad_scan": {
+        "authority": "llm",
+        "classifier_version": "podcast-llm-ad-judge/1.4.0",
+        "classifier_model": "openai/gpt-5.6-sol",
+        "classifier_provider": "openclaw-agent/codex-native",
+        "schema_version": 1,
+        "audio_sha256": "56119accaa0fa9815ce73694f0e04a91315f0e3b670eddfb28fd79b647c98306",
+        "transcript_sha256": "77ba07a45fcdffe96a33496037f50e418c9bb8ed1a07ad4e76883379dfd89232",
+        "asr_identity": "parakeet-mlx",
+        "segment_count": 1286,
+        "input_order_normalized": true,
+        "status": "ad",
+        "reason": "llm_semantic_verdict",
+        "confidence": 0.99,
+        "summary": "Promotional segment invites listeners to the All-In Summit and concert while marketing the lineup, events, venue, and special guests.",
+        "ad_ranges": [
+          {
+            "start_s": 3591.28,
+            "end_s": 3704.76,
+            "segment_ids": [
+              "s000853",
+              "s000854",
+              "s000855",
+              "s000856",
+              "s000857",
+              "s000858",
+              "s000859",
+              "s000860",
+              "s000861",
+              "s000862",
+              "s000863",
+              "s000864",
+              "s000865",
+              "s000866",
+              "s000867",
+              "s000868",
+              "s000869",
+              "s000870",
+              "s000871",
+              "s000872",
+              "s000873",
+              "s000874"
+            ],
+            "authority": "llm"
+          }
+        ],
+        "ad_segment_ids": [
+          "s000853",
+          "s000854",
+          "s000855",
+          "s000856",
+          "s000857",
+          "s000858",
+          "s000859",
+          "s000860",
+          "s000861",
+          "s000862",
+          "s000863",
+          "s000864",
+          "s000865",
+          "s000866",
+          "s000867",
+          "s000868",
+          "s000869",
+          "s000870",
+          "s000871",
+          "s000872",
+          "s000873",
+          "s000874"
+        ],
+        "chunk_verdicts": [
+          {
+            "chunk_index": 0,
+            "first_segment_id": "s000000",
+            "last_segment_id": "s000073",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Podcast introduction and editorial discussion criticizing Anthropic and its regulatory and public messaging; no promotional call to action or commercial pitch."
+          },
+          {
+            "chunk_index": 1,
+            "first_segment_id": "s000071",
+            "last_segment_id": "s000135",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion of AI risks, data centers, financing, and industry regulation; no commercial pitch or promotional call to action."
+          },
+          {
+            "chunk_index": 2,
+            "first_segment_id": "s000133",
+            "last_segment_id": "s000204",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion and criticism of AI regulatory models, with no commercial promotion or call to action."
+          },
+          {
+            "chunk_index": 3,
+            "first_segment_id": "s000202",
+            "last_segment_id": "s000278",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion of AI safety, regulation, liability, competition, data centers, and employment impacts; no promotional call to action or commercial pitch."
+          },
+          {
+            "chunk_index": 4,
+            "first_segment_id": "s000276",
+            "last_segment_id": "s000354",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion of AI policy, economics, and technology; no commercial pitch or promotional call to action."
+          },
+          {
+            "chunk_index": 5,
+            "first_segment_id": "s000352",
+            "last_segment_id": "s000431",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion about AI models, open-source regulation, and economic consequences; brand and company references are contextual and contain no promotional call to action."
+          },
+          {
+            "chunk_index": 6,
+            "first_segment_id": "s000429",
+            "last_segment_id": "s000508",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion of AI policy, investment, automation, jobs, and technology companies without a commercial pitch or promotional call to action."
+          },
+          {
+            "chunk_index": 7,
+            "first_segment_id": "s000506",
+            "last_segment_id": "s000585",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion about AI, employment, Silicon Valley, and industry leaders; no paid promotion or promotional call to action."
+          },
+          {
+            "chunk_index": 8,
+            "first_segment_id": "s000583",
+            "last_segment_id": "s000662",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion and criticism of AI companies, leadership, recursive self-improvement, and regulation; no promotional call to action or commercial pitch."
+          },
+          {
+            "chunk_index": 9,
+            "first_segment_id": "s000660",
+            "last_segment_id": "s000733",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion about AI development, regulation, data centers, and chip export policy; no commercial pitch or promotional call to action."
+          },
+          {
+            "chunk_index": 10,
+            "first_segment_id": "s000731",
+            "last_segment_id": "s000807",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion of AI policy, companies, science fiction, and an antitrust news report; no paid promotion or promotional call to action."
+          },
+          {
+            "chunk_index": 11,
+            "first_segment_id": "s000805",
+            "last_segment_id": "s000884",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000853",
+              "s000854",
+              "s000855",
+              "s000856",
+              "s000857",
+              "s000858",
+              "s000859",
+              "s000860",
+              "s000861",
+              "s000862",
+              "s000863",
+              "s000864",
+              "s000865",
+              "s000866",
+              "s000867",
+              "s000868",
+              "s000869",
+              "s000870",
+              "s000871",
+              "s000872",
+              "s000873",
+              "s000874"
+            ],
+            "confidence": 0.99,
+            "summary": "Promotional segment inviting listeners to the All-In Summit and concert while highlighting its lineup, parties, venue takeover, and special guests."
+          },
+          {
+            "chunk_index": 12,
+            "first_segment_id": "s000882",
+            "last_segment_id": "s000961",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Political analysis and editorial discussion of polling, elections, and policy; no commercial or promotional call to action."
+          },
+          {
+            "chunk_index": 13,
+            "first_segment_id": "s000959",
+            "last_segment_id": "s001034",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial political and economic discussion without sponsorship, commercial promotion, or promotional call to action."
+          },
+          {
+            "chunk_index": 14,
+            "first_segment_id": "s001032",
+            "last_segment_id": "s001102",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial political and economic discussion with no sponsorship, commercial pitch, promotional offer, or call to action."
+          },
+          {
+            "chunk_index": 15,
+            "first_segment_id": "s001100",
+            "last_segment_id": "s001179",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial political and economic discussion with no commercial pitch, sponsorship, promo offer, or promotional call to action."
+          },
+          {
+            "chunk_index": 16,
+            "first_segment_id": "s001177",
+            "last_segment_id": "s001256",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Political and economic editorial discussion without sponsorship, commercial promotion, or a promotional call to action."
+          },
+          {
+            "chunk_index": 17,
+            "first_segment_id": "s001254",
+            "last_segment_id": "s001285",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion followed by show closing and non-promotional outro chatter; no commercial pitch or promotional call to action."
+          }
+        ],
+        "chunk_count": 18,
+        "semantic_retry_used": false,
+        "initial_final_verdict": null,
+        "publication_eligible": false,
+        "decision_key": "23fafc33bf9a76b7994e28c0ca1c4d21135a0c0b5e7baa3482d3f922f0d358af",
+        "decision_sha256": "2ee461957f9702a660251f6b527dd8e97c7e4512712a46dcc0a2b8f5ba1ddd83",
+        "gateway_metadata": [
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6415,
+              "output": 48,
+              "cacheRead": 9984,
+              "total": 16447
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16323,
+              "output": 48,
+              "total": 16371
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16491,
+              "output": 42,
+              "total": 16533
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16517,
+              "output": 52,
+              "total": 16569
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6657,
+              "output": 44,
+              "cacheRead": 9984,
+              "total": 16685
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16542,
+              "output": 52,
+              "total": 16594
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16644,
+              "output": 49,
+              "total": 16693
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16528,
+              "output": 47,
+              "total": 16575
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16669,
+              "output": 51,
+              "total": 16720
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16538,
+              "output": 49,
+              "total": 16587
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16641,
+              "output": 51,
+              "total": 16692
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6327,
+              "output": 231,
+              "cacheRead": 9984,
+              "total": 16542
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6615,
+              "output": 45,
+              "cacheRead": 9984,
+              "total": 16644
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16618,
+              "output": 41,
+              "total": 16659
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6590,
+              "output": 44,
+              "cacheRead": 9984,
+              "total": 16618
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6500,
+              "output": 45,
+              "cacheRead": 9984,
+              "total": 16529
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6715,
+              "output": 42,
+              "cacheRead": 9984,
+              "total": 16741
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 4567,
+              "output": 46,
+              "cacheRead": 9984,
+              "total": 14597
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 4674,
+              "output": 137,
+              "cacheRead": 9984,
+              "total": 14795
+            }
+          }
+        ],
+        "cache_hit": false,
+        "generated_at": "2026-08-21T20:17:59.092167+00:00"
+      },
+      "expected_transcript_overlap": 0.983,
+      "authority": "llm",
+      "classifier_version": "podcast-llm-ad-judge/1.4.0",
+      "classifier_model": "openai/gpt-5.6-sol",
+      "classifier_provider": "openclaw-agent/codex-native",
+      "schema_version": 1,
+      "audio_sha256": "0682b27836e20006a03781a96482b149a65f2c66542a83c5d6f7f5df32a839e7",
+      "transcript_sha256": "0a36cf535d0adf4f0522a41b075229e548efaac99d3b6804de34ab6d13e38cc3",
+      "asr_identity": "parakeet-mlx",
+      "segment_count": 20,
+      "input_order_normalized": false,
+      "status": "clean",
+      "reason": "llm_semantic_verdict",
+      "confidence": 0.99,
+      "summary": "The complete transcript is editorial discussion with no advertising or promotional call to action.",
+      "ad_ranges": [],
+      "ad_segment_ids": [],
+      "chunk_verdicts": [
+        {
+          "chunk_index": 0,
+          "first_segment_id": "s000000",
+          "last_segment_id": "s000019",
+          "verdict": "clean",
+          "ad_segment_ids": [],
+          "confidence": 0.99,
+          "summary": "Editorial discussion about AI capabilities and safety risks; no sponsorship, commercial pitch, cross-promotion, or promotional call to action."
+        }
+      ],
+      "chunk_count": 1,
+      "semantic_retry_used": false,
+      "initial_final_verdict": null,
+      "publication_eligible": true,
+      "decision_key": "d0df802cb97807407ee8491036a794bed6e1727e94b1aedd9878036366874f96",
+      "decision_sha256": "530b77cecd8bff9eeb201e855e496b4d37053b74ea899a32325a546abf6314ff",
+      "gateway_metadata": [
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 14331,
+            "output": 49,
+            "total": 14380
+          }
+        },
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 3517,
+            "output": 39,
+            "cacheRead": 9984,
+            "total": 13540
+          }
+        }
+      ],
+      "cache_hit": false,
+      "generated_at": "2026-08-21T20:23:02.729959+00:00",
+      "detector_version": "podcast-llm-ad-judge/1.4.0",
+      "ad_classifier": {
+        "authority": "llm",
+        "model": "openai/gpt-5.6-sol",
+        "version": "podcast-llm-ad-judge/1.4.0"
+      },
+      "audio_duration_s": 133.2
+    },
+    {
+      "clip": "00_Surviving_a_nine-year_period_of_extreme_small-cap.mp3",
+      "source": "The Meb Faber Show - Better Investing",
+      "source_url": "https://traffic.megaphone.fm/TIFM6639128171.mp3",
+      "source_audio_sha256": "d6d25d54cbed646a0c6a5e9651e50da70973148e0d93c98a122ae4eed4044e0e",
+      "source_ad_scan": {
+        "authority": "llm",
+        "classifier_version": "podcast-llm-ad-judge/1.4.0",
+        "classifier_model": "openai/gpt-5.6-sol",
+        "classifier_provider": "openclaw-agent/codex-native",
+        "schema_version": 1,
+        "audio_sha256": "d6d25d54cbed646a0c6a5e9651e50da70973148e0d93c98a122ae4eed4044e0e",
+        "transcript_sha256": "d950332fd208f0be6a71f22fc5257075a7fba961bbbf464dbaea1abd3a9c7e33",
+        "asr_identity": "parakeet-mlx",
+        "segment_count": 482,
+        "input_order_normalized": true,
+        "status": "ad",
+        "reason": "llm_semantic_verdict",
+        "confidence": 1.0,
+        "summary": "The transcript contains an explicit Upwork sponsorship and commercial pitch, plus promotional calls to visit, watch, purchase, review, and subscribe.",
+        "ad_ranges": [
+          {
+            "start_s": 16.0,
+            "end_s": 113.8,
+            "segment_ids": [
+              "s000007",
+              "s000008",
+              "s000009",
+              "s000013"
+            ],
+            "authority": "llm"
+          },
+          {
+            "start_s": 1093.2,
+            "end_s": 1217.72,
+            "segment_ids": [
+              "s000236",
+              "s000237",
+              "s000238",
+              "s000239",
+              "s000240",
+              "s000241",
+              "s000242",
+              "s000243",
+              "s000244",
+              "s000245",
+              "s000246",
+              "s000247",
+              "s000248",
+              "s000249"
+            ],
+            "authority": "llm"
+          },
+          {
+            "start_s": 1807.24,
+            "end_s": 1877.12,
+            "segment_ids": [
+              "s000383"
+            ],
+            "authority": "llm"
+          },
+          {
+            "start_s": 1900.8,
+            "end_s": 1967.24,
+            "segment_ids": [
+              "s000400"
+            ],
+            "authority": "llm"
+          },
+          {
+            "start_s": 2197.52,
+            "end_s": 2303.12,
+            "segment_ids": [
+              "s000466",
+              "s000467",
+              "s000468",
+              "s000469",
+              "s000470",
+              "s000471",
+              "s000478",
+              "s000479",
+              "s000480"
+            ],
+            "authority": "llm"
+          }
+        ],
+        "ad_segment_ids": [
+          "s000007",
+          "s000008",
+          "s000009",
+          "s000013",
+          "s000236",
+          "s000237",
+          "s000238",
+          "s000239",
+          "s000240",
+          "s000241",
+          "s000242",
+          "s000243",
+          "s000244",
+          "s000245",
+          "s000246",
+          "s000247",
+          "s000248",
+          "s000249",
+          "s000383",
+          "s000400",
+          "s000466",
+          "s000467",
+          "s000468",
+          "s000469",
+          "s000470",
+          "s000471",
+          "s000478",
+          "s000479",
+          "s000480"
+        ],
+        "chunk_verdicts": [
+          {
+            "chunk_index": 0,
+            "first_segment_id": "s000000",
+            "last_segment_id": "s000073",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000007",
+              "s000008",
+              "s000009",
+              "s000013"
+            ],
+            "confidence": 0.98,
+            "summary": "Promotional show introduction urges listeners to join for profitable investing ideas, followed by a slogan and a call to visit the investment firm's website."
+          },
+          {
+            "chunk_index": 1,
+            "first_segment_id": "s000071",
+            "last_segment_id": "s000148",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial interview discussion about investment history, performance, and philosophy; no paid promotion or promotional call to action."
+          },
+          {
+            "chunk_index": 2,
+            "first_segment_id": "s000146",
+            "last_segment_id": "s000219",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.98,
+            "summary": "Editorial discussion of investment decision-making, academic research, and the historical development of value strategies; no sponsorship, offer, or promotional call to action."
+          },
+          {
+            "chunk_index": 3,
+            "first_segment_id": "s000217",
+            "last_segment_id": "s000288",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000236",
+              "s000237",
+              "s000238",
+              "s000239",
+              "s000240",
+              "s000241",
+              "s000242",
+              "s000243",
+              "s000244",
+              "s000245",
+              "s000246",
+              "s000247",
+              "s000248",
+              "s000249"
+            ],
+            "confidence": 1.0,
+            "summary": "Explicit Upwork sponsorship and host-read commercial pitch with service benefits and a call to visit Upwork.com."
+          },
+          {
+            "chunk_index": 4,
+            "first_segment_id": "s000286",
+            "last_segment_id": "s000362",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.98,
+            "summary": "Editorial discussion of investing, diversification, compounding, and market returns without a sponsor pitch, promotional offer, or call to action."
+          },
+          {
+            "chunk_index": 5,
+            "first_segment_id": "s000360",
+            "last_segment_id": "s000438",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000383",
+              "s000400"
+            ],
+            "confidence": 0.97,
+            "summary": "The host promotes an external 30 for 30 program by promising a show-notes link and explicitly urging listeners to watch it."
+          },
+          {
+            "chunk_index": 6,
+            "first_segment_id": "s000436",
+            "last_segment_id": "s000481",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000466",
+              "s000467",
+              "s000468",
+              "s000469",
+              "s000470",
+              "s000471",
+              "s000478",
+              "s000479",
+              "s000480"
+            ],
+            "confidence": 0.99,
+            "summary": "Explicit promotion of the guest's book with purchase/link availability, followed by calls for listener feedback, reviews, and podcast subscriptions."
+          }
+        ],
+        "chunk_count": 7,
+        "semantic_retry_used": false,
+        "initial_final_verdict": null,
+        "publication_eligible": false,
+        "decision_key": "676182872b5cdb920415beddf478e8eaef9198661ed9cc2a7e6d4e8697d5930d",
+        "decision_sha256": "f11a39fc1c55343bbe338df3ac100dd380586adef7ff92a0ee3380f436205cc9",
+        "gateway_metadata": [
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16439,
+              "output": 160,
+              "total": 16599
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16528,
+              "output": 73,
+              "total": 16601
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16480,
+              "output": 91,
+              "total": 16571
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6559,
+              "output": 137,
+              "cacheRead": 9984,
+              "total": 16680
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6742,
+              "output": 50,
+              "cacheRead": 9984,
+              "total": 16776
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16717,
+              "output": 165,
+              "total": 16882
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 15308,
+              "output": 223,
+              "total": 15531
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 14011,
+              "output": 233,
+              "total": 14244
+            }
+          }
+        ],
+        "cache_hit": false,
+        "generated_at": "2026-08-21T20:11:45.885594+00:00"
+      },
+      "expected_transcript_overlap": 0.984,
+      "authority": "llm",
+      "classifier_version": "podcast-llm-ad-judge/1.4.0",
+      "classifier_model": "openai/gpt-5.6-sol",
+      "classifier_provider": "openclaw-agent/codex-native",
+      "schema_version": 1,
+      "audio_sha256": "dd25b21305c9f4030a3c460463aa79e3bcbd9fb32bdd0204db78fa7a718eee82",
+      "transcript_sha256": "fd5695b1088beb36c5841e269bbf4fae0b68ff41390f4ffb659b813d87823abf",
+      "asr_identity": "parakeet-mlx",
+      "segment_count": 25,
+      "input_order_normalized": false,
+      "status": "clean",
+      "reason": "llm_semantic_verdict",
+      "confidence": 0.99,
+      "summary": "Editorial interview discussion with no promotional call to action or commercial pitch.",
+      "ad_ranges": [],
+      "ad_segment_ids": [],
+      "chunk_verdicts": [
+        {
+          "chunk_index": 0,
+          "first_segment_id": "s000000",
+          "last_segment_id": "s000024",
+          "verdict": "clean",
+          "ad_segment_ids": [],
+          "confidence": 0.99,
+          "summary": "Editorial interview discussion about historical small-cap investment performance and firm survival; no current promotional call to action or commercial pitch."
+        }
+      ],
+      "chunk_count": 1,
+      "semantic_retry_used": false,
+      "initial_final_verdict": null,
+      "publication_eligible": true,
+      "decision_key": "79eab52bcb4770768ee42d10f362571444cbb3c300c3b4cde51b999992d4ff15",
+      "decision_sha256": "1b7c1ad14c0b3ee91ec5185a26d06ba1e530bc70e2282916ab1169709fcec945",
+      "gateway_metadata": [
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 4475,
+            "output": 47,
+            "cacheRead": 9984,
+            "total": 14506
+          }
+        },
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 3515,
+            "output": 37,
+            "cacheRead": 9984,
+            "total": 13536
+          }
+        }
+      ],
+      "cache_hit": false,
+      "generated_at": "2026-08-21T20:23:25.069327+00:00",
+      "detector_version": "podcast-llm-ad-judge/1.4.0",
+      "ad_classifier": {
+        "authority": "llm",
+        "model": "openai/gpt-5.6-sol",
+        "version": "podcast-llm-ad-judge/1.4.0"
+      },
+      "audio_duration_s": 123.2
+    },
+    {
+      "clip": "00_Using_YAGNI_and_calibrated_risk_tolerance_to_avoid.mp3",
+      "source": "Developer Tea",
+      "source_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/f3b1e4d3-9f59-48fb-9bec-00016c5e6e1d/audio/003ecf20-7aea-4318-96c0-47e2ded7dd03/default_tc.mp3?aid=rss_feed&feed=dLRotFGk",
+      "source_audio_sha256": "0cae2558d396cdd7c4ee0879b5249de18def0f90c879876b98fb4376e7c745bd",
+      "source_ad_scan": {
+        "authority": "llm",
+        "classifier_version": "podcast-llm-ad-judge/1.4.0",
+        "classifier_model": "openai/gpt-5.6-sol",
+        "classifier_provider": "openclaw-agent/codex-native",
+        "schema_version": 1,
+        "audio_sha256": "0cae2558d396cdd7c4ee0879b5249de18def0f90c879876b98fb4376e7c745bd",
+        "transcript_sha256": "432ff892066a771155685f12b5dd7563eddbc6a2be46c2823fefebb1d7e1acd3",
+        "asr_identity": "parakeet-mlx",
+        "segment_count": 109,
+        "input_order_normalized": true,
+        "status": "ad",
+        "reason": "llm_semantic_verdict",
+        "confidence": 0.99,
+        "summary": "Segments contain a promotional call to action directing listeners to the show's YouTube channel.",
+        "ad_ranges": [
+          {
+            "start_s": 889.92,
+            "end_s": 966.12,
+            "segment_ids": [
+              "s000103",
+              "s000104",
+              "s000105",
+              "s000106"
+            ],
+            "authority": "llm"
+          }
+        ],
+        "ad_segment_ids": [
+          "s000103",
+          "s000104",
+          "s000105",
+          "s000106"
+        ],
+        "chunk_verdicts": [
+          {
+            "chunk_index": 0,
+            "first_segment_id": "s000000",
+            "last_segment_id": "s000057",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion about software engineering experience, code complexity, abstraction, and risk; no commercial promotion or call to action."
+          },
+          {
+            "chunk_index": 1,
+            "first_segment_id": "s000055",
+            "last_segment_id": "s000108",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000103",
+              "s000104",
+              "s000105",
+              "s000106"
+            ],
+            "confidence": 0.99,
+            "summary": "Promotional call to action directing listeners to check out the show's YouTube channel."
+          }
+        ],
+        "chunk_count": 2,
+        "semantic_retry_used": false,
+        "initial_final_verdict": null,
+        "publication_eligible": false,
+        "decision_key": "b3bc583cf4050ed7ac66a4a777e9d3b6e5efd17ded6a5ecaa45593c579142c70",
+        "decision_sha256": "a47339570aaa9c4de3d0eded6fd5d9ec605fb8ead8546c95e0f695c10f060fba",
+        "gateway_metadata": [
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6296,
+              "output": 47,
+              "cacheRead": 9984,
+              "total": 16327
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16066,
+              "output": 56,
+              "total": 16122
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 3585,
+              "output": 56,
+              "cacheRead": 9984,
+              "total": 13625
+            }
+          }
+        ],
+        "cache_hit": false,
+        "generated_at": "2026-08-21T20:19:14.635895+00:00"
+      },
+      "expected_transcript_overlap": 0.984,
+      "authority": "llm",
+      "classifier_version": "podcast-llm-ad-judge/1.4.0",
+      "classifier_model": "openai/gpt-5.6-sol",
+      "classifier_provider": "openclaw-agent/codex-native",
+      "schema_version": 1,
+      "audio_sha256": "2cda4c2aec00cb0b1eae8bd2c5d7c252ebef1e322ffa06a29e3b0418560d0fe1",
+      "transcript_sha256": "6a29a65c5d990b7882e1877279a4b837a2dc10d2fee544d06e80c73895e8a6fe",
+      "asr_identity": "parakeet-mlx",
+      "segment_count": 15,
+      "input_order_normalized": false,
+      "status": "clean",
+      "reason": "llm_semantic_verdict",
+      "confidence": 0.99,
+      "summary": "The transcript contains only editorial discussion, with no advertising or promotional call to action.",
+      "ad_ranges": [],
+      "ad_segment_ids": [],
+      "chunk_verdicts": [
+        {
+          "chunk_index": 0,
+          "first_segment_id": "s000000",
+          "last_segment_id": "s000014",
+          "verdict": "clean",
+          "ad_segment_ids": [],
+          "confidence": 0.99,
+          "summary": "Editorial discussion of software complexity, abstraction, and risk tolerance with no promotional or commercial call to action."
+        }
+      ],
+      "chunk_count": 1,
+      "semantic_retry_used": false,
+      "initial_final_verdict": null,
+      "publication_eligible": true,
+      "decision_key": "078db807b4c9aecd5a6415ed7b2cceb12db2809385da858400eb6283e1505931",
+      "decision_sha256": "69f51e7e7b0e61ef3c54c6773c0de67f9e13cb2855bff397c631a693dfa29dbc",
+      "gateway_metadata": [
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 4222,
+            "output": 44,
+            "cacheRead": 9984,
+            "total": 14250
+          }
+        },
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 440,
+            "output": 40,
+            "cacheRead": 13056,
+            "total": 13536
+          }
+        }
+      ],
+      "cache_hit": false,
+      "generated_at": "2026-08-21T20:23:47.401480+00:00",
+      "detector_version": "podcast-llm-ad-judge/1.4.0",
+      "ad_classifier": {
+        "authority": "llm",
+        "model": "openai/gpt-5.6-sol",
+        "version": "podcast-llm-ad-judge/1.4.0"
+      },
+      "audio_duration_s": 133.2
+    }
+  ],
+  "final_audio_scan": {
+    "authority": "llm",
+    "classifier_version": "podcast-llm-ad-judge/1.4.0",
+    "classifier_model": "openai/gpt-5.6-sol",
+    "classifier_provider": "openclaw-agent/codex-native",
+    "schema_version": 1,
+    "audio_sha256": "ed40c9bbfad645d94d4e59db4786c5701e63801f107089dcc3e941aef4b63b0a",
+    "transcript_sha256": "3c67ffd59a0db2756fec9176da609ea949179fed69397ba2d88dc7f7f495d4c2",
+    "asr_identity": "parakeet-mlx",
+    "segment_count": 91,
+    "input_order_normalized": false,
+    "status": "clean",
+    "reason": "llm_semantic_verdict",
+    "confidence": 0.98,
+    "summary": "Complete transcript contains editorial previews, attribution, and discussion only, with no commercial offer or promotional call to action.",
+    "ad_ranges": [],
+    "ad_segment_ids": [],
+    "chunk_verdicts": [
+      {
+        "chunk_index": 0,
+        "first_segment_id": "s000000",
+        "last_segment_id": "s000064",
+        "verdict": "clean",
+        "ad_segment_ids": [],
+        "confidence": 0.99,
+        "summary": "Editorial previews and discussion only; show attribution and the historical reference to a sales pitch contain no promotional call to action."
+      },
+      {
+        "chunk_index": 1,
+        "first_segment_id": "s000062",
+        "last_segment_id": "s000090",
+        "verdict": "clean",
+        "ad_segment_ids": [],
+        "confidence": 0.98,
+        "summary": "Editorial discussion and a sourced preview of a developer segment; no sponsorship, commercial offer, or promotional call to action."
+      }
+    ],
+    "chunk_count": 2,
+    "semantic_retry_used": false,
+    "initial_final_verdict": null,
+    "publication_eligible": true,
+    "decision_key": "c5fb791f634dcc95c10570127b9c26a02c554cf38660807c807c48bf95e55d2c",
+    "decision_sha256": "c0ced169cb35b6a1d7353900f83726c562ff0ad981051ee3c55350b9aec4e435",
+    "gateway_metadata": [
+      {
+        "configured_model": "openai/gpt-5.6-sol",
+        "resolved_model": "openai/gpt-5.6-sol",
+        "provider": "openclaw-agent/codex-native",
+        "agent": "podcast-ad-judge",
+        "agent_harness": "codex",
+        "fallback_used": false,
+        "usage": {
+          "input": 6403,
+          "output": 82,
+          "cacheRead": 9984,
+          "total": 16469
+        }
+      },
+      {
+        "configured_model": "openai/gpt-5.6-sol",
+        "resolved_model": "openai/gpt-5.6-sol",
+        "provider": "openclaw-agent/codex-native",
+        "agent": "podcast-ad-judge",
+        "agent_harness": "codex",
+        "fallback_used": false,
+        "usage": {
+          "input": 4706,
+          "output": 80,
+          "cacheRead": 9984,
+          "total": 14770
+        }
+      },
+      {
+        "configured_model": "openai/gpt-5.6-sol",
+        "resolved_model": "openai/gpt-5.6-sol",
+        "provider": "openclaw-agent/codex-native",
+        "agent": "podcast-ad-judge",
+        "agent_harness": "codex",
+        "fallback_used": false,
+        "usage": {
+          "input": 3578,
+          "output": 46,
+          "cacheRead": 9984,
+          "total": 13608
+        }
+      }
+    ],
+    "cache_hit": false,
+    "generated_at": "2026-08-21T20:24:33.117084+00:00",
+    "detector_version": "podcast-llm-ad-judge/1.4.0",
+    "ad_classifier": {
+      "authority": "llm",
+      "model": "openai/gpt-5.6-sol",
+      "version": "podcast-llm-ad-judge/1.4.0"
+    },
+    "audio_duration_s": 665.107
+  },
+  "transcripts": {
+    "text": "spoken_transcript_2026-08-21.txt",
+    "vtt": "transcript_2026-08-21.vtt"
+  },
+  "audio_sha256": "ed40c9bbfad645d94d4e59db4786c5701e63801f107089dcc3e941aef4b63b0a"
+}

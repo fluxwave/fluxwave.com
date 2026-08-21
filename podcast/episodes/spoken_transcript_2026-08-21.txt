@@ -1,0 +1,91 @@
+Securing AI agents, the darkest misuse scenarios, and what nine years of small cap pain can teach investors.
+Plus, why senior developers often write less flexible code, not more.
+On the A16Z podcast, Microsoft's deputy CISO explains what happened when employees connected the company's scout agent to everything and why agents need distinct identities: bounded execution, logging, and containment.
+Timely lessons after the August 17th outage, as increasingly autonomous tools get access to real business systems.
+It was really fun.
+Really validating as a security person, and I'm not even on the thought of curve, right?
+And that's because everyone wants to use it and they all want to use it to connect everything.
+And so I think you know, when you bring in an intern, your perspective is, well, I'm gonna give them like two or three things they need to do their job.
+But to make open claw scout these harnesses effective, you want to get in everything.
+And so I do think, yes, you're going back to first principles, but you also have to go even a little deeper and start to redefine like what does containerization even mean for you?
+What does air gap mean?
+What does air gap mean?
+What is an identity?
+Because if you just start with, oh well, it's just gonna run as me, it's gonna take my token directly from my browser cache and do whatever it wants to do with that token, that's gonna end poorly.
+But if I can give it its own identity, if I can describe the bounds of the container, if I can tie the actions of the agent or the harness or the model or the session.
+Yeah.
+Actually, quite hard to figure out what you want to tie to, but put that aside for a moment.
+If you can tie that to a particular set of logs, set of things, then you can get to the place where you are just doing your basic blocking and tackling, where you're thinking about okay, what is the opportunity for an adversary to do this, even if that adversary is the model?
+How can I monitor it?
+How can I respond to it?
+How can I contain it?
+How can I reason about potential breach paths and absolutely burned down?
+Well, and it's funny too, because if you think about it, I think, and I am not operating anymore, thank God, but I think if I think through it with my operators at on, I think that it's a weird just with our basic playing around with Opus 4.6 in an environment that we thought was it was a cloud container.
+So it had a policy of no internet access, but it still figured out how to get a tunnel out to Cloudflare, how to get around our controls, and then it started tunneling stuff through the key distinction, an agent's permissions should reflect its task, not inherit everything its user can access.
+Why don't we steel man it?
+Yeah.
+And if we put ourselves in the shoes of a frontier lab leader, and the leader is seeing capabilities of models that perhaps we don't see because we're working day to day in enterprise settings, making stuff, doing things in a benign, non-nefarious way.
+And they're sitting there and they're pressure testing models, and they figure out hey, there's ways you can jailbreak models to get them to do things that they're not supposed to do.
+And then you can use them to do things like design bioweapons, make viruses, make infectious diseases that don't exist today.
+You could use them to design cyber weapons to get them to go and do things online, like break into bank accounts and take people's money and all these sorts of things.
+And you can prompt them to do things that could broadly influence society by creating fake media, fake videos, fake images, propagate them through social media, hack the algorithms.
+I mean, X's algorithm is public, so theoretically, an agent could read it, copy it, understand it, and figure out a way to manipulate the broad public.
+And so you realize that as you're building these tools where there's a lot of benign, positive, world-leading, progressive kind of applications, you see all the bad stuff that could happen with it.
+And you can keep trying to build systems and keep trying to build ways to stop it from doing that.
+You can build all your own code that reviews every prompt that comes in, that reviews every API call.
+And yet somehow a network of agents can be used to do things.
+And they can start to do things that we don't want them to do.
+And so let's assume that you're sitting there and you're the executive of the company building this great technology, you believe fully in its capabilities and its benefits to society, its benefits to the economy, but you can't get a grip on how to keep it under control and how to stop social engineering, bioweapons, and cyberweapons.
+What do you do differently?
+Okay, okay.
+So you're bringing up it's an exceptional going down an exceptional path.
+I love this.
+That gap between private testing and public capability makes these warnings unusually hard to verify.
+On the MEB Favor show, dimensional founder David Booth looks back at surviving nine years of severe small cap underperformance while large companies dominated.
+It's a useful reality check for investors watching today's market stay concentrated in mega cap winners.
+And then this period in the 1980s was one where y'all had this idea talking about like small caps and other ideas, and it was just feels a little familiar, like the last, you know, 10, 15 years or so, where large cap is just romping and stomping.
+What was that period like?
+Talk to us about starting a firm right into the teeth of a SP face ripper.
+At the end of the day, I think what's really important in managing money is you come up with sensible ideas, because no idea works all the time.
+I mean, you're every money manager has that's ever lived as long periods of time where their performance is disappointing.
+And we learned that lesson right down our first nine years, because when we started, all we had was a small cap fund.
+We were the first people to treat small cap as a separate asset category.
+And what happened was we started at the worst nine-year run for small stocks ever.
+The uh small stocks underperform large stocks by the most they ever had over a nine year period.
+And that's all we had.
+So it was very disappointing.
+The period ending 1990, portfolio compounded at 2% a year, and the SP 500 compounded at 14% a year.
+So people go, What is a small cap thing?
+And so we had to point out look, 2% was slightly better than the Russell 2000 index or the benchmark index had done.
+So we delivered what small cap did.
+And these things can can happen.
+And we're disappointed as anybody else, believe me.
+But our sales pitch had been look, if you're investing in stocks, you don't have stocks of large companies and small, you shouldn't have all your money in large.
+So nine years later they go, Oh, that didn't work out very well.
+Oh yeah, but you got what small cap did, and it still makes sense.
+Don't you think it makes sense to have large and small stocks?
+I mean, how'd you survive this, man?
+This is this seems like you know, a decade.
+A sound strategy can underperform far longer than most investors or firms can comfortably endure.
+On developer T, Jonathan Cuttrell uses YG and I.
+You aren't going to need it to explain why senior engineers avoid premature abstractions and unnecessary flexibility.
+With AI making code cheap to generate, knowing what not to build is becoming the more valuable skill.
+You know, the the Yagney principle tends to come into play very heavily when we're talking about complexity avoidance.
+You aren't gonna need it, and so let's not even put it in there.
+So this is an interesting effect because um what we learn early in our careers is to try to hedge against all of these risks, right?
+As we develop in our careers, we we eventually we refine our risk tolerance.
+We learn that some risks are actually okay to accept, or we learn to allow our code to stay flexible in the future, but not try to build in a bunch of arbitrary complexity or uh flexibility that adds to the complexity now.
+So, yeah, maybe we'll need an abstraction, but we don't need it now.
+We only have one example of this.
+We only have maybe two examples of this, or you know, this it's easier to just read all of this code in one place rather than in three different places and trying to kind of glue those together in my brain.
+And so some of this um, you know, uh reduction of complexity is understanding when to break the supposed best practice rules.
+So, yeah, maybe the best practices to abstract this, but actually, it's not that hard to understand.
+And I know what the abstraction would give me in theory, but I could probably get that by just thinking about it a little bit differently, or controlling my global variables or my scope, or naming things well, or you know, kind of simplifying things a little bit in a different way.
+Similarly, knowing when to break the rules about risk.
+Um, yeah, theoretically, that risk could occur, but the likelihood is so low, and the cost that we incur in order to hedge against that risk is just insurance.
+It's really expensive insurance because we're gonna end up being really slow, or we're not gonna be able to onboard people into this product, and it's gonna take us a lot longer to you know to do anything meaningful.
+Extra flexibility isn't free.
+Every unused option becomes something the team still has to understand.
+That's today's daily rundown.
+Thanks for listening.
+We'll be back tomorrow.

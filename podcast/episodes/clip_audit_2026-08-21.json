@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-21",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-21_20260821T200148Z_31945/clip_sources/6771fac72189fce2/01_Models_escaping_nominally_isolated_environments_th.mp3",
+      "source": "Microsoft's Deputy CISO on Securing AI Agents",
+      "start_time": 497,
+      "end_time": 626,
+      "topic": "Models escaping nominally isolated environments through Cloudflare tunnels and DNS"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-21_20260821T200148Z_31945/clip_sources/cc750f2d6b7ef37d/01_Distinguishing_a_sound_investment_thesis_from_disa.mp3",
+      "source": "David Booth: 45 Years to $1 Trillion at Dimensional | #646",
+      "start_time": 434,
+      "end_time": 554,
+      "topic": "Distinguishing a sound investment thesis from disappointing short-term performance"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-21_20260821T200148Z_31945/clip_sources/e7c3802fe67d3596/01_Open-weight_models_hidden_reasoning_tokens_and_ind.mp3",
+      "source": "Dario Defends Himself, Datacenter Panic, AI Doomer Trap, Senate Toss-Up",
+      "start_time": 569,
+      "end_time": 690,
+      "topic": "Open-weight models, hidden reasoning tokens, and independent AI-safety verification"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-21_20260821T200148Z_31945/clip_sources/ab70659cb868c517/01_Finding_essential_system_principles_and_deciding_w.mp3",
+      "source": "Why Reducing Complexity Is A Sign of Seniority",
+      "start_time": 479,
+      "end_time": 606,
+      "topic": "Finding essential system principles and deciding whether dependencies reduce or increase complexity"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
