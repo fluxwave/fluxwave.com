@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-22",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-22_20260822T200144Z_31805/clip_sources/439f8274967fa1ee/01_From_the_mythical_man-month_to_capital-scaled_AI_l.mp3",
+      "source": "Martin Casado on Where the Value Is Going in AI",
+      "start_time": 312,
+      "end_time": 562,
+      "topic": "From the mythical man-month to capital-scaled AI labs: why this technology cycle differs from earlier software waves"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-22_20260822T200144Z_31805/clip_sources/30af520328fcd136/01_Market_broadening_fundamentals_and_dispersion_beyo.mp3",
+      "source": "The Rally is Broadening. The Earnings Growth Isn't. Liz Ann Sonders on Which Breaks First",
+      "start_time": 396,
+      "end_time": 523,
+      "topic": "Market broadening, fundamentals, and dispersion beyond mega-cap technology"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-22_20260822T200144Z_31805/clip_sources/ab70659cb868c517/01_Finding_essential_system_principles_and_deciding_w.mp3",
+      "source": "Why Reducing Complexity Is A Sign of Seniority",
+      "start_time": 479,
+      "end_time": 606,
+      "topic": "Finding essential system principles and deciding whether to build or adopt external libraries"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-22_20260822T200144Z_31805/clip_sources/b79291d0d0cf6420/01_Concentrated_long-term_portfolio_construction_and.mp3",
+      "source": "Learning from Buffett and Munger: Masters in Business with Alex Morris",
+      "start_time": 534,
+      "end_time": 661,
+      "topic": "Concentrated long-term portfolio construction and transparent disclosure of investment decisions"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
