@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-23",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-23_20260823T200129Z_25681/clip_sources/b771d205753670f6/01_AI_adoption_Anthropic_revenue_growth_and_the_diffi.mp3",
+      "source": "Don't Fear the Demise: Raoul Pal's Playbook for the Exponential Age",
+      "start_time": 324,
+      "end_time": 447,
+      "topic": "AI adoption, Anthropic revenue growth, and the difficulty of comprehending double-exponential technological change"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-23_20260823T200129Z_25681/clip_sources/40f1e6e9dac21355/01_Pitch_constraints_competitive_differentiation_and.mp3",
+      "source": "Who decides what big box sells? Our GAME got us answers",
+      "start_time": 566,
+      "end_time": 747,
+      "topic": "Pitch constraints, competitive differentiation, and decision-making under uncertainty"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-23_20260823T200129Z_25681/clip_sources/c60c0eaedb6c65d8/01_Erosion_of_US_alliances_and_the_economic_consequen.mp3",
+      "source": "#489 \u2014 More From Sam: A Fabulist at Cambridge, the Strait of Hormuz, AOC in 2028, and More",
+      "start_time": 596,
+      "end_time": 724,
+      "topic": "Erosion of U.S. alliances and the economic consequences of geopolitical unreliability"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-23_20260823T200129Z_25681/clip_sources/1d145e0aaabc6989/01_Why_mental_and_physical_predicates_resist_strict_l.mp3",
+      "source": "Ep. 398: Donald Davidson on Mind vs. Body (Part Two)",
+      "start_time": 327,
+      "end_time": 450,
+      "topic": "Why mental and physical predicates resist strict law-like correlation"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
