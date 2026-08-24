@@ -1,0 +1,113 @@
+Refereeing AI in healthcare, the brain's effort reward calculation, Yeti's leap from hunting gear to lifestyle brand, and the liver's remarkable glucose control.
+For clips for systems making high-stakes decisions, some biological, some built by us.
+On the A16Z podcast, Protege's NGZ Dan explains how subtly misaligned AI agents could distort insurance, prior authorization, and hospital workflows.
+In healthcare, small model errors can become real decisions about who gets care and when to your point, healthcare is a really interesting industry because you have one an asymmetry problem across all the key stakeholders, patients, providers, payers, you name it, and you also have incredibly high stakes, right?
+Like the self-driving car analogy, where there's absolutely no room for a model to make an error.
+How do you guys think about that at Protege?
+Yeah, so I think like when people talk about kind of like safety and alignment, right?
+There is the catastrophic failure, which is something goes wrong, can you prevent that?
+Actually, I do think that that problem is easier.
+Uh, because catastrophic failure is like narrow.
+Like you could just define it as like mortality, right?
+Um, the harder one is misalignment broadly and subtle bias.
+Uh first it's very hard to define.
+Um, it's even harder sometimes to detect.
+So let's give an example.
+Today, there are a lot of AI builders who are building in um AI for insurance.
+And hospitals are also building in AI for uh prior auth or acquiring these technologies for AI for prior auth, medical denials, and so on.
+You can think of it as like an edge worth box where there are two indifference curves that are coming together on a contract curve.
+One is trying to maximize total revenue and uh basically minimize payouts, and one is trying to maximize revenue recovered, right?
+Uh they are both using agentic tools, and the patient is in the middle.
+Uh the patient has no agency.
+And there is no regulator that basically says, we think this model is really, really performing well, right?
+But it's actually misaligned.
+So examples I give uh my colleagues at Data Lab is like, is it fair to say that if you were to be prescribed a medication, it's okay for the model to first check if you owe the hospital any money.
+Is it fair to say that if uh the hospital said don't refer uh people out of network, right?
+That that would be okay, even though your preference might be I'd like to go out of network sometimes, even though it's expensive, right?
+But there are certain benefits also to the tools.
+It's not all negative.
+So, like, think about um ambience technology broadly.
+The referee problem is really an accountability problem who catches the error before it reaches a patient.
+On Huberman Lab, neurologist Dr.
+Massood Hussein traces motivation to how the brain weighs effort against expected reward.
+His evidence starts with a patient whose drive disappeared after two tiny strokes, even though his physical abilities remained intact.
+But of his own volition, he wasn't motivated to act.
+And that was really something that was extraordinary for us because he was a man who'd been highly motivated, and that motivation had been extinguished by these two tiny little strokes, which didn't affect him physically, but affected his behavior.
+And the studies that we performed with David to try and understand this led us to the concept that we might be able to deconstruct this nebulous thing called motivation.
+May I ask a question as fascinating?
+Um, and I'm sure everyone, including myself, is also wondering what became of David.
+But before you tell us, was it the case that he would feel overwhelm?
+Like, I want to listen to music, but that five minutes feels like a huge effort.
+That's a long effort.
+Or was it the case that he didn't really want it either?
+Because the way you've described these lesions is a is a severing of the wanting from the engagement in the process to have.
+Yeah.
+But of course, as you and I know, neural circuits are never that simple.
+No, of course not.
+Yeah.
+And he never expressed it unless we asked him.
+But he would say that it's too much effort to put this system together.
+So even if he was asked what would you like to do, he might say, I'd like to listen to music.
+Why aren't you doing it?
+Because it's too much effort to do it, right?
+And that became a real insight into how our brains work when we make decisions about is this potential action worth the effort in terms of the reward that will arise from it?
+Because it turns out that if we look at apathy across many different neurological disorders, one common trait that we found when we ask people, is this particular option worth the reward if it was requiring this much physical effort?
+We find that everyone is willing to work for high rewards.
+That distinction matters.
+Procrastination isn't always a character flaw.
+Sometimes the brain's cost-benefit calculation has shifted.
+On How I Built This with Guy Raz, Roy and Ryan Siders recount how a nearly indestructible $400 cooler escaped its hunting and fishing niche.
+Yeti's path to a $2 billion lifestyle brand shows what can happen when a product built for obsessives finds a much wider identity.
+But that was okay, because they weren't trying to sell it to everybody.
+They were making it for people like them.
+But then something happened that they never expected.
+People outside the hunting and fishing world started buying Yeti coolers.
+They began showing up at tailgates and barbecues and beaches.
+The cooler even became a kind of status symbol.
+Today, the Yeti brand does more than $2 billion a year in sales, and it is so much bigger than anything the Cedars brothers imagined.
+Roy and Ryan grew up in Driftwood, a small community in the Texas Hill Country just outside of Austin.
+And as kids, Roy, Ryan and their siblings were pretty much free to roam across hundreds of acres of land.
+Before school.
+I don't think we realized how magical that was to grow up in in nature like that.
+I I really at the time I felt like every kid had access to the outdoors across the street from their house.
+So this is really the the late 80s is kind of your childhood, right?
+When you're when you guys are are really like just kind of free range, just like you leave the house and you just be home for dinner.
+Yeah, that's right.
+It's it was kind of crazy.
+No cell phones, and we, you know, we'd come home at dark, but we were exploring and canoeing and doing all kinds of fun stuff and um running around barefoot.
+So I know that your dad his career was he was a middle school shop teacher, your mom was a nurse, but I guess and this really happened when you were either really little or right before you were born, but basically when you were you were little, he was a he's a fisherman, and he didn't begin with mass appeal.
+They began with a narrow customer willing to pay for durability.
+On the Peter Atia drive, Atia breaks down how the liver keeps blood glucose stable through glycogen storage, release, and new glucose production.
+It's precise metabolic control, and understanding it helps explain how liver dysfunction can surface before obvious disease.
+Yeah, it sounds simple, but the precision required uh to regulate blood sugar is extraordinary.
+Uh, and it never ceases to amaze me.
+It's one of my favorite things to explain to a patient.
+After a meal, glucose rises.
+The pancreas releases insulin, and insulin tells the liver to absorb glucose and store it as glycogen.
+Now, when you've been fasting for some period of time and glucose dips, insulin falls, and then the liver does the opposite.
+It breaks glycogen back down and releases glucose into the circulation.
+And when glucose runs really low, it can actually just manufacture glucose on its own.
+So if you're, you know, going more than a day without eating, the liver turns into a glucose-making organ.
+If there's too much sugar to store as glycogen, the liver converts it into triglycerides, packages it into apalipoproteins, and ships them out.
+So what I want people to appreciate, though, is the scale of this.
+So everybody, you know, think about you go to the doctor, you get a blood draw, and it's, you know, it's a fasting blood draw, right?
+And you, you, you get back a number.
+And so let's say that number you get back says 90 milligrams per deciliter.
+That was your blood glucose that morning when you showed up at the lab.
+If that's the case, your entire bloodstream in that moment contained only about four and a half grams of glucose.
+That's roughly a teaspoon, not a tablespoon, just a teaspoon.
+Yet a single meal, especially if it's a meal that I'm eating, may contain many times that, easily 90 grams of glucose, right?
+So 20 times that amount in one meal.
+And yet, despite that, a healthy person rarely moves more than a teaspoon above baseline, right?
+In fact, I'm trying to think of all the times I wore a continuous glucose monitor.
+If I ever saw a blood glucose lever that would have been north of about 160 milligrams per deciliter, someone with type 2 diabetes would rarely go above a teaspoon and a half at fasting.
+And when we can go hours without eating, our glucose still stays in that range.
+In fact, if you go days without eating, it might only dip to, say, 50 milligrams per deciliter.
+This is a monumental homeostatic achievement.
+And that reserve capacity to titrate out glucose in such fine amounts is exactly why early dysfunction is very easy to miss, which is something we'll, I'm sure, talk about.
+Yeah, and so let's dive into more metabolic disease and how that affects the liver.
+And so when looking at that, is there a framework that you typically use, typically talk through with patients?
+Blood sugar isn't managed by insulin alone.
+The liver is continuously deciding whether to store fuel or put it back into circulation.
+Thanks for listening.
+We'll be back tomorrow.

@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-24",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-24_20260824T200149Z_62499/clip_sources/23b46ac3ea37cb43/01_Yetis_strategy_of_building_a_premium_nearly_indest.mp3",
+      "source": "YETI: Roy and Ryan Seiders. How Two Brothers Turned a $400 Cooler Into a $2 Billion Brand",
+      "start_time": 315,
+      "end_time": 435,
+      "topic": "Yeti\u2019s strategy of building a premium, nearly indestructible cooler for a narrow market of serious outdoorsmen"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-24_20260824T200149Z_62499/clip_sources/96de9c08e9a0d402/01_A_neurological_case_separating_desire_from_the_mot.mp3",
+      "source": "How to Improve Motivation & Overcome Procrastination | Dr. Masud Husain",
+      "start_time": 323,
+      "end_time": 455,
+      "topic": "A neurological case separating desire from the motivation to act"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-24_20260824T200149Z_62499/clip_sources/1ac4b23a0f8593c0/01_The_surprisingly_small_amount_of_glucose_circulati.mp3",
+      "source": "#405 \u2012 AMA #88: Metabolic liver health: how to assess risk, catch dysfunction early, and prevent or reverse liver disease",
+      "start_time": 455,
+      "end_time": 635,
+      "topic": "The surprisingly small amount of glucose circulating in blood and the liver's homeostatic precision"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-24_20260824T200149Z_62499/clip_sources/f4ab72154fab976b/01_How_foundation-model_customers_shifted_from_consum.mp3",
+      "source": "Why Medical AI Needs a Referee | Protege's Engy Ziedan",
+      "start_time": 327,
+      "end_time": 449,
+      "topic": "How foundation-model customers shifted from consumer chat toward enterprise automation, task aggregation, and real-world evaluations"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

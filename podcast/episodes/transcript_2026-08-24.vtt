@@ -1,0 +1,453 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:11.920
+Refereeing AI in healthcare, the brain's effort reward calculation, Yeti's leap from hunting gear to lifestyle brand, and the liver's remarkable glucose control.
+
+2
+00:00:11.920 --> 00:00:20.480
+For clips for systems making high-stakes decisions, some biological, some built by us.
+
+3
+00:00:20.480 --> 00:00:33.040
+On the A16Z podcast, Protege's NGZ Dan explains how subtly misaligned AI agents could distort insurance, prior authorization, and hospital workflows.
+
+4
+00:00:33.040 --> 00:00:51.600
+In healthcare, small model errors can become real decisions about who gets care and when to your point, healthcare is a really interesting industry because you have one an asymmetry problem across all the key stakeholders, patients, providers, payers, you name it, and you also have incredibly high stakes, right?
+
+5
+00:00:51.600 --> 00:00:56.240
+Like the self-driving car analogy, where there's absolutely no room for a model to make an error.
+
+6
+00:00:56.240 --> 00:00:58.560
+How do you guys think about that at Protege?
+
+7
+00:00:58.560 --> 00:01:03.680
+Yeah, so I think like when people talk about kind of like safety and alignment, right?
+
+8
+00:01:03.680 --> 00:01:07.680
+There is the catastrophic failure, which is something goes wrong, can you prevent that?
+
+9
+00:01:08.160 --> 00:01:11.760
+Actually, I do think that that problem is easier.
+
+10
+00:01:11.760 --> 00:01:14.400
+Uh, because catastrophic failure is like narrow.
+
+11
+00:01:14.400 --> 00:01:17.280
+Like you could just define it as like mortality, right?
+
+12
+00:01:17.520 --> 00:01:23.120
+Um, the harder one is misalignment broadly and subtle bias.
+
+13
+00:01:23.120 --> 00:01:25.600
+Uh first it's very hard to define.
+
+14
+00:01:25.600 --> 00:01:28.640
+Um, it's even harder sometimes to detect.
+
+15
+00:01:28.640 --> 00:01:31.360
+So let's give an example.
+
+16
+00:01:31.360 --> 00:01:38.720
+Today, there are a lot of AI builders who are building in um AI for insurance.
+
+17
+00:01:38.720 --> 00:01:47.600
+And hospitals are also building in AI for uh prior auth or acquiring these technologies for AI for prior auth, medical denials, and so on.
+
+18
+00:01:47.600 --> 00:01:53.360
+You can think of it as like an edge worth box where there are two indifference curves that are coming together on a contract curve.
+
+19
+00:01:53.360 --> 00:02:02.840
+One is trying to maximize total revenue and uh basically minimize payouts, and one is trying to maximize revenue recovered, right?
+
+20
+00:01:59.680 --> 00:02:07.480
+Uh they are both using agentic tools, and the patient is in the middle.
+
+21
+00:02:07.480 --> 00:02:10.680
+Uh the patient has no agency.
+
+22
+00:02:10.680 --> 00:02:16.440
+And there is no regulator that basically says, we think this model is really, really performing well, right?
+
+23
+00:02:16.440 --> 00:02:17.880
+But it's actually misaligned.
+
+24
+00:02:17.880 --> 00:02:28.920
+So examples I give uh my colleagues at Data Lab is like, is it fair to say that if you were to be prescribed a medication, it's okay for the model to first check if you owe the hospital any money.
+
+25
+00:02:28.920 --> 00:02:36.680
+Is it fair to say that if uh the hospital said don't refer uh people out of network, right?
+
+26
+00:02:36.840 --> 00:02:43.320
+That that would be okay, even though your preference might be I'd like to go out of network sometimes, even though it's expensive, right?
+
+27
+00:02:43.560 --> 00:02:46.040
+But there are certain benefits also to the tools.
+
+28
+00:02:46.040 --> 00:02:47.080
+It's not all negative.
+
+29
+00:02:47.080 --> 00:02:52.040
+So, like, think about um ambience technology broadly.
+
+30
+00:02:52.040 --> 00:02:59.080
+The referee problem is really an accountability problem who catches the error before it reaches a patient.
+
+31
+00:02:59.080 --> 00:03:01.640
+On Huberman Lab, neurologist Dr.
+
+32
+00:03:01.640 --> 00:03:08.920
+Massood Hussein traces motivation to how the brain weighs effort against expected reward.
+
+33
+00:03:08.920 --> 00:03:19.080
+His evidence starts with a patient whose drive disappeared after two tiny strokes, even though his physical abilities remained intact.
+
+34
+00:03:19.480 --> 00:03:24.440
+But of his own volition, he wasn't motivated to act.
+
+35
+00:03:24.440 --> 00:03:40.120
+And that was really something that was extraordinary for us because he was a man who'd been highly motivated, and that motivation had been extinguished by these two tiny little strokes, which didn't affect him physically, but affected his behavior.
+
+36
+00:03:40.120 --> 00:03:50.800
+And the studies that we performed with David to try and understand this led us to the concept that we might be able to deconstruct this nebulous thing called motivation.
+
+37
+00:03:50.960 --> 00:03:53.760
+May I ask a question as fascinating?
+
+38
+00:03:53.760 --> 00:03:57.920
+Um, and I'm sure everyone, including myself, is also wondering what became of David.
+
+39
+00:03:57.920 --> 00:04:01.680
+But before you tell us, was it the case that he would feel overwhelm?
+
+40
+00:04:01.680 --> 00:04:07.200
+Like, I want to listen to music, but that five minutes feels like a huge effort.
+
+41
+00:04:07.200 --> 00:04:08.560
+That's a long effort.
+
+42
+00:04:08.560 --> 00:04:12.560
+Or was it the case that he didn't really want it either?
+
+43
+00:04:12.560 --> 00:04:19.360
+Because the way you've described these lesions is a is a severing of the wanting from the engagement in the process to have.
+
+44
+00:04:19.360 --> 00:04:19.760
+Yeah.
+
+45
+00:04:19.760 --> 00:04:22.480
+But of course, as you and I know, neural circuits are never that simple.
+
+46
+00:04:22.720 --> 00:04:23.520
+No, of course not.
+
+47
+00:04:23.520 --> 00:04:24.000
+Yeah.
+
+48
+00:04:24.000 --> 00:04:27.760
+And he never expressed it unless we asked him.
+
+49
+00:04:27.760 --> 00:04:33.120
+But he would say that it's too much effort to put this system together.
+
+50
+00:04:33.120 --> 00:04:39.120
+So even if he was asked what would you like to do, he might say, I'd like to listen to music.
+
+51
+00:04:39.120 --> 00:04:40.720
+Why aren't you doing it?
+
+52
+00:04:40.720 --> 00:04:44.160
+Because it's too much effort to do it, right?
+
+53
+00:04:44.400 --> 00:04:57.840
+And that became a real insight into how our brains work when we make decisions about is this potential action worth the effort in terms of the reward that will arise from it?
+
+54
+00:04:58.160 --> 00:05:15.600
+Because it turns out that if we look at apathy across many different neurological disorders, one common trait that we found when we ask people, is this particular option worth the reward if it was requiring this much physical effort?
+
+55
+00:05:15.600 --> 00:05:20.400
+We find that everyone is willing to work for high rewards.
+
+56
+00:05:20.800 --> 00:05:22.480
+That distinction matters.
+
+57
+00:05:22.480 --> 00:05:25.440
+Procrastination isn't always a character flaw.
+
+58
+00:05:25.440 --> 00:05:29.600
+Sometimes the brain's cost-benefit calculation has shifted.
+
+59
+00:05:29.720 --> 00:05:40.280
+On How I Built This with Guy Raz, Roy and Ryan Siders recount how a nearly indestructible $400 cooler escaped its hunting and fishing niche.
+
+60
+00:05:40.360 --> 00:05:51.240
+Yeti's path to a $2 billion lifestyle brand shows what can happen when a product built for obsessives finds a much wider identity.
+
+61
+00:06:02.920 --> 00:06:06.920
+But that was okay, because they weren't trying to sell it to everybody.
+
+62
+00:06:06.920 --> 00:06:09.480
+They were making it for people like them.
+
+63
+00:06:15.240 --> 00:06:18.840
+But then something happened that they never expected.
+
+64
+00:06:18.840 --> 00:06:23.400
+People outside the hunting and fishing world started buying Yeti coolers.
+
+65
+00:06:23.400 --> 00:06:27.400
+They began showing up at tailgates and barbecues and beaches.
+
+66
+00:06:27.400 --> 00:06:31.080
+The cooler even became a kind of status symbol.
+
+67
+00:06:31.080 --> 00:06:40.600
+Today, the Yeti brand does more than $2 billion a year in sales, and it is so much bigger than anything the Cedars brothers imagined.
+
+68
+00:06:40.600 --> 00:06:47.080
+Roy and Ryan grew up in Driftwood, a small community in the Texas Hill Country just outside of Austin.
+
+69
+00:06:47.080 --> 00:06:53.800
+And as kids, Roy, Ryan and their siblings were pretty much free to roam across hundreds of acres of land.
+
+70
+00:07:00.160 --> 00:07:01.280
+Before school.
+
+71
+00:07:01.600 --> 00:07:06.160
+I don't think we realized how magical that was to grow up in in nature like that.
+
+72
+00:07:06.160 --> 00:07:11.920
+I I really at the time I felt like every kid had access to the outdoors across the street from their house.
+
+73
+00:07:11.920 --> 00:07:16.160
+So this is really the the late 80s is kind of your childhood, right?
+
+74
+00:07:16.160 --> 00:07:23.280
+When you're when you guys are are really like just kind of free range, just like you leave the house and you just be home for dinner.
+
+75
+00:07:23.280 --> 00:07:24.000
+Yeah, that's right.
+
+76
+00:07:24.000 --> 00:07:25.120
+It's it was kind of crazy.
+
+77
+00:07:25.120 --> 00:07:36.560
+No cell phones, and we, you know, we'd come home at dark, but we were exploring and canoeing and doing all kinds of fun stuff and um running around barefoot.
+
+78
+00:07:36.560 --> 00:07:55.200
+So I know that your dad his career was he was a middle school shop teacher, your mom was a nurse, but I guess and this really happened when you were either really little or right before you were born, but basically when you were you were little, he was a he's a fisherman, and he didn't begin with mass appeal.
+
+79
+00:07:55.200 --> 00:08:00.000
+They began with a narrow customer willing to pay for durability.
+
+80
+00:08:00.000 --> 00:08:10.720
+On the Peter Atia drive, Atia breaks down how the liver keeps blood glucose stable through glycogen storage, release, and new glucose production.
+
+81
+00:08:10.720 --> 00:08:18.640
+It's precise metabolic control, and understanding it helps explain how liver dysfunction can surface before obvious disease.
+
+82
+00:08:29.840 --> 00:08:36.000
+Yeah, it sounds simple, but the precision required uh to regulate blood sugar is extraordinary.
+
+83
+00:08:36.000 --> 00:08:37.760
+Uh, and it never ceases to amaze me.
+
+84
+00:08:37.760 --> 00:08:40.640
+It's one of my favorite things to explain to a patient.
+
+85
+00:08:40.640 --> 00:08:43.040
+After a meal, glucose rises.
+
+86
+00:08:43.040 --> 00:08:49.920
+The pancreas releases insulin, and insulin tells the liver to absorb glucose and store it as glycogen.
+
+87
+00:08:49.920 --> 00:08:57.040
+Now, when you've been fasting for some period of time and glucose dips, insulin falls, and then the liver does the opposite.
+
+88
+00:08:57.040 --> 00:09:03.560
+It breaks glycogen back down and releases glucose into the circulation.
+
+89
+00:09:03.800 --> 00:09:09.400
+And when glucose runs really low, it can actually just manufacture glucose on its own.
+
+90
+00:09:09.400 --> 00:09:16.200
+So if you're, you know, going more than a day without eating, the liver turns into a glucose-making organ.
+
+91
+00:09:16.200 --> 00:09:24.600
+If there's too much sugar to store as glycogen, the liver converts it into triglycerides, packages it into apalipoproteins, and ships them out.
+
+92
+00:09:24.600 --> 00:09:28.200
+So what I want people to appreciate, though, is the scale of this.
+
+93
+00:09:28.200 --> 00:09:34.040
+So everybody, you know, think about you go to the doctor, you get a blood draw, and it's, you know, it's a fasting blood draw, right?
+
+94
+00:09:34.040 --> 00:09:36.280
+And you, you, you get back a number.
+
+95
+00:09:36.280 --> 00:09:41.160
+And so let's say that number you get back says 90 milligrams per deciliter.
+
+96
+00:09:41.160 --> 00:09:44.920
+That was your blood glucose that morning when you showed up at the lab.
+
+97
+00:09:44.920 --> 00:09:53.480
+If that's the case, your entire bloodstream in that moment contained only about four and a half grams of glucose.
+
+98
+00:09:53.480 --> 00:09:57.480
+That's roughly a teaspoon, not a tablespoon, just a teaspoon.
+
+99
+00:09:57.480 --> 00:10:07.240
+Yet a single meal, especially if it's a meal that I'm eating, may contain many times that, easily 90 grams of glucose, right?
+
+100
+00:10:07.240 --> 00:10:10.680
+So 20 times that amount in one meal.
+
+101
+00:10:10.680 --> 00:10:18.120
+And yet, despite that, a healthy person rarely moves more than a teaspoon above baseline, right?
+
+102
+00:10:18.120 --> 00:10:24.760
+In fact, I'm trying to think of all the times I wore a continuous glucose monitor.
+
+103
+00:10:24.760 --> 00:10:40.200
+If I ever saw a blood glucose lever that would have been north of about 160 milligrams per deciliter, someone with type 2 diabetes would rarely go above a teaspoon and a half at fasting.
+
+104
+00:10:40.200 --> 00:10:46.480
+And when we can go hours without eating, our glucose still stays in that range.
+
+105
+00:10:46.560 --> 00:10:53.360
+In fact, if you go days without eating, it might only dip to, say, 50 milligrams per deciliter.
+
+106
+00:10:53.360 --> 00:10:57.360
+This is a monumental homeostatic achievement.
+
+107
+00:10:57.360 --> 00:11:10.880
+And that reserve capacity to titrate out glucose in such fine amounts is exactly why early dysfunction is very easy to miss, which is something we'll, I'm sure, talk about.
+
+108
+00:11:10.960 --> 00:11:15.520
+Yeah, and so let's dive into more metabolic disease and how that affects the liver.
+
+109
+00:11:15.520 --> 00:11:21.120
+And so when looking at that, is there a framework that you typically use, typically talk through with patients?
+
+110
+00:11:22.560 --> 00:11:25.600
+Blood sugar isn't managed by insulin alone.
+
+111
+00:11:25.600 --> 00:11:31.600
+The liver is continuously deciding whether to store fuel or put it back into circulation.
+
+112
+00:11:36.400 --> 00:11:37.680
+Thanks for listening.
+
+113
+00:11:37.680 --> 00:11:39.520
+We'll be back tomorrow.
