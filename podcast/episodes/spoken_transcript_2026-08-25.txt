@@ -1,0 +1,121 @@
+Cheaper AI, the investing math behind rare winners, and whether breakthroughs in math create real economic value.
+Plus, Ford CEO Jim Farley on China's EV capacity and the industrial storm.
+He says America is underestimating.
+On Invest Like the Best, Neil Mova explains why open weight models and long-running AI agents create a different infrastructure problem than simply serving faster tokens, and where he sees the market gap.
+Why is there an opportunity that you can tackle?
+It seems like the entire world is oriented around more, better, faster, cheaper tokens right now.
+It seems like the world is trying to solve this problem very aggressively.
+What was the unique opening that you saw that's maybe the market's not being efficient in its attempt to tackle this?
+So I think there's two things that are tailbones for our company.
+One is got to be the rise of open source.
+I had to talk about that first.
+I think we're starting to see increasing number of our customers and the broader market care about owning intelligence.
+They want to have control, sovereignty over the thing that they depend on.
+That created a much more robust market for a customized models, or even just like these vanilla open source models that no one can ever take away from you.
+You always have the weights, you always have the right to deploy them however you like.
+In that world, there's been a reasonably robust market for the past couple years serving these models at large scale.
+The challenge is all those companies, you could take your pick, base 10, fireworks together, they all focus on low latency inference.
+And they were pulled in that direction by one very important customer, cursor.
+I think that that was the right choice about a year ago.
+And as of six months ago, it started to look like maybe low latency wasn't the only thing you wanted from an agent.
+You wanted more persistence, more long horizon tasks.
+And now it's to me very obvious that the future of energetic inference is long horizon tasks.
+You're gonna run the machine for hours or days at a time.
+It doesn't matter if it spits out tokens at 100 tokens per second.
+Maybe 10 is just fine.
+If that comes with corresponding advantages and efficiency.
+Why are you so confident in that?
+To me, it seems like I want everything as fast as possible.
+When you're waiting on it, you absolutely deserve the fastest answer possible.
+My trick is I don't want you to be waiting on it.
+I want it to be proactive.
+I want it to be in the background.
+One way to say it is like the best latency is no latency at all.
+When you wake up in the morning, the work's already been done overnight.
+You didn't even have to ask for it.
+That's the dream.
+We're not quite there yet.
+More importantly, I think the more you're in the loop as you prompt agents and wait for a response.
+In fact, you're the bottleneck in having the agent do more or less work.
+What we'd like is the agent to operate on more human time scales.
+That distinction matters as new Apple Silicon pushes more AI computing onto devices while persistent agents keep raising demand in the cloud.
+On the Meb Favor show, veteran trader Jerry Parker explains why trend following can lose on most trades and still work, because a tiny number of outlier winners drive the year's returns.
+And you're just going to rely upon five to ten percent of the trades per year to bring home all the money and pay for those small losses.
+So that formula is tried and true, is something I've done for since 1983.
+So a long, long time.
+That's why I love having traders with some history and experience on here.
+Druckenmiller was talking to someone the other day, and he's like, you know, I've made so many mistakes you wouldn't believe.
+And like so many people aspire to, you know, having great trading systems and ideas.
+And really, to me, it's always been the mistakes that you learn from that define you.
+And it's the old quote the every trade makes you richer or wiser, but never both, which I love.
+Listeners, we're gonna post some show note links with some resources that I think really help define the differences between a lot of these indices.
+But the biggest takeaway from trend has always been you're trying to invest in things going up and trying to either be out or short things going down, and things being everything in the world, really.
+And so to me, this has always been, you know, you mentioned this low batting average, but with huge outlier percent winners.
+And if you were just to say that to someone, say, Hey, I have an investing strategy, low percent winners, five to ten percent contribute all the gains.
+You know what you just described?
+If you if you didn't tell them what it was, you just described the SP 500.
+You just describe market cap indexing as well, which I always tell people, I'm like, this is by the way, trend following at its core, and they don't like hearing that, but the Bess and Binder research has all confirmed that it's essentially one of the world's most naive and basic trend following strategies, and that's why it works.
+Five percent of these stocks generate all the gains, and just the position sizing algorithm is when more as it goes up, less as it goes down until it eventually gets kicked out, and that's that.
+So there's some uh interesting philosophical underpinnings, which you wouldn't think it'd be such a huge leap for people then to jump from okay, ninety percent of my portfolio is in the it's systematic big game hunting, except frequent small losses, so you're still holding when a rare trend runs.
+On the A sixteen Z podcast, Martin Cesado and Steven Sinowski ask whether AI advances in mathematics are leading indicators of useful reasoning or technical achievements, still searching for economic value.
+I do think that there's something interesting that math is very much a leading edge indicator of what the market might be interested in why.
+I remember when I was in school, like there was some big thing that someone at ATT invented a new algorithm, like a new program for doing linear algebra, like a new way to solve linear, which is super important right now in the AI world.
+But his big thing was well, now we can just calculate like the United Airlines flight map in three hours less time than we could last week.
+Right, but let's dig into it.
+So it's just not clear to me that the problems being solved are those that are roadblocks to like existingly economically useful tasks.
+Right.
+And if they were, it's not clear to me that they wouldn't have been solved.
+Like postdoc that's been ruminating on a problem getting paid 30k a year for five years, like it's very different than like the market has decided that this is like the one thing to unlock.
+And maybe they're there.
+Maybe these problems that are being solved are like the key problems to unlocking some big economically productive use case.
+I just haven't seen that yet.
+So that for me is like the next thing I'm kind of looking for.
+I don't even know what 12 dimensional space is or what that means.
+And so, like, I'm completely with you.
+Like, I don't even know what problems are in 12 dimensional space.
+Are you very skinny?
+Are you very tiny?
+I'm really confused by that.
+And maybe I'm wrong here, but for me, it's still in the domain of it's really good at playing a game.
+Yeah, yeah.
+Like this is the best StarCraft player ever, which is cool and it's very powerful, but like I have a hard time connecting that with A, like maybe the reason we didn't have them before is because there just was an economic need, and B, like, how does that actually map?
+And so listen, there's a huge range of these things.
+We get pitches all the time.
+Some people will walk in and say the foundations to AGI and to reasoning is gonna be math.
+And once you do that, you'll be able to answer every question because the universe is based on some fundamental mathematical principles.
+And once you understand that, you understand everything.
+And then there's other people candidly that walk in the door, and they're just like, listen, that's great.
+But that doesn't tell you anything about reality.
+And so I think that there's more work to do, and this isn't just a problem.
+The real test isn't whether a model can solve the problem.
+It's whether that solution changes what people or businesses can do.
+On masters of scale, Ford's CEO Jem Farley describes China's subsidized EV manufacturing capacity as an existential industrial threat with low-cost electric commuters already reshaping markets beyond China.
+And that is what's selling today around the world, not just in the US.
+You look at Australia, you look in China, you look at Europe, all those markets are moving to a pure EV being kind of a commuter type, low-cost vehicle.
+That's really where the market is has already gone.
+I mean, you mentioned China a couple of times, and I think for folks in the US, often it's like surprising or confusing because there's not as many Chinese vehicles, and there's blockage of certain Chinese vehicles coming to the US.
+But you've had some amazing quotes.
+The most humbling thing I've ever seen, an existential threat, referring to their EV prowess.
+Like that it sounds like that is not slowed down.
+Oh, it's sped up.
+You're absolutely right.
+Look at it this way.
+I could argue that the car business in most industrial countries is the heart and soul of the manufacturing base.
+It has a bigger impact for every job you create in a factory.
+It creates a lot of jobs.
+There's like tenfold that got created in the economy.
+And it's very hard to make a car.
+It's tens of thousands of pieces from all over the world, and it takes heavy manufacturing in know-how.
+And so these are really important jobs.
+Well, today the the Chinese car industry, the new vehicles sold there every year, is about 29 million.
+But they have 50 million units of capacity to build cars.
+So just their factories would be half full if they just made cars for their own market.
+It's not excess capacity because they built that for a reason.
+They're now the largest exporter in the world.
+And in fact, their export capacity, the production capacity in China is so large, it could basically take care of the entire North America market.
+Their average Chinese vehicle has four to five thousand dollars of subsidies indirect and direct from the government.
+Yeah, because I was gonna ask is that what keeps the price down the scale of the of the manufacturing they're doing, or how much of it is sort of the subsidies that they're his warning is bigger than Ford.
+Global overcapacity can reset prices before American manufacturers have time to catch up.
+That's today's daily rundown.
+Thanks for listening.
+We'll be back tomorrow.

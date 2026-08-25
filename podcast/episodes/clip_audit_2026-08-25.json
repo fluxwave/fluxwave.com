@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-25",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-25_20260825T200155Z_94083/clip_sources/e231d397754b3464/01_Why_long-horizon_agents_can_trade_token_speed_for.mp3",
+      "source": "Neil Movva - Making AI 10x Cheaper - [Invest Like the Best, EP.488]",
+      "start_time": 374,
+      "end_time": 497,
+      "topic": "Why long-horizon agents can trade token speed for lower cost and operate on human timescales"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-25_20260825T200155Z_94083/clip_sources/f54f71d5b65a671f/01_Math_as_an_axiomatic_game_versus_a_foundation_for.mp3",
+      "source": "The New Economics of AI | Martin Casado & Steven Sinofsky",
+      "start_time": 383,
+      "end_time": 504,
+      "topic": "Math as an axiomatic game versus a foundation for general intelligence"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-25_20260825T200155Z_94083/clip_sources/1204527a71b09da5/01_Market-cap_indexing_as_a_naive_trend-following_str.mp3",
+      "source": "Jerry Parker on Big Game Hunting in the Market | #647",
+      "start_time": 390,
+      "end_time": 514,
+      "topic": "Market-cap indexing as a naive trend-following strategy"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-25_20260825T200155Z_94083/clip_sources/33d343886cb615cd/01_Iran_fuel_constraints_commodity_inflation_and_Chin.mp3",
+      "source": "Ford's Jim Farley on beating China, and the storm nobody sees coming",
+      "start_time": 372,
+      "end_time": 497,
+      "topic": "Iran, fuel constraints, commodity inflation, and China's accelerating auto exports"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

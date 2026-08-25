@@ -1,0 +1,485 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:08.720
+Cheaper AI, the investing math behind rare winners, and whether breakthroughs in math create real economic value.
+
+2
+00:00:08.720 --> 00:00:14.560
+Plus, Ford CEO Jim Farley on China's EV capacity and the industrial storm.
+
+3
+00:00:14.560 --> 00:00:17.200
+He says America is underestimating.
+
+4
+00:00:19.280 --> 00:00:32.720
+On Invest Like the Best, Neil Mova explains why open weight models and long-running AI agents create a different infrastructure problem than simply serving faster tokens, and where he sees the market gap.
+
+5
+00:00:34.800 --> 00:00:38.000
+Why is there an opportunity that you can tackle?
+
+6
+00:00:38.000 --> 00:00:43.600
+It seems like the entire world is oriented around more, better, faster, cheaper tokens right now.
+
+7
+00:00:43.600 --> 00:00:47.280
+It seems like the world is trying to solve this problem very aggressively.
+
+8
+00:00:47.280 --> 00:00:53.200
+What was the unique opening that you saw that's maybe the market's not being efficient in its attempt to tackle this?
+
+9
+00:00:53.280 --> 00:00:56.560
+So I think there's two things that are tailbones for our company.
+
+10
+00:00:56.560 --> 00:00:58.880
+One is got to be the rise of open source.
+
+11
+00:00:58.880 --> 00:01:00.080
+I had to talk about that first.
+
+12
+00:01:00.080 --> 00:01:06.000
+I think we're starting to see increasing number of our customers and the broader market care about owning intelligence.
+
+13
+00:01:06.000 --> 00:01:09.280
+They want to have control, sovereignty over the thing that they depend on.
+
+14
+00:01:09.280 --> 00:01:16.080
+That created a much more robust market for a customized models, or even just like these vanilla open source models that no one can ever take away from you.
+
+15
+00:01:16.080 --> 00:01:19.200
+You always have the weights, you always have the right to deploy them however you like.
+
+16
+00:01:19.200 --> 00:01:25.360
+In that world, there's been a reasonably robust market for the past couple years serving these models at large scale.
+
+17
+00:01:25.360 --> 00:01:32.800
+The challenge is all those companies, you could take your pick, base 10, fireworks together, they all focus on low latency inference.
+
+18
+00:01:32.800 --> 00:01:36.320
+And they were pulled in that direction by one very important customer, cursor.
+
+19
+00:01:36.320 --> 00:01:39.120
+I think that that was the right choice about a year ago.
+
+20
+00:01:39.120 --> 00:01:43.920
+And as of six months ago, it started to look like maybe low latency wasn't the only thing you wanted from an agent.
+
+21
+00:01:43.920 --> 00:01:46.880
+You wanted more persistence, more long horizon tasks.
+
+22
+00:01:46.880 --> 00:01:52.560
+And now it's to me very obvious that the future of energetic inference is long horizon tasks.
+
+23
+00:01:52.560 --> 00:01:55.840
+You're gonna run the machine for hours or days at a time.
+
+24
+00:01:55.840 --> 00:01:59.240
+It doesn't matter if it spits out tokens at 100 tokens per second.
+
+25
+00:01:59.200 --> 00:02:00.600
+Maybe 10 is just fine.
+
+26
+00:01:59.600 --> 00:02:03.160
+If that comes with corresponding advantages and efficiency.
+
+27
+00:02:03.480 --> 00:02:05.320
+Why are you so confident in that?
+
+28
+00:02:05.320 --> 00:02:08.600
+To me, it seems like I want everything as fast as possible.
+
+29
+00:02:08.600 --> 00:02:11.400
+When you're waiting on it, you absolutely deserve the fastest answer possible.
+
+30
+00:02:11.640 --> 00:02:13.320
+My trick is I don't want you to be waiting on it.
+
+31
+00:02:13.320 --> 00:02:14.280
+I want it to be proactive.
+
+32
+00:02:14.280 --> 00:02:15.320
+I want it to be in the background.
+
+33
+00:02:15.320 --> 00:02:18.280
+One way to say it is like the best latency is no latency at all.
+
+34
+00:02:18.280 --> 00:02:20.680
+When you wake up in the morning, the work's already been done overnight.
+
+35
+00:02:20.680 --> 00:02:22.120
+You didn't even have to ask for it.
+
+36
+00:02:22.120 --> 00:02:22.920
+That's the dream.
+
+37
+00:02:22.920 --> 00:02:24.200
+We're not quite there yet.
+
+38
+00:02:24.200 --> 00:02:29.400
+More importantly, I think the more you're in the loop as you prompt agents and wait for a response.
+
+39
+00:02:29.400 --> 00:02:32.600
+In fact, you're the bottleneck in having the agent do more or less work.
+
+40
+00:02:32.600 --> 00:02:37.080
+What we'd like is the agent to operate on more human time scales.
+
+41
+00:02:37.480 --> 00:02:46.680
+That distinction matters as new Apple Silicon pushes more AI computing onto devices while persistent agents keep raising demand in the cloud.
+
+42
+00:02:46.680 --> 00:02:58.520
+On the Meb Favor show, veteran trader Jerry Parker explains why trend following can lose on most trades and still work, because a tiny number of outlier winners drive the year's returns.
+
+43
+00:03:06.680 --> 00:03:14.440
+And you're just going to rely upon five to ten percent of the trades per year to bring home all the money and pay for those small losses.
+
+44
+00:03:14.440 --> 00:03:21.320
+So that formula is tried and true, is something I've done for since 1983.
+
+45
+00:03:21.320 --> 00:03:22.360
+So a long, long time.
+
+46
+00:03:22.920 --> 00:03:26.440
+That's why I love having traders with some history and experience on here.
+
+47
+00:03:26.440 --> 00:03:33.160
+Druckenmiller was talking to someone the other day, and he's like, you know, I've made so many mistakes you wouldn't believe.
+
+48
+00:03:33.160 --> 00:03:38.440
+And like so many people aspire to, you know, having great trading systems and ideas.
+
+49
+00:03:38.440 --> 00:03:42.200
+And really, to me, it's always been the mistakes that you learn from that define you.
+
+50
+00:03:42.200 --> 00:03:47.680
+And it's the old quote the every trade makes you richer or wiser, but never both, which I love.
+
+51
+00:03:47.680 --> 00:03:58.400
+Listeners, we're gonna post some show note links with some resources that I think really help define the differences between a lot of these indices.
+
+52
+00:03:58.400 --> 00:04:09.600
+But the biggest takeaway from trend has always been you're trying to invest in things going up and trying to either be out or short things going down, and things being everything in the world, really.
+
+53
+00:04:09.600 --> 00:04:18.720
+And so to me, this has always been, you know, you mentioned this low batting average, but with huge outlier percent winners.
+
+54
+00:04:18.720 --> 00:04:28.480
+And if you were just to say that to someone, say, Hey, I have an investing strategy, low percent winners, five to ten percent contribute all the gains.
+
+55
+00:04:28.480 --> 00:04:29.840
+You know what you just described?
+
+56
+00:04:29.840 --> 00:04:33.760
+If you if you didn't tell them what it was, you just described the SP 500.
+
+57
+00:04:33.760 --> 00:04:51.360
+You just describe market cap indexing as well, which I always tell people, I'm like, this is by the way, trend following at its core, and they don't like hearing that, but the Bess and Binder research has all confirmed that it's essentially one of the world's most naive and basic trend following strategies, and that's why it works.
+
+58
+00:04:51.360 --> 00:05:02.240
+Five percent of these stocks generate all the gains, and just the position sizing algorithm is when more as it goes up, less as it goes down until it eventually gets kicked out, and that's that.
+
+59
+00:05:02.240 --> 00:05:21.520
+So there's some uh interesting philosophical underpinnings, which you wouldn't think it'd be such a huge leap for people then to jump from okay, ninety percent of my portfolio is in the it's systematic big game hunting, except frequent small losses, so you're still holding when a rare trend runs.
+
+60
+00:05:21.520 --> 00:05:39.000
+On the A sixteen Z podcast, Martin Cesado and Steven Sinowski ask whether AI advances in mathematics are leading indicators of useful reasoning or technical achievements, still searching for economic value.
+
+61
+00:05:39.000 --> 00:05:47.320
+I do think that there's something interesting that math is very much a leading edge indicator of what the market might be interested in why.
+
+62
+00:05:47.320 --> 00:06:00.680
+I remember when I was in school, like there was some big thing that someone at ATT invented a new algorithm, like a new program for doing linear algebra, like a new way to solve linear, which is super important right now in the AI world.
+
+63
+00:06:00.680 --> 00:06:09.160
+But his big thing was well, now we can just calculate like the United Airlines flight map in three hours less time than we could last week.
+
+64
+00:06:09.320 --> 00:06:10.280
+Right, but let's dig into it.
+
+65
+00:06:10.280 --> 00:06:17.400
+So it's just not clear to me that the problems being solved are those that are roadblocks to like existingly economically useful tasks.
+
+66
+00:06:17.400 --> 00:06:17.880
+Right.
+
+67
+00:06:17.880 --> 00:06:21.160
+And if they were, it's not clear to me that they wouldn't have been solved.
+
+68
+00:06:21.160 --> 00:06:33.160
+Like postdoc that's been ruminating on a problem getting paid 30k a year for five years, like it's very different than like the market has decided that this is like the one thing to unlock.
+
+69
+00:06:33.160 --> 00:06:34.040
+And maybe they're there.
+
+70
+00:06:34.040 --> 00:06:40.440
+Maybe these problems that are being solved are like the key problems to unlocking some big economically productive use case.
+
+71
+00:06:40.440 --> 00:06:41.640
+I just haven't seen that yet.
+
+72
+00:06:41.640 --> 00:06:43.960
+So that for me is like the next thing I'm kind of looking for.
+
+73
+00:06:43.960 --> 00:06:47.000
+I don't even know what 12 dimensional space is or what that means.
+
+74
+00:06:47.000 --> 00:06:49.000
+And so, like, I'm completely with you.
+
+75
+00:06:49.000 --> 00:06:52.120
+Like, I don't even know what problems are in 12 dimensional space.
+
+76
+00:06:52.120 --> 00:06:53.080
+Are you very skinny?
+
+77
+00:06:53.080 --> 00:06:53.880
+Are you very tiny?
+
+78
+00:06:53.880 --> 00:06:55.080
+I'm really confused by that.
+
+79
+00:06:55.080 --> 00:06:59.240
+And maybe I'm wrong here, but for me, it's still in the domain of it's really good at playing a game.
+
+80
+00:06:59.240 --> 00:06:59.640
+Yeah, yeah.
+
+81
+00:06:59.800 --> 00:07:14.680
+Like this is the best StarCraft player ever, which is cool and it's very powerful, but like I have a hard time connecting that with A, like maybe the reason we didn't have them before is because there just was an economic need, and B, like, how does that actually map?
+
+82
+00:07:14.800 --> 00:07:16.560
+And so listen, there's a huge range of these things.
+
+83
+00:07:16.560 --> 00:07:17.520
+We get pitches all the time.
+
+84
+00:07:17.520 --> 00:07:22.960
+Some people will walk in and say the foundations to AGI and to reasoning is gonna be math.
+
+85
+00:07:22.960 --> 00:07:28.880
+And once you do that, you'll be able to answer every question because the universe is based on some fundamental mathematical principles.
+
+86
+00:07:28.880 --> 00:07:30.960
+And once you understand that, you understand everything.
+
+87
+00:07:30.960 --> 00:07:34.720
+And then there's other people candidly that walk in the door, and they're just like, listen, that's great.
+
+88
+00:07:34.720 --> 00:07:36.960
+But that doesn't tell you anything about reality.
+
+89
+00:07:36.960 --> 00:07:41.840
+And so I think that there's more work to do, and this isn't just a problem.
+
+90
+00:07:42.000 --> 00:07:45.200
+The real test isn't whether a model can solve the problem.
+
+91
+00:07:45.200 --> 00:07:49.760
+It's whether that solution changes what people or businesses can do.
+
+92
+00:07:49.760 --> 00:08:04.560
+On masters of scale, Ford's CEO Jem Farley describes China's subsidized EV manufacturing capacity as an existential industrial threat with low-cost electric commuters already reshaping markets beyond China.
+
+93
+00:08:07.200 --> 00:08:10.960
+And that is what's selling today around the world, not just in the US.
+
+94
+00:08:10.960 --> 00:08:21.440
+You look at Australia, you look in China, you look at Europe, all those markets are moving to a pure EV being kind of a commuter type, low-cost vehicle.
+
+95
+00:08:21.440 --> 00:08:24.480
+That's really where the market is has already gone.
+
+96
+00:08:24.480 --> 00:08:37.600
+I mean, you mentioned China a couple of times, and I think for folks in the US, often it's like surprising or confusing because there's not as many Chinese vehicles, and there's blockage of certain Chinese vehicles coming to the US.
+
+97
+00:08:37.600 --> 00:08:39.440
+But you've had some amazing quotes.
+
+98
+00:08:39.440 --> 00:08:45.440
+The most humbling thing I've ever seen, an existential threat, referring to their EV prowess.
+
+99
+00:08:45.440 --> 00:08:48.880
+Like that it sounds like that is not slowed down.
+
+100
+00:08:48.880 --> 00:08:49.920
+Oh, it's sped up.
+
+101
+00:08:49.920 --> 00:08:51.120
+You're absolutely right.
+
+102
+00:08:51.120 --> 00:08:53.040
+Look at it this way.
+
+103
+00:08:53.040 --> 00:08:59.960
+I could argue that the car business in most industrial countries is the heart and soul of the manufacturing base.
+
+104
+00:08:59.520 --> 00:09:05.880
+It has a bigger impact for every job you create in a factory.
+
+105
+00:08:59.960 --> 00:09:01.720
+It creates a lot of jobs.
+
+106
+00:09:05.960 --> 00:09:08.920
+There's like tenfold that got created in the economy.
+
+107
+00:09:08.920 --> 00:09:11.240
+And it's very hard to make a car.
+
+108
+00:09:11.240 --> 00:09:17.960
+It's tens of thousands of pieces from all over the world, and it takes heavy manufacturing in know-how.
+
+109
+00:09:17.960 --> 00:09:20.120
+And so these are really important jobs.
+
+110
+00:09:20.120 --> 00:09:27.320
+Well, today the the Chinese car industry, the new vehicles sold there every year, is about 29 million.
+
+111
+00:09:27.320 --> 00:09:31.320
+But they have 50 million units of capacity to build cars.
+
+112
+00:09:31.800 --> 00:09:38.600
+So just their factories would be half full if they just made cars for their own market.
+
+113
+00:09:38.600 --> 00:09:42.040
+It's not excess capacity because they built that for a reason.
+
+114
+00:09:42.040 --> 00:09:44.200
+They're now the largest exporter in the world.
+
+115
+00:09:44.200 --> 00:09:54.440
+And in fact, their export capacity, the production capacity in China is so large, it could basically take care of the entire North America market.
+
+116
+00:09:54.440 --> 00:10:01.000
+Their average Chinese vehicle has four to five thousand dollars of subsidies indirect and direct from the government.
+
+117
+00:10:01.000 --> 00:10:13.800
+Yeah, because I was gonna ask is that what keeps the price down the scale of the of the manufacturing they're doing, or how much of it is sort of the subsidies that they're his warning is bigger than Ford.
+
+118
+00:10:13.800 --> 00:10:21.880
+Global overcapacity can reset prices before American manufacturers have time to catch up.
+
+119
+00:10:21.880 --> 00:10:24.760
+That's today's daily rundown.
+
+120
+00:10:24.840 --> 00:10:26.040
+Thanks for listening.
+
+121
+00:10:26.040 --> 00:10:27.960
+We'll be back tomorrow.
