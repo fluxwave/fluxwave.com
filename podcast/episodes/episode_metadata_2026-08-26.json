@@ -1,0 +1,56 @@
+{
+  "date": "2026-08-26",
+  "chapters": [
+    {
+      "startTime": 40.272,
+      "title": "a16z Podcast \u2014 Frontier models versus localized open-weight models"
+    },
+    {
+      "startTime": 197.408,
+      "title": "The Pragmatic Engineer \u2014 Why early Windows could not render game graphics quickly and how bitmap conversion, display for"
+    },
+    {
+      "startTime": 348.528,
+      "title": "Pod Save the World \u2014 Assessment of the latest Iran sanctions package, described as an economic D-Day"
+    },
+    {
+      "startTime": 616.416,
+      "title": "Planet Money \u2014 McMurdo Station as a remote industrial and scientific hub"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The State of AI: Macro, Apps, and Consumer",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/the-state-of-ai-macro-apps-and-consumer-0SpxP4t2",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-08-26T10:00:00+00:00"
+    },
+    {
+      "title": "Why performant code matters (but gets widely ignored), with Casey Muratori",
+      "podcast": "The Pragmatic Engineer",
+      "link": "https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets",
+      "audio_url": "https://api.substack.com/feed/podcast/212722114/7fbb605079b04c25aa18da6ab32c0469.mp3",
+      "transcript_url": "",
+      "published": "2026-08-26T15:59:59+00:00"
+    },
+    {
+      "title": "Trump & Carney\u2019s Heated Rivalry",
+      "podcast": "Pod Save the World",
+      "link": "https://audioboom.com/posts/8945366",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8945366.mp3?modified=1787705799&sid=5166626&source=rss",
+      "transcript_url": "",
+      "published": "2026-08-26T09:55:00+00:00"
+    },
+    {
+      "title": "The continent nobody owns & everyone benefits from (Summer School)",
+      "podcast": "Planet Money",
+      "link": "https://www.npr.org/2026/08/26/nx-s1-5943609/summer-school-antarctica",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438",
+      "transcript_url": "",
+      "published": "2026-08-26T07:30:00+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-08-26.txt"
+}

@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-26",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-26_20260826T200204Z_12426/clip_sources/bc072f06ece22361/01_How_AI_agents_reshape_enterprise_integration_and_m.mp3",
+      "source": "The State of AI: Macro, Apps, and Consumer",
+      "start_time": 377,
+      "end_time": 511,
+      "topic": "How AI agents reshape enterprise integration and model economics"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-26_20260826T200204Z_12426/clip_sources/1a87fa036e67ed3a/01_Building_WinG_as_a_fast_graphics_path_for_Windows.mp3",
+      "source": "Why performant code matters (but gets widely ignored), with Casey Muratori",
+      "start_time": 379,
+      "end_time": 499,
+      "topic": "Building WinG as a fast graphics path for Windows games and its evolution toward DirectX"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-26_20260826T200204Z_12426/clip_sources/c4cab50ef45cc8ba/01_McMurdos_power_communications_housing_and_logistic.mp3",
+      "source": "The continent nobody owns & everyone benefits from (Summer School)",
+      "start_time": 627,
+      "end_time": 747,
+      "topic": "McMurdo's power, communications, housing, and logistics infrastructure"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-26_20260826T200204Z_12426/clip_sources/12155407a4ebfcf3/01_Ukraine_reaches_a_grim_milestone_involving_drone_w.mp3",
+      "source": "Trump & Carney\u2019s Heated Rivalry",
+      "start_time": 1074,
+      "end_time": 1314,
+      "topic": "Ukraine reaches a grim milestone involving drone warfare and military technology"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

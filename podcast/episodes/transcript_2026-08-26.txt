@@ -1,0 +1,62 @@
+Daily Digest — 2026-08-26
+
+Chapters
+- 0:40 — a16z Podcast — Frontier models versus localized open-weight models
+- 3:17 — The Pragmatic Engineer — Why early Windows could not render game graphics quickly and how bitmap conversion, display for
+- 5:48 — Pod Save the World — Assessment of the latest Iran sanctions package, described as an economic D-Day
+- 10:16 — Planet Money — McMurdo Station as a remote industrial and scientific hub
+
+Sources
+- The State of AI: Macro, Apps, and Consumer
+  Podcast: a16z Podcast
+  Link: https://a16z.simplecast.com/episodes/the-state-of-ai-macro-apps-and-consumer-0SpxP4t2
+  Audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0&feed=JGE3yC0V
+- Why performant code matters (but gets widely ignored), with Casey Muratori
+  Podcast: The Pragmatic Engineer
+  Link: https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets
+  Audio: https://api.substack.com/feed/podcast/212722114/7fbb605079b04c25aa18da6ab32c0469.mp3
+- Trump & Carney’s Heated Rivalry
+  Podcast: Pod Save the World
+  Link: https://audioboom.com/posts/8945366
+  Audio: https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8945366.mp3?modified=1787705799&sid=5166626&source=rss
+- The continent nobody owns & everyone benefits from (Summer School)
+  Podcast: Planet Money
+  Link: https://www.npr.org/2026/08/26/nx-s1-5943609/summer-school-antarctica
+  Audio: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438
+
+Host Script
+[OPEN]
+[A] Today: where frontier AI models beat local ones, why early Windows struggled with game graphics, and what a sweeping Iran sanctions package could actually do.
+[B] Plus, a trip inside Antarctica’s remote hub, McMurdo Station.
+
+[INTRO_1]
+[A] On the a16z Podcast, the team maps enterprise jobs to different kinds of AI—frontier models for high-upside work like sales and product, and localized open-weight models elsewhere. With GLM-5.3-Flash arriving today, that cost-versus-capability split is getting more relevant.
+[CLIP_1]
+(clip plays here)
+[REACT_1]
+[B] The emerging strategy isn’t one model everywhere—it’s paying for intelligence where each extra gain has real upside.
+
+[INTRO_2]
+[B] On The Pragmatic Engineer, performance specialist Casey Muratori explains why early Windows games couldn’t draw quickly: bitmap conversion, mismatched display formats, and no GPU acceleration. It’s a useful reminder that software speed starts with the machinery underneath.
+[CLIP_2]
+(clip plays here)
+[REACT_2]
+[A] A graphics problem that looked like slow code was really a whole pipeline fighting the hardware.
+
+[INTRO_3]
+[A] Pod Save the World assesses the latest sanctions package against Iran—described as an economic D-Day—and what that scale of pressure could mean in practice. The stakes are whether economic force changes policy or simply deepens the damage.
+[CLIP_3]
+(clip plays here)
+[REACT_3]
+[B] Sanctions this broad don’t stay confined to diplomacy; they reshape prices, trade, and leverage far beyond Iran.
+
+[INTRO_4]
+[B] Planet Money heads to McMurdo Station, Antarctica’s remote industrial and scientific hub. This clip captures the wildlife and unanswered research questions surrounding a settlement that keeps science running at the edge of the world.
+[CLIP_4]
+(clip plays here)
+[REACT_4]
+[A] Even the seals’ 35 underwater sounds are a reminder of how much Antarctica still keeps hidden.
+
+[CLOSE]
+[B] That’s The Daily Rundown for today.
+[A] Thanks for listening—we’ll be back tomorrow.

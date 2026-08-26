@@ -1,0 +1,497 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:11.200
+Where frontier AI models beat local ones, why early windows struggle with game graphics, and what a sweeping Iran sanctions package could actually do.
+
+2
+00:00:11.200 --> 00:00:18.400
+Plus, a trip inside Antarctica's remote hub, McMurdo Station.
+
+3
+00:00:18.400 --> 00:00:30.400
+On the A16Z podcast, the team maps enterprise jobs to different kinds of AI, frontier models for high upside work like sales and product and localized open weight models elsewhere.
+
+4
+00:00:30.400 --> 00:00:40.080
+With GLM 5.3 flash arriving today, that cost versus capability split is getting more relevant.
+
+5
+00:00:40.240 --> 00:00:41.040
+Research.
+
+6
+00:00:41.040 --> 00:00:52.080
+And conversely, what are the job functions in the enterprise that are sort of maybe administrative is too bleak, but they are supporting other functions, legal, HR, finance, et cetera.
+
+7
+00:00:52.080 --> 00:01:02.000
+We really think that the kind of rational architecture and the one that is emerging is that for jobs that have unlimited upside, like sales or product, you always want to use frontier tokens.
+
+8
+00:01:02.000 --> 00:01:07.760
+And the reason for that is you just don't know what the value of the new product feature or closing a customer account is.
+
+9
+00:01:07.760 --> 00:01:18.160
+It's effectively unbounded, and therefore it's economically rational to pay almost any price for a model that's even one IQ point smarter, your Fable 5 or your Grok or your GPT-5.
+
+10
+00:01:18.800 --> 00:01:23.760
+Conversely, when you talk about something like finance, the best way to close the books is accurately.
+
+11
+00:01:23.760 --> 00:01:26.560
+You can't close it 10x better than accurately.
+
+12
+00:01:26.560 --> 00:01:35.280
+So as a result, you kind of have this bounded upside problem where it makes sense to use open weight models with reinforcement learning for the kind of Pareto efficient cost curve.
+
+13
+00:01:35.360 --> 00:01:47.120
+Maybe before we we go at this once, because this is a of the great debate, and again, when Kimmy dropped a few weeks ago, there was a lot of consternation about this topic, just given the relative cost, which was the focus of the topic of discussion.
+
+14
+00:01:47.120 --> 00:01:57.200
+But our founder, Jesse Sang from Dekadon dropped this great post around the fact that in some respects, and for a lot of companies like Dagadon, open source is actually the only option.
+
+15
+00:01:57.200 --> 00:02:01.240
+It's not just cost, it's that they can actually localize it, train, fine-tune it.
+
+16
+00:02:01.480 --> 00:02:13.160
+And so maybe unpack a little bit of that configuration, talk through the nuances there and why folks shouldn't be concerned, even though that is the case for startups, that there's a lot in the way of abundance around this topic.
+
+17
+00:02:13.240 --> 00:02:20.520
+Yeah, I mean, I one of the big topics that we're seeing, or one of the big trends is that there are just one, there are sort of comparative advantages of different models.
+
+18
+00:02:20.520 --> 00:02:25.480
+So, and the models often have sort of areas of focus that are almost at tension with each other.
+
+19
+00:02:25.480 --> 00:02:29.400
+So you see a certain set of models that have a high degree of neuroticism.
+
+20
+00:02:29.400 --> 00:02:31.160
+Like there's sort of autistic models.
+
+21
+00:02:31.160 --> 00:02:38.440
+GLM5.3 are great examples of this where they're very literal and they'll only do exactly what you told them to do and nothing more.
+
+22
+00:02:38.440 --> 00:02:49.800
+Then we're seeing models like a K3 that are just much more sort of open and they're very presumptuous and they're creative, and there are rules for both types of models in the organization.
+
+23
+00:02:49.880 --> 00:02:52.840
+The emerging strategy isn't one model everywhere.
+
+24
+00:02:52.840 --> 00:02:57.640
+It's paying for intelligence where each extra gain has real upside.
+
+25
+00:02:57.640 --> 00:03:05.080
+On the pragmatic engineer, performance specialist Casey Mirator explains why early Windows games couldn't draw quickly.
+
+26
+00:03:24.520 --> 00:03:28.280
+And to understand why this is, is like its own kind of topic.
+
+27
+00:03:28.280 --> 00:03:34.840
+But in general, you can just imagine you have these operating system running, which is Microsoft Windows.
+
+28
+00:03:34.840 --> 00:03:36.520
+It's controlling the graphics card.
+
+29
+00:03:36.520 --> 00:03:41.960
+It's often running at a fairly high resolution compared to what a game might want to run at.
+
+30
+00:03:41.960 --> 00:03:49.520
+You have to negotiate with it in order to display your bitmap in some way that won't destroy all the things that it's trying to display, so on and so forth.
+
+31
+00:03:49.520 --> 00:03:56.800
+Early versions of Windows, uh up through like Windows uh three, uh Windows for Workgroups, let's say, if anyone remembers that name.
+
+32
+00:03:56.800 --> 00:03:58.480
+Was that after 3.1?
+
+33
+00:03:58.480 --> 00:04:00.640
+It was 3.51, I think is what it's called.
+
+34
+00:04:00.640 --> 00:04:01.760
+Or maybe just 3.1.
+
+35
+00:04:01.760 --> 00:04:03.920
+Uh yeah, I there's NT351, no.
+
+36
+00:04:03.920 --> 00:04:04.800
+So it's like, I think you're right.
+
+37
+00:04:04.800 --> 00:04:06.240
+3.1, 3 3.1.
+
+38
+00:04:06.240 --> 00:04:07.040
+I don't know, something like this.
+
+39
+00:04:07.040 --> 00:04:07.360
+Yeah.
+
+40
+00:04:07.360 --> 00:04:10.960
+Windows for Workgroups was uh, you know, around that time.
+
+41
+00:04:10.960 --> 00:04:20.640
+That version of Windows, which is in the three series, didn't really have a way to quickly use the CPU to fill pixels, which is what games need to do, right?
+
+42
+00:04:20.800 --> 00:04:23.520
+There's there's no GPU acceleration really at this point.
+
+43
+00:04:23.520 --> 00:04:26.960
+We can there's a little bit we could talk about, but it's not mainstream, it's not in consumer.
+
+44
+00:04:26.960 --> 00:04:29.360
+So they they need to be able to do this sort of thing.
+
+45
+00:04:29.360 --> 00:04:34.720
+They need to be do it in a double buffered way so they can draw to a back buffer and then show it to the screen, and that has to happen very quickly.
+
+46
+00:04:34.720 --> 00:04:36.800
+And there just wasn't a way to do this in Windows.
+
+47
+00:04:36.800 --> 00:04:50.720
+In Windows, you had to kind of go through uh this API where you would produce sort of a uh bitmap that wasn't necessarily in the right format for the display you were using, and then it had to do a translation from that bitmap to the other one when it displayed it, all this sort of stuff.
+
+48
+00:04:50.720 --> 00:04:54.960
+So games on Windows like things like Doom, they're not coming to Windows, right?
+
+49
+00:04:54.960 --> 00:04:58.880
+Uh that kind of future was not in the works uh for Windows.
+
+50
+00:04:58.880 --> 00:05:02.080
+And that was kind of what some people in Microsoft wanted to change.
+
+51
+00:05:02.080 --> 00:05:06.320
+And one of the people who brought this change about was a guy named Chris Hecker.
+
+52
+00:05:06.320 --> 00:05:23.040
+And he was like, okay, we could actually just make a library that did the fast blitz to the screen so that we could have a way that people could do these draws and get them on the screen quick enough to make gaming viable.
+
+53
+00:05:23.120 --> 00:05:29.840
+A graphics problem that looked like slow code was really a whole pipeline fighting the hardware.
+
+54
+00:05:30.200 --> 00:05:40.120
+Pod Save the World assesses the latest sanctions package against Iran, described as an economic D-Day and what that scale of pressure could mean in practice.
+
+55
+00:05:40.120 --> 00:05:46.440
+The stakes are whether economic force changes policy or simply deepens the damage.
+
+56
+00:06:04.520 --> 00:06:06.200
+So those are the substantive reasons.
+
+57
+00:06:06.200 --> 00:06:09.720
+And I think that made the politics a lot easier for Mark Kearney.
+
+58
+00:06:09.720 --> 00:06:19.960
+There's a poll out today from the Angus Reid Institute, which is a Canadian pollster that found that 76% of Canadian voters support Kearney's decision to walk away from the talks.
+
+59
+00:06:19.960 --> 00:06:26.920
+So now the US and Canada were stuck in this escalatory tit-for-tat cycle, like Trump announced 20 billion worth of tariffs on Canadian goods.
+
+60
+00:06:26.920 --> 00:06:30.600
+Kearney announced they'd responded kind, those go into place uh September 8th.
+
+61
+00:06:30.600 --> 00:06:34.840
+Trump then threatened even more tariffs starting January 1st and on we go.
+
+62
+00:06:34.840 --> 00:06:37.320
+How do you think they put the toothpaste back in the tube here?
+
+63
+00:06:37.320 --> 00:06:49.400
+It feels like this has gotten so politicized when normally you just want trade deals to kind of get hashed out behind the scenes and then voted on or agreed to, so that's not this like massive high-profile fight.
+
+64
+00:06:49.720 --> 00:06:51.880
+Yeah, it's nothing is impossible, right?
+
+65
+00:06:51.880 --> 00:06:54.760
+Especially in the Trump era where there are these huge swings.
+
+66
+00:06:55.160 --> 00:07:08.520
+I think that at core, what's happening here is Mark Kearney, better than any other leader of certainly an allied country, kind of understands the new reality that we're in.
+
+67
+00:07:08.520 --> 00:07:12.280
+And there's there's different components to that.
+
+68
+00:07:12.280 --> 00:07:21.280
+The first is quite simple, and said last thing you said, there's this line Kearney had where he said we've learned that the deals that the US makes are not signed in pen, they're signed in pencil.
+
+69
+00:07:21.600 --> 00:07:24.000
+Which I thought was pretty good as a speech editor.
+
+70
+00:07:24.240 --> 00:07:32.960
+But it's it's because it's this dizzying, you know, uh uh game that Trump plays where you know you cut some mini deal and then he tariffs you more.
+
+71
+00:07:32.960 --> 00:07:37.920
+And and I think Kearney saw, you know, this is just gonna keep happening.
+
+72
+00:07:37.920 --> 00:07:44.080
+And we might as well just draw the line right here and say, you know, fuck you, we're we're in a trade war, right?
+
+73
+00:07:44.080 --> 00:07:46.160
+Now, why did he do that?
+
+74
+00:07:46.160 --> 00:07:51.040
+I I think because you all the economic questions are what they are.
+
+75
+00:07:51.040 --> 00:07:53.840
+I think at core it it is a sovereignty question.
+
+76
+00:07:53.840 --> 00:08:02.640
+And that's where I think Kearney does understand what Trump is doing, is essentially really infringing upon core Canadian sovereignty.
+
+77
+00:08:02.640 --> 00:08:06.160
+So, first of all, this question about whether they could have their own trade deals.
+
+78
+00:08:06.160 --> 00:08:10.880
+Um, essentially, you know, looking into it and kind of making sense of the reports.
+
+79
+00:08:11.040 --> 00:08:28.240
+What the US was insisting on was not that like we'll sit and like literally review, you know, the negotiations that Canada's in with other countries, but the Canadian trade deals have to take into account American tariffs, you know, so that if if we have tariffs and because you know the Trump people like to try to control the supply chain through other countries.
+
+80
+00:08:28.240 --> 00:08:35.360
+Yeah, they don't want China or some Latin American company dumping a bunch of steel in Canada that then gets sent to the US at a discount rate, for example.
+
+81
+00:08:35.760 --> 00:08:50.960
+But that means that Kearney's entire strategy, which is we need to diversify away from the United States and we need to cut trade deals with other countries, can't literally can't work because essentially you'll have to check over his shoulder with uh any deal that he makes.
+
+82
+00:08:50.960 --> 00:09:02.920
+Um, the second thing is this French language stuff is it's not that we're literally going in there and saying you can't speak French, but if you know Quebec has come close to seceding in the past, right?
+
+83
+00:09:02.920 --> 00:09:06.040
+Um this is core to Canadian national identity.
+
+84
+00:09:06.040 --> 00:09:19.320
+That's why there's uh it's bilingual, that's why they have these specific protections in place for the French language, particularly in Quebec, including the kind of content that's on television, is on streaming services, the kind of labeling on products.
+
+85
+00:09:19.320 --> 00:09:28.440
+That's not just because they, you know, uh have some eccentric interest in the French language, it's because they made those agreements to keep Quebec as a part of Canada.
+
+86
+00:09:28.440 --> 00:09:30.600
+Uh and so it's about holding Canada together.
+
+87
+00:09:30.600 --> 00:09:36.120
+And then this speaks to kind of the political backdrop, which is we can, you know, look at J.D.
+
+88
+00:09:36.200 --> 00:09:46.360
+Vance and Donald Trump joking about Canada being the 51st state, or we can see some of the outreach that has been done to like Albertan separatists as kind of weird eccentric things.
+
+89
+00:09:46.360 --> 00:09:47.000
+You know what?
+
+90
+00:09:47.000 --> 00:09:53.720
+If if somebody was doing that, sanctions, this broad don't stay confined to diplomacy.
+
+91
+00:09:53.720 --> 00:09:59.080
+They reshape prices, trade, and leverage far beyond Iran.
+
+92
+00:09:59.080 --> 00:10:05.480
+Planet Money heads to McMurdo Station, Antarctica's remote industrial and scientific hub.
+
+93
+00:10:05.480 --> 00:10:15.800
+This clip captures the wildlife and unanswered research questions surrounding a settlement that keeps science running at the edge of the world.
+
+94
+00:10:29.960 --> 00:10:34.840
+There are 35 different sounds these seals make underwater, and they don't know what they mean.
+
+95
+00:10:34.840 --> 00:10:36.680
+But they're communicating with one another.
+
+96
+00:10:36.680 --> 00:10:37.320
+They think so.
+
+97
+00:10:37.320 --> 00:10:46.080
+They think they may be ranging like uh whales and porpoises do, you know, sending out listen to that, sending out sonar type of sounds, but they cannot prove it yet.
+
+98
+00:10:47.680 --> 00:10:49.120
+It's not a bird, it's a seal.
+
+99
+00:10:49.520 --> 00:10:50.720
+That is unbelievable.
+
+100
+00:10:50.720 --> 00:10:54.960
+It sounds like a symphony almost, like they're they're in harmony with one another.
+
+101
+00:10:54.960 --> 00:10:57.600
+So let me just break in here, Robert Smith here.
+
+102
+00:10:57.600 --> 00:11:00.160
+Uh, that is the natural side of Antarctica.
+
+103
+00:11:00.160 --> 00:11:02.480
+That's what the treaty is there to protect.
+
+104
+00:11:02.480 --> 00:11:06.640
+But there's also the man-made part of the continent, McMurdo Station.
+
+105
+00:11:06.640 --> 00:11:07.440
+That is the U.S.
+
+106
+00:11:07.520 --> 00:11:09.680
+operated base for scientific research.
+
+107
+00:11:09.680 --> 00:11:14.960
+And it's also essentially a small company town of 2,000 people who come and go throughout the year.
+
+108
+00:11:14.960 --> 00:11:19.840
+And where you have workers, that means that business and economics come into play.
+
+109
+00:11:19.840 --> 00:11:27.680
+Let's play a little bit of Ira's tour of McMurdo Station and the sound of life there in 1979, and we'll give you an update afterwards.
+
+110
+00:11:27.680 --> 00:11:30.560
+McMurdo itself is unlike the rest of the continent.
+
+111
+00:11:30.560 --> 00:11:33.360
+McMurdo is the New York City of Antarctica.
+
+112
+00:11:33.360 --> 00:11:39.760
+Noisier, dirtier, and more developed than any other base.
+
+113
+00:11:39.760 --> 00:11:43.280
+A diesel-powered electric generator drones on incessantly.
+
+114
+00:11:43.280 --> 00:11:46.000
+Diesel fuel trickles across the frozen soil.
+
+115
+00:11:46.000 --> 00:11:54.160
+Pipes, cables, and telephone poles are all reminders that Americans have brought not only their science, but their society with them to this remote location.
+
+116
+00:11:54.160 --> 00:12:00.080
+Here are movie houses, mess halls, a post office, general store, infirmary, and four drinking clubs.
+
+117
+00:12:00.080 --> 00:12:06.240
+But regardless of how the Americans try to make it feel like home, there is always one reminder of exactly where you are.
+
+118
+00:12:06.240 --> 00:12:13.840
+It is this a huge door, actually a freezer door made for a supermarket meat locker, but affixed to every building.
+
+119
+00:12:13.840 --> 00:12:17.280
+A door with a huge round knob or long pull handles.
+
+120
+00:12:17.280 --> 00:12:21.040
+Only this one is designed to keep the coal.
+
+121
+00:12:21.040 --> 00:12:28.200
+Even the SEAL's 35 underwater sounds are a reminder of how much Antarctica still keeps hidden.
+
+122
+00:12:29.360 --> 00:12:35.640
+We'll be back tomorrow.
+
+123
+00:12:30.120 --> 00:12:33.080
+That's the daily rundown for today.
+
+124
+00:12:33.080 --> 00:12:34.280
+Thanks for listening.
