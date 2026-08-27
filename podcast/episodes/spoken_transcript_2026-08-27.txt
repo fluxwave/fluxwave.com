@@ -1,0 +1,100 @@
+How AI text detection really works, what 5% long bonds are signaling and why tariffs can make inflation stick.
+Plus, the product decision that turned cursor from a potential plugin into a standalone AI coding platform.
+On complex systems with Patrick McKenzie, Pangram founder Max Spiro explains how his team trains an AI text detector using paired human documents and synthetic versions from frontier models.
+With Nvidia buying hugging face for $13 billion, knowing how models leave linguistic fingerprints is becoming even more consequential.
+So four of the other words that you think don't really have all that much semantic meaning relative to like the nouns and verbs one would choose to use.
+And apparently, like academically oriented women and academically oriented men use the word the differently, which is just uh flooring to me.
+So probably uh not the best time to get into a deep dive of like how it actually works.
+But uh, do you want to uh spin a few yarns about uh you know how one does uh like statistical detection of various uh texts at scale?
+Yeah, so ultimately for us it's it's a deep learning method, it's also a transformer.
+Transformers are very, very powerful, and what we're doing is essentially an authorship identification problem over the couple dozen frontier LLMs.
+And so we have a data set of human text.
+This is anything from like a Yelp review about a Denny's to like a 500 word essay on Moby Dick.
+And then for every human example in our corpus, we are going to query an LLM.
+And we're gonna say, We're asked this LLM, write a five-star review about Denny's, write a 500 word essay on Moby Dick in the style of a ninth grader.
+And so by doing this, we have pairs of documents.
+One is synthetic and one is human.
+And then we train this model to tell the difference between the human side and the synthetic side.
+And so this is sort of like a like very large scale authorship identification problem.
+So I actually have a question for you.
+Like, do you ever like talk to an LLM and like it it like realizes that you're patio 11 without you telling it?
+Oh, I have to identify myself as patio 11 in the system prompt these days because I used to get refusals on uh I will not assist you in plagiarizing patio 11's work.
+So yeah, authorship identification, a a fun thing.
+So are you essentially saying like, okay, we have a list of 16 candidate models, and what we're really outputting is whether it's one of these 16 candidate models or some unknown author that we assume is human, or is there some like general factor of LLMness that uh that you can pull out and say, well, okay, it's not one of those 16 et cetera models that we specifically train against, uh, but this seems like it has kind of the smell of um a close relative of those 16 models versus like a close relative of your me.
+Tiny word choice patterns can reveal authorship even when the meaning looks identical.
+On odd lots, Kansas City Fed president Jeffrey Schmid reads the 30 year treasury yield above 5% through credit demand and a surge in AI infrastructure spending.
+That matters for mortgages, business investment, and the cost of financing the data center build out.
+Okay, well, I'm gonna ask the obvious question then and go back to inflation and what's going on with bond yields.
+So the 30-year above five percent.
+The new Fed Chairman Warsh, he says that you know, yields can be a valuable signal for policymakers such as yourself.
+They can say something about the economy.
+When you see those yields, what are you seeing?
+What's your takeaway?
+So I I would put it in a much more macro context of just the price of money up the curve, right?
+So we have, you know, with our policy making tools, we have influence on the short end.
+Uh we don't really have any influence on the longer end, even though I will say this, uh, through the last couple of ch cycles, the 08, post-08, and post-2020 cycle, we did take some actions inside of our balance sheet to pull duration into the into our balance sheet, which did influence some of the longer rates.
+So there it's not absolute that we don't have influence, but it would be a more of a balance sheet action that that would happen.
+For me, uh what's really fascinating with a growing economy and this whole technology and AI influence is what's creating demand uh for uh for credit inside that for the commercial sector and the public sector.
+So here again, back to uh supply and demand.
+If there's more demand for credit, uh you're gonna have a competition between commercial and and public credit.
+And so that's gonna affect the price.
+So all I can say is it seems to me like the demand or the uh the yield curves is fairly normalized inside of a an economy that's growing somewhere between two and three and a half percent, and that the price of money is gonna be influenced by some of the more dynamic growth growths, uh curves inside GDP, most notably inside the the data center build, the AI build.
+What I need to try to figure out is how what percentage of that growth number is in this kind of cycle, right?
+Um, the I I think about a flywheel, the more the more it spins, you know, you've got to figure out who that's affecting, where the risks are, and I think that's what the Fed needs to do more of.
+When you talk to businesses in your district, do you encounter entities that perceive themselves to be as essentially competing with the data center build out for labor or for equipment or for freight capacity or anything?
+AI spending can boost growth while also keeping pressure on long-term borrowing costs.
+On Masters of Scale, Chicago Fed President Austin Goolsby explains how repeated tariffs can turn one-time price jumps into persistent inflation.
+The stakes are the Fed's hardest trade-off.
+Containing prices when the same shock may also weaken employment.
+But when you start getting things that are stagflationary, that is they're making both sides worse at the same time.
+So now you gotta make some trade-offs.
+Inflation's in and out of control.
+Well, the only tools we have to slow inflation involve driving up the unemployment rate.
+A little of both.
+I mean, I should say at the outset, tariffs is a fiscal policy.
+That's that the administration and the Congress can decide whatever they want.
+And I always say, uh, look, we're in Chicago.
+Our motto is there's no bad weather, there's only bad clothing, and you tell us the conditions, and we'll go figure out what's a jacket and hat combination to deal with that.
+But the thing is, tariffs are supposed to be a one and done impact on prices.
+They drive up prices, but they're not supposed to keep driving up prices, it's supposed to just be a one-time thing.
+But that's only true if it's one and done, not if you keep adding new ones.
+And so we're in this environment where we've had a tariff and the prices went up, and then another tariff and the prices go up, and then another tariff.
+Then the court unwound some of the tariffs.
+So it's like, hey, maybe the price come back down.
+No, but now we got some new ones.
+So that's complicated environment because you're trying to figure out is this actually a temporary thing, or is this a permanent thing?
+If people become convinced that inflation is going to be with them for an extended period, the job of the Fed becomes a hundred times harder.
+A continuing series of tariff shocks is very different from a single adjustment policymakers can look through.
+On the A 16Z podcast.
+Investors unpack cursors' refusal to chase distractions, and its decision to build a standalone AI code editor instead of remaining a VS code plugin.
+As companies replace development work with AI, cursors bet shows why owning the whole product can matter more than taking the quickest route to users.
+This way is the cursor team kind of stood out because not only did they sort of align with the things that we thought about the world, more importantly, smarter people than us and engineers working at the time, the leading AI companies like OpenAI, Midjourney, Replicate, a bunch of others, all kind of use this and subscribe to this model.
+And the team, frankly, just seemed kind of special, right?
+They had an unusual degree of focus.
+I remember we got Michael to come pitch our GP group.
+And 90% of the meeting was him saying no to things.
+Which is just like for like founders out there working on products that you love.
+Like VCs will always ask you kind of dumb questions about other things you might do or things you're related to or whatever.
+And Michael literally just sat there and like very politely listened to all the questions and said, hmm, interesting.
+No, we're not gonna wait, wait.
+Actually, on that point, can I ask you guys a question?
+Because I remember that meeting so vividly when you brought Michael in for the A.
+And one of the things that he said no to was actually, and to your point on there were a lot of plugins, right?
+And so there was this maybe more consensus thought that a VS code fork versus the plug-in into VS Code would one would be better for enterprise, and it wasn't the former, it would be the latter.
+And I recall, I think it was you, Martin, or maybe it was both of you, asking him, well, are you gonna get enterprise customers with this medium?
+Right.
+And he looked at all of us in the eye with high conviction, and well, I'm gonna turn it back to you.
+And what did you think of his answer?
+And what gave you guys the conviction to take a pretty contrarian bet at the time.
+They actually had a very reasoned articulation for why were they run the design spade makes the most sense.
+So what they said at the time was it turns out that you don't speak to these models in code.
+So for example, why wouldn't you build a coding specific foundation model?
+You speak to these as humans and natural languages.
+Therefore, the model has to understand the breadth of human experience in language, right?
+And so that means in order to build a coding model, you're actually building a frontier language model, and that's just a very hard thing to do.
+And then of course there are other companies doing it, and there are much more focused problems like Tamp Completion to do.
+So I think every one of their decisions was very reasoned.
+The standalone IDE gave cursor control over the experience, but made focus an existential requirement.
+That's today's daily rundown.
+Thanks for listening.
+We'll be back tomorrow.

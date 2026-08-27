@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-27",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-27_20260827T200203Z_31970/clip_sources/bd7728c85758d4e3/01_Why_a_coding-specific_foundation_model_effectively.mp3",
+      "source": "Inside Cursor: The Anatomy of a Generational Startup",
+      "start_time": 383,
+      "end_time": 511,
+      "topic": "Why a coding-specific foundation model effectively requires frontier-level natural-language understanding"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-27_20260827T200203Z_31970/clip_sources/85fb03cd6e80e4a7/01_Generalizing_detection_to_unseen_open-weight_model.mp3",
+      "source": "How AI detection actually works, with Pangram\u2019s Max Spero",
+      "start_time": 617,
+      "end_time": 680,
+      "topic": "Generalizing detection to unseen open-weight models through shared training corpora and synthetic fine-tuning data"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-27_20260827T200203Z_31970/clip_sources/71a769eea0a01fb5/01_Demographic_labor-force_change_and_using_AI_to_tra.mp3",
+      "source": "Kansas City Fed President Jeffrey Schmid on the First Jackson Hole of the Warsh Era",
+      "start_time": 374,
+      "end_time": 499,
+      "topic": "Demographic labor-force change and using AI to transfer institutional knowledge"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-27_20260827T200203Z_31970/clip_sources/6124d1980d680148/01_Unanchored_inflation_expectations_and_the_risk_of.mp3",
+      "source": "Chicago Fed President on inflation, recession, and Trump\u2019s attacks",
+      "start_time": 578,
+      "end_time": 704,
+      "topic": "Unanchored inflation expectations and the risk of a wage-price spiral"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
