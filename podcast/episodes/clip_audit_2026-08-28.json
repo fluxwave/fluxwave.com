@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-28",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-28_20260828T200146Z_83220/clip_sources/772b216d12345f2d/01_GPU_scarcity_capacity_booked_through_2028_and_comp.mp3",
+      "source": "The Infrastructure Behind the Machine Age",
+      "start_time": 375,
+      "end_time": 509,
+      "topic": "GPU scarcity, capacity booked through 2028, and comparison with the dot-com infrastructure boom"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-28_20260828T200146Z_83220/clip_sources/92f123ba599f6a28/01_Private_equitys_migration_from_value-oriented_buyo.mp3",
+      "source": "Private Equity Chased Software. Big Tech Is Chasing AI. Dan Rasmussen on If They Are Making the Same Mistake Twice",
+      "start_time": 513,
+      "end_time": 595,
+      "topic": "Private equity\u2019s migration from value-oriented buyouts toward software assets"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-28_20260828T200146Z_83220/clip_sources/a7af7dfe8f9c9e9c/01_How_AI-driven_productivity_growth_could_change_the.mp3",
+      "source": "Austan Goolsbee Is Worried the Economy Is Overheating",
+      "start_time": 328,
+      "end_time": 451,
+      "topic": "How AI-driven productivity growth could change the neutral interest rate and near-term monetary policy"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
