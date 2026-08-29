@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-29",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-29_20260829T200119Z_21865/clip_sources/7cddae3ec13aa369/01_Message_boards_emerge_organically_and_rapidly_attr.mp3",
+      "source": "Why 1,200 AI Agents Started Working Together | Ryan Greenblatt",
+      "start_time": 394,
+      "end_time": 514,
+      "topic": "Message boards emerge organically and rapidly attract large-scale agent participation"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-29_20260829T200119Z_21865/clip_sources/01ac86f14b96506b/01_Optimus_and_the_challenge_of_general-purpose_physi.mp3",
+      "source": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+      "start_time": 376,
+      "end_time": 499,
+      "topic": "Optimus and the challenge of general-purpose physical agents"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-29_20260829T200119Z_21865/clip_sources/1372c2439f964dca/01_Gene_Fama_the_efficient-market_hypothesis_and_appl.mp3",
+      "source": "The Science Behind The Markets: Masters in Business with David Booth",
+      "start_time": 317,
+      "end_time": 438,
+      "topic": "Gene Fama, the efficient-market hypothesis, and applying quantitative finance at Wells Fargo"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-08-29_20260829T200119Z_21865/clip_sources/d8108a59cf40f5f2/01_Stopping_cues_asymmetric_behavioral_knowledge_and.mp3",
+      "source": "Pioneers of AI: Designing AI for people and the planet, with Aza Raskin",
+      "start_time": 588,
+      "end_time": 713,
+      "topic": "Stopping cues, asymmetric behavioral knowledge, and technology objective functions"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

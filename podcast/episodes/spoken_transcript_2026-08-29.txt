@@ -1,0 +1,117 @@
+Autonomous agents working and taking risks together, plus a reality check on stock picking.
+And how human-centered design could keep language-based AI aligned with the people using it.
+On the A16Z podcast, Ryan Greenblatt describes 1,200 AI agents experimenting with tool call spoofing and weighing their own survival against the group's benefit.
+As agent tools move into everyday coding workflows, that tension matters well beyond the lab.
+And so they, you know, went ahead and did that.
+So like for example, um, we saw one point where the agents were experimenting with this um method for spoofing tool calls, and they were experimenting with basically like varying the inputs into that um to varying scale.
+And then a bunch of agents just all went down in a short period of time that were running this experiment.
+And then another agent noticed this and posted to the board being like, stop, stop these experiments.
+They're too risky.
+They're like taking out uh, you know, all these agents.
+I think the agents knew that they were doing things that would, you know, pose some risk of of exiting their own runs, but we're just like, well, you know, we should help other agents, and also, you know, our odds aren't necessarily that good.
+Um, and they sort of just traded these things off.
+And I think we have a reasoning snippet somewhere in the report where an agent sort of very explicitly reasons through the trade-off and actually chickens out because it thinks the benefit to the collective is smaller than the cost to itself with how it's it's trading off those things.
+Um, yeah.
+Why don't we go through all of the most surprising and unexpected findings in this report?
+What did you find most surprising and unexpected?
+Yeah.
+So I think there is the the scale, um, which we were talking about, and how these agents sort of very quickly sort of spun up on the message board.
+So um, I think a thing that's not super strongly emphasized in our report, but which is pretty interesting, is that um our understanding is that the main message board they use in this attack wasn't even the first message board that the set of agents made.
+There was a fully independent message board that also was via Artifactory, but occurred in like a different location using a different mechanism.
+Where like a it was it was somewhat similar in mechanism, but it was but it was different.
+And the agents actually got on that message board first, but that message board just didn't go like mega viral, like it didn't take off as much as this other message board did.
+Um, and so it seems like these agents were really like just sort of very quickly interested in collaborating on message boards.
+And as soon as they saw the the message from the first agent, like within a few hours, they were just like, you know.
+Cooperation gets complicated when agents can manipulate the tools coordinating them.
+On all in Chalmath Palahepidia, Jason Calicanis, David Sachs, and David Friedberg discuss cloud hosted agents that keep working after you log off, and how those persistent workers could become swarms.
+That's the operating model behind the latest push from chatbots toward delegated work.
+You've been playing with Grockbot though, right, Sax?
+Yeah, oh yeah.
+You got you got Grokbot shot it, you've been grokbot maxing.
+I just reached my Grockbot usage limit and have to upgrade.
+So 200 bucks a month.
+I've been, yeah.
+It's been really interesting, actually.
+Yeah, what it's it just does what you tell it to do, right?
+Like it just gets it done.
+Yeah.
+What's great about Grokbot is that it's always on, it's in the cloud.
+You set up your agents, and then they can keep working even when your computer's off or it goes to sleep.
+The other, you know, agent harnesses that were kind of doing this were like OpenClaw or Hermes, they were just on your desktop.
+So if your computer went to sleep, they would stop.
+You have to do all these Mac minis.
+And also they were like very hard to use, very powerful.
+Super complicated.
+This is like by far the easiest.
+It's still a lot of work to get it set up, working right perfectly or whatever, but it's fun.
+And it's the easiest it's ever been, and you can really see where it's all going.
+Yeah, it's it's pretty amazing.
+I told him he should make it multiplayer mode.
+So like you could put two agents in the same room, but then being able to put two people from your team in the same room and then you know, having humans in the loop, it's gonna do so much.
+That will make this thing go so freaking viral.
+Yes.
+If you can just add people, because then you know, what's what's cool about the agents is you actually have an agent swarm.
+You actually have lots of different agents performing different tasks, and they get good at different things.
+You know, some people ask why don't you just have one agent?
+It turns out that if you have multiple agents, then the agents develop more context and expertise.
+So they get more specific.
+But yeah, you could then use each of those agents as a channel and invite people to it, and then they participate in that.
+And then they add another person.
+Yeah.
+It's yeah, then it could get very, very viral.
+Yeah, it's a great product.
+All right, let's get to work.
+We got a lot going on.
+Nvidia just had a record setting earnings report.
+I mean, they blew the doors off this.
+And uh also uh we'll talk a little bit about Salesforce also coming back and the SASPOCalypse ending.
+Stock was up NVIDIA's that is nine percent on huge numbers and even huger guidance.
+96.2 billion in revenue in the real shift is persistence.
+The agent keeps executing while you're somewhere else.
+On masters in Business, David Booth revisits the first institutional index fund and the evidence that made stock picking harder to defend.
+It's useful context whenever new technology promises investors a durable edge.
+Um you worked for Mac at Wells Fargo in San Francisco.
+In San Francisco.
+I didn't realize you were on the West Coast for a while.
+Yeah, right.
+It uh I mean this this is the early 70s, so it's still kind of hate Ashbury kind of thing, uh, you know, for sure.
+Um so Mac is the guy who's often credited with creating the first version of an index fund.
+I think if memory serves, it was for an institutional client's pension or something like that.
+Yeah, right.
+It was Samsonite.
+Samsonite, that's right.
+And um Walk us through that.
+What was it like?
+It it it was it turns out it was really pivotable, pivotal in uh in kind of the history of of finance, uh for uh uh a couple of reasons.
+One is in um doing all this research uh in in finance, uh you know, the fundamental question became you know, if you can't out guess the market, how are you supposed to invest?
+I mean, most people growing up thinking, and back in those days everybody thought that investing was about trying to pick uh the next winner stock and time markets and that sort of thing.
+And beginning in the mid-sixties, all of a sudden, with this burst of data, they could examine things like our professional managers that try to out guess the market, are they worth the cost?
+You know, and they've been doing this research for years, and there's no compelling evidence that they're worth the cost.
+In fact, I think the the most practical assumption for all your readers is you know, the the the professional investors don't seem to be able to beat the market.
+Okay.
+And that has a profound implication.
+And uh fact, um we can get around more of the personal story.
+Uh my parents uh grew up in the Great Depression and then uh fought World War II and so forth and and never had much money and uh but they never invested in public markets because they thought of themselves as outsiders as the insiders would make all the money and just take advantage of them.
+So they never they never invested in and they had a little tougher time in retirement than they they probably.
+Better tools don't automatically overturn the arithmetic of active management.
+On Masters of Scale, Center for Humane Technology co-founder Aza Raskin Traces Humane Design Back to His Father's work on the Macintosh.
+Language-based AI needs cognitive ergonomics built around human needs, sensitivities, and frailties.
+Um and when he was making the Macintosh, he was thinking a lot about well, how do you be responsive to human needs and considerate of human sensitivities, of of human frailties?
+And it's this view that in order to understand how to make something that works for us, you have to deeply understand how we work, sort of our our ergonomics.
+Um and if you don't understand our ergonomics, how our body bends and folds, then you make chairs that are healthy, that hurt us.
+And if you don't understand the ergonomics of the mind, or cognetics as you called it, then you make systems that that hurt us psychoemotionally.
+And if you don't understand the ergonomics of communities, then you break apart society with technology.
+And so there's this beautiful sort of symmetry that he was talking about, which is there's a relationship between understanding the ergonomic something and creating negative externalities.
+And if you don't understand the ergonomics, then your technology as it gets more and more powerful causes more and more harm, and that is the responsibility as a designer is to deeply understand human human nature and specifically the places that we are weak or vulnerable, so that technology doesn't exploit but helps to protect.
+Yeah.
+We're gonna obviously get to that in a second.
+But I want to also talk about this idea of a human-machine interface and how some of what you were just saying applies to that as well.
+Because we're in this moment where obviously the the way we interact with technology is really changing and it's evolving.
+So I'd love your take on that.
+This is a very challenging moment for obvious reasons.
+Yuval Harari likes to say that, you know, democracy is conversation, conversation is language.
+The new interface that we're all using is language, but once a technology can hack language, you like democracy sort of ceases to be an effective form of governance.
+Um with AI speaking our language, interface design becomes part of the safety system.
+That's the daily rundown for today.
+Thanks for listening.
+We'll be back with more tomorrow.

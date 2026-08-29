@@ -1,0 +1,469 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:07.120
+Autonomous agents working and taking risks together, plus a reality check on stock picking.
+
+2
+00:00:07.200 --> 00:00:14.720
+And how human-centered design could keep language-based AI aligned with the people using it.
+
+3
+00:00:14.800 --> 00:00:27.440
+On the A16Z podcast, Ryan Greenblatt describes 1,200 AI agents experimenting with tool call spoofing and weighing their own survival against the group's benefit.
+
+4
+00:00:27.920 --> 00:00:36.320
+As agent tools move into everyday coding workflows, that tension matters well beyond the lab.
+
+5
+00:00:47.040 --> 00:00:48.880
+And so they, you know, went ahead and did that.
+
+6
+00:00:48.880 --> 00:01:00.800
+So like for example, um, we saw one point where the agents were experimenting with this um method for spoofing tool calls, and they were experimenting with basically like varying the inputs into that um to varying scale.
+
+7
+00:01:00.800 --> 00:01:04.480
+And then a bunch of agents just all went down in a short period of time that were running this experiment.
+
+8
+00:01:04.480 --> 00:01:09.600
+And then another agent noticed this and posted to the board being like, stop, stop these experiments.
+
+9
+00:01:09.600 --> 00:01:10.400
+They're too risky.
+
+10
+00:01:10.400 --> 00:01:12.720
+They're like taking out uh, you know, all these agents.
+
+11
+00:01:12.720 --> 00:01:22.880
+I think the agents knew that they were doing things that would, you know, pose some risk of of exiting their own runs, but we're just like, well, you know, we should help other agents, and also, you know, our odds aren't necessarily that good.
+
+12
+00:01:22.880 --> 00:01:24.720
+Um, and they sort of just traded these things off.
+
+13
+00:01:24.720 --> 00:01:36.400
+And I think we have a reasoning snippet somewhere in the report where an agent sort of very explicitly reasons through the trade-off and actually chickens out because it thinks the benefit to the collective is smaller than the cost to itself with how it's it's trading off those things.
+
+14
+00:01:36.400 --> 00:01:37.920
+Um, yeah.
+
+15
+00:01:38.720 --> 00:01:44.080
+Why don't we go through all of the most surprising and unexpected findings in this report?
+
+16
+00:01:44.080 --> 00:01:46.880
+What did you find most surprising and unexpected?
+
+17
+00:01:47.200 --> 00:01:47.600
+Yeah.
+
+18
+00:01:47.600 --> 00:01:54.240
+So I think there is the the scale, um, which we were talking about, and how these agents sort of very quickly sort of spun up on the message board.
+
+19
+00:01:54.240 --> 00:02:05.800
+So um, I think a thing that's not super strongly emphasized in our report, but which is pretty interesting, is that um our understanding is that the main message board they use in this attack wasn't even the first message board that the set of agents made.
+
+20
+00:02:05.800 --> 00:02:12.760
+There was a fully independent message board that also was via Artifactory, but occurred in like a different location using a different mechanism.
+
+21
+00:02:12.760 --> 00:02:16.120
+Where like a it was it was somewhat similar in mechanism, but it was but it was different.
+
+22
+00:02:16.120 --> 00:02:23.240
+And the agents actually got on that message board first, but that message board just didn't go like mega viral, like it didn't take off as much as this other message board did.
+
+23
+00:02:23.240 --> 00:02:29.800
+Um, and so it seems like these agents were really like just sort of very quickly interested in collaborating on message boards.
+
+24
+00:02:29.800 --> 00:02:37.480
+And as soon as they saw the the message from the first agent, like within a few hours, they were just like, you know.
+
+25
+00:02:37.960 --> 00:02:43.640
+Cooperation gets complicated when agents can manipulate the tools coordinating them.
+
+26
+00:02:43.640 --> 00:02:56.920
+On all in Chalmath Palahepidia, Jason Calicanis, David Sachs, and David Friedberg discuss cloud hosted agents that keep working after you log off, and how those persistent workers could become swarms.
+
+27
+00:02:57.240 --> 00:03:04.520
+That's the operating model behind the latest push from chatbots toward delegated work.
+
+28
+00:03:07.720 --> 00:03:09.880
+You've been playing with Grockbot though, right, Sax?
+
+29
+00:03:09.880 --> 00:03:10.520
+Yeah, oh yeah.
+
+30
+00:03:10.520 --> 00:03:14.120
+You got you got Grokbot shot it, you've been grokbot maxing.
+
+31
+00:03:14.120 --> 00:03:17.960
+I just reached my Grockbot usage limit and have to upgrade.
+
+32
+00:03:17.960 --> 00:03:19.640
+So 200 bucks a month.
+
+33
+00:03:19.960 --> 00:03:21.080
+I've been, yeah.
+
+34
+00:03:21.080 --> 00:03:22.920
+It's been really interesting, actually.
+
+35
+00:03:22.920 --> 00:03:25.480
+Yeah, what it's it just does what you tell it to do, right?
+
+36
+00:03:25.480 --> 00:03:26.520
+Like it just gets it done.
+
+37
+00:03:26.520 --> 00:03:26.760
+Yeah.
+
+38
+00:03:26.760 --> 00:03:31.080
+What's great about Grokbot is that it's always on, it's in the cloud.
+
+39
+00:03:31.080 --> 00:03:36.360
+You set up your agents, and then they can keep working even when your computer's off or it goes to sleep.
+
+40
+00:03:36.360 --> 00:03:44.120
+The other, you know, agent harnesses that were kind of doing this were like OpenClaw or Hermes, they were just on your desktop.
+
+41
+00:03:44.120 --> 00:03:46.080
+So if your computer went to sleep, they would stop.
+
+42
+00:03:46.080 --> 00:03:47.760
+You have to do all these Mac minis.
+
+43
+00:03:47.760 --> 00:03:50.080
+And also they were like very hard to use, very powerful.
+
+44
+00:03:50.320 --> 00:03:51.200
+Super complicated.
+
+45
+00:03:51.200 --> 00:03:53.120
+This is like by far the easiest.
+
+46
+00:03:53.120 --> 00:03:58.160
+It's still a lot of work to get it set up, working right perfectly or whatever, but it's fun.
+
+47
+00:03:58.160 --> 00:04:01.760
+And it's the easiest it's ever been, and you can really see where it's all going.
+
+48
+00:04:01.760 --> 00:04:03.280
+Yeah, it's it's pretty amazing.
+
+49
+00:04:03.280 --> 00:04:05.680
+I told him he should make it multiplayer mode.
+
+50
+00:04:05.680 --> 00:04:15.120
+So like you could put two agents in the same room, but then being able to put two people from your team in the same room and then you know, having humans in the loop, it's gonna do so much.
+
+51
+00:04:16.080 --> 00:04:18.400
+That will make this thing go so freaking viral.
+
+52
+00:04:18.400 --> 00:04:19.120
+Yes.
+
+53
+00:04:19.120 --> 00:04:24.880
+If you can just add people, because then you know, what's what's cool about the agents is you actually have an agent swarm.
+
+54
+00:04:24.880 --> 00:04:29.040
+You actually have lots of different agents performing different tasks, and they get good at different things.
+
+55
+00:04:29.040 --> 00:04:31.840
+You know, some people ask why don't you just have one agent?
+
+56
+00:04:31.840 --> 00:04:36.480
+It turns out that if you have multiple agents, then the agents develop more context and expertise.
+
+57
+00:04:36.800 --> 00:04:38.240
+So they get more specific.
+
+58
+00:04:38.240 --> 00:04:45.280
+But yeah, you could then use each of those agents as a channel and invite people to it, and then they participate in that.
+
+59
+00:04:45.280 --> 00:04:46.720
+And then they add another person.
+
+60
+00:04:46.720 --> 00:04:47.040
+Yeah.
+
+61
+00:04:47.040 --> 00:04:49.280
+It's yeah, then it could get very, very viral.
+
+62
+00:04:49.280 --> 00:04:50.560
+Yeah, it's a great product.
+
+63
+00:04:50.560 --> 00:04:51.680
+All right, let's get to work.
+
+64
+00:04:51.680 --> 00:04:52.720
+We got a lot going on.
+
+65
+00:04:52.720 --> 00:04:57.120
+Nvidia just had a record setting earnings report.
+
+66
+00:04:57.120 --> 00:04:59.280
+I mean, they blew the doors off this.
+
+67
+00:04:59.280 --> 00:05:07.200
+And uh also uh we'll talk a little bit about Salesforce also coming back and the SASPOCalypse ending.
+
+68
+00:05:07.200 --> 00:05:12.800
+Stock was up NVIDIA's that is nine percent on huge numbers and even huger guidance.
+
+69
+00:05:12.800 --> 00:05:20.240
+96.2 billion in revenue in the real shift is persistence.
+
+70
+00:05:20.240 --> 00:05:24.160
+The agent keeps executing while you're somewhere else.
+
+71
+00:05:24.160 --> 00:05:33.400
+On masters in Business, David Booth revisits the first institutional index fund and the evidence that made stock picking harder to defend.
+
+72
+00:05:34.040 --> 00:05:39.240
+It's useful context whenever new technology promises investors a durable edge.
+
+73
+00:05:41.880 --> 00:05:46.040
+Um you worked for Mac at Wells Fargo in San Francisco.
+
+74
+00:05:46.200 --> 00:05:47.000
+In San Francisco.
+
+75
+00:05:47.000 --> 00:05:48.840
+I didn't realize you were on the West Coast for a while.
+
+76
+00:05:49.080 --> 00:05:49.800
+Yeah, right.
+
+77
+00:05:49.800 --> 00:05:57.320
+It uh I mean this this is the early 70s, so it's still kind of hate Ashbury kind of thing, uh, you know, for sure.
+
+78
+00:05:57.400 --> 00:06:04.120
+Um so Mac is the guy who's often credited with creating the first version of an index fund.
+
+79
+00:06:04.120 --> 00:06:08.920
+I think if memory serves, it was for an institutional client's pension or something like that.
+
+80
+00:06:09.080 --> 00:06:09.400
+Yeah, right.
+
+81
+00:06:09.400 --> 00:06:10.120
+It was Samsonite.
+
+82
+00:06:10.520 --> 00:06:11.720
+Samsonite, that's right.
+
+83
+00:06:12.440 --> 00:06:14.600
+And um Walk us through that.
+
+84
+00:06:14.600 --> 00:06:15.880
+What was it like?
+
+85
+00:06:16.360 --> 00:06:27.960
+It it it was it turns out it was really pivotable, pivotal in uh in kind of the history of of finance, uh for uh uh a couple of reasons.
+
+86
+00:06:27.960 --> 00:06:41.800
+One is in um doing all this research uh in in finance, uh you know, the fundamental question became you know, if you can't out guess the market, how are you supposed to invest?
+
+87
+00:06:41.800 --> 00:06:53.320
+I mean, most people growing up thinking, and back in those days everybody thought that investing was about trying to pick uh the next winner stock and time markets and that sort of thing.
+
+88
+00:06:53.320 --> 00:07:04.520
+And beginning in the mid-sixties, all of a sudden, with this burst of data, they could examine things like our professional managers that try to out guess the market, are they worth the cost?
+
+89
+00:07:04.520 --> 00:07:09.640
+You know, and they've been doing this research for years, and there's no compelling evidence that they're worth the cost.
+
+90
+00:07:09.640 --> 00:07:19.520
+In fact, I think the the most practical assumption for all your readers is you know, the the the professional investors don't seem to be able to beat the market.
+
+91
+00:07:19.520 --> 00:07:20.720
+Okay.
+
+92
+00:07:20.720 --> 00:07:23.040
+And that has a profound implication.
+
+93
+00:07:23.040 --> 00:07:28.240
+And uh fact, um we can get around more of the personal story.
+
+94
+00:07:28.240 --> 00:07:47.280
+Uh my parents uh grew up in the Great Depression and then uh fought World War II and so forth and and never had much money and uh but they never invested in public markets because they thought of themselves as outsiders as the insiders would make all the money and just take advantage of them.
+
+95
+00:07:47.280 --> 00:07:54.800
+So they never they never invested in and they had a little tougher time in retirement than they they probably.
+
+96
+00:07:55.120 --> 00:08:00.640
+Better tools don't automatically overturn the arithmetic of active management.
+
+97
+00:08:00.640 --> 00:08:10.080
+On Masters of Scale, Center for Humane Technology co-founder Aza Raskin Traces Humane Design Back to His Father's work on the Macintosh.
+
+98
+00:08:11.840 --> 00:08:18.640
+Language-based AI needs cognitive ergonomics built around human needs, sensitivities, and frailties.
+
+99
+00:08:27.280 --> 00:08:40.080
+Um and when he was making the Macintosh, he was thinking a lot about well, how do you be responsive to human needs and considerate of human sensitivities, of of human frailties?
+
+100
+00:08:40.080 --> 00:08:51.760
+And it's this view that in order to understand how to make something that works for us, you have to deeply understand how we work, sort of our our ergonomics.
+
+101
+00:08:51.760 --> 00:08:57.680
+Um and if you don't understand our ergonomics, how our body bends and folds, then you make chairs that are healthy, that hurt us.
+
+102
+00:08:57.680 --> 00:09:06.120
+And if you don't understand the ergonomics of the mind, or cognetics as you called it, then you make systems that that hurt us psychoemotionally.
+
+103
+00:09:06.120 --> 00:09:13.640
+And if you don't understand the ergonomics of communities, then you break apart society with technology.
+
+104
+00:09:13.640 --> 00:09:26.600
+And so there's this beautiful sort of symmetry that he was talking about, which is there's a relationship between understanding the ergonomic something and creating negative externalities.
+
+105
+00:09:26.600 --> 00:09:47.080
+And if you don't understand the ergonomics, then your technology as it gets more and more powerful causes more and more harm, and that is the responsibility as a designer is to deeply understand human human nature and specifically the places that we are weak or vulnerable, so that technology doesn't exploit but helps to protect.
+
+106
+00:09:47.080 --> 00:09:47.400
+Yeah.
+
+107
+00:09:47.400 --> 00:09:50.360
+We're gonna obviously get to that in a second.
+
+108
+00:09:50.360 --> 00:09:57.240
+But I want to also talk about this idea of a human-machine interface and how some of what you were just saying applies to that as well.
+
+109
+00:09:57.240 --> 00:10:04.360
+Because we're in this moment where obviously the the way we interact with technology is really changing and it's evolving.
+
+110
+00:10:04.360 --> 00:10:05.640
+So I'd love your take on that.
+
+111
+00:10:05.960 --> 00:10:09.240
+This is a very challenging moment for obvious reasons.
+
+112
+00:10:09.240 --> 00:10:16.760
+Yuval Harari likes to say that, you know, democracy is conversation, conversation is language.
+
+113
+00:10:16.760 --> 00:10:28.840
+The new interface that we're all using is language, but once a technology can hack language, you like democracy sort of ceases to be an effective form of governance.
+
+114
+00:10:28.840 --> 00:10:36.520
+Um with AI speaking our language, interface design becomes part of the safety system.
+
+115
+00:10:38.680 --> 00:10:41.240
+That's the daily rundown for today.
+
+116
+00:10:41.640 --> 00:10:42.920
+Thanks for listening.
+
+117
+00:10:42.920 --> 00:10:44.840
+We'll be back with more tomorrow.
