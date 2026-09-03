@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-03",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-03_20260903T200159Z_57827/clip_sources/9576a01c2965f87f/01_PayPals_wallet_economics_monetizing_payment_flows.mp3",
+      "source": "Everyone wants to be your wallet",
+      "start_time": 330,
+      "end_time": 455,
+      "topic": "PayPal's wallet economics: monetizing payment flows and retained balances"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-03_20260903T200159Z_57827/clip_sources/af5907e748ea80fa/01_B2B_payment_terms_working-capital_asymmetry_and_in.mp3",
+      "source": "The $100B Niches Hiding Inside Payments",
+      "start_time": 432,
+      "end_time": 612,
+      "topic": "B2B payment terms, working-capital asymmetry, and invoice financing"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-03_20260903T200159Z_57827/clip_sources/d04d188028506858/01_Founder_identity_ego_business_failure_and_trusting.mp3",
+      "source": "How To Build A Business That Runs Without You - Codie Sanchez - #1145",
+      "start_time": 442,
+      "end_time": 568,
+      "topic": "Founder identity, ego, business failure, and trusting more capable employees"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-03_20260903T200159Z_57827/clip_sources/dc4d3d917ce2a682/01_Co-location_spontaneous_collaboration_and_the_limi.mp3",
+      "source": "Angela Duckworth on why grit isn\u2019t enough",
+      "start_time": 614,
+      "end_time": 739,
+      "topic": "Co-location, spontaneous collaboration, and the limitations of remote work"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

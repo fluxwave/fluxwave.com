@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-03",
+  "chapters": [
+    {
+      "startTime": 31.608,
+      "title": "Complex Systems with Patrick McKenzie (patio11) \u2014 Why internal wallet transactions outperform card-funded payments"
+    },
+    {
+      "startTime": 191.056,
+      "title": "a16z Podcast \u2014 Legacy card-network latency constraints, secure enclaves, and opportunities to redesign payment authoriza"
+    },
+    {
+      "startTime": 337.464,
+      "title": "Modern Wisdom \u2014 How the hero complex prevents founders from delegating and pursuing asymmetric opportunities"
+    },
+    {
+      "startTime": 478.04,
+      "title": "Masters of Scale \u2014 Agglomeration effects and why AI founders cluster in technology hubs"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Everyone wants to be your wallet",
+      "podcast": "Complex Systems with Patrick McKenzie (patio11)",
+      "link": "https://share.transistor.fm/s/513e8a5c",
+      "audio_url": "https://pscrb.fm/rss/p/prfx.byspotify.com/e/media.transistor.fm/513e8a5c/f32c4030.mp3",
+      "transcript_url": "",
+      "published": "2026-09-03T00:00:00-07:00"
+    },
+    {
+      "title": "The $100B Niches Hiding Inside Payments",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/the-100b-niches-hiding-inside-payments-aKQoOt7o",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a13b21a1-e71b-428e-969a-c4fe80db9f9c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a13b21a1-e71b-428e-969a-c4fe80db9f9c&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-09-03T10:00:00+00:00"
+    },
+    {
+      "title": "How To Build A Business That Runs Without You - Codie Sanchez - #1145",
+      "podcast": "Modern Wisdom",
+      "link": "",
+      "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB1231483504.mp3",
+      "transcript_url": "",
+      "published": "2026-09-03T05:00:00+00:00"
+    },
+    {
+      "title": "Angela Duckworth on why grit isn\u2019t enough",
+      "podcast": "Masters of Scale",
+      "link": "",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/c48bf4f8-aeda-48c6-b613-33d1c53b27bf.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542",
+      "transcript_url": "",
+      "published": "2026-09-03T09:00:00+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-09-03.txt"
+}

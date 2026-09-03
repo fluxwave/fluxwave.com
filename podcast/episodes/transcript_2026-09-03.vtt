@@ -1,0 +1,417 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:02.240
+Why wallets beat car payments?
+
+2
+00:00:02.240 --> 00:00:08.880
+How old network limits shape payment innovation and a founder habit that blocks delegation.
+
+3
+00:00:08.880 --> 00:00:16.320
+Plus, Angela Duckworth on why AI talent keeps clustering in tech hubs.
+
+4
+00:00:16.320 --> 00:00:22.720
+From complex systems with Patrick McKenzie, Patrick breaks down PayPal's enduring advantage.
+
+5
+00:00:22.720 --> 00:00:31.680
+Card-funded deposits cost money, but transactions inside its wallet can carry much better economics.
+
+6
+00:00:31.680 --> 00:00:39.760
+In credit card processing for businesses, stocks are free-ish, but flows, incoming transactions from customers are priced.
+
+7
+00:00:39.760 --> 00:00:44.720
+So do wallets with embedded cash make money from stocks or flows?
+
+8
+00:00:44.720 --> 00:00:45.760
+Yes.
+
+9
+00:00:45.760 --> 00:00:53.280
+The enduring genius of PayPal's wallet model was that moving money into PayPal's ecosystem cost a substantial amount of money via card interchange.
+
+10
+00:00:53.280 --> 00:01:02.240
+PayPal would try to set their pricing, historically about 2.9% plus about 30 cents, such that it was above most interchange fees they need moving money into the system.
+
+11
+00:01:02.240 --> 00:01:06.240
+Then they would strongly encourage users to keep that balance within PayPal.
+
+12
+00:01:06.240 --> 00:01:08.720
+This was natural for many casual eBay sellers.
+
+13
+00:01:08.720 --> 00:01:17.760
+They were buyers as well, rather than being professional antique dealers, and leaving their internet money somewhere on the internet until the next needed money on the internet worked out fine.
+
+14
+00:01:17.760 --> 00:01:29.280
+When a customer did the next transaction, paying from their PayPal balance to another PayPal user, the money moved internally at the speed and cost of a database transaction, approximately instantaneously and too cheap to meter.
+
+15
+00:01:29.280 --> 00:01:40.400
+And then PayPal would try, with varying levels of success, to charge the full 2.9% plus 30 cents, this time making 290 bits of margin rather than 80 to 120 bits or so of margin.
+
+16
+00:01:46.800 --> 00:01:54.720
+Supercharging of the margin possibilities by disintermediating the card ecosystems is the primary economic advantage of all that's capable of holding balances.
+
+17
+00:01:54.720 --> 00:02:06.920
+I emphasize this because non-specialists routinely assume the thing that looks like a bank deposit and might actually be a bank deposit under the hood must earn revenue in the same way that bank deposits earn revenue via net interest margin.
+
+18
+00:02:07.160 --> 00:02:07.880
+It does.
+
+19
+00:02:07.880 --> 00:02:13.320
+And in high interest environments like the one we're currently living in, at least in the US, this is lucrative.
+
+20
+00:02:13.320 --> 00:02:19.880
+PayPal earned nearly 500 million in interest on customer balances for their 2023 annual report.
+
+21
+00:02:19.880 --> 00:02:24.040
+Most of that is very high margin revenue, but it is not the ball-in.
+
+22
+00:02:24.040 --> 00:02:28.280
+The real prize is having vastly better economics on the transactions.
+
+23
+00:02:28.520 --> 00:02:32.120
+It's easy to see this when you zoom into the economics of a single account.
+
+24
+00:02:32.120 --> 00:02:36.360
+PayPal claims accounts on average have about 40 transactions a year.
+
+25
+00:02:36.360 --> 00:02:48.840
+I think that includes some strategic ambiguity between personal and corporate accounts, but let's assume a typical consumer might carry $200 in balance and do 10 transactions each for about $40 per year.
+
+26
+00:02:55.320 --> 00:03:10.760
+On the A16Z podcast, this clip examines how card networks roughly two and a half second offline authorization window limits fraud checks, and where secure enclaves could open new payment designs.
+
+27
+00:03:18.200 --> 00:03:21.960
+If you're doing e-commerce, you're like, well, yes, we're gonna submit your card to Visa.
+
+28
+00:03:21.960 --> 00:03:26.440
+But first, we're gonna run some anti-fraud checks and we're gonna do some other things too and reduce liability.
+
+29
+00:03:26.440 --> 00:03:29.880
+But offline, like once your card is presented, two and a half seconds.
+
+30
+00:03:29.880 --> 00:03:31.160
+That's all you got.
+
+31
+00:03:31.160 --> 00:03:40.520
+And Google and Apple Pay have singularly time shifted the whole thing by creating secure enclaves inside their chips and saying, I already know your card.
+
+32
+00:03:40.520 --> 00:03:43.960
+I can do all kinds of things before I actually have to talk to Visa MasterCard.
+
+33
+00:03:43.960 --> 00:03:49.840
+And maybe the shocking thing is that Bizai MasterCard have not yet introduced some new standards saying actually it doesn't have to be two and a half at all.
+
+34
+00:03:49.920 --> 00:03:58.240
+It could be 15 seconds while we go and get a bunch of issuers to bid on a better credit quality terms for you or any other type of innovation.
+
+35
+00:03:58.240 --> 00:04:03.760
+But the sort of hard-written rules of D-Hoc era are more or less intact.
+
+36
+00:04:03.760 --> 00:04:05.200
+And that's not 30 years.
+
+37
+00:04:05.200 --> 00:04:06.800
+That's like more, you know, 60 years.
+
+38
+00:04:06.800 --> 00:04:13.760
+And so I think that's probably a critical or more criticizing take on what happened.
+
+39
+00:04:13.760 --> 00:04:19.360
+But the shocking thing about payments is that it is the world's largest market by any stretch of imagination.
+
+40
+00:04:19.360 --> 00:04:30.000
+And anything and everything you could have possibly thought of being sort of deconstructed and being the nichiest little thing to poke around and innovate in always turns out to be 100 billion dollar.
+
+41
+00:04:30.000 --> 00:04:32.720
+There are no niches in payments that are smaller than 100 billion dollars.
+
+42
+00:04:32.720 --> 00:04:35.040
+And so that's probably the most surprising thing I've seen.
+
+43
+00:04:35.040 --> 00:04:35.280
+Yeah.
+
+44
+00:04:35.520 --> 00:04:40.720
+Although it's interesting, like once you go really big, the numbers get small, which is strange.
+
+45
+00:04:40.880 --> 00:04:43.840
+If I send a $1 trillion wire, right?
+
+46
+00:04:43.840 --> 00:04:47.120
+The United States just announced we are $40 trillion in debt.
+
+47
+00:04:47.120 --> 00:04:47.520
+Right.
+
+48
+00:04:47.520 --> 00:04:55.360
+Let's just say that Elon's Mars colony is worth $40 trillion and Rokan decides to tax him $40 trillion and he needs to send a wire.
+
+49
+00:04:55.360 --> 00:05:07.840
+That wire is not going to be very pro like there, there's a lot of volume, but the large volume revenue opportunities and payments tend to be the smaller dollar amounts, which is surprising, right?
+
+50
+00:05:07.840 --> 00:05:14.400
+Because it turns out, I mean, like all of the QSR, the quick serve restaurant, the payment.
+
+51
+00:05:14.800 --> 00:05:17.200
+That's the other side of wallet economics.
+
+52
+00:05:17.200 --> 00:05:21.920
+Control the rails, and you can redesign the decision itself.
+
+53
+00:05:21.920 --> 00:05:35.320
+On Modern wisdom, entrepreneur Cody Sanchez explains how a founder's hero complex makes every absence feel dangerous and keeps them from delegating or chasing bigger, asymmetric opportunities.
+
+54
+00:05:40.280 --> 00:05:44.120
+So and then he invited me to his island.
+
+55
+00:05:44.120 --> 00:05:45.640
+Now I don't go to Billionaire's Islands.
+
+56
+00:05:47.880 --> 00:05:49.080
+I think you should bring them back.
+
+57
+00:05:49.080 --> 00:05:49.720
+I don't know.
+
+58
+00:05:50.920 --> 00:05:53.560
+So now I probably say, no, I guess no, I would go.
+
+59
+00:05:53.560 --> 00:05:55.400
+But I got invited and I couldn't.
+
+60
+00:05:55.400 --> 00:05:57.400
+Um I told myself that I didn't have time.
+
+61
+00:05:57.400 --> 00:05:59.080
+If I left the business, it would fail.
+
+62
+00:05:59.080 --> 00:06:06.520
+And I saw this activity list of like water biking, water bicycling, whatever that is, hanging out without your phone for multiple days.
+
+63
+00:06:06.520 --> 00:06:10.360
+And uh there was just no way I could get away from my business for that.
+
+64
+00:06:10.360 --> 00:06:15.320
+And you know, since then I have had a bunch of friends go, they've done business deals, they've met, you know, power players.
+
+65
+00:06:15.320 --> 00:06:19.560
+They did all this stuff that is asymmetric to business being in spreadsheets.
+
+66
+00:06:19.560 --> 00:06:27.720
+And I missed out on it because I told myself a total lie about building businesses, which is that the business is centered around you, and you are the most important part.
+
+67
+00:06:27.720 --> 00:06:31.080
+And if you don't drive revenue, the business won't make res revenue.
+
+68
+00:06:31.080 --> 00:06:33.080
+And now that's not true at all.
+
+69
+00:06:33.160 --> 00:06:35.480
+You told yourself that didn't go and see Branson.
+
+70
+00:06:35.480 --> 00:06:35.640
+Yeah.
+
+71
+00:06:35.720 --> 00:06:38.680
+Meanwhile, Branson's snorkeling and running billion dollar businesses.
+
+72
+00:06:38.680 --> 00:06:39.560
+Yeah, multiple.
+
+73
+00:06:39.560 --> 00:06:43.800
+And I think at the time this business was probably doing five million dollars a year.
+
+74
+00:06:43.800 --> 00:06:46.120
+You know, it was not a big business at all.
+
+75
+00:06:46.120 --> 00:06:48.280
+And it was growing and it was profitable.
+
+76
+00:06:48.280 --> 00:06:50.040
+You know, there was no fire to put out.
+
+77
+00:06:50.040 --> 00:06:52.280
+It was just a lie I told myself.
+
+78
+00:06:52.440 --> 00:06:55.880
+How much responsibility is really just ego, do you think?
+
+79
+00:06:56.760 --> 00:06:59.560
+That's an interesting question.
+
+80
+00:06:59.560 --> 00:07:11.320
+I think I think when it comes to business building, we try to wrap up our identity so much in the thing that we call ourselves CEO, founder, creator.
+
+81
+00:07:11.320 --> 00:07:17.600
+And we don't realize that one day your business will have a giant gaping hole of failure in it.
+
+82
+00:07:17.680 --> 00:07:26.480
+And you'll sit alone in the dark with no idea of what to do next, wondering why you ever started this thing, and really worried that it's gonna fail and it's gonna fail because of you.
+
+83
+00:07:26.480 --> 00:07:27.920
+We will all have that moment.
+
+84
+00:07:27.920 --> 00:07:32.480
+And when that moment happens, if it's your entire identity, then what do you do?
+
+85
+00:07:32.480 --> 00:07:35.920
+Then you're a failure because you couldn't figure out this one business issue.
+
+86
+00:07:35.920 --> 00:07:43.120
+You know, Branson's had something like 60 plus businesses over his career, multiple huge failures.
+
+87
+00:07:43.120 --> 00:07:47.920
+From Masters of Scale, Angela Duckworth looks at agglomeration effects.
+
+88
+00:07:47.920 --> 00:07:58.240
+Why ambitious AI founders still cluster around technology hubs, even when the work itself can happen almost anywhere.
+
+89
+00:07:58.240 --> 00:08:11.040
+But if there is anything on the list of things that you can change, people you can spend more time with, objects that you can place far away or near if you're trying to, you know, remind yourself to do something.
+
+90
+00:08:11.040 --> 00:08:17.120
+I think you should start working down the checklist and you know, seeing how that changes everything.
+
+91
+00:08:17.120 --> 00:08:26.960
+Yeah, and I mean the other thing that Cody did, not all of us are gonna have the opportunity to be PhD students at Stanford, but he did move to the center of the tech world.
+
+92
+00:08:26.960 --> 00:08:34.000
+And if you're gonna launch an AI company, there's no better place, literally in the known universe than the Bay Area to do it.
+
+93
+00:08:34.000 --> 00:08:43.920
+And you talk in the book about a word I've never heard of that puts name to a concept that I think we understand called agglomeration, where there are centers of excellence.
+
+94
+00:08:43.920 --> 00:08:52.880
+He also feels like you've almost created your own agglomeration at Penn with Katie Milkman there who's been on the show with Adam Grant there, who's been on the show.
+
+95
+00:08:52.880 --> 00:09:00.360
+The work that you all are doing helping us understand what motivates us, what creates change, how we live our best lives.
+
+96
+00:08:59.840 --> 00:09:06.840
+You know, the way that Katie and Adam and I wrote our first paper together is we all live here.
+
+97
+00:09:07.160 --> 00:09:18.680
+And I was taking one of my daughters to a dentist appointment at Penn Dental, and I had this like narrow window that I knew I had to be in the waiting room from some indeterminate time.
+
+98
+00:09:18.680 --> 00:09:29.000
+And like literally, Adam Grant, Katie Milkman, and I met in a corner of the Pendental office while my daughter got her teeth cleaned or something, and you know, hatched our first study together.
+
+99
+00:09:29.000 --> 00:09:36.920
+And that co-location effect, you know, I know that there are many things to say about remote work, and that is its own complex topic.
+
+100
+00:09:36.920 --> 00:09:51.960
+One of the things you lose when you are not physically in the same city, in the same room as other people, are those chance encounters and also those planned encounters where you get together and you hatch an idea.
+
+101
+00:09:51.960 --> 00:10:01.720
+And I think that idea of agglomerations and the importance of place, I think it's important to emphasize now because sometimes people are like, I can live any.
+
+102
+00:10:01.720 --> 00:10:11.560
+Remote access broadens the map, but proximity still compounds people, ideas, and opportunity.
+
+103
+00:10:14.440 --> 00:10:15.720
+Thanks for listening.
+
+104
+00:10:15.720 --> 00:10:17.720
+We'll see you tomorrow.

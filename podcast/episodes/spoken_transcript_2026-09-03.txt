@@ -1,0 +1,104 @@
+Why wallets beat car payments?
+How old network limits shape payment innovation and a founder habit that blocks delegation.
+Plus, Angela Duckworth on why AI talent keeps clustering in tech hubs.
+From complex systems with Patrick McKenzie, Patrick breaks down PayPal's enduring advantage.
+Card-funded deposits cost money, but transactions inside its wallet can carry much better economics.
+In credit card processing for businesses, stocks are free-ish, but flows, incoming transactions from customers are priced.
+So do wallets with embedded cash make money from stocks or flows?
+Yes.
+The enduring genius of PayPal's wallet model was that moving money into PayPal's ecosystem cost a substantial amount of money via card interchange.
+PayPal would try to set their pricing, historically about 2.9% plus about 30 cents, such that it was above most interchange fees they need moving money into the system.
+Then they would strongly encourage users to keep that balance within PayPal.
+This was natural for many casual eBay sellers.
+They were buyers as well, rather than being professional antique dealers, and leaving their internet money somewhere on the internet until the next needed money on the internet worked out fine.
+When a customer did the next transaction, paying from their PayPal balance to another PayPal user, the money moved internally at the speed and cost of a database transaction, approximately instantaneously and too cheap to meter.
+And then PayPal would try, with varying levels of success, to charge the full 2.9% plus 30 cents, this time making 290 bits of margin rather than 80 to 120 bits or so of margin.
+Supercharging of the margin possibilities by disintermediating the card ecosystems is the primary economic advantage of all that's capable of holding balances.
+I emphasize this because non-specialists routinely assume the thing that looks like a bank deposit and might actually be a bank deposit under the hood must earn revenue in the same way that bank deposits earn revenue via net interest margin.
+It does.
+And in high interest environments like the one we're currently living in, at least in the US, this is lucrative.
+PayPal earned nearly 500 million in interest on customer balances for their 2023 annual report.
+Most of that is very high margin revenue, but it is not the ball-in.
+The real prize is having vastly better economics on the transactions.
+It's easy to see this when you zoom into the economics of a single account.
+PayPal claims accounts on average have about 40 transactions a year.
+I think that includes some strategic ambiguity between personal and corporate accounts, but let's assume a typical consumer might carry $200 in balance and do 10 transactions each for about $40 per year.
+On the A16Z podcast, this clip examines how card networks roughly two and a half second offline authorization window limits fraud checks, and where secure enclaves could open new payment designs.
+If you're doing e-commerce, you're like, well, yes, we're gonna submit your card to Visa.
+But first, we're gonna run some anti-fraud checks and we're gonna do some other things too and reduce liability.
+But offline, like once your card is presented, two and a half seconds.
+That's all you got.
+And Google and Apple Pay have singularly time shifted the whole thing by creating secure enclaves inside their chips and saying, I already know your card.
+I can do all kinds of things before I actually have to talk to Visa MasterCard.
+And maybe the shocking thing is that Bizai MasterCard have not yet introduced some new standards saying actually it doesn't have to be two and a half at all.
+It could be 15 seconds while we go and get a bunch of issuers to bid on a better credit quality terms for you or any other type of innovation.
+But the sort of hard-written rules of D-Hoc era are more or less intact.
+And that's not 30 years.
+That's like more, you know, 60 years.
+And so I think that's probably a critical or more criticizing take on what happened.
+But the shocking thing about payments is that it is the world's largest market by any stretch of imagination.
+And anything and everything you could have possibly thought of being sort of deconstructed and being the nichiest little thing to poke around and innovate in always turns out to be 100 billion dollar.
+There are no niches in payments that are smaller than 100 billion dollars.
+And so that's probably the most surprising thing I've seen.
+Yeah.
+Although it's interesting, like once you go really big, the numbers get small, which is strange.
+If I send a $1 trillion wire, right?
+The United States just announced we are $40 trillion in debt.
+Right.
+Let's just say that Elon's Mars colony is worth $40 trillion and Rokan decides to tax him $40 trillion and he needs to send a wire.
+That wire is not going to be very pro like there, there's a lot of volume, but the large volume revenue opportunities and payments tend to be the smaller dollar amounts, which is surprising, right?
+Because it turns out, I mean, like all of the QSR, the quick serve restaurant, the payment.
+That's the other side of wallet economics.
+Control the rails, and you can redesign the decision itself.
+On Modern wisdom, entrepreneur Cody Sanchez explains how a founder's hero complex makes every absence feel dangerous and keeps them from delegating or chasing bigger, asymmetric opportunities.
+So and then he invited me to his island.
+Now I don't go to Billionaire's Islands.
+I think you should bring them back.
+I don't know.
+So now I probably say, no, I guess no, I would go.
+But I got invited and I couldn't.
+Um I told myself that I didn't have time.
+If I left the business, it would fail.
+And I saw this activity list of like water biking, water bicycling, whatever that is, hanging out without your phone for multiple days.
+And uh there was just no way I could get away from my business for that.
+And you know, since then I have had a bunch of friends go, they've done business deals, they've met, you know, power players.
+They did all this stuff that is asymmetric to business being in spreadsheets.
+And I missed out on it because I told myself a total lie about building businesses, which is that the business is centered around you, and you are the most important part.
+And if you don't drive revenue, the business won't make res revenue.
+And now that's not true at all.
+You told yourself that didn't go and see Branson.
+Yeah.
+Meanwhile, Branson's snorkeling and running billion dollar businesses.
+Yeah, multiple.
+And I think at the time this business was probably doing five million dollars a year.
+You know, it was not a big business at all.
+And it was growing and it was profitable.
+You know, there was no fire to put out.
+It was just a lie I told myself.
+How much responsibility is really just ego, do you think?
+That's an interesting question.
+I think I think when it comes to business building, we try to wrap up our identity so much in the thing that we call ourselves CEO, founder, creator.
+And we don't realize that one day your business will have a giant gaping hole of failure in it.
+And you'll sit alone in the dark with no idea of what to do next, wondering why you ever started this thing, and really worried that it's gonna fail and it's gonna fail because of you.
+We will all have that moment.
+And when that moment happens, if it's your entire identity, then what do you do?
+Then you're a failure because you couldn't figure out this one business issue.
+You know, Branson's had something like 60 plus businesses over his career, multiple huge failures.
+From Masters of Scale, Angela Duckworth looks at agglomeration effects.
+Why ambitious AI founders still cluster around technology hubs, even when the work itself can happen almost anywhere.
+But if there is anything on the list of things that you can change, people you can spend more time with, objects that you can place far away or near if you're trying to, you know, remind yourself to do something.
+I think you should start working down the checklist and you know, seeing how that changes everything.
+Yeah, and I mean the other thing that Cody did, not all of us are gonna have the opportunity to be PhD students at Stanford, but he did move to the center of the tech world.
+And if you're gonna launch an AI company, there's no better place, literally in the known universe than the Bay Area to do it.
+And you talk in the book about a word I've never heard of that puts name to a concept that I think we understand called agglomeration, where there are centers of excellence.
+He also feels like you've almost created your own agglomeration at Penn with Katie Milkman there who's been on the show with Adam Grant there, who's been on the show.
+The work that you all are doing helping us understand what motivates us, what creates change, how we live our best lives.
+You know, the way that Katie and Adam and I wrote our first paper together is we all live here.
+And I was taking one of my daughters to a dentist appointment at Penn Dental, and I had this like narrow window that I knew I had to be in the waiting room from some indeterminate time.
+And like literally, Adam Grant, Katie Milkman, and I met in a corner of the Pendental office while my daughter got her teeth cleaned or something, and you know, hatched our first study together.
+And that co-location effect, you know, I know that there are many things to say about remote work, and that is its own complex topic.
+One of the things you lose when you are not physically in the same city, in the same room as other people, are those chance encounters and also those planned encounters where you get together and you hatch an idea.
+And I think that idea of agglomerations and the importance of place, I think it's important to emphasize now because sometimes people are like, I can live any.
+Remote access broadens the map, but proximity still compounds people, ideas, and opportunity.
+Thanks for listening.
+We'll see you tomorrow.
