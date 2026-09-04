@@ -1,0 +1,101 @@
+Feife, Leon AI that understands space, Dan Niles on collapsing token prices, laser weapons, and Cody Sanchez on building a company that runs without you.
+For clips for very different tests of where technology and its economics are heading.
+On the A16Z podcast, Faye Faye explains how world models move from next token prediction to predicting new views of a scene.
+With GPT, six Astra in the news, the bigger race is toward AI that can simulate 4D environments and plan actions inside them.
+And that's just incredibly powerful.
+Can we take a step back and then maybe you just fill something out?
+So when you started the company, I remember you saying you want to tackle spatial intelligence, right?
+And now we have this new model.
+And so as a layperson, it feels very general to me.
+You've got next to prediction, and this is next new view prediction.
+New view prediction, right?
+So like you can get one view or a set of views, and you get a new view.
+Can maybe you pencil out like how this is a significant step to this general problem of spatial intelligence, maybe by starting to describe what spatial intelligence is.
+Well, spatial intelligence eventually must enable us to both generate what the space is, reason within it, and being able to edit and interact within it.
+Now we can argue is it 3D or 4D, ultimately it's 4D with the time dimension, but even just 3D, these are the fundamental tasks that one has to do, or spatial intelligence has to enable.
+And then we talk about with that you can render, you can simulate, and you can plan actions.
+But to do that, a fundamental problem to solve is to understand the geometry and structure and the physics of the space.
+Yeah.
+And I do believe Atlas is a significant step forward because now with every single frame, you can generate and estimate an important piece of information, which is the viewpoint, the camera pulse.
+And that is the most critical information one needs about the geometry of the space.
+And that can lead to all the emergent behaviors we see in the downstream of the model, which we showed in the blog.
+So on the path to spatial intelligence, generating pixels is definitely a early step.
+Which we have seen with what you call it gazillions of uh models.
+But generating pixels that are truly spatially contextualized and grounded is absolutely another major step.
+And that is the very hard step that Atlas has taken.
+I we definitely have, you know, we can that shift from generating language to modeling physical reality opens the door to robotics and embodied AI.
+On excess returns, investor Dan Niles breaks cloud revenue into token volume and price, and says token pricing has fallen roughly 50% since May.
+With Quen 3.8 running at 1,500 tokens a second on Cerebrus, cheaper open weight competition is putting hyperscaler profits under pressure.
+Well, there's two main factors, right?
+You've got the revenue picture, and within that, you have two very simple things: there's number of tokens being produced, and what you can charge for each of those tokens.
+And what you've seen since end of May is what you can charge for those tokens has gone down by about 50%.
+Why?
+Because you have this thing called open source or open weights that are coming out with all of these cheaper models.
+So what you can charge for each token being produced, which is sort of the unit of currency for AI, has gone down 50%, which seems terrible.
+Except that the number of tokens being actually produced is up two and a half times since the end of May.
+So I'm watching both of those things very closely to see that okay, is the dropping in costs being offset by a more than offsetting increase in tokens?
+The second part of that is how profitable is this?
+Because you may be generating revenues, but if you're losing tons of money, it really doesn't matter.
+The good news is profitability is also improving.
+And if you look at the big three public cloud vendors, and so that would be obviously Amazon's web services, Microsoft's Azure, and Google Cloud Platforms, all three of them saw accelerating revenue growth from the March to the June quarter, where revenues uh went from increasing 35% in March year over year for their cloud businesses to up 43%.
+But more importantly, the operating margins also expanded about two percentage points from March to June.
+And so not only were revenues accelerating, but the profitability of those revenues was also going up.
+So those are kind of the bigger picture things that I'm watching to see when I really worry about we've reached the peak of this bubble, and we have to worry about the other side.
+More AI usage does not guarantee better margins when the price of every token keeps dropping.
+On odd lots, a former Army research and Engineering chief of Staff explains how emerging weapons move through Pentagon research, supply chains, budgets, and procurement.
+The focus is laser systems and why semiconductors and industrial capacity matter as much as the beam itself.
+And that kind of translated right over into coming over to Bloomberg Intelligence, where uh I work on the defense industrial base, emerging technologies, weapon systems, and uh who are the companies and the trends that are out there for global funding as well.
+That was amazing.
+That was perfect.
+And I'm extremely riveted and excited about this conversation.
+Talk to us a little bit about your remit here and like the main sort of gist of the work that you do at Bloomberg Intelligence.
+Yeah, absolutely.
+Uh, one of the areas that we were really that Bloomberg was really looking forward to uh to moving forward with was going a step further in the aerospace and defense industry area, not just the primes, not just looking specifically at the companies, but looking at the ecosystem as a whole.
+So, not just okay, we're looking at Lockheed Martin and the Pac-3 interceptors and where some of those margins are, but also then looking at the air defense market as a whole, looking at, as you mentioned earlier, in terms of laser dome versus Golden Dome, or I, you know, when you start looking at those pieces, it's okay.
+There's something called integrated air and missile defense.
+There's an entire program.
+There is a big difference between an exquisite munition interceptor like a PAC-3, and there's much difference between that and a high energy laser that's going to shoot a potential drone or a ballistic missile out of the sky.
+So when you put all those pieces together, what does the air defense market look like?
+What does hypersonics look like?
+What does semiconductors uh as part of a supply chain concern for the defense industrial base, shipbuilding, you name it, these are some of the areas that we cover down on and uh and be able to focus on everything from budgets, component supply chain, regional components, uh really you look at the US allies, if you will, adversary considerations that are driving uh where those on modern wisdom, entrepreneur Cody Sanchez describes turning down a billionaire's island invitation because she believed her business could not function without her.
+It's a practical test for founders, whether you own a company or have built yourself an all-consuming job.
+I just thought that was really cool and I like adventuring.
+So, um, and then he invited me to his island.
+Now I don't go to billionaire's islands.
+You know, that's our own slide.
+Yeah, yeah.
+I think you should bring them back.
+I don't know.
+So now I probably say, no, I guess no, I would go.
+But I got invited and I couldn't.
+Um, I told myself that I didn't have time.
+If I left the business, it would fail.
+And I saw this activity list of like water biking, water bicycling, whatever that is, hanging out without your phone for multiple days.
+And uh there was just no way I could get away from my business for that.
+And, you know, since then I have had a bunch of friends go, they've done business deals, they've met, you know, power players.
+They did all this stuff that is asymmetric to business being in spreadsheets.
+And I missed out on it because I told myself a total lie about building businesses, which is that the business is centered around you.
+And you are the most important part.
+And now that's not true at all.
+And if you don't drive revenue, the business won't make resonant revenue.
+You told yourself that didn't go and see Branson.
+Meanwhile, Branson's snorkeling and running billion dollar businesses.
+Yeah, multiple.
+And I think at the time this business was probably doing five million dollars a year.
+You know, it was not a big business at all.
+And it was growing and it was profitable.
+You know, there was no fire to put out.
+It was just a lie I told myself.
+How much responsibility is really just ego, do you think?
+That's an interesting question.
+I think I think when it comes to business building, we try to wrap up our identity so much in the thing that we call ourselves CEO, founder, creator.
+And we don't realize that one day your business will have a giant gaping hole of failure in it.
+And you'll sit alone in the dark with no idea of what to do next, wondering why you ever started this thing and really worried that it's going to fail and it's going to fail because of you.
+We will all have that moment.
+And when that moment happens, if it's your entire identity, then what do you do?
+Then you're a failure because you couldn't figure out this one business issue.
+You know, Branson's had something like 60 plus businesses over his career, multiple huge failures.
+Founder independence is not a lifestyle perk.
+It's evidence that the operating system actually works.
+That's today's daily rundown.
+We'll be back tomorrow with the clips worth your time.

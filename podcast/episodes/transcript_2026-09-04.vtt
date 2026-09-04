@@ -1,0 +1,405 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:11.360
+Feife, Leon AI that understands space, Dan Niles on collapsing token prices, laser weapons, and Cody Sanchez on building a company that runs without you.
+
+2
+00:00:11.360 --> 00:00:19.520
+For clips for very different tests of where technology and its economics are heading.
+
+3
+00:00:19.520 --> 00:00:28.960
+On the A16Z podcast, Faye Faye explains how world models move from next token prediction to predicting new views of a scene.
+
+4
+00:00:29.280 --> 00:00:40.400
+With GPT, six Astra in the news, the bigger race is toward AI that can simulate 4D environments and plan actions inside them.
+
+5
+00:00:41.520 --> 00:00:44.240
+And that's just incredibly powerful.
+
+6
+00:00:44.240 --> 00:00:46.560
+Can we take a step back and then maybe you just fill something out?
+
+7
+00:00:46.560 --> 00:00:52.000
+So when you started the company, I remember you saying you want to tackle spatial intelligence, right?
+
+8
+00:00:52.000 --> 00:00:54.320
+And now we have this new model.
+
+9
+00:00:54.320 --> 00:00:56.480
+And so as a layperson, it feels very general to me.
+
+10
+00:00:56.480 --> 00:00:59.680
+You've got next to prediction, and this is next new view prediction.
+
+11
+00:00:59.680 --> 00:01:00.640
+New view prediction, right?
+
+12
+00:01:00.800 --> 00:01:04.000
+So like you can get one view or a set of views, and you get a new view.
+
+13
+00:01:04.000 --> 00:01:12.560
+Can maybe you pencil out like how this is a significant step to this general problem of spatial intelligence, maybe by starting to describe what spatial intelligence is.
+
+14
+00:01:12.720 --> 00:01:24.720
+Well, spatial intelligence eventually must enable us to both generate what the space is, reason within it, and being able to edit and interact within it.
+
+15
+00:01:25.040 --> 00:01:37.440
+Now we can argue is it 3D or 4D, ultimately it's 4D with the time dimension, but even just 3D, these are the fundamental tasks that one has to do, or spatial intelligence has to enable.
+
+16
+00:01:37.440 --> 00:01:43.920
+And then we talk about with that you can render, you can simulate, and you can plan actions.
+
+17
+00:01:43.920 --> 00:01:51.800
+But to do that, a fundamental problem to solve is to understand the geometry and structure and the physics of the space.
+
+18
+00:01:51.680 --> 00:01:52.120
+Yeah.
+
+19
+00:01:52.400 --> 00:02:05.800
+And I do believe Atlas is a significant step forward because now with every single frame, you can generate and estimate an important piece of information, which is the viewpoint, the camera pulse.
+
+20
+00:02:05.800 --> 00:02:11.240
+And that is the most critical information one needs about the geometry of the space.
+
+21
+00:02:11.240 --> 00:02:18.200
+And that can lead to all the emergent behaviors we see in the downstream of the model, which we showed in the blog.
+
+22
+00:02:18.200 --> 00:02:24.920
+So on the path to spatial intelligence, generating pixels is definitely a early step.
+
+23
+00:02:25.240 --> 00:02:29.560
+Which we have seen with what you call it gazillions of uh models.
+
+24
+00:02:29.560 --> 00:02:37.320
+But generating pixels that are truly spatially contextualized and grounded is absolutely another major step.
+
+25
+00:02:37.320 --> 00:02:41.000
+And that is the very hard step that Atlas has taken.
+
+26
+00:02:41.320 --> 00:02:53.800
+I we definitely have, you know, we can that shift from generating language to modeling physical reality opens the door to robotics and embodied AI.
+
+27
+00:02:53.800 --> 00:03:05.560
+On excess returns, investor Dan Niles breaks cloud revenue into token volume and price, and says token pricing has fallen roughly 50% since May.
+
+28
+00:03:05.560 --> 00:03:17.960
+With Quen 3.8 running at 1,500 tokens a second on Cerebrus, cheaper open weight competition is putting hyperscaler profits under pressure.
+
+29
+00:03:18.840 --> 00:03:21.160
+Well, there's two main factors, right?
+
+30
+00:03:21.400 --> 00:03:32.600
+You've got the revenue picture, and within that, you have two very simple things: there's number of tokens being produced, and what you can charge for each of those tokens.
+
+31
+00:03:32.600 --> 00:03:39.560
+And what you've seen since end of May is what you can charge for those tokens has gone down by about 50%.
+
+32
+00:03:39.560 --> 00:03:40.040
+Why?
+
+33
+00:03:40.040 --> 00:03:46.080
+Because you have this thing called open source or open weights that are coming out with all of these cheaper models.
+
+34
+00:03:46.080 --> 00:03:55.040
+So what you can charge for each token being produced, which is sort of the unit of currency for AI, has gone down 50%, which seems terrible.
+
+35
+00:03:55.040 --> 00:04:02.320
+Except that the number of tokens being actually produced is up two and a half times since the end of May.
+
+36
+00:04:02.320 --> 00:04:15.840
+So I'm watching both of those things very closely to see that okay, is the dropping in costs being offset by a more than offsetting increase in tokens?
+
+37
+00:04:15.840 --> 00:04:19.600
+The second part of that is how profitable is this?
+
+38
+00:04:19.600 --> 00:04:24.960
+Because you may be generating revenues, but if you're losing tons of money, it really doesn't matter.
+
+39
+00:04:24.960 --> 00:04:27.760
+The good news is profitability is also improving.
+
+40
+00:04:27.760 --> 00:04:52.480
+And if you look at the big three public cloud vendors, and so that would be obviously Amazon's web services, Microsoft's Azure, and Google Cloud Platforms, all three of them saw accelerating revenue growth from the March to the June quarter, where revenues uh went from increasing 35% in March year over year for their cloud businesses to up 43%.
+
+41
+00:04:52.480 --> 00:05:00.000
+But more importantly, the operating margins also expanded about two percentage points from March to June.
+
+42
+00:05:00.000 --> 00:05:06.880
+And so not only were revenues accelerating, but the profitability of those revenues was also going up.
+
+43
+00:05:06.880 --> 00:05:19.880
+So those are kind of the bigger picture things that I'm watching to see when I really worry about we've reached the peak of this bubble, and we have to worry about the other side.
+
+44
+00:05:19.600 --> 00:05:25.960
+More AI usage does not guarantee better margins when the price of every token keeps dropping.
+
+45
+00:05:26.560 --> 00:05:37.960
+On odd lots, a former Army research and Engineering chief of Staff explains how emerging weapons move through Pentagon research, supply chains, budgets, and procurement.
+
+46
+00:05:38.040 --> 00:05:48.840
+The focus is laser systems and why semiconductors and industrial capacity matter as much as the beam itself.
+
+47
+00:06:07.480 --> 00:06:20.600
+And that kind of translated right over into coming over to Bloomberg Intelligence, where uh I work on the defense industrial base, emerging technologies, weapon systems, and uh who are the companies and the trends that are out there for global funding as well.
+
+48
+00:06:20.600 --> 00:06:21.560
+That was amazing.
+
+49
+00:06:21.560 --> 00:06:22.280
+That was perfect.
+
+50
+00:06:22.280 --> 00:06:25.880
+And I'm extremely riveted and excited about this conversation.
+
+51
+00:06:25.880 --> 00:06:33.000
+Talk to us a little bit about your remit here and like the main sort of gist of the work that you do at Bloomberg Intelligence.
+
+52
+00:06:33.000 --> 00:06:33.800
+Yeah, absolutely.
+
+53
+00:06:33.800 --> 00:06:47.880
+Uh, one of the areas that we were really that Bloomberg was really looking forward to uh to moving forward with was going a step further in the aerospace and defense industry area, not just the primes, not just looking specifically at the companies, but looking at the ecosystem as a whole.
+
+54
+00:06:47.880 --> 00:07:04.680
+So, not just okay, we're looking at Lockheed Martin and the Pac-3 interceptors and where some of those margins are, but also then looking at the air defense market as a whole, looking at, as you mentioned earlier, in terms of laser dome versus Golden Dome, or I, you know, when you start looking at those pieces, it's okay.
+
+55
+00:07:04.680 --> 00:07:07.400
+There's something called integrated air and missile defense.
+
+56
+00:07:07.400 --> 00:07:08.760
+There's an entire program.
+
+57
+00:07:08.760 --> 00:07:20.400
+There is a big difference between an exquisite munition interceptor like a PAC-3, and there's much difference between that and a high energy laser that's going to shoot a potential drone or a ballistic missile out of the sky.
+
+58
+00:07:20.560 --> 00:07:24.320
+So when you put all those pieces together, what does the air defense market look like?
+
+59
+00:07:24.320 --> 00:07:26.160
+What does hypersonics look like?
+
+60
+00:07:26.160 --> 00:08:01.120
+What does semiconductors uh as part of a supply chain concern for the defense industrial base, shipbuilding, you name it, these are some of the areas that we cover down on and uh and be able to focus on everything from budgets, component supply chain, regional components, uh really you look at the US allies, if you will, adversary considerations that are driving uh where those on modern wisdom, entrepreneur Cody Sanchez describes turning down a billionaire's island invitation because she believed her business could not function without her.
+
+61
+00:08:01.120 --> 00:08:09.680
+It's a practical test for founders, whether you own a company or have built yourself an all-consuming job.
+
+62
+00:08:10.480 --> 00:08:12.880
+I just thought that was really cool and I like adventuring.
+
+63
+00:08:12.880 --> 00:08:16.720
+So, um, and then he invited me to his island.
+
+64
+00:08:16.720 --> 00:08:18.240
+Now I don't go to billionaire's islands.
+
+65
+00:08:18.240 --> 00:08:19.360
+You know, that's our own slide.
+
+66
+00:08:20.080 --> 00:08:20.320
+Yeah, yeah.
+
+67
+00:08:20.480 --> 00:08:21.680
+I think you should bring them back.
+
+68
+00:08:21.680 --> 00:08:22.320
+I don't know.
+
+69
+00:08:23.520 --> 00:08:26.160
+So now I probably say, no, I guess no, I would go.
+
+70
+00:08:26.160 --> 00:08:28.000
+But I got invited and I couldn't.
+
+71
+00:08:28.000 --> 00:08:30.000
+Um, I told myself that I didn't have time.
+
+72
+00:08:30.000 --> 00:08:31.680
+If I left the business, it would fail.
+
+73
+00:08:31.680 --> 00:08:39.120
+And I saw this activity list of like water biking, water bicycling, whatever that is, hanging out without your phone for multiple days.
+
+74
+00:08:39.120 --> 00:08:42.960
+And uh there was just no way I could get away from my business for that.
+
+75
+00:08:42.960 --> 00:08:47.920
+And, you know, since then I have had a bunch of friends go, they've done business deals, they've met, you know, power players.
+
+76
+00:08:47.920 --> 00:08:52.160
+They did all this stuff that is asymmetric to business being in spreadsheets.
+
+77
+00:08:52.160 --> 00:08:58.680
+And I missed out on it because I told myself a total lie about building businesses, which is that the business is centered around you.
+
+78
+00:08:58.680 --> 00:09:00.280
+And you are the most important part.
+
+79
+00:08:59.840 --> 00:09:05.320
+And now that's not true at all.
+
+80
+00:09:00.280 --> 00:09:03.640
+And if you don't drive revenue, the business won't make resonant revenue.
+
+81
+00:09:05.720 --> 00:09:08.040
+You told yourself that didn't go and see Branson.
+
+82
+00:09:08.360 --> 00:09:11.080
+Meanwhile, Branson's snorkeling and running billion dollar businesses.
+
+83
+00:09:11.320 --> 00:09:12.120
+Yeah, multiple.
+
+84
+00:09:12.120 --> 00:09:16.440
+And I think at the time this business was probably doing five million dollars a year.
+
+85
+00:09:16.440 --> 00:09:18.680
+You know, it was not a big business at all.
+
+86
+00:09:18.680 --> 00:09:20.840
+And it was growing and it was profitable.
+
+87
+00:09:20.840 --> 00:09:22.600
+You know, there was no fire to put out.
+
+88
+00:09:22.600 --> 00:09:24.920
+It was just a lie I told myself.
+
+89
+00:09:25.000 --> 00:09:28.440
+How much responsibility is really just ego, do you think?
+
+90
+00:09:29.320 --> 00:09:31.640
+That's an interesting question.
+
+91
+00:09:32.120 --> 00:09:43.960
+I think I think when it comes to business building, we try to wrap up our identity so much in the thing that we call ourselves CEO, founder, creator.
+
+92
+00:09:43.960 --> 00:09:50.280
+And we don't realize that one day your business will have a giant gaping hole of failure in it.
+
+93
+00:09:50.280 --> 00:09:59.000
+And you'll sit alone in the dark with no idea of what to do next, wondering why you ever started this thing and really worried that it's going to fail and it's going to fail because of you.
+
+94
+00:09:59.000 --> 00:10:00.520
+We will all have that moment.
+
+95
+00:10:00.520 --> 00:10:05.080
+And when that moment happens, if it's your entire identity, then what do you do?
+
+96
+00:10:05.080 --> 00:10:08.520
+Then you're a failure because you couldn't figure out this one business issue.
+
+97
+00:10:08.520 --> 00:10:15.320
+You know, Branson's had something like 60 plus businesses over his career, multiple huge failures.
+
+98
+00:10:15.720 --> 00:10:18.920
+Founder independence is not a lifestyle perk.
+
+99
+00:10:18.920 --> 00:10:24.440
+It's evidence that the operating system actually works.
+
+100
+00:10:24.520 --> 00:10:27.320
+That's today's daily rundown.
+
+101
+00:10:27.320 --> 00:10:30.680
+We'll be back tomorrow with the clips worth your time.

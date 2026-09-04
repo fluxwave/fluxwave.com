@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-04",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-04_20260904T200144Z_1341/clip_sources/32c385c40a174589/01_Atlas_unifies_visual_generation_and_3D_reconstruct.mp3",
+      "source": "Fei Fei Li: The Race to Build World Models For AI",
+      "start_time": 321,
+      "end_time": 442,
+      "topic": "Atlas unifies visual generation and 3D reconstruction in one multimodal architecture"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-04_20260904T200144Z_1341/clip_sources/060220ae818cf900/01_Leverage-driven_unwinding_of_an_AI-focused_investm.mp3",
+      "source": "Bearish Into November. Room to Run After: Why Dan Niles Is Watching Hyperscaler Credit Default Swaps",
+      "start_time": 420,
+      "end_time": 540,
+      "topic": "Leverage-driven unwinding of an AI-focused investment fund"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-04_20260904T200144Z_1341/clip_sources/7e1d639fa7afc5d4/01_Directed-energy_weapons_as_an_emerging_defense_tec.mp3",
+      "source": "Why Laser Beams Are the Hottest New Tech in Defense",
+      "start_time": 312,
+      "end_time": 446,
+      "topic": "Directed-energy weapons as an emerging defense technology and Wayne Sanders\u2019s background in signals intelligence, offensive cyber operations, and military R&D"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-04_20260904T200144Z_1341/clip_sources/ef78f6fec706947b/01_Founder_hero_complex_delegation_and_the_opportunit.mp3",
+      "source": "Why Working Harder Won\u2019t Make You Rich - Codie Sanchez - #1145",
+      "start_time": 317,
+      "end_time": 442,
+      "topic": "Founder hero complex, delegation, and the opportunity cost of making yourself indispensable"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
