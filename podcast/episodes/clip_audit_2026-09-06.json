@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-06",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-06_20260906T200120Z_39425/clip_sources/c905a539e9f4edf5/01_Behavioral_biases_behind_gambling_and_speculative.mp3",
+      "source": "Nvidia Is Betting on Its Customers. Gen Z Is Betting on Sports. Will It All End the Same Way?",
+      "start_time": 320,
+      "end_time": 440,
+      "topic": "Behavioral biases behind gambling and speculative investing, including overconfidence and underestimating luck"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-06_20260906T200120Z_39425/clip_sources/e6fdf940dbb2c450/01_Why_COVID_and_telehealth_regulations_accelerated_h.mp3",
+      "source": "Your AI Doctor Is Coming | Julie Yoo",
+      "start_time": 316,
+      "end_time": 436,
+      "topic": "Why COVID and telehealth regulations accelerated health-tech adoption"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-06_20260906T200120Z_39425/clip_sources/39258c36568e3b17/01_Cyberattack_war-gaming_for_critical_infrastructure.mp3",
+      "source": "Whitney Webb's Chilling Theory About the Next Financial Crisis, The AI Poisoning Attack That Should Terrify You, Why Japan's Bond Market Should Terrify Everyone | Weekly Recap",
+      "start_time": 510,
+      "end_time": 630,
+      "topic": "Cyberattack war-gaming for critical infrastructure and election continuity"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-06_20260906T200120Z_39425/clip_sources/782f3dcd90fc4d12/01_Practical_ways_to_cultivate_agency_amid_chaotic_ra.mp3",
+      "source": "You Don't Learn Helplessness - You Learn Control",
+      "start_time": 705,
+      "end_time": 839,
+      "topic": "Practical ways to cultivate agency amid chaotic, rapidly changing work"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
