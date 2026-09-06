@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-05",
+  "chapters": [
+    {
+      "startTime": 34.512,
+      "title": "a16z Podcast \u2014 Jensen Huang's argument against isolating China from the AI stack"
+    },
+    {
+      "startTime": 186.952,
+      "title": "Freakonomics Radio \u2014 Evidence on AI-driven job displacement and the weakening entry-level labor market"
+    },
+    {
+      "startTime": 333.448,
+      "title": "Masters in Business \u2014 Why index funds structurally outperform active equity funds over long horizons"
+    },
+    {
+      "startTime": 494.416,
+      "title": "All-In with Chamath, Jason, Sacks & Friedberg \u2014 Simplified AI agents and self-improving bot workflows"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Aaron Levie on Why Open AI Wins",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/aaron-levie-on-why-open-ai-wins-YUnuv_hR",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/fa4d1de0-221c-4305-9b44-d8ee5ef2a0db/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=fa4d1de0-221c-4305-9b44-d8ee5ef2a0db&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-09-05T10:00:00+00:00"
+    },
+    {
+      "title": "685. How to Survive the A.I. Shock",
+      "podcast": "Freakonomics Radio",
+      "link": "https://freakonomics.com",
+      "audio_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/7dea01e6-48f3-47ae-8527-9fcc879e0df5/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=7dea01e6-48f3-47ae-8527-9fcc879e0df5&feed=Y8lFbOT4",
+      "transcript_url": "",
+      "published": "2026-09-04T10:00:00+00:00"
+    },
+    {
+      "title": "From CEO to Startups: Masters in Business with Former Vanguard CEO Bill McNabb",
+      "podcast": "Masters in Business",
+      "link": "https://omny.fm/shows/masters-in-business/from-ceo-to-startups-masters-in-business-with-former-vanguard-ceo-bill-mcnabb",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/5d9514ad-9566-44e0-9f59-b4bb01564214/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+      "transcript_url": "",
+      "published": "2026-09-04T21:00:00+00:00"
+    },
+    {
+      "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+      "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
+      "link": "https://allinchamathjason.libsyn.com/gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/E288_AUDIO_v102.mp3?dest-id=1928300",
+      "transcript_url": "",
+      "published": "2026-09-04T23:10:00+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-09-05.txt"
+}

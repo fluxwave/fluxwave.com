@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-05",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-05_20260906T181251Z_18009/clip_sources/2318b25f5fda5505/01_Open-weight_AI_competition_Chinese_innovation_and.mp3",
+      "source": "Aaron Levie on Why Open AI Wins",
+      "start_time": 329,
+      "end_time": 581,
+      "topic": "Open-weight AI competition, Chinese innovation, and the emerging global infrastructure divide"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-05_20260906T181251Z_18009/clip_sources/fdf4dff7db8e2d6e/01_Whether_AI_will_eliminate_work_or_create_new_produ.mp3",
+      "source": "685. How to Survive the A.I. Shock",
+      "start_time": 539,
+      "end_time": 663,
+      "topic": "Whether AI will eliminate work or create new products, companies, services, and jobs"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-05_20260906T181251Z_18009/clip_sources/7a25e32e04e81f42/01_Investor_retention_and_Vanguards_response_to_the_2.mp3",
+      "source": "From CEO to Startups: Masters in Business with Former Vanguard CEO Bill McNabb",
+      "start_time": 575,
+      "end_time": 705,
+      "topic": "Investor retention and Vanguard's response to the 2008 financial crisis"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-05_20260906T181251Z_18009/clip_sources/efbda28aa9723481/01_Frontier_AI_market_structure_OpenAI_and_Anthropic.mp3",
+      "source": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+      "start_time": 323,
+      "end_time": 443,
+      "topic": "Frontier AI market structure: OpenAI and Anthropic versus cheaper open models"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
