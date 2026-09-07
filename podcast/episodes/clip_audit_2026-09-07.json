@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-07",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-07_20260907T200154Z_21795/clip_sources/4b08e90072d6fb63/01_From_frontier-agent_safety_concerns_to_the_possibi.mp3",
+      "source": "How AI and AGI Are Reshaping Jobs, Global Politics, and the Creative Landscape",
+      "start_time": 328,
+      "end_time": 606,
+      "topic": "From frontier-agent safety concerns to the possibility that AGI has crossed a containment threshold"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-07_20260907T200154Z_21795/clip_sources/b535a0321e0f6dc3/01_Exams_as_an_alternative_to_patronage_and_nepotism.mp3",
+      "source": "Meritocracy, Exams, and the Knowledge That Matters (with Daisy Christodoulou)",
+      "start_time": 527,
+      "end_time": 707,
+      "topic": "Exams as an alternative to patronage and nepotism in recruiting powerful administrators"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-07_20260907T200154Z_21795/clip_sources/208b9e859c9505c5/01_Building_an_audience_as_distribution_infrastructur.mp3",
+      "source": "Best of Habit Formation: James Clear",
+      "start_time": 583,
+      "end_time": 646,
+      "topic": "Building an audience as distribution infrastructure"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
