@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-08",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-08_20260908T200143Z_8659/clip_sources/6310029f65f88349/01_Why_parallel_AI_sessions_can_recover_from_failed_r.mp3",
+      "source": "OpenAI Researchers on the Future of Mathematical Reasoning",
+      "start_time": 453,
+      "end_time": 578,
+      "topic": "Why parallel AI sessions can recover from failed reasoning paths better than humans"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-08_20260908T200143Z_8659/clip_sources/2498e3d315586c75/00_Industrial_Revolution_machinery_displaces_skilled.mp3",
+      "source": "Is it time for a Luddite Renaissance?",
+      "start_time": 315,
+      "end_time": 441,
+      "topic": "Industrial Revolution machinery displaces skilled textile workers and transforms working conditions"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

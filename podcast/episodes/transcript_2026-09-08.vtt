@@ -1,0 +1,545 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:12.640
+AI's emerging mathematical taste, what the Luddites actually fought for, where real estate investors see growth, and why watching the NFL now takes a stack of subscriptions.
+
+2
+00:00:12.640 --> 00:00:20.000
+For clips for very different fights over technology, money, and power.
+
+3
+00:00:20.000 --> 00:00:31.360
+From the A16Z podcast, open AI researchers unpack how mathematical taste can prune a huge search tree and how that helped with the unit distance problem.
+
+4
+00:00:31.600 --> 00:00:41.120
+Timely context as AI assisted mathematics meets renewed attention around problems like Navier Stokes.
+
+5
+00:00:41.520 --> 00:00:42.400
+Not good enough.
+
+6
+00:00:42.400 --> 00:00:47.360
+Whereas for GPT, okay, I'll like a human told me to do this.
+
+7
+00:00:47.360 --> 00:00:48.320
+Let's just do this.
+
+8
+00:00:48.320 --> 00:00:52.560
+And so that's why we're sort of in this renaissance of like reachable results.
+
+9
+00:00:52.560 --> 00:00:53.520
+Does that track?
+
+10
+00:00:53.520 --> 00:01:02.000
+And did you feel like with the astral results, is that sort of like where the strengths have been primarily, or there's an extra ingredient or magic here.
+
+11
+00:01:02.000 --> 00:01:12.480
+I feel like I think the unit distance example is somehow it's quite telling, in the sense of maybe the exact construction, you can make it look very similar to what people had tried before.
+
+12
+00:01:12.480 --> 00:01:18.800
+But I think, I mean, often as a practicing mathematician, you have an idea, and then you kind of think it might work.
+
+13
+00:01:18.800 --> 00:01:23.280
+Then you try for a few hours, a few days, a few weeks, and at some point you give up.
+
+14
+00:01:23.280 --> 00:01:30.720
+And then a not so uncommon experience is that you find out a year or two later that somebody else got the idea to work that you thought that didn't work.
+
+15
+00:01:30.720 --> 00:01:34.480
+So somehow getting an idea to work can even be a large portion of the battle.
+
+16
+00:01:34.480 --> 00:01:40.720
+And I think, especially in the case of the unit distance conjecture, there's just a lot of extraordinarily finicky details.
+
+17
+00:01:40.720 --> 00:01:44.640
+And very often when you're doing mathematics, you're kind of gambling against the problem.
+
+18
+00:01:44.640 --> 00:01:49.600
+You're like, maybe I should try this approach, but it seems really unlikely and just not worth my time.
+
+19
+00:01:49.600 --> 00:01:57.360
+And the model, I think, in several of these cases, both by combining what it knew and sort of having good taste, kind of made the correct math.
+
+20
+00:01:57.360 --> 00:02:00.280
+And you can kind of see this in the summarized chain of thought we released.
+
+21
+00:01:59.920 --> 00:02:01.480
+You can sort of look at it.
+
+22
+00:02:01.640 --> 00:02:09.160
+It's reasoning like a mathematician, and because it knows a few very correct bits, it makes the right decisions and eventually able to prune the search tree.
+
+23
+00:02:09.320 --> 00:02:10.680
+It's not really trying everything.
+
+24
+00:02:10.920 --> 00:02:12.200
+It tries a lot of different things.
+
+25
+00:02:12.200 --> 00:02:13.560
+It's extremely dogged.
+
+26
+00:02:13.560 --> 00:02:15.160
+I mean, it can't try every idea.
+
+27
+00:02:15.160 --> 00:02:22.200
+It has to try a limited set of ideas, and it's able to kind of use its knowledge plus good mathematical judgment and find the right path to go along.
+
+28
+00:02:22.200 --> 00:02:26.520
+So I mean that for me was like this was a problem which a lot of people have thought about.
+
+29
+00:02:26.520 --> 00:02:30.840
+And yeah, I mean the fact that the idea is not so foreign probably indicates that a lot of people have tried it.
+
+30
+00:02:30.840 --> 00:02:33.240
+Or at least a few very serious mathematicians have tried.
+
+31
+00:02:33.240 --> 00:02:35.560
+And I think that's what made it really interesting to see.
+
+32
+00:02:35.560 --> 00:02:49.160
+I think something else that I feel when I see these proofs is like if I have an idea and I'm trying to execute, it might be that I have some wrong plan for like how to get things to work.
+
+33
+00:02:49.240 --> 00:02:56.440
+The key distinction, generating more paths isn't enough if the model can't recognize which ones are worth pursuing.
+
+34
+00:02:56.600 --> 00:03:07.240
+Through line goes back to the myth of Ned Ludd and the real goals of workers who broke textile machinery rather than quietly accept how it was being used against them.
+
+35
+00:03:07.240 --> 00:03:17.880
+That history lands differently now as resistance to compulsory AI becomes a selling point for software like LibreOffice.
+
+36
+00:03:17.880 --> 00:03:23.400
+I will sing the achievements of General Ludd, now the hero of Nottinghamshire.
+
+37
+00:03:27.320 --> 00:03:28.520
+They have been taking.
+
+38
+00:03:28.520 --> 00:03:33.960
+They say that Ned Ludd, as I understood, a thousand wide frames has been breaking.
+
+39
+00:03:33.960 --> 00:03:35.400
+Founderal, found around.
+
+40
+00:03:36.360 --> 00:03:37.720
+What's Falder Alf?
+
+41
+00:03:37.720 --> 00:03:40.120
+I think it's just a kind of, you know, like doo-de-doo.
+
+42
+00:03:40.120 --> 00:03:42.120
+Oh, foul the row, Fallout.
+
+43
+00:03:42.120 --> 00:03:43.560
+Like, yeah, something like that.
+
+44
+00:03:43.560 --> 00:03:44.480
+Got it.
+
+45
+00:03:44.280 --> 00:03:51.280
+This whole time, the British authorities could not find any leads on General Ludd.
+
+46
+00:03:51.520 --> 00:03:53.120
+They don't know who General Ludd is.
+
+47
+00:03:53.120 --> 00:03:54.720
+They're still looking for him.
+
+48
+00:03:54.720 --> 00:03:56.720
+But they never find him.
+
+49
+00:03:56.720 --> 00:04:00.160
+Because, and this blew my mind when Katrina told me about it.
+
+50
+00:04:00.160 --> 00:04:05.600
+Ned Ludd, the guy they sang songs about, who the authorities were hellbent on tracking down.
+
+51
+00:04:05.600 --> 00:04:09.840
+Well, it turns out more than likely he wasn't even real.
+
+52
+00:04:09.840 --> 00:04:11.360
+I think it's a myth.
+
+53
+00:04:11.360 --> 00:04:28.240
+No one could pin him down, but perhaps there was someone called Ned Ludd, and that name seemed to stick with the reputation of breaking machinery that your employer is bringing in that will reduce your wages and reduce your skill level.
+
+54
+00:04:28.240 --> 00:04:33.680
+She says there was a power in that mythology, an almost prophetic quality to him.
+
+55
+00:04:33.680 --> 00:04:37.840
+And then General Ludd then creates his own extended universe.
+
+56
+00:04:37.840 --> 00:04:44.560
+I'd like to see him as a kind of superhero with all the different characters involved in the extended universe.
+
+57
+00:04:44.560 --> 00:04:49.920
+So he has a solicitor, he has Lieutenants underneath him.
+
+58
+00:04:49.920 --> 00:04:54.240
+Um, all these characters appear as signatories to these anonymous letters.
+
+59
+00:04:54.240 --> 00:04:58.080
+Because obviously people don't want to sign their own names because then they'll get caught.
+
+60
+00:04:58.080 --> 00:04:59.520
+They're chasing a ghost.
+
+61
+00:04:59.520 --> 00:05:00.880
+Yeah.
+
+62
+00:05:00.880 --> 00:05:09.680
+Did people perceive the Luddites as like what we would call today rogue terrorists, you know, going around destroying things?
+
+63
+00:05:09.680 --> 00:05:12.720
+Or did they have a different view of them?
+
+64
+00:05:12.720 --> 00:05:21.760
+Certainly, most of people in power, local gentry, aristocracy, authorities, uh completely opposed to Luddites.
+
+65
+00:05:21.760 --> 00:05:34.680
+But in local communities, I think opinion's a lot more mixed because local communities um support these skilled workers who are making their livelihood in small workshops.
+
+66
+00:05:36.200 --> 00:05:39.400
+The fight wasn't simply people versus machines.
+
+67
+00:05:39.400 --> 00:05:43.080
+It was workers versus who control the gains.
+
+68
+00:05:43.080 --> 00:05:53.640
+On the Adam Corolla show, real estate investor Grant Cardone makes the case for multifamily property and identifies emerging American growth markets.
+
+69
+00:05:53.640 --> 00:06:03.000
+With capital chasing fewer obvious winners, the practical question is where jobs and residents are moving next.
+
+70
+00:06:10.760 --> 00:06:16.040
+Every time I see him, he like hugs me and goes, God, I'm so glad I got these warehouses.
+
+71
+00:06:16.040 --> 00:06:31.560
+Because it produces I go to work every day in the warehouse I bought 25 years ago, and I like going to my own place to go to work, and then when football season starts, there's gonna be a bunch of dudes sitting back there drinking beer.
+
+72
+00:06:31.560 --> 00:06:31.880
+Yeah.
+
+73
+00:06:31.880 --> 00:06:34.600
+And the man cave part of the warehouse.
+
+74
+00:06:34.600 --> 00:06:37.720
+So now, and it's a good investment.
+
+75
+00:06:37.720 --> 00:06:47.400
+It's not, you know, you don't get rich on it, but you it goes up a lot, and it's a it's a solid investment, but it's in it's an investment that you use almost every day.
+
+76
+00:06:47.400 --> 00:06:49.560
+So that that's good.
+
+77
+00:06:49.560 --> 00:06:52.920
+But you say single family dwelling, no good.
+
+78
+00:06:52.920 --> 00:06:55.720
+What about flipping single family dwelling?
+
+79
+00:06:55.720 --> 00:06:58.280
+Well, you're just you're just a prostitute at that point.
+
+80
+00:06:58.280 --> 00:06:58.840
+Uh-huh.
+
+81
+00:06:58.840 --> 00:07:01.080
+Where do you where is the good investment?
+
+82
+00:07:01.080 --> 00:07:03.880
+The the best investment in America today is multifamily.
+
+83
+00:07:03.880 --> 00:07:06.440
+Large apart large apartment apartment complexes.
+
+84
+00:07:06.440 --> 00:07:07.160
+They're on sale.
+
+85
+00:07:07.160 --> 00:07:08.760
+It's like 2010.
+
+86
+00:07:08.760 --> 00:07:09.400
+Uh-huh.
+
+87
+00:07:09.560 --> 00:07:11.560
+You can steal real estate today.
+
+88
+00:07:11.560 --> 00:07:12.120
+Really?
+
+89
+00:07:12.120 --> 00:07:12.680
+Every market.
+
+90
+00:07:12.680 --> 00:07:13.720
+Every single market.
+
+91
+00:07:13.720 --> 00:07:20.160
+Los Angeles, San Diego, San Francisco's probably an outlier in New York, but the rest of the country's like massive.
+
+92
+00:07:20.720 --> 00:07:25.200
+What's a good market to buy an apartment building in?
+
+93
+00:07:25.200 --> 00:07:26.480
+Uh San Diego would be great.
+
+94
+00:07:26.480 --> 00:07:27.920
+Orange County would be phenomenal.
+
+95
+00:07:28.160 --> 00:07:29.520
+If you're if you want to stay here.
+
+96
+00:07:29.520 --> 00:07:31.600
+If you want to get out of here, I did.
+
+97
+00:07:31.600 --> 00:07:32.720
+I left.
+
+98
+00:07:32.720 --> 00:07:41.200
+Uh Scottsdale, Arizona, almost anything in North Phoenix, um, not Tucson, Austin, Texas, Dallas, Dallas will be a super boom city.
+
+99
+00:07:41.200 --> 00:07:42.480
+It'll be a massive boom city.
+
+100
+00:07:42.480 --> 00:07:44.640
+It's gonna, it's gonna be more like a mini New York.
+
+101
+00:07:44.720 --> 00:07:48.560
+Miami, Fort Lauderdale, Tampa, any of the Carolinas.
+
+102
+00:07:48.560 --> 00:07:51.440
+What is a good Nashville tennis start?
+
+103
+00:07:51.680 --> 00:07:56.960
+Like if someone says, look, I'm not a rich guy, but I'd like to get started in this process.
+
+104
+00:07:56.960 --> 00:07:58.160
+I got started with three grand.
+
+105
+00:07:58.160 --> 00:07:58.960
+I wasn't a rich guy.
+
+106
+00:07:58.960 --> 00:08:01.360
+I had no connections, no credit card, no money.
+
+107
+00:08:01.360 --> 00:08:04.880
+And why the first deal was three thousand bucks.
+
+108
+00:08:04.960 --> 00:08:16.400
+Masters of Scale looks at the NFL's financialization, private equity money, soaring team values, and broadcast rights spread across eight or nine platforms.
+
+109
+00:08:16.400 --> 00:08:25.680
+As the new season kicks off, the league's dominance is growing, and fans are paying for that success through an increasingly fragmented streaming bundle.
+
+110
+00:08:27.680 --> 00:08:32.240
+Where sports, do you know what it was in five years later in 2023?
+
+111
+00:08:32.240 --> 00:08:34.000
+It's practically everything.
+
+112
+00:08:34.080 --> 00:08:35.360
+Practically everything.
+
+113
+00:08:35.360 --> 00:08:35.840
+Yeah.
+
+114
+00:08:35.840 --> 00:08:37.920
+It went up to over 90.
+
+115
+00:08:37.920 --> 00:08:38.800
+91.
+
+116
+00:08:38.800 --> 00:08:39.920
+90 percent.
+
+117
+00:08:39.920 --> 00:08:44.880
+Sports is everything in entertainment, and the NFL is the 800-pound gorilla there.
+
+118
+00:08:45.040 --> 00:08:51.600
+There's something like, I don't know, eight or nine different platforms that are hosting or streaming NFL games this season.
+
+119
+00:08:51.600 --> 00:08:59.600
+I mean, I realize that's nine sources of revenue for the league, but it's also asking a lot of fans to keep track of and pay for.
+
+120
+00:08:59.600 --> 00:09:04.680
+Like is this good business or is it short-sighted by the league?
+
+121
+00:09:04.760 --> 00:09:12.440
+When you have private equity entering the NFL a couple of years ago, I think private equity funds can buy up to 10% of these teams.
+
+122
+00:09:12.440 --> 00:09:18.120
+And certainly you've seen um a financialization, say, of this asset class.
+
+123
+00:09:18.120 --> 00:09:23.160
+For a long time, people bought these teams almost like they were collecting fine art.
+
+124
+00:09:23.160 --> 00:09:26.440
+You know, it was a trophy, it was a prestige thing.
+
+125
+00:09:26.440 --> 00:09:45.320
+And now you are attracting very, very high uh net worth investors and certainly um family offices who are looking at the broader markets and seeing the volatility and looking at sports and seeing, okay, this is someplace where I can put my money that's a better bet, right?
+
+126
+00:09:45.320 --> 00:09:49.160
+Than say buying corporate debt right now.
+
+127
+00:09:49.160 --> 00:10:09.080
+So I think the danger in treating um these assets like pure assets is that, and this is something that a sports executive, a league executive told me a long time ago, the best franchises, Bob, are really run as public and private trusts.
+
+128
+00:10:09.080 --> 00:10:17.800
+You can't mistreat your customers forever and think they're always going to be, at least that's my theory, that they're always going to be your fan.
+
+129
+00:10:17.960 --> 00:10:25.160
+And making me go to a bunch of different streaming sites and spend that money, it's it's it's not making it easy for me to be a fan.
+
+130
+00:10:25.160 --> 00:10:27.320
+And no, I mean, uh for the 2020.
+
+131
+00:10:27.480 --> 00:10:28.920
+Certainly not to watch the full games.
+
+132
+00:10:28.920 --> 00:10:33.000
+I guess I can watch clips, you know, on social all day long, right?
+
+133
+00:10:33.080 --> 00:10:48.080
+Well, it's it's great if you're a casual fan, but if you're, you know, it's the 80-20 Pareto principle that 80% of your returns are going to be driven by something like 20% of your customers, your, your, your returners, your hardcore, the faithful, the die hard.
+
+134
+00:10:49.360 --> 00:10:58.240
+The NFL became indispensable programming, then sold that indispensability one platform at a time.
+
+135
+00:10:58.240 --> 00:11:00.960
+That's the daily rundown for today.
+
+136
+00:11:01.200 --> 00:11:04.880
+We'll be back tomorrow with the clips worth your time.
