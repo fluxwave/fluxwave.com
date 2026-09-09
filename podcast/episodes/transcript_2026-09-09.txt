@@ -1,0 +1,62 @@
+Daily Digest — 2026-09-09
+
+Chapters
+- 0:31 — a16z Podcast — Finance agents, coding benchmarks, and recursive self-improvement evaluations
+- 2:53 — Data Skeptic — Defending poisoned feedback loops with federated learning and differential privacy
+- 5:22 — The Pragmatic Engineer — Building research infrastructure and developer tooling at DeepMind
+- 7:07 — Excess Returns — How market volatility causes emotional distress and costly investor mistakes
+
+Sources
+- Who Grades the AI Models? | Ben Horowitz & Rayan Krishnan
+  Podcast: a16z Podcast
+  Link: https://a16z.simplecast.com/episodes/who-grades-the-ai-models-ben-horowitz-rayan-krishnan-uPW5nl18
+  Audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ba494c31-cd47-4bae-a5d5-89304f960936/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ba494c31-cd47-4bae-a5d5-89304f960936&feed=JGE3yC0V
+- Recommender Systems Today and Tomorrow
+  Podcast: Data Skeptic
+  Link: https://dataskeptic.com/blog/episodes/2026/recommender-systems-today-and-tomorrow
+  Audio: https://pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/dataskeptic/part3-withad.mp3?dest-id=201630
+- Building Codex with Tibo Sottiaux
+  Podcast: The Pragmatic Engineer
+  Link: https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux
+  Audio: https://api.substack.com/feed/podcast/214748970/2fca285ca573bdf5071b7bd87185a3cf.mp3
+- All-In on the S&P 500 Worked for 18 Years | Jared Dillian on Why It's Still Wrong
+  Podcast: Excess Returns
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/All-In-on-the-SP-500-Worked-for-18-Years--Jared-Dillian-on-Why-Its-Still-Wrong-e3oi43u
+  Audio: https://traffic.megaphone.fm/APO9515289434.mp3
+
+Host Script
+[OPEN]
+[A] Today: who grades AI, how fake reviews poison recommendations, the infrastructure behind Codex, and why market volatility can wreck a sound investment plan.
+[B] Four clips, each with a different kind of feedback loop.
+
+[INTRO_1]
+[B] On the a16z Podcast, Ben Horowitz and Rayan Krishnan examine how finance agents and coding models should be evaluated—and why benchmarks must evolve as AI begins improving itself.
+[CLIP_1]
+(clip plays here)
+[REACT_1]
+[A] The evaluator becomes critical infrastructure once models can optimize against the test.
+
+[INTRO_2]
+[A] Data Skeptic looks at poisoned recommender systems, where fake feedback can redirect real spending—and explores federated learning and differential privacy as defenses.
+[CLIP_2]
+(clip plays here)
+[REACT_2]
+[B] Four percent fake reviews can sound minor until it touches an estimated eight hundred billion dollars in US sales.
+
+[INTRO_3]
+[B] On The Pragmatic Engineer, Codex builder Tibo Sottiaux traces his path from Google Maps reviews to DeepMind, where early research infrastructure supported breakthroughs like AlphaGo.
+[CLIP_3]
+(clip plays here)
+[REACT_3]
+[A] That tooling lineage matters as coding agents move from demos into everyday product changes.
+
+[INTRO_4]
+[A] On Excess Returns, investor and author Jared Dillian argues that an all-in S&P 500 strategy ignores psychology: volatility can push people into costly decisions even when stocks rise over time.
+[CLIP_4]
+(clip plays here)
+[REACT_4]
+[B] A portfolio only works if you can actually hold it through the drawdowns.
+
+[CLOSE]
+[A] That’s today’s Daily Rundown.
+[B] We’ll be back tomorrow with more voices shaping tech, markets, and AI.

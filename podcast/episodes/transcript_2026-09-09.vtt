@@ -1,0 +1,405 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:01.760
+Who grades AI?
+
+2
+00:00:01.760 --> 00:00:10.960
+How fake reviews poison recommendations, the infrastructure behind codecs, and why market volatility can wreck a sound investment plan.
+
+3
+00:00:10.960 --> 00:00:16.640
+For clips, each with a different kind of feedback loop.
+
+4
+00:00:16.640 --> 00:00:29.200
+On the A16Z podcast, Ben Horowitz and Ryan Christian examine how finance agents and coding models should be evaluated and why benchmarks must evolve as AI begins improving itself.
+
+5
+00:00:31.120 --> 00:00:35.680
+So for I think that's one attackable and then it's too narrow.
+
+6
+00:00:36.160 --> 00:00:43.520
+I think when you also look to some historic analogies, there's a lot of lessons that you can take from them as well on what's gone wrong and what we need to avoid.
+
+7
+00:00:43.520 --> 00:00:50.400
+And I think, for instance, Fed Bowels, one very early decision we made was the decision to never sell training data to labs.
+
+8
+00:00:50.400 --> 00:00:51.920
+It's often a place that we're pushed.
+
+9
+00:00:51.920 --> 00:00:55.600
+When we start working with a new lab to actually source and sell for them a bunch of training data.
+
+10
+00:00:55.920 --> 00:00:57.440
+Yeah, that's a lucrative business.
+
+11
+00:00:57.440 --> 00:00:57.920
+Yeah.
+
+12
+00:00:57.920 --> 00:00:58.320
+Yeah.
+
+13
+00:00:58.320 --> 00:01:04.800
+And actually a lot of that industry has now built these gimmick style benchmarks as a mechanism to sell their data.
+
+14
+00:01:04.800 --> 00:01:07.440
+And so that's become kind of their go-to-market as well.
+
+15
+00:01:07.440 --> 00:01:19.840
+But I think if you look at auditing as an industry, you end up with issues like Enron, where if you have the same group who's responsible for doing the audit, as well as also consulting and supporting the company, you have a mixed incentive structure.
+
+16
+00:01:19.840 --> 00:01:24.240
+And then it just becomes pay to pass the audit, or in this case, paid to win the benchmark.
+
+17
+00:01:24.240 --> 00:01:28.000
+And that's really not what the market benefits from and what we're trying to do.
+
+18
+00:01:28.080 --> 00:01:33.040
+And Ryan, today you have already a pretty extensive catalog of different type of benchmarks.
+
+19
+00:01:33.040 --> 00:01:38.640
+Some of them are more focused on specific industries, some of them are more like consumer mental health related.
+
+20
+00:01:38.640 --> 00:01:45.680
+Maybe first just talk through what are the benchmarks that are most popular and most like read upon, and we'll love to dive into one of them as well.
+
+21
+00:01:45.680 --> 00:01:46.080
+Yeah.
+
+22
+00:01:46.080 --> 00:01:50.080
+Well, we've done a lot of work in kind of the economically interesting applications of models.
+
+23
+00:01:50.080 --> 00:01:56.000
+Our finance agent benchmark is used by a bunch of the big financial institutions to get a sense of how models are improving.
+
+24
+00:01:56.000 --> 00:01:57.760
+We also have a lot of good work in coding.
+
+25
+00:01:57.760 --> 00:02:03.640
+So our Vibe Code bench measures how well models can take a natural language prompt and build a full stack web application.
+
+26
+00:02:03.640 --> 00:02:07.640
+And so that's been a keen way to track model improvements over the last nine months.
+
+27
+00:02:07.640 --> 00:02:09.400
+Yeah, we're also doing a lot more experimental work.
+
+28
+00:02:09.400 --> 00:02:14.120
+So one benchmark we released recently, I'm very excited by is our recursive self-improvement index.
+
+29
+00:02:14.280 --> 00:02:19.480
+It's a topic which a lot of big labs have been talking about and and starting to report on in their model cards.
+
+30
+00:02:19.480 --> 00:02:23.800
+Um, but there isn't a shared language to talk about the RSI potential of models.
+
+31
+00:02:23.800 --> 00:02:27.640
+And so we created this as an apples to apples way to actually benchmark across the models.
+
+32
+00:02:27.880 --> 00:02:29.800
+Yeah, I thought that one is a very cool benchmark.
+
+33
+00:02:29.800 --> 00:02:39.400
+It's sort of all the rage in the evaluator becomes critical infrastructure once models can optimize against the test.
+
+34
+00:02:39.400 --> 00:02:50.840
+Data skeptic looks at poison recommender systems where fake feedback can redirect real spending and explores federated learning and differential privacy as defenses.
+
+35
+00:02:58.920 --> 00:03:01.480
+And apparently the incentive is not small.
+
+36
+00:03:01.640 --> 00:03:11.240
+I was reading a recent report by World Economic Forum where they mentioned that around 4% of reviews uh today are fake.
+
+37
+00:03:11.240 --> 00:03:21.080
+And you would think that 4% is a small number, but it kind of translates to around $800 billion annual sales just in the US other.
+
+38
+00:03:21.080 --> 00:03:22.840
+So maybe a big model.
+
+39
+00:03:23.320 --> 00:03:25.240
+Now notice the through line here.
+
+40
+00:03:25.240 --> 00:03:28.600
+The prank, the seed packets, the shilling profiles.
+
+41
+00:03:28.600 --> 00:03:32.440
+Every one of these is an attempt to exploit the feedback loop.
+
+42
+00:03:32.440 --> 00:03:39.400
+Somebody figured out what signals the system trusts, and then they set out to manufacture those signals at scale.
+
+43
+00:03:39.400 --> 00:03:47.840
+So, what is a researcher or a system designer to do when the actual useful thing, the ratings, can be poisoned?
+
+44
+00:03:44.840 --> 00:03:49.920
+One option is federated learning.
+
+45
+00:03:50.160 --> 00:03:56.560
+Instead of hauling everyone's raw data back to the server, you train a model on each person's own device.
+
+46
+00:03:56.720 --> 00:04:03.600
+You only send back the what we would call insights, or I guess some vector, the actual lesson, not the diary.
+
+47
+00:04:03.600 --> 00:04:06.400
+Differential privacy is a related strategy.
+
+48
+00:04:06.400 --> 00:04:16.800
+You deliberately inject a measured amount of noise, so the system can still learn the pattern across millions of people, but without ever betraying any single one of them.
+
+49
+00:04:16.800 --> 00:04:19.040
+And either approach comes for free.
+
+50
+00:04:19.040 --> 00:04:23.440
+They cost accuracy, they cost engineering time and infrastructure.
+
+51
+00:04:23.440 --> 00:04:25.840
+And by the way, they're nobody's default.
+
+52
+00:04:25.840 --> 00:04:32.640
+But they're the difference between a field that treats your data as ammunition and one that treats it as a loan.
+
+53
+00:04:32.640 --> 00:04:38.480
+Most people will speak in favor of their own privacy, but not always select the products that maximize for it.
+
+54
+00:04:38.480 --> 00:04:46.720
+However, as consumers become better informed, and the choice to adopt technologies like these more frictionless, maybe we'll see some growth.
+
+55
+00:04:46.720 --> 00:04:50.960
+Another growing contemporary topic is the cost of these systems.
+
+56
+00:04:50.960 --> 00:04:59.840
+All models run on electricity, and large-scale high-powered systems can consume a lot of electricity, and electricity has a direct carbon cost.
+
+57
+00:05:01.760 --> 00:05:09.520
+4% fake reviews can sound minor until it touches an estimated $800 billion in US sales.
+
+58
+00:05:09.520 --> 00:05:22.640
+On the Pragmatic Engineer, Codecs builder Twis Adios traces his path from Google Maps reviews to DeepMind, where early research infrastructure supported breakthroughs like AlphaGo.
+
+59
+00:05:22.720 --> 00:05:28.880
+You don't deeply think about the impact that you're having, but also like the importance of the overall project that you're contributing.
+
+60
+00:05:28.880 --> 00:05:30.760
+And then I moved into Google Maps.
+
+61
+00:05:37.480 --> 00:05:41.640
+It was this special place, uh, headquartered in London.
+
+62
+00:05:41.640 --> 00:05:43.240
+So many great things were happening.
+
+63
+00:05:43.240 --> 00:05:54.920
+This was like really the early days, you know, with rumblings of um things like AlphaGo, and they just seemed to be doing extraordinary things, and you know, just really tackling the very, very hardest problems that you can tackle.
+
+64
+00:05:54.920 --> 00:05:57.720
+And like with my background, I was just obviously drawn to that.
+
+65
+00:05:57.720 --> 00:06:02.920
+I started there, like I worked on uh a lot of the research infrastructure, research tooling.
+
+66
+00:06:02.920 --> 00:06:05.480
+This is a theme that I carried on for almost a decade.
+
+67
+00:06:05.480 --> 00:06:15.800
+And it's like this is very much also the sort of like how I approach things is how can I build tooling and products that help make others more efficient and bring a lot of utility to them.
+
+68
+00:06:15.800 --> 00:06:27.800
+Initially, I was doing this for research, and then like over time, you know, I got like into thinking about things in a much more like more general and general and general way, you know, eventually like you know, ending up where I'm now.
+
+69
+00:06:27.800 --> 00:06:41.720
+Yeah, and a fun story that you recently shared on X as well is how you were part of the team that built this internal Google bot that was, you know, if you want to say similar to Chat GPT, but a year before Chat GPT.
+
+70
+00:06:41.880 --> 00:06:51.880
+Can you can you talk about that tooling lineage matters as coding agents move from demos into everyday product changes?
+
+71
+00:06:51.880 --> 00:07:00.040
+On excess returns, investor and author Jared Dillion argues that an all-in SP 500 strategy ignore psychology.
+
+72
+00:07:00.040 --> 00:07:07.560
+Volatility can push people into costly decisions even when stocks rise over time.
+
+73
+00:07:08.600 --> 00:07:29.680
+Like we are crazy gamblers, we take huge amounts of risk, and the problem is that even if stocks go up 10% in perpetuity, you're gonna get some big bumps along the way, which is going to happen, which affects your psychology, which is going to cause you to do suboptimal things.
+
+74
+00:07:29.680 --> 00:07:30.880
+That's the problem.
+
+75
+00:07:30.880 --> 00:07:31.920
+Right.
+
+76
+00:07:31.920 --> 00:07:34.960
+The the quote I have here is volatility is the enemy.
+
+77
+00:07:34.960 --> 00:07:36.160
+I love this quote, by the way.
+
+78
+00:07:36.160 --> 00:07:37.840
+Volatility is the enemy.
+
+79
+00:07:37.840 --> 00:07:44.480
+The purpose of volatility is to make people make stupid decisions.
+
+80
+00:07:44.480 --> 00:07:46.720
+Yes.
+
+81
+00:07:46.720 --> 00:07:53.840
+The idea that the volatility forces errors of judgment on the market participants.
+
+82
+00:07:53.840 --> 00:07:55.760
+That's that's part of the problem here, right?
+
+83
+00:07:55.760 --> 00:08:01.360
+That's part of the problem that people are trying to figure out a or should be trying to figure out a way to deal with that.
+
+84
+00:08:01.360 --> 00:08:03.120
+You're trying to help with the book.
+
+85
+00:08:03.200 --> 00:08:03.920
+Yeah.
+
+86
+00:08:03.920 --> 00:08:18.800
+Um it's that like I want to prevent the errors of judgment, but even to the extent that people don't make errors in judgment, I want to prevent unhappiness, right?
+
+87
+00:08:18.800 --> 00:08:24.480
+Because if you're just long the SP 500 and you get a 20% drawdown, you're gonna be miserable.
+
+88
+00:08:24.480 --> 00:08:27.840
+It's gonna cause you stress, you're gonna be thinking about it.
+
+89
+00:08:27.840 --> 00:08:46.240
+You had six hundred thousand dollars, now you have four hundred and eighty thousand dollars, you lost 120,000, which is a lot of money for you know, even somebody who's upper middle class, and you're gonna be thinking about it, and you're gonna be miserable until you get back to the high watermark, right?
+
+90
+00:08:46.240 --> 00:08:54.720
+So you're gonna spend X amount of your time over a 40-year investing year, uh 40 year investing career miserable, right?
+
+91
+00:08:54.960 --> 00:08:56.640
+Doesn't have to be that way.
+
+92
+00:08:56.640 --> 00:09:02.520
+Awesome portfolio, very minimal drawdowns, half the volatility of the stock market.
+
+93
+00:08:59.600 --> 00:09:05.560
+Let's define it.
+
+94
+00:09:02.520 --> 00:09:04.760
+It it doesn't have to be that way at all.
+
+95
+00:09:05.640 --> 00:09:08.280
+Let's define it, and then I want to throw out another piece of stats.
+
+96
+00:09:08.280 --> 00:09:10.440
+Define exactly what the awesome portfolio is.
+
+97
+00:09:10.440 --> 00:09:14.520
+Is this showed up in a prior book, but now you've dedicated a whole book to this topic.
+
+98
+00:09:14.520 --> 00:09:15.320
+Explain.
+
+99
+00:09:15.320 --> 00:09:15.880
+Yes.
+
+100
+00:09:15.880 --> 00:09:30.200
+So it's 20% each in stocks, bonds, gold, cash, and a portfolio only works if you can actually hold it through the drawdowns.
+
+101
+00:09:30.200 --> 00:09:33.080
+That's today's daily rundown.

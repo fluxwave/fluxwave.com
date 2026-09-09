@@ -1,0 +1,101 @@
+Who grades AI?
+How fake reviews poison recommendations, the infrastructure behind codecs, and why market volatility can wreck a sound investment plan.
+For clips, each with a different kind of feedback loop.
+On the A16Z podcast, Ben Horowitz and Ryan Christian examine how finance agents and coding models should be evaluated and why benchmarks must evolve as AI begins improving itself.
+So for I think that's one attackable and then it's too narrow.
+I think when you also look to some historic analogies, there's a lot of lessons that you can take from them as well on what's gone wrong and what we need to avoid.
+And I think, for instance, Fed Bowels, one very early decision we made was the decision to never sell training data to labs.
+It's often a place that we're pushed.
+When we start working with a new lab to actually source and sell for them a bunch of training data.
+Yeah, that's a lucrative business.
+Yeah.
+Yeah.
+And actually a lot of that industry has now built these gimmick style benchmarks as a mechanism to sell their data.
+And so that's become kind of their go-to-market as well.
+But I think if you look at auditing as an industry, you end up with issues like Enron, where if you have the same group who's responsible for doing the audit, as well as also consulting and supporting the company, you have a mixed incentive structure.
+And then it just becomes pay to pass the audit, or in this case, paid to win the benchmark.
+And that's really not what the market benefits from and what we're trying to do.
+And Ryan, today you have already a pretty extensive catalog of different type of benchmarks.
+Some of them are more focused on specific industries, some of them are more like consumer mental health related.
+Maybe first just talk through what are the benchmarks that are most popular and most like read upon, and we'll love to dive into one of them as well.
+Yeah.
+Well, we've done a lot of work in kind of the economically interesting applications of models.
+Our finance agent benchmark is used by a bunch of the big financial institutions to get a sense of how models are improving.
+We also have a lot of good work in coding.
+So our Vibe Code bench measures how well models can take a natural language prompt and build a full stack web application.
+And so that's been a keen way to track model improvements over the last nine months.
+Yeah, we're also doing a lot more experimental work.
+So one benchmark we released recently, I'm very excited by is our recursive self-improvement index.
+It's a topic which a lot of big labs have been talking about and and starting to report on in their model cards.
+Um, but there isn't a shared language to talk about the RSI potential of models.
+And so we created this as an apples to apples way to actually benchmark across the models.
+Yeah, I thought that one is a very cool benchmark.
+It's sort of all the rage in the evaluator becomes critical infrastructure once models can optimize against the test.
+Data skeptic looks at poison recommender systems where fake feedback can redirect real spending and explores federated learning and differential privacy as defenses.
+And apparently the incentive is not small.
+I was reading a recent report by World Economic Forum where they mentioned that around 4% of reviews uh today are fake.
+And you would think that 4% is a small number, but it kind of translates to around $800 billion annual sales just in the US other.
+So maybe a big model.
+Now notice the through line here.
+The prank, the seed packets, the shilling profiles.
+Every one of these is an attempt to exploit the feedback loop.
+Somebody figured out what signals the system trusts, and then they set out to manufacture those signals at scale.
+So, what is a researcher or a system designer to do when the actual useful thing, the ratings, can be poisoned?
+One option is federated learning.
+Instead of hauling everyone's raw data back to the server, you train a model on each person's own device.
+You only send back the what we would call insights, or I guess some vector, the actual lesson, not the diary.
+Differential privacy is a related strategy.
+You deliberately inject a measured amount of noise, so the system can still learn the pattern across millions of people, but without ever betraying any single one of them.
+And either approach comes for free.
+They cost accuracy, they cost engineering time and infrastructure.
+And by the way, they're nobody's default.
+But they're the difference between a field that treats your data as ammunition and one that treats it as a loan.
+Most people will speak in favor of their own privacy, but not always select the products that maximize for it.
+However, as consumers become better informed, and the choice to adopt technologies like these more frictionless, maybe we'll see some growth.
+Another growing contemporary topic is the cost of these systems.
+All models run on electricity, and large-scale high-powered systems can consume a lot of electricity, and electricity has a direct carbon cost.
+4% fake reviews can sound minor until it touches an estimated $800 billion in US sales.
+On the Pragmatic Engineer, Codecs builder Twis Adios traces his path from Google Maps reviews to DeepMind, where early research infrastructure supported breakthroughs like AlphaGo.
+You don't deeply think about the impact that you're having, but also like the importance of the overall project that you're contributing.
+And then I moved into Google Maps.
+It was this special place, uh, headquartered in London.
+So many great things were happening.
+This was like really the early days, you know, with rumblings of um things like AlphaGo, and they just seemed to be doing extraordinary things, and you know, just really tackling the very, very hardest problems that you can tackle.
+And like with my background, I was just obviously drawn to that.
+I started there, like I worked on uh a lot of the research infrastructure, research tooling.
+This is a theme that I carried on for almost a decade.
+And it's like this is very much also the sort of like how I approach things is how can I build tooling and products that help make others more efficient and bring a lot of utility to them.
+Initially, I was doing this for research, and then like over time, you know, I got like into thinking about things in a much more like more general and general and general way, you know, eventually like you know, ending up where I'm now.
+Yeah, and a fun story that you recently shared on X as well is how you were part of the team that built this internal Google bot that was, you know, if you want to say similar to Chat GPT, but a year before Chat GPT.
+Can you can you talk about that tooling lineage matters as coding agents move from demos into everyday product changes?
+On excess returns, investor and author Jared Dillion argues that an all-in SP 500 strategy ignore psychology.
+Volatility can push people into costly decisions even when stocks rise over time.
+Like we are crazy gamblers, we take huge amounts of risk, and the problem is that even if stocks go up 10% in perpetuity, you're gonna get some big bumps along the way, which is going to happen, which affects your psychology, which is going to cause you to do suboptimal things.
+That's the problem.
+Right.
+The the quote I have here is volatility is the enemy.
+I love this quote, by the way.
+Volatility is the enemy.
+The purpose of volatility is to make people make stupid decisions.
+Yes.
+The idea that the volatility forces errors of judgment on the market participants.
+That's that's part of the problem here, right?
+That's part of the problem that people are trying to figure out a or should be trying to figure out a way to deal with that.
+You're trying to help with the book.
+Yeah.
+Um it's that like I want to prevent the errors of judgment, but even to the extent that people don't make errors in judgment, I want to prevent unhappiness, right?
+Because if you're just long the SP 500 and you get a 20% drawdown, you're gonna be miserable.
+It's gonna cause you stress, you're gonna be thinking about it.
+You had six hundred thousand dollars, now you have four hundred and eighty thousand dollars, you lost 120,000, which is a lot of money for you know, even somebody who's upper middle class, and you're gonna be thinking about it, and you're gonna be miserable until you get back to the high watermark, right?
+So you're gonna spend X amount of your time over a 40-year investing year, uh 40 year investing career miserable, right?
+Doesn't have to be that way.
+Awesome portfolio, very minimal drawdowns, half the volatility of the stock market.
+Let's define it.
+It it doesn't have to be that way at all.
+Let's define it, and then I want to throw out another piece of stats.
+Define exactly what the awesome portfolio is.
+Is this showed up in a prior book, but now you've dedicated a whole book to this topic.
+Explain.
+Yes.
+So it's 20% each in stocks, bonds, gold, cash, and a portfolio only works if you can actually hold it through the drawdowns.
+That's today's daily rundown.

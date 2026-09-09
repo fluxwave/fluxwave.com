@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-09",
+  "chapters": [
+    {
+      "startTime": 31.224,
+      "title": "a16z Podcast \u2014 Finance agents, coding benchmarks, and recursive self-improvement evaluations"
+    },
+    {
+      "startTime": 173.064,
+      "title": "Data Skeptic \u2014 Defending poisoned feedback loops with federated learning and differential privacy"
+    },
+    {
+      "startTime": 322.912,
+      "title": "The Pragmatic Engineer \u2014 Building research infrastructure and developer tooling at DeepMind"
+    },
+    {
+      "startTime": 427.872,
+      "title": "Excess Returns \u2014 How market volatility causes emotional distress and costly investor mistakes"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Who Grades the AI Models? | Ben Horowitz & Rayan Krishnan",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/who-grades-the-ai-models-ben-horowitz-rayan-krishnan-uPW5nl18",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ba494c31-cd47-4bae-a5d5-89304f960936/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ba494c31-cd47-4bae-a5d5-89304f960936&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-09-09T10:00:00+00:00"
+    },
+    {
+      "title": "Recommender Systems Today and Tomorrow",
+      "podcast": "Data Skeptic",
+      "link": "https://dataskeptic.com/blog/episodes/2026/recommender-systems-today-and-tomorrow",
+      "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/dataskeptic/part3-withad.mp3?dest-id=201630",
+      "transcript_url": "",
+      "published": "2026-09-09T15:35:00+00:00"
+    },
+    {
+      "title": "Building Codex with Tibo Sottiaux",
+      "podcast": "The Pragmatic Engineer",
+      "link": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
+      "audio_url": "https://api.substack.com/feed/podcast/214748970/2fca285ca573bdf5071b7bd87185a3cf.mp3",
+      "transcript_url": "",
+      "published": "2026-09-09T15:57:24+00:00"
+    },
+    {
+      "title": "All-In on the S&P 500 Worked for 18 Years | Jared Dillian on Why It's Still Wrong",
+      "podcast": "Excess Returns",
+      "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/All-In-on-the-SP-500-Worked-for-18-Years--Jared-Dillian-on-Why-Its-Still-Wrong-e3oi43u",
+      "audio_url": "https://traffic.megaphone.fm/APO9515289434.mp3",
+      "transcript_url": "",
+      "published": "2026-09-08T20:43:21+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-09-09.txt"
+}

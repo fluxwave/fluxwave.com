@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-09",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-09_20260909T200210Z_24435/clip_sources/be8537252ecda980/01_DeepMinds_early_debate_over_scaling_language_model.mp3",
+      "source": "Building Codex with Tibo Sottiaux",
+      "start_time": 514,
+      "end_time": 574,
+      "topic": "DeepMind's early debate over scaling language models toward general intelligence"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-09_20260909T200210Z_24435/clip_sources/5d0aa077e55ad58f/01_Distributed_model-evaluation_infrastructure_and_th.mp3",
+      "source": "Who Grades the AI Models? | Ben Horowitz & Rayan Krishnan",
+      "start_time": 328,
+      "end_time": 450,
+      "topic": "Distributed model-evaluation infrastructure and the challenge of formalizing real-world enterprise performance"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-09_20260909T200210Z_24435/clip_sources/e1f677f23615e6a6/01_Gaming_recommender_feedback_loops_through_Spotifys.mp3",
+      "source": "Recommender Systems Today and Tomorrow",
+      "start_time": 314,
+      "end_time": 499,
+      "topic": "Gaming recommender feedback loops through Spotify's silent album and e-commerce brushing attacks"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-09_20260909T200210Z_24435/clip_sources/a3913372c6949222/01_The_Awesome_Portfolio_equal_allocations_to_stocks.mp3",
+      "source": "All-In on the S&P 500 Worked for 18 Years | Jared Dillian on Why It's Still Wrong",
+      "start_time": 400,
+      "end_time": 532,
+      "topic": "The Awesome Portfolio: equal allocations to stocks, bonds, gold, cash, and real estate"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

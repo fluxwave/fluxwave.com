@@ -9,6 +9,63 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — September 09, 2026</title>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-09.mp3" length="9262508" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-09-09.mp3</guid>
+      <itunes:duration>9:38</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-09-09.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-09-09.json" type="application/json+chapters"/>
+      <description>Daily Digest — September 09, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-09.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-09.txt
+
+Chapters:
+0:31 — a16z Podcast — Finance agents, coding benchmarks, and recursive self-improvement
+2:53 — Data Skeptic — Defending poisoned feedback loops with federated learning and dif
+5:22 — The Pragmatic Engineer — Building research infrastructure and developer tooling 
+7:07 — Excess Returns — How market volatility causes emotional distress and costly inve
+
+Sources:
+- Who Grades the AI Models? | Ben Horowitz &amp; Rayan Krishnan (a16z Podcast)
+  Link: https://a16z.simplecast.com/episodes/who-grades-the-ai-models-ben-horowitz-rayan-krishnan-uPW5nl18
+  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ba494c31-cd47-4bae-a5d5-89304f960936/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=ba494c31-cd47-4bae-a5d5-89304f960936&amp;feed=JGE3yC0V
+- Recommender Systems Today and Tomorrow (Data Skeptic)
+  Link: https://dataskeptic.com/blog/episodes/2026/recommender-systems-today-and-tomorrow
+  Source audio: https://pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/dataskeptic/part3-withad.mp3?dest-id=201630
+- Building Codex with Tibo Sottiaux (The Pragmatic Engineer)
+  Link: https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux
+  Source audio: https://api.substack.com/feed/podcast/214748970/2fca285ca573bdf5071b7bd87185a3cf.mp3
+- All-In on the S&amp;P 500 Worked for 18 Years | Jared Dillian on Why It's Still Wrong (Excess Returns)
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/All-In-on-the-SP-500-Worked-for-18-Years--Jared-Dillian-on-Why-Its-Still-Wrong-e3oi43u
+  Source audio: https://traffic.megaphone.fm/APO9515289434.mp3</description>
+      <itunes:summary>Daily Digest — September 09, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-09.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-09.txt
+
+Chapters:
+0:31 — a16z Podcast — Finance agents, coding benchmarks, and recursive self-improvement
+2:53 — Data Skeptic — Defending poisoned feedback loops with federated learning and dif
+5:22 — The Pragmatic Engineer — Building research infrastructure and developer tooling 
+7:07 — Excess Returns — How market volatility causes emotional distress and costly inve
+
+Sources:
+- Who Grades the AI Models? | Ben Horowitz &amp; Rayan Krishnan (a16z Podcast)
+  Link: https://a16z.simplecast.com/episodes/who-grades-the-ai-models-ben-horowitz-rayan-krishnan-uPW5nl18
+  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ba494c31-cd47-4bae-a5d5-89304f960936/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=ba494c31-cd47-4bae-a5d5-89304f960936&amp;feed=JGE3yC0V
+- Recommender Systems Today and Tomorrow (Data Skeptic)
+  Link: https://dataskeptic.com/blog/episodes/2026/recommender-systems-today-and-tomorrow
+  Source audio: https://pscrb.fm/rss/p/mgln.ai/e/35/traffic.libsyn.com/secure/dataskeptic/part3-withad.mp3?dest-id=201630
+- Building Codex with Tibo Sottiaux (The Pragmatic Engineer)
+  Link: https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux
+  Source audio: https://api.substack.com/feed/podcast/214748970/2fca285ca573bdf5071b7bd87185a3cf.mp3
+- All-In on the S&amp;P 500 Worked for 18 Years | Jared Dillian on Why It's Still Wrong (Excess Returns)
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/All-In-on-the-SP-500-Worked-for-18-Years--Jared-Dillian-on-Why-Its-Still-Wrong-e3oi43u
+  Source audio: https://traffic.megaphone.fm/APO9515289434.mp3</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — September 08, 2026</title>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-08.mp3" length="10644908" type="audio/mpeg"/>
@@ -716,63 +773,6 @@ Sources:
 - #489 — More From Sam: A Fabulist at Cambridge, the Strait of Hormuz, AOC in 2028, and More (Making Sense with Sam Harris)
   Link: https://wakingup.libsyn.com/489-more-from-sam-a-fabulist-at-cambridge-the-strait-of-hormuz-aoc-in-2028-and-more
   Source audio: https://traffic.libsyn.com/secure/wakingup/490_MFS_8-20-26_Paywall.mp3?dest-id=480596</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — August 22, 2026</title>
-      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-08-22.mp3" length="10192172" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-08-22.mp3</guid>
-      <itunes:duration>10:36</itunes:duration>
-      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-08-22.vtt" type="text/vtt" rel="captions"/>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-08-22.json" type="application/json+chapters"/>
-      <description>Daily Digest — August 22, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-08-22.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-08-22.txt
-
-Chapters:
-0:31 — a16z Podcast — AI changes engineering economics by letting very small teams prod
-2:56 — Excess Returns — Portfolio construction in an unstable, inflation-volatile regim
-5:37 — Masters in Business — The Science of Hitting framework: patience, selectivity, a
-8:06 — Developer Tea — Using YAGNI, selective abstraction, and calibrated risk toleranc
-
-Sources:
-- Martin Casado on Where the Value Is Going in AI (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/martin-casado-on-where-the-value-is-going-in-ai-750ULKGM
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0f74143d-54d1-41fc-bb21-edb7d10bf376/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=0f74143d-54d1-41fc-bb21-edb7d10bf376&amp;feed=JGE3yC0V
-- The Rally is Broadening. The Earnings Growth Isn't. Liz Ann Sonders on Which Breaks First (Excess Returns)
-  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/The-Rally-is-Broadening--The-Earnings-Growth-Isnt--Liz-Ann-Sonders-on-Which-Breaks-First-e3noc22
-  Source audio: https://anchor.fm/s/9a1dfac/podcast/play/124579330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2F430328052-44100-2-8da15f1961afa.mp3
-- Learning from Buffett and Munger: Masters in Business with Alex Morris (Masters in Business)
-  Link: https://omny.fm/shows/masters-in-business/learning-from-buffett-and-munger-masters-in-business-with-alex-morris
-  Source audio: https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/eb57fcd1-041e-4d57-b9da-b4ad015583b7/audio.mp3?utm_source=Podcast&amp;in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d
-- Why Reducing Complexity Is A Sign of Seniority (Developer Tea)
-  Link: http://www.developertea.com
-  Source audio: https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/f3b1e4d3-9f59-48fb-9bec-00016c5e6e1d/audio/003ecf20-7aea-4318-96c0-47e2ded7dd03/default_tc.mp3?aid=rss_feed&amp;feed=dLRotFGk</description>
-      <itunes:summary>Daily Digest — August 22, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-08-22.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-08-22.txt
-
-Chapters:
-0:31 — a16z Podcast — AI changes engineering economics by letting very small teams prod
-2:56 — Excess Returns — Portfolio construction in an unstable, inflation-volatile regim
-5:37 — Masters in Business — The Science of Hitting framework: patience, selectivity, a
-8:06 — Developer Tea — Using YAGNI, selective abstraction, and calibrated risk toleranc
-
-Sources:
-- Martin Casado on Where the Value Is Going in AI (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/martin-casado-on-where-the-value-is-going-in-ai-750ULKGM
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0f74143d-54d1-41fc-bb21-edb7d10bf376/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=0f74143d-54d1-41fc-bb21-edb7d10bf376&amp;feed=JGE3yC0V
-- The Rally is Broadening. The Earnings Growth Isn't. Liz Ann Sonders on Which Breaks First (Excess Returns)
-  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/The-Rally-is-Broadening--The-Earnings-Growth-Isnt--Liz-Ann-Sonders-on-Which-Breaks-First-e3noc22
-  Source audio: https://anchor.fm/s/9a1dfac/podcast/play/124579330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-22%2F430328052-44100-2-8da15f1961afa.mp3
-- Learning from Buffett and Munger: Masters in Business with Alex Morris (Masters in Business)
-  Link: https://omny.fm/shows/masters-in-business/learning-from-buffett-and-munger-masters-in-business-with-alex-morris
-  Source audio: https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/eb57fcd1-041e-4d57-b9da-b4ad015583b7/audio.mp3?utm_source=Podcast&amp;in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d
-- Why Reducing Complexity Is A Sign of Seniority (Developer Tea)
-  Link: http://www.developertea.com
-  Source audio: https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/f3b1e4d3-9f59-48fb-9bec-00016c5e6e1d/audio/003ecf20-7aea-4318-96c0-47e2ded7dd03/default_tc.mp3?aid=rss_feed&amp;feed=dLRotFGk</itunes:summary>
     </item>
   </channel>
 </rss>
