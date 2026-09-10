@@ -1,0 +1,453 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:03.840
+Who stays in control as AI gets more capable?
+
+2
+00:00:03.840 --> 00:00:07.120
+And what generative models are doing in language research.
+
+3
+00:00:07.760 --> 00:00:14.560
+Plus, Autodesk's approach to innovation and why accurate financial advice struggles to compete online.
+
+4
+00:00:16.960 --> 00:00:27.520
+On Tom Bilieu's impact theory, AI researcher Connor Leahy tests the assumption that human oversight still matters once autonomous AI can outperform people.
+
+5
+00:00:28.400 --> 00:00:37.280
+With Deep Seek version 4.1 flash arriving today, that gap between nominal control and real control feels especially immediate.
+
+6
+00:00:40.240 --> 00:00:50.000
+So the way that I think about AI right now is if somebody has AI and they compete against somebody in the same thing without AI, the person with AI will win effectively 100% of the time.
+
+7
+00:00:50.000 --> 00:00:51.120
+Do you disagree with that?
+
+8
+00:00:51.120 --> 00:00:51.840
+I agree with that.
+
+9
+00:00:51.840 --> 00:00:56.240
+What I disagree with is I think if a human against an AI without a human, the human still wins.
+
+10
+00:00:56.240 --> 00:00:56.800
+Totally agree.
+
+11
+00:00:56.800 --> 00:00:57.040
+Yes.
+
+12
+00:00:57.200 --> 00:01:03.520
+What I'm saying is what happens when a human versus an AI alone, an AI, an autonomous AI, and the autonomous AI wins every time.
+
+13
+00:01:03.520 --> 00:01:06.560
+So it's the autonomous part that's important for your definition.
+
+14
+00:01:06.800 --> 00:01:07.120
+Yes.
+
+15
+00:01:07.120 --> 00:01:09.280
+I think autonomy is very important here.
+
+16
+00:01:09.280 --> 00:01:17.280
+When I say autonomy, I mean, you know, both in the obvious sense of the term, but also like obviously if you just have a human rubber stamp yes on everything, that doesn't count as oversight.
+
+17
+00:01:17.600 --> 00:01:26.480
+So that would still count as autonomous to me, even if there's technically a human involved, but the UN doesn't even understand what the system's doing and they're just rubber stamping all the decisions.
+
+18
+00:01:26.480 --> 00:01:34.880
+Well, like what I expect is happening, for example, is that they're probably will continue to be human CEOs for quite a while, but they just rubber stamp what the AI CEOs tells them to do.
+
+19
+00:01:34.880 --> 00:01:36.240
+They're just there for legal representation.
+
+20
+00:01:36.640 --> 00:01:44.000
+And so for you, we would have then long past where we we're now beyond the point of no return and and all is for naught.
+
+21
+00:01:44.240 --> 00:01:44.640
+Yes.
+
+22
+00:01:44.640 --> 00:01:50.400
+I like thinking about the point of no return much more than like a think about like the point of like extinction or doom in the sense.
+
+23
+00:01:50.400 --> 00:01:50.960
+Why?
+
+24
+00:01:50.960 --> 00:01:53.120
+Because that's the point that actually matters.
+
+25
+00:01:53.120 --> 00:01:56.080
+Okay, so it's like stakes versus where we are on the timeline.
+
+26
+00:01:56.320 --> 00:01:59.520
+Yeah, in the sense, the what matters to me is the point of no return.
+
+27
+00:01:59.520 --> 00:02:05.080
+Once we've hit the point of no return, where there's so much AI, it's so powerful, it's so intelligent, it's self-improving.
+
+28
+00:02:05.080 --> 00:02:08.760
+You know, there's not just one AI, there are millions or billions of them.
+
+29
+00:02:09.080 --> 00:02:17.240
+Even if we're not dead, even if we continue to maybe live for a couple of years or even decades, we no longer have any control over the future.
+
+30
+00:02:17.240 --> 00:02:19.640
+And there's no way for us to get it back.
+
+31
+00:02:19.640 --> 00:02:22.680
+Okay, you've already slipped in a base assumption there.
+
+32
+00:02:22.680 --> 00:02:30.040
+Um so I before we get to that base assumption, because it is certainly on the list of where this sort of breaks bad, a very clear definition.
+
+33
+00:02:30.040 --> 00:02:33.960
+So autonomous AI that can outperform humans at everything, that's the one that we're worried about.
+
+34
+00:02:34.280 --> 00:02:38.520
+Uh, we need to understand the mile marker, which is what's the point of no return.
+
+35
+00:02:38.520 --> 00:02:45.000
+You've talked about this before, so I think we can hit this one quick, which is we're close, you don't quite know.
+
+36
+00:02:45.080 --> 00:02:51.160
+The key distinction, a human using AI is not the same as a human controlling it.
+
+37
+00:02:51.160 --> 00:03:02.760
+On the Twimble AI podcast, Stanford Professor Chris Potts explains how language models are becoming experimental tools for linguists while disrupting traditional NLP research.
+
+38
+00:03:03.240 --> 00:03:05.880
+Mistakes go beyond benchmark scores.
+
+39
+00:03:05.880 --> 00:03:11.240
+One dominant technical approach can reshape which questions researchers pursue.
+
+40
+00:03:13.720 --> 00:03:18.760
+So their project is intro interestingly impacted by technological developments.
+
+41
+00:03:18.760 --> 00:03:32.040
+For NLP people who are, of course, participating directly in the engineering project, they're affected in a very different way by the rise of Gen AI and the kind of homogeneous nature of the solutions that people now adopt in that space.
+
+42
+00:03:32.040 --> 00:03:37.640
+So for the linguists, I feel like this is the most exciting moment that anyone could have dreamed of.
+
+43
+00:03:37.680 --> 00:03:49.440
+I feel incredibly privileged to be alive in this moment where humans encounter for the very first time non-human creatures that use our language very fluently.
+
+44
+00:03:49.440 --> 00:04:06.720
+I think it's weirding us all out, but from the point of view of understanding the human capacity for language, what a gift, because you can ask about the mechanisms, which are different from humans, but obviously sufficient for achieving a cur a certain kind of behavioral performance.
+
+45
+00:04:07.440 --> 00:04:09.680
+We can think about them as investigative tools.
+
+46
+00:04:09.680 --> 00:04:11.200
+I mean, we train them on the internet.
+
+47
+00:04:11.200 --> 00:04:20.720
+They're basically incredibly powerful distributional learners, and we can learn a lot from them about the true structure of language by just looking at the kinds of things that they learn.
+
+48
+00:04:20.720 --> 00:04:34.880
+And it really gets at the heart of core questions in linguistics about how much of language learning is innate and the nature of our capacity and whether it's statistical or symbolic, all those things come flooding in in a completely fresh way.
+
+49
+00:04:34.880 --> 00:04:41.120
+And so whatever your reaction to language models is, it should be a significant one, right?
+
+50
+00:04:41.120 --> 00:04:44.160
+This should be causing you to rethink key questions.
+
+51
+00:04:44.160 --> 00:04:50.960
+And that's all you could hope for as a scientist, that you have new angles, new perspectives, new questions reopened.
+
+52
+00:04:50.960 --> 00:04:53.040
+That's been incredible.
+
+53
+00:05:08.640 --> 00:05:23.000
+Before that, there was still a lot of statistical work, of course, and we were in the deep learning era, but you could still, for example, do a PhD that was entirely about some specific phenomenon and maybe some very specific tweak to them.
+
+54
+00:05:21.040 --> 00:05:27.480
+Better tools can expand a field's reach while narrowing its methods.
+
+55
+00:05:28.080 --> 00:05:40.280
+On Masters of Scale, Autodesk CEO Andrew Anagnos compares two ways big companies pursue innovation, protect one focused team, or let a thousand experiments bloom.
+
+56
+00:05:40.360 --> 00:05:48.440
+It's a timely management question as companies like Shopify rethink major technology bets, including its move back from React Native.
+
+57
+00:05:50.760 --> 00:05:52.840
+Because I knew zero to 10 pretty well.
+
+58
+00:05:52.920 --> 00:05:54.360
+10 to 100?
+
+59
+00:05:54.680 --> 00:05:56.760
+You know, I didn't know that very well, right?
+
+60
+00:05:56.760 --> 00:05:58.680
+She was really influential on me.
+
+61
+00:05:58.680 --> 00:06:00.840
+And I I look back at her in positive ways.
+
+62
+00:06:00.840 --> 00:06:05.560
+I always like to say I'm the product of two dysfunctional parents, and they both have initial C B.
+
+63
+00:06:05.560 --> 00:06:08.120
+One was Carol Bartz, one was Carl Bass.
+
+64
+00:06:08.120 --> 00:06:09.560
+Totally different people.
+
+65
+00:06:09.560 --> 00:06:10.200
+Okay.
+
+66
+00:06:10.200 --> 00:06:12.360
+Both CEOs that I reported to.
+
+67
+00:06:12.600 --> 00:06:14.360
+Carol, much more on the commercial side.
+
+68
+00:06:14.360 --> 00:06:20.520
+Carl on the, you know, respect for innovation, you know, respect for the customers' processes and what they do.
+
+69
+00:06:20.520 --> 00:06:22.200
+Each of them taught me something.
+
+70
+00:06:22.200 --> 00:06:25.800
+Each of them taught me what to do and what not to do in many ways.
+
+71
+00:06:25.800 --> 00:06:33.320
+What did Carol and Carl do to allow a rebellious group inside the company not just to function but to flourish?
+
+72
+00:06:33.320 --> 00:06:36.520
+Carol only allowed a small number of these, like one.
+
+73
+00:06:36.600 --> 00:06:39.400
+She had a good sense for who could push things and who could not.
+
+74
+00:06:39.400 --> 00:06:40.360
+And she supported them.
+
+75
+00:06:40.360 --> 00:06:44.600
+Carl, on the other hand, would uh create hundreds of these.
+
+76
+00:06:44.600 --> 00:06:49.720
+He'd let them pop up everywhere to the point that it would stress the company's ability to execute.
+
+77
+00:06:49.720 --> 00:06:55.400
+Carl's style was much more let a thousand flowers bloom and maybe never prune a single flower.
+
+78
+00:06:55.400 --> 00:06:58.280
+It's almost like working in two different companies with leaders that are that different.
+
+79
+00:06:59.880 --> 00:07:03.560
+Even the company that I run now is Autodesk, it's somewhat different.
+
+80
+00:07:03.560 --> 00:07:05.960
+But it learned from both of those companies.
+
+81
+00:07:05.960 --> 00:07:15.280
+And I'd like to think that because we can scale new businesses, because we're we're very passionate about killing our own businesses, killing our own products, which we are very passionate.
+
+82
+00:07:14.840 --> 00:07:17.120
+I think that's a cultural norm in the company.
+
+83
+00:07:17.280 --> 00:07:22.720
+That I've done a decent job, but I owe it to the experience and the experience arc.
+
+84
+00:07:22.720 --> 00:07:32.080
+I want to come back to the norm of killing your own businesses when you need to, but I do want to hear about the journey to CEO because you weren't given the job outright.
+
+85
+00:07:32.080 --> 00:07:33.600
+You had to really fight for it.
+
+86
+00:07:33.600 --> 00:07:38.560
+Will you tell us about the process that started as a co-CEO and led to the loan CEO?
+
+87
+00:07:38.560 --> 00:07:46.560
+When they started the succession planning before the activists came into the company that ultimately led to the co-CEO scenario, I opted myself out of the succession process.
+
+88
+00:07:46.960 --> 00:07:48.560
+Because I just never saw myself that way.
+
+89
+00:07:48.560 --> 00:07:53.760
+You know, for some reason I looked at that job and I said, well, then you don't have any fun anymore, which might actually be true.
+
+90
+00:07:53.760 --> 00:08:03.920
+Um innovation strategy is also resource strategy who gets protected, funded, and allowed to fail.
+
+91
+00:08:03.920 --> 00:08:14.880
+On Masters and Business, Barry Rittholz examines the rise of financial influencers and the market gap between engaging misinformation and accurate expert advice.
+
+92
+00:08:14.880 --> 00:08:24.000
+You'll hear how one creator recognized that credible financial content could attract a real audience on social platforms.
+
+93
+00:08:40.400 --> 00:08:47.440
+At what point was there a specific video or a post that persuaded you, hey, there might be a real audience here?
+
+94
+00:08:47.760 --> 00:08:48.320
+Yeah.
+
+95
+00:08:48.320 --> 00:08:49.920
+The the number one reason.
+
+96
+00:08:49.920 --> 00:08:54.960
+So I came home after doing probably, we had probably done 10 videos as a firm.
+
+97
+00:08:54.960 --> 00:09:01.080
+And I came home, and my wife was actually scrolling TikTok, and she said, You gotta look at this person.
+
+98
+00:09:01.080 --> 00:09:04.680
+They're talking about a Roth IRA, and it's really funny.
+
+99
+00:09:04.680 --> 00:09:11.800
+And I looked at the video and it was funny, it was engaging, and the person didn't know what a Roth IRA was.
+
+100
+00:09:11.800 --> 00:09:16.600
+So I look at this, I said, hon, this this isn't actually how a Roth IRA works.
+
+101
+00:09:16.600 --> 00:09:24.600
+And so I started going down the rabbit hole because there had been two million views on this video, and it was complete misinformation.
+
+102
+00:09:24.600 --> 00:09:37.960
+So what I found when I delve a little bit more into the rabbit hole, I said, found there were a lot of people on these platforms who were very engaging and could speak very confidently and articulately, and they were just flat out wrong.
+
+103
+00:09:37.960 --> 00:09:50.600
+And then the people who were really accurate and data driven and who had done all the work or who had actually been PMs or financial advisors for 20 years, some of them didn't quite know how to engage.
+
+104
+00:09:50.600 --> 00:10:12.040
+So I looked at and said, just from a business standpoint, there's a real gap in social media of someone who actually can educate in a simple way, somebody who's used to taking very complex ideas and trying to make them digestible in 30 seconds or less, uh, and is and is able to also actually bring data points in.
+
+105
+00:10:12.040 --> 00:10:17.160
+And so I almost took it as a big challenge initially of how can we do this?
+
+106
+00:10:17.160 --> 00:10:27.640
+And I look at it as an art form of how can you package something that most of the world doesn't want to think about on a daily basis, finance, investing, and make it something fun.
+
+107
+00:10:27.640 --> 00:10:29.720
+So was there a specific video early?
+
+108
+00:10:29.720 --> 00:10:33.480
+No, it was more the gap in the marketplace that made me want to pursue it.
+
+109
+00:10:33.480 --> 00:10:38.960
+You know, everybody I've dealt with over the years who is both.
+
+110
+00:10:38.960 --> 00:10:45.280
+Accuracy matters, but online, clarity and distribution decide whether anyone hears it.
+
+111
+00:10:44.840 --> 00:10:52.320
+We'll be back tomorrow.
+
+112
+00:10:47.120 --> 00:10:49.600
+That's today's Daily Rundown.
+
+113
+00:10:49.920 --> 00:10:51.040
+Thanks for listening.

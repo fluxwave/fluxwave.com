@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-10",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-10_20260910T205115Z_24371/clip_sources/4e9e1d05c54234c6/01_Scaling_GPT-3_and_the_research_crisis_for_resource.mp3",
+      "source": "Do AI Tokenomics Matter More Than Model Benchmarks? with Chris Potts - #776",
+      "start_time": 516,
+      "end_time": 640,
+      "topic": "Scaling, GPT-3, and the research crisis for resource-constrained NLP teams"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-10_20260910T205115Z_24371/clip_sources/a29509f73cc5daef/01_Why_early-career_startup_experience_builds_speed_b.mp3",
+      "source": "From high school dropout to CEO, with Autodesk\u2019s Andrew Anagnost",
+      "start_time": 330,
+      "end_time": 458,
+      "topic": "Why early-career startup experience builds speed, breadth, direct communication, and practical decision-making skills"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-10_20260910T205115Z_24371/clip_sources/cd9d0f0a5ab98e72/01_The_point_of_no_return_for_self-improving_AI_ecosy.mp3",
+      "source": "The Point of No Return: Connor Leahy on Stopping AI Before It's Too Late",
+      "start_time": 379,
+      "end_time": 502,
+      "topic": "The point of no return for self-improving AI ecosystems"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-10_20260910T205115Z_24371/clip_sources/9cd159a79933f640/01_Compliance_constraints_for_financial_professionals.mp3",
+      "source": "At The Money: Considering a Career Change? How About FINFLUENCER?",
+      "start_time": 553,
+      "end_time": 683,
+      "topic": "Compliance constraints for financial professionals publishing on social media"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
