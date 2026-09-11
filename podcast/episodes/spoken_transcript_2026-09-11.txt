@@ -1,0 +1,96 @@
+Why bond markets underpin global power?
+How oxide recreated a hardware rack and software, and whether fixed income has entered a new era.
+Plus a 16Z on creating startups earlier, just as the AI news flood has people asking what all this building is actually for.
+From the Meb Favor Show, Financial Times journalist Robin Wigglesworth explains how bonds pooled money at unprecedented scale and made sovereign credibility central to markets.
+It's the history behind the assets that still set the price of risk worldwide.
+So they have to build this incredibly elaborate system of dikes or waterways.
+And that was all paid for by bonds.
+And because of that, the Dutch had kind of the most developed bond market of let's say this is around by the 15th and 16th century.
+But then they declared independence from Spain.
+And Spain was kind of the hyperpower of the world at the time.
+It was kind of the height of the Spanish Empire.
+And the Netherlands was like a you know a collection of small states and towns in a place that people used to call the bog of Europe because it was so swampy and wet.
+And they managed to beat it, took a hundred years, but they managed to beat this superpower because of the power of bonds.
+So showed you you can use bonds for both generally big big projects.
+So fighting the elements, building this elaborate system of dikes and waterways to keep the the water at bay, and you know, to fight for independence or fight a war.
+And the Brits then took it even further.
+They were the first proper kind of nation state to set up like a national stock of debt.
+It was called consolidated annuities because they consolidated all these annuities.
+And that became kind of the first risk-free rate in the world.
+That kind of helped explain why Britain became an ascendant power in that era.
+But they just copied and pasted the Dutch idea.
+One of the challenges, the very most simplistic when we talk about bonds and debt is are you gonna give me my money back?
+And if so, what is the governments gained enormous borrowing power, but only while investors trusted the promise behind the bond on Oxide and Friends, the team tell the origin story of Voxel, a virtual oxide rack built with Omicron, Falcon, Propolis, Crucible, and Soft MPU.
+That matters if you build infrastructure and need to test an entire hardware software system without a physical rack.
+Not in the room when you initially demoed this.
+Maybe the control may be up initially, but um could you walk us through through the the origin story for for what became Voxel?
+Yeah, first of all, I I I am gonna do the the customary, and this isn't just lip service.
+I didn't invent this whatsoever, right?
+Um, you know, I know there's always the building on the shoulders of giant story, but um, you know, we one voxel has a very strong spiritual successor.
+Uh, anyone who has followed along with Omicron, you know, there is a simulated version of Omicron that you can run.
+Omicron is extraordinary, and so are all of the components like Propolis and Crucible.
+It's extraordinarily easy to set up on, you know, even commodity architecture.
+Um, we had internally this ability to pull all of that together through one of our open source repos called Falcon, which basically builds lab infrastructure on uh Propolis.
+Huge shout out to Rye Goodfellow on Falcon.
+Yeah, it's extraordinary work building.
+Well, and on top of that, right?
+There is a truly, truly unemulatable.
+Well, I never want to say unemulatable.
+The whole the whole title here is how faux can you go.
+But a very difficult to emulate part of our architecture, which is the you know, our Tefino switches.
+Um the introduction of soft NPU and being able not just to simulate, but actually fairly well emulate the behavior of those switches is extraordinary.
+And it's really the only reason we can have virtual architecture at all, is because we have that switching fabric.
+Uh between the you know, the rack fabric of Falcon and the switching fabric and Tefino, we have the ability to, you know, bring up gimlets and sidecars and all of that.
+And this is um soft NPU was very clutch for us.
+So this is a allowed us to get a an analog that allowed us to program the switch as if we were programming the switch, but of course it's all virtual.
+Emulating the whole rack turns scarce hardware into a development environment more engineers can actually use.
+Access Returns asks two bond managers whether the 40-year bond bull market ended with the forces that sustained it, falling inflation and globalization.
+Their question is whether deglobalization now demands a completely different fixed income playbook.
+Do you go back to the old way of thinking about fixed income and bond investing, or is there a new paradigm amongst us that you need to maybe consider?
+Let's kick that up a level then, because you're talking about this convergence of secular and cyclical themes that are hitting right now and how that lines up.
+So give us the lay of the land.
+Tell us what you mean by those terms.
+Tell us what the secular and the cyclical trends are right now that you're watching overlap here.
+And please keep bringing up.
+So we're here September 2026.
+2022 is still very much clear in people's minds, and that's part of the part of the hatred, as is the giant bond bull that we saw from whatever 81 until 2022.
+Yeah.
+Give us that cyclical and secular understanding.
+Yeah, I mean, listen, for the the bulk of 40 years, it was about 65, 67% of the time interest rates fell between 1980 and 2020.
+Um, so really all you had to do in a bond portfolio was overweight duration a little bit, add a little credit risk, and you tended to outperform most of the time and have a positive return.
+Um, but the the real thing that we have to ask is, you know, why did yields fall?
+Why did the risk-free rate fall so consistently during those 40 years?
+And in our belief, um, there were sort of two main reasons.
+One is because you had Paul Vault Paul Volker come and really squash inflation, right?
+In the early 1980s.
+That was sort of like the first punch in a one-two punch to lower interest rates.
+The second punch was globalization.
+And the two combined essentially set off an era of, you know, really disinflation or very low and stable inflation.
+Um we think there's been a change.
+We think there's been a secular change.
+It started, you know, in 2015, uh, started with uh Brexit and the election, uh, the first election of President Trump, where you started to move from a world of of globalization to one of deglobalization.
+And by, you know, the nature of that, you effectively now have more competition.
+If the inflation regime changed, the bonds investors learn to rely on may carry very different risks.
+On the A16Z podcast, Andrew Chun and Matt Pearl discuss helping form startups before founders ever arrive at the firm's door.
+With AI launches dominating the tech cycle, the stakes are bigger than funding companies.
+It's deciding which ones should exist.
+And historically it's been maybe the best place to invest.
+For us, one of the really magical things, something that I take a lot of just personal pride and excitement in is the idea that we are not just waiting for entrepreneurs to show up at our doorstep at at A16Z, but we're actually helping create the companies in the first place.
+So for example, in the last speedrun bash, there were 70 companies.
+And of the 70, there was probably a dozen where, you know, these were folks that had full-time jobs and they had to turn in the laptops and their badges.
+And we couldn't even wire the money over because, you know, they they didn't have a company to to even incorporate.
+And so we sort of, you know, helped incept these, the idea of like, hey, like you let's let's create the most uh powerful and um uh you know best path to starting the company.
+And and I think for a lot of those founders eventually would have would have eventually started businesses.
+Um, you know, when you're founders, sometimes you just can't get that bug, you know, um out of your ear.
+But I I do I do would like to think that uh we we maybe you know pull hold some of that activity forward.
+And so maybe folks that maybe would have waited another for another five or 10 years of work experience and financial stability, you know, maybe they would have taken that that that jump and and what an amazing time in the AI era, you know, to encourage them to to uh you know jump in um at the at the right moment.
+Can you give a little texture to what a day in the life looks like for a speedrun company?
+Like when they're part of the program, what is their day-to-day look like, both as part of the program, and then I assume you see, you know, again, there's like high high levels of variance, I'm sure, but like what are the kind of the common things that you see about founders who are operating it at this stage?
+Yeah, yeah, definitely.
+Um so, you know, if you can kind of picture in your head, you might have um, you know, two founders that are originally, you know, they're based in Austin, Texas.
+They're based in Chicago, they're based in, you know, pick pick your p pick your city.
+Um we we also have had uh teams, teams from uh um, you know, from Utah, we've had teams from from from all of all over the US, uh quite a few from New York, quite a few from from um uh Pacific Northwest as well.
+In an AI boom, shaping companies that early also means shaping which problems get attention.
+That's today's daily rundown.
+Thanks for listening.
+We'll catch you tomorrow.

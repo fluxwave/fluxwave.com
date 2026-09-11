@@ -1,0 +1,385 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:03.040
+Why bond markets underpin global power?
+
+2
+00:00:03.040 --> 00:00:10.320
+How oxide recreated a hardware rack and software, and whether fixed income has entered a new era.
+
+3
+00:00:10.320 --> 00:00:18.720
+Plus a 16Z on creating startups earlier, just as the AI news flood has people asking what all this building is actually for.
+
+4
+00:00:20.800 --> 00:00:32.240
+From the Meb Favor Show, Financial Times journalist Robin Wigglesworth explains how bonds pooled money at unprecedented scale and made sovereign credibility central to markets.
+
+5
+00:00:32.720 --> 00:00:37.680
+It's the history behind the assets that still set the price of risk worldwide.
+
+6
+00:01:08.720 --> 00:01:12.800
+So they have to build this incredibly elaborate system of dikes or waterways.
+
+7
+00:01:12.800 --> 00:01:14.800
+And that was all paid for by bonds.
+
+8
+00:01:14.800 --> 00:01:23.120
+And because of that, the Dutch had kind of the most developed bond market of let's say this is around by the 15th and 16th century.
+
+9
+00:01:23.120 --> 00:01:25.680
+But then they declared independence from Spain.
+
+10
+00:01:25.680 --> 00:01:28.560
+And Spain was kind of the hyperpower of the world at the time.
+
+11
+00:01:28.560 --> 00:01:31.040
+It was kind of the height of the Spanish Empire.
+
+12
+00:01:31.040 --> 00:01:40.640
+And the Netherlands was like a you know a collection of small states and towns in a place that people used to call the bog of Europe because it was so swampy and wet.
+
+13
+00:01:40.640 --> 00:01:49.080
+And they managed to beat it, took a hundred years, but they managed to beat this superpower because of the power of bonds.
+
+14
+00:01:47.920 --> 00:01:54.040
+So showed you you can use bonds for both generally big big projects.
+
+15
+00:01:54.400 --> 00:02:03.960
+So fighting the elements, building this elaborate system of dikes and waterways to keep the the water at bay, and you know, to fight for independence or fight a war.
+
+16
+00:01:59.840 --> 00:02:06.600
+And the Brits then took it even further.
+
+17
+00:02:06.680 --> 00:02:12.120
+They were the first proper kind of nation state to set up like a national stock of debt.
+
+18
+00:02:12.120 --> 00:02:17.720
+It was called consolidated annuities because they consolidated all these annuities.
+
+19
+00:02:17.720 --> 00:02:22.120
+And that became kind of the first risk-free rate in the world.
+
+20
+00:02:22.120 --> 00:02:26.120
+That kind of helped explain why Britain became an ascendant power in that era.
+
+21
+00:02:26.120 --> 00:02:29.400
+But they just copied and pasted the Dutch idea.
+
+22
+00:02:29.480 --> 00:02:39.080
+One of the challenges, the very most simplistic when we talk about bonds and debt is are you gonna give me my money back?
+
+23
+00:02:39.080 --> 00:03:02.680
+And if so, what is the governments gained enormous borrowing power, but only while investors trusted the promise behind the bond on Oxide and Friends, the team tell the origin story of Voxel, a virtual oxide rack built with Omicron, Falcon, Propolis, Crucible, and Soft MPU.
+
+24
+00:03:02.680 --> 00:03:09.720
+That matters if you build infrastructure and need to test an entire hardware software system without a physical rack.
+
+25
+00:03:12.120 --> 00:03:13.880
+Not in the room when you initially demoed this.
+
+26
+00:03:14.520 --> 00:03:22.280
+Maybe the control may be up initially, but um could you walk us through through the the origin story for for what became Voxel?
+
+27
+00:03:22.280 --> 00:03:27.080
+Yeah, first of all, I I I am gonna do the the customary, and this isn't just lip service.
+
+28
+00:03:27.080 --> 00:03:30.200
+I didn't invent this whatsoever, right?
+
+29
+00:03:30.200 --> 00:03:39.000
+Um, you know, I know there's always the building on the shoulders of giant story, but um, you know, we one voxel has a very strong spiritual successor.
+
+30
+00:03:39.000 --> 00:03:45.600
+Uh, anyone who has followed along with Omicron, you know, there is a simulated version of Omicron that you can run.
+
+31
+00:03:44.840 --> 00:03:51.200
+Omicron is extraordinary, and so are all of the components like Propolis and Crucible.
+
+32
+00:03:51.600 --> 00:03:57.760
+It's extraordinarily easy to set up on, you know, even commodity architecture.
+
+33
+00:03:57.760 --> 00:04:12.160
+Um, we had internally this ability to pull all of that together through one of our open source repos called Falcon, which basically builds lab infrastructure on uh Propolis.
+
+34
+00:04:12.240 --> 00:04:15.920
+Huge shout out to Rye Goodfellow on Falcon.
+
+35
+00:04:16.160 --> 00:04:19.760
+Yeah, it's extraordinary work building.
+
+36
+00:04:19.760 --> 00:04:21.520
+Well, and on top of that, right?
+
+37
+00:04:21.520 --> 00:04:24.880
+There is a truly, truly unemulatable.
+
+38
+00:04:24.880 --> 00:04:26.880
+Well, I never want to say unemulatable.
+
+39
+00:04:26.880 --> 00:04:29.760
+The whole the whole title here is how faux can you go.
+
+40
+00:04:29.760 --> 00:04:35.360
+But a very difficult to emulate part of our architecture, which is the you know, our Tefino switches.
+
+41
+00:04:35.440 --> 00:04:45.920
+Um the introduction of soft NPU and being able not just to simulate, but actually fairly well emulate the behavior of those switches is extraordinary.
+
+42
+00:04:45.920 --> 00:04:54.240
+And it's really the only reason we can have virtual architecture at all, is because we have that switching fabric.
+
+43
+00:04:54.400 --> 00:05:03.600
+Uh between the you know, the rack fabric of Falcon and the switching fabric and Tefino, we have the ability to, you know, bring up gimlets and sidecars and all of that.
+
+44
+00:05:03.920 --> 00:05:07.760
+And this is um soft NPU was very clutch for us.
+
+45
+00:05:07.760 --> 00:05:18.480
+So this is a allowed us to get a an analog that allowed us to program the switch as if we were programming the switch, but of course it's all virtual.
+
+46
+00:05:18.480 --> 00:05:26.320
+Emulating the whole rack turns scarce hardware into a development environment more engineers can actually use.
+
+47
+00:05:26.320 --> 00:05:36.760
+Access Returns asks two bond managers whether the 40-year bond bull market ended with the forces that sustained it, falling inflation and globalization.
+
+48
+00:05:36.760 --> 00:05:43.480
+Their question is whether deglobalization now demands a completely different fixed income playbook.
+
+49
+00:05:48.920 --> 00:05:55.800
+Do you go back to the old way of thinking about fixed income and bond investing, or is there a new paradigm amongst us that you need to maybe consider?
+
+50
+00:05:55.800 --> 00:06:05.000
+Let's kick that up a level then, because you're talking about this convergence of secular and cyclical themes that are hitting right now and how that lines up.
+
+51
+00:06:05.000 --> 00:06:06.200
+So give us the lay of the land.
+
+52
+00:06:06.200 --> 00:06:07.880
+Tell us what you mean by those terms.
+
+53
+00:06:07.880 --> 00:06:13.080
+Tell us what the secular and the cyclical trends are right now that you're watching overlap here.
+
+54
+00:06:13.080 --> 00:06:15.480
+And please keep bringing up.
+
+55
+00:06:15.480 --> 00:06:18.440
+So we're here September 2026.
+
+56
+00:06:18.440 --> 00:06:28.840
+2022 is still very much clear in people's minds, and that's part of the part of the hatred, as is the giant bond bull that we saw from whatever 81 until 2022.
+
+57
+00:06:28.840 --> 00:06:29.320
+Yeah.
+
+58
+00:06:29.320 --> 00:06:32.120
+Give us that cyclical and secular understanding.
+
+59
+00:06:32.120 --> 00:06:42.520
+Yeah, I mean, listen, for the the bulk of 40 years, it was about 65, 67% of the time interest rates fell between 1980 and 2020.
+
+60
+00:06:42.520 --> 00:06:51.560
+Um, so really all you had to do in a bond portfolio was overweight duration a little bit, add a little credit risk, and you tended to outperform most of the time and have a positive return.
+
+61
+00:06:51.560 --> 00:06:57.160
+Um, but the the real thing that we have to ask is, you know, why did yields fall?
+
+62
+00:06:57.160 --> 00:07:01.400
+Why did the risk-free rate fall so consistently during those 40 years?
+
+63
+00:07:01.400 --> 00:07:04.360
+And in our belief, um, there were sort of two main reasons.
+
+64
+00:07:04.360 --> 00:07:08.920
+One is because you had Paul Vault Paul Volker come and really squash inflation, right?
+
+65
+00:07:08.920 --> 00:07:10.200
+In the early 1980s.
+
+66
+00:07:10.200 --> 00:07:14.520
+That was sort of like the first punch in a one-two punch to lower interest rates.
+
+67
+00:07:14.520 --> 00:07:18.000
+The second punch was globalization.
+
+68
+00:07:18.000 --> 00:07:27.200
+And the two combined essentially set off an era of, you know, really disinflation or very low and stable inflation.
+
+69
+00:07:27.200 --> 00:07:29.920
+Um we think there's been a change.
+
+70
+00:07:29.920 --> 00:07:31.520
+We think there's been a secular change.
+
+71
+00:07:31.520 --> 00:07:46.880
+It started, you know, in 2015, uh, started with uh Brexit and the election, uh, the first election of President Trump, where you started to move from a world of of globalization to one of deglobalization.
+
+72
+00:07:46.880 --> 00:07:53.040
+And by, you know, the nature of that, you effectively now have more competition.
+
+73
+00:07:53.040 --> 00:07:59.600
+If the inflation regime changed, the bonds investors learn to rely on may carry very different risks.
+
+74
+00:08:00.080 --> 00:08:09.760
+On the A16Z podcast, Andrew Chun and Matt Pearl discuss helping form startups before founders ever arrive at the firm's door.
+
+75
+00:08:09.840 --> 00:08:15.120
+With AI launches dominating the tech cycle, the stakes are bigger than funding companies.
+
+76
+00:08:15.120 --> 00:08:19.760
+It's deciding which ones should exist.
+
+77
+00:08:23.200 --> 00:08:26.080
+And historically it's been maybe the best place to invest.
+
+78
+00:08:26.080 --> 00:08:41.120
+For us, one of the really magical things, something that I take a lot of just personal pride and excitement in is the idea that we are not just waiting for entrepreneurs to show up at our doorstep at at A16Z, but we're actually helping create the companies in the first place.
+
+79
+00:08:41.120 --> 00:08:44.960
+So for example, in the last speedrun bash, there were 70 companies.
+
+80
+00:08:44.960 --> 00:08:52.640
+And of the 70, there was probably a dozen where, you know, these were folks that had full-time jobs and they had to turn in the laptops and their badges.
+
+81
+00:08:52.640 --> 00:08:58.240
+And we couldn't even wire the money over because, you know, they they didn't have a company to to even incorporate.
+
+82
+00:08:58.240 --> 00:09:11.640
+And so we sort of, you know, helped incept these, the idea of like, hey, like you let's let's create the most uh powerful and um uh you know best path to starting the company.
+
+83
+00:09:11.640 --> 00:09:16.520
+And and I think for a lot of those founders eventually would have would have eventually started businesses.
+
+84
+00:09:16.520 --> 00:09:21.080
+Um, you know, when you're founders, sometimes you just can't get that bug, you know, um out of your ear.
+
+85
+00:09:21.080 --> 00:09:26.840
+But I I do I do would like to think that uh we we maybe you know pull hold some of that activity forward.
+
+86
+00:09:26.840 --> 00:09:43.800
+And so maybe folks that maybe would have waited another for another five or 10 years of work experience and financial stability, you know, maybe they would have taken that that that jump and and what an amazing time in the AI era, you know, to encourage them to to uh you know jump in um at the at the right moment.
+
+87
+00:09:43.800 --> 00:09:47.880
+Can you give a little texture to what a day in the life looks like for a speedrun company?
+
+88
+00:09:47.880 --> 00:10:01.960
+Like when they're part of the program, what is their day-to-day look like, both as part of the program, and then I assume you see, you know, again, there's like high high levels of variance, I'm sure, but like what are the kind of the common things that you see about founders who are operating it at this stage?
+
+89
+00:10:01.960 --> 00:10:02.840
+Yeah, yeah, definitely.
+
+90
+00:10:02.840 --> 00:10:12.680
+Um so, you know, if you can kind of picture in your head, you might have um, you know, two founders that are originally, you know, they're based in Austin, Texas.
+
+91
+00:10:12.680 --> 00:10:17.400
+They're based in Chicago, they're based in, you know, pick pick your p pick your city.
+
+92
+00:10:17.400 --> 00:10:30.440
+Um we we also have had uh teams, teams from uh um, you know, from Utah, we've had teams from from from all of all over the US, uh quite a few from New York, quite a few from from um uh Pacific Northwest as well.
+
+93
+00:10:30.520 --> 00:10:39.320
+In an AI boom, shaping companies that early also means shaping which problems get attention.
+
+94
+00:10:39.320 --> 00:10:42.120
+That's today's daily rundown.
+
+95
+00:10:42.120 --> 00:10:43.400
+Thanks for listening.
+
+96
+00:10:43.400 --> 00:10:44.840
+We'll catch you tomorrow.

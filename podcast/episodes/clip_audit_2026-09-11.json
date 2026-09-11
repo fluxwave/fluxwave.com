@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-11",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-11_20260911T200200Z_41982/clip_sources/5c713362a1b70a9e/01_Testing_infrastructure_at_multiple_levels_of_fidel.mp3",
+      "source": "Emulating Oxide: How Faux Can You Go?",
+      "start_time": 431,
+      "end_time": 562,
+      "topic": "Testing infrastructure at multiple levels of fidelity"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-11_20260911T200200Z_41982/clip_sources/6a4a86b14d4383b2/01_How_investing_at_company_formation_differs_from_Se.mp3",
+      "source": "What It Takes to Build a Startup | Andrew Chen & Matt Perault",
+      "start_time": 406,
+      "end_time": 526,
+      "topic": "How investing at company formation differs from Series A and Series B investing"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-11_20260911T200200Z_41982/clip_sources/ee1e02d418c01f8d/01_Structural_inflation_pressures_from_reshoring_labo.mp3",
+      "source": "Everyone Hates Bonds. Why Two Bond Managers Say You're Hating the Wrong Ones",
+      "start_time": 380,
+      "end_time": 501,
+      "topic": "Structural inflation pressures from reshoring, labor-market changes, and underinvestment in productive and commodity capacity"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-11_20260911T200200Z_41982/clip_sources/ad8e77eedf3a638d/01_Venice_creates_the_first_tradable_sovereign_bonds.mp3",
+      "source": "FT\u2019s Robin Wigglesworth: Why Bonds, Not Stocks, Rule Everything Around Us | #650",
+      "start_time": 318,
+      "end_time": 443,
+      "topic": "Venice creates the first tradable sovereign bonds through a forced war loan"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
