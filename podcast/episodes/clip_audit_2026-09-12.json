@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-12",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-12_20260912T200142Z_73378/clip_sources/716fe81e0ed816ae/01_Employee_adoption_of_AI_and_production-agent_train.mp3",
+      "source": "Why Companies Are Becoming a Series of Loops | Anish Acharya on Lenny\u2019s Podcast",
+      "start_time": 447,
+      "end_time": 570,
+      "topic": "Employee adoption of AI and production-agent training inside companies"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-12_20260912T200142Z_73378/clip_sources/2c0bb1e64a5448d6/01_Mining_expertise_critical-resource_weaponization_a.mp3",
+      "source": "Robert Friedland on the World's Monumental Shortage of Copper",
+      "start_time": 598,
+      "end_time": 720,
+      "topic": "Mining expertise, critical-resource weaponization, and government strategy"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-12_20260912T200142Z_73378/clip_sources/0ec1b42c5c4faf0d/01_Evolution_from_fix-and-flip_credit_to_30-year_land.mp3",
+      "source": "The loan at the heart of a new foreclosure crisis",
+      "start_time": 571,
+      "end_time": 693,
+      "topic": "Evolution from fix-and-flip credit to 30-year landlord mortgages"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-12_20260912T200142Z_73378/clip_sources/00e5c957008bcb26/01_Rebuilding_growth_through_active_equities_private.mp3",
+      "source": "Finding Stability in Investing: Masters in Business with Seth Bernstein",
+      "start_time": 723,
+      "end_time": 852,
+      "topic": "Rebuilding growth through active equities, private credit, global expansion, and insurance clients"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
