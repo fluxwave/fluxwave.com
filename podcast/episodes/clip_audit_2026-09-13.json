@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-13",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-13_20260913T200138Z_13107/clip_sources/f05e76bf65d1a31b/01_Why_Atlas_removed_Gaussian_splats_as_the_mandatory.mp3",
+      "source": "World Models, Robotics, and the Future of 3D AI",
+      "start_time": 444,
+      "end_time": 564,
+      "topic": "Why Atlas removed Gaussian splats as the mandatory intermediate representation"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-13_20260913T200138Z_13107/clip_sources/83d5c5ea56248e42/01_Long-term_investment_discipline_and_restoring_Fide.mp3",
+      "source": "We Asked Fidelity's Ex-President What Made Peter Lynch Great \u2014 and Where Private Credit Risk Hides",
+      "start_time": 335,
+      "end_time": 455,
+      "topic": "Long-term investment discipline and restoring Fidelity's equity-fund mandate after Magellan moved heavily into cash"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-13_20260913T200138Z_13107/clip_sources/ad8e77eedf3a638d/01_From_Dutch_public_debt_to_Britains_risk-free_rate.mp3",
+      "source": "FT\u2019s Robin Wigglesworth: Why Bonds, Not Stocks, Rule Everything Around Us | #650",
+      "start_time": 521,
+      "end_time": 641,
+      "topic": "From Dutch public debt to Britain's risk-free rate"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-13_20260913T200138Z_13107/clip_sources/ce43c71360e38620/01_Edge-case-driven_product_design_for_very_young_use.mp3",
+      "source": "#882: Why Kids Can Learn 10x Faster Than We Think \u2014 Niels Hoven of Mentava (Tim Coaching Session)",
+      "start_time": 549,
+      "end_time": 669,
+      "topic": "Edge-case-driven product design for very young users"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

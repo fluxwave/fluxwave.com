@@ -9,6 +9,59 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — September 13, 2026</title>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-13.mp3" length="10133804" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-09-13.mp3</guid>
+      <itunes:duration>10:33</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-09-13.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-09-13.json" type="application/json+chapters"/>
+      <description>Daily Digest — September 13, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-13.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-13.txt
+
+Chapters:
+0:39 — a16z Podcast — Atlas combines explicit 3D scene generation with direct frame gen
+3:05 — Excess Returns — Performance analytics, decentralized investment teams, and fixe
+5:40 — The Meb Faber Show - Better Investing — Dutch bond financing for infrastructure 
+8:17 — The Tim Ferriss Show — Designing software that enables users to operate independ
+
+Sources:
+- World Models, Robotics, and the Future of 3D AI (a16z Podcast)
+  Link: https://a16z.simplecast.com/episodes/world-models-robotics-and-the-future-of-3d-ai-mGOuUHi0
+  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e578e083-6b40-4815-a479-28213e86988a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=e578e083-6b40-4815-a479-28213e86988a&amp;feed=JGE3yC0V
+- We Asked Fidelity's Ex-President What Made Peter Lynch Great — and Where Private Credit Risk Hides (Excess Returns)
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/We-Asked-Fidelitys-Ex-President-What-Made-Peter-Lynch-Great--and-Where-Private-Credit-Risk-Hides-e3oosvh
+  Source audio: https://traffic.megaphone.fm/APO4057389190.mp3
+- FT’s Robin Wigglesworth: Why Bonds, Not Stocks, Rule Everything Around Us | #650 (The Meb Faber Show - Better Investing)
+  Source audio: https://traffic.megaphone.fm/TIFM8787535673.mp3
+- #882: Why Kids Can Learn 10x Faster Than We Think — Niels Hoven of Mentava (Tim Coaching Session) (The Tim Ferriss Show)
+  Source audio: https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</description>
+      <itunes:summary>Daily Digest — September 13, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-13.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-13.txt
+
+Chapters:
+0:39 — a16z Podcast — Atlas combines explicit 3D scene generation with direct frame gen
+3:05 — Excess Returns — Performance analytics, decentralized investment teams, and fixe
+5:40 — The Meb Faber Show - Better Investing — Dutch bond financing for infrastructure 
+8:17 — The Tim Ferriss Show — Designing software that enables users to operate independ
+
+Sources:
+- World Models, Robotics, and the Future of 3D AI (a16z Podcast)
+  Link: https://a16z.simplecast.com/episodes/world-models-robotics-and-the-future-of-3d-ai-mGOuUHi0
+  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e578e083-6b40-4815-a479-28213e86988a/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=e578e083-6b40-4815-a479-28213e86988a&amp;feed=JGE3yC0V
+- We Asked Fidelity's Ex-President What Made Peter Lynch Great — and Where Private Credit Risk Hides (Excess Returns)
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/We-Asked-Fidelitys-Ex-President-What-Made-Peter-Lynch-Great--and-Where-Private-Credit-Risk-Hides-e3oosvh
+  Source audio: https://traffic.megaphone.fm/APO4057389190.mp3
+- FT’s Robin Wigglesworth: Why Bonds, Not Stocks, Rule Everything Around Us | #650 (The Meb Faber Show - Better Investing)
+  Source audio: https://traffic.megaphone.fm/TIFM8787535673.mp3
+- #882: Why Kids Can Learn 10x Faster Than We Think — Niels Hoven of Mentava (Tim Coaching Session) (The Tim Ferriss Show)
+  Source audio: https://rss.art19.com/episodes/c4a073c5-6dde-4c14-9b7d-58e3c96e3bfe.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — September 12, 2026</title>
       <pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-12.mp3" length="10420652" type="audio/mpeg"/>
@@ -720,63 +773,6 @@ Sources:
 - Inside Cursor: The Anatomy of a Generational Startup (a16z Podcast)
   Link: https://a16z.simplecast.com/episodes/inside-cursor-the-anatomy-of-a-generational-startup-eVZ_egyp
   Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/06262bc9-7183-4be2-a4b5-6ed18cc6a418/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=06262bc9-7183-4be2-a4b5-6ed18cc6a418&amp;feed=JGE3yC0V</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — August 26, 2026</title>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-08-26.mp3" length="12106412" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-08-26.mp3</guid>
-      <itunes:duration>12:36</itunes:duration>
-      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-08-26.vtt" type="text/vtt" rel="captions"/>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-08-26.json" type="application/json+chapters"/>
-      <description>Daily Digest — August 26, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-08-26.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-08-26.txt
-
-Chapters:
-0:40 — a16z Podcast — Frontier models versus localized open-weight models
-3:17 — The Pragmatic Engineer — Why early Windows could not render game graphics quickl
-5:48 — Pod Save the World — Assessment of the latest Iran sanctions package, described 
-10:16 — Planet Money — McMurdo Station as a remote industrial and scientific hub
-
-Sources:
-- The State of AI: Macro, Apps, and Consumer (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/the-state-of-ai-macro-apps-and-consumer-0SpxP4t2
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0&amp;feed=JGE3yC0V
-- Why performant code matters (but gets widely ignored), with Casey Muratori (The Pragmatic Engineer)
-  Link: https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets
-  Source audio: https://api.substack.com/feed/podcast/212722114/7fbb605079b04c25aa18da6ab32c0469.mp3
-- Trump &amp; Carney’s Heated Rivalry (Pod Save the World)
-  Link: https://audioboom.com/posts/8945366
-  Source audio: https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8945366.mp3?modified=1787705799&amp;sid=5166626&amp;source=rss
-- The continent nobody owns &amp; everyone benefits from (Summer School) (Planet Money)
-  Link: https://www.npr.org/2026/08/26/nx-s1-5943609/summer-school-antarctica
-  Source audio: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&amp;awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&amp;feed=hvWWWzRv&amp;t=podcast&amp;e=nx-s1-5943609&amp;p=510289&amp;d=2444&amp;size=39106438</description>
-      <itunes:summary>Daily Digest — August 26, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-08-26.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-08-26.txt
-
-Chapters:
-0:40 — a16z Podcast — Frontier models versus localized open-weight models
-3:17 — The Pragmatic Engineer — Why early Windows could not render game graphics quickl
-5:48 — Pod Save the World — Assessment of the latest Iran sanctions package, described 
-10:16 — Planet Money — McMurdo Station as a remote industrial and scientific hub
-
-Sources:
-- The State of AI: Macro, Apps, and Consumer (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/the-state-of-ai-macro-apps-and-consumer-0SpxP4t2
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=95ad917f-6caa-4d3b-a9c8-2a3a2541c5d0&amp;feed=JGE3yC0V
-- Why performant code matters (but gets widely ignored), with Casey Muratori (The Pragmatic Engineer)
-  Link: https://newsletter.pragmaticengineer.com/p/why-performant-code-matters-but-gets
-  Source audio: https://api.substack.com/feed/podcast/212722114/7fbb605079b04c25aa18da6ab32c0469.mp3
-- Trump &amp; Carney’s Heated Rivalry (Pod Save the World)
-  Link: https://audioboom.com/posts/8945366
-  Source audio: https://clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/arttrk.com/p/CRMDA/mgln.ai/e/284/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8945366.mp3?modified=1787705799&amp;sid=5166626&amp;source=rss
-- The continent nobody owns &amp; everyone benefits from (Summer School) (Planet Money)
-  Link: https://www.npr.org/2026/08/26/nx-s1-5943609/summer-school-antarctica
-  Source audio: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&amp;awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&amp;feed=hvWWWzRv&amp;t=podcast&amp;e=nx-s1-5943609&amp;p=510289&amp;d=2444&amp;size=39106438</itunes:summary>
     </item>
   </channel>
 </rss>

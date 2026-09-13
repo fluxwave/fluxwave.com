@@ -1,0 +1,429 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:09.440
+AI generated 3D worlds, Fidelity's investing machine, the origins of bond markets and software that helps kids teach themselves.
+
+2
+00:00:09.440 --> 00:00:15.120
+For clips from virtual San Francisco to the financing model that built nations.
+
+3
+00:00:17.120 --> 00:00:29.520
+On the A16Z podcast, a conversation about Atlas Explores how explicit 3D scenes and generated video frames could create playable worlds without a traditional game engine.
+
+4
+00:00:29.600 --> 00:00:37.120
+That matters as AI systems move from generating images to simulating spaces we can actually explore.
+
+5
+00:00:39.600 --> 00:00:49.440
+So yeah, we were just talking right before we went on about our friend Tys from OpenAI did this project that went kind of viral that was like GTA, but it's San Francisco.
+
+6
+00:00:49.440 --> 00:00:54.160
+So it like I think it was like a giant Gaussian splat of the whole city or something.
+
+7
+00:00:54.160 --> 00:00:58.800
+And you can like walk around in it, you can steal cars and drive around, you can fly around.
+
+8
+00:00:58.800 --> 00:01:02.640
+It's not very high resolution, definitely not as much as Atlas.
+
+9
+00:01:02.640 --> 00:01:06.640
+You think ultimately this is something you'll be able to do with Atlas?
+
+10
+00:01:06.640 --> 00:01:07.440
+Yeah, I think so.
+
+11
+00:01:07.440 --> 00:01:12.000
+And I think there's actually two different futures here of like the tech path that gets us there.
+
+12
+00:01:12.000 --> 00:01:14.800
+Um one is sort of the explicit 3D route that you mentioned, right?
+
+13
+00:01:14.800 --> 00:01:20.000
+Like the idea of generating a Gaussian splat reconstruction, then importing that explicit asset into a game engine or something else.
+
+14
+00:01:20.000 --> 00:01:21.760
+Um, this is something Atlas can do, right?
+
+15
+00:01:21.760 --> 00:01:27.440
+Like it can be used to generate, you know, 3D Gaussian splat scenes, um, and then you could import them and generate and build games around them.
+
+16
+00:01:27.440 --> 00:01:32.880
+Um, another direction where this could go is you know, you skip the engine entirely and go directly for frame generation, right?
+
+17
+00:01:32.880 --> 00:01:37.040
+And I have the model directly outputting the frames without any explicit 3D in the mix anywhere.
+
+18
+00:01:37.040 --> 00:01:39.440
+Um, and Atlas is built to do this as well.
+
+19
+00:01:39.440 --> 00:01:46.640
+So it's it's one model that both handles, you know, 2D when you need it, 3D when you need it, um, and can handle both modalities in a native way.
+
+20
+00:01:46.960 --> 00:01:52.160
+If you're somebody using this world model and you have all these inputs, like how would you use it?
+
+21
+00:01:52.160 --> 00:01:54.720
+How would you steer Atlas to do what you intended?
+
+22
+00:01:54.720 --> 00:01:59.200
+Like if you're like a film producer or video game developer, how would you work with it?
+
+23
+00:01:59.200 --> 00:02:06.120
+Yeah, we have some internal tooling for this, but it's going to take a little bit more, uh, a little more little bit more iteration on the product side to figure out the right way to expose that.
+
+24
+00:02:06.280 --> 00:02:09.080
+Um but the internal tooling is is actually pretty awesome, right?
+
+25
+00:02:09.080 --> 00:02:15.640
+You can basically take images, drag drag them into this interface, have this sort of spatial 3D canvas for all your input images.
+
+26
+00:02:15.640 --> 00:02:24.280
+Um then they end up with this like proxy geometry in 3D space, and you can steer your camera kind of with an FPS type control to like decide exactly where you want this thing to go.
+
+27
+00:02:24.280 --> 00:02:27.480
+Um and that's that's a pretty complicated user experience or user interface.
+
+28
+00:02:27.480 --> 00:02:31.640
+So I think we'll probably iterate on on different ways to expose these capabilities in nice ways.
+
+29
+00:02:31.720 --> 00:02:34.840
+How does it differ from Marble, which is World Lab's first product?
+
+30
+00:02:34.840 --> 00:02:37.800
+Yeah, so it's uh it's a totally rebuilt stack of models, right?
+
+31
+00:02:38.040 --> 00:02:47.320
+I think the central thesis is the real shift is from rendering a designed world to generating the world as you move through it.
+
+32
+00:02:47.320 --> 00:02:56.920
+On excess returns, Fidelity's former president explains how detailed performance analytics supported decentralized investment teams.
+
+33
+00:02:56.920 --> 00:03:03.720
+The clip shows how better feedback and fixed income scale can shape decisions across a giant asset manager.
+
+34
+00:03:05.800 --> 00:03:14.920
+That and then third is I developed a very extensive performance metric uh performance report.
+
+35
+00:03:14.920 --> 00:03:19.640
+So we didn't want to just have the managers know what their performance was.
+
+36
+00:03:19.640 --> 00:03:21.880
+We wanted them to understand that.
+
+37
+00:03:21.880 --> 00:03:29.000
+And with the help of our quantitative people, we were able to put uh together a real detailed explanation.
+
+38
+00:03:29.000 --> 00:03:31.640
+And that I think was very helpful for them.
+
+39
+00:03:31.640 --> 00:03:37.400
+They got that feedback once a quarter, and they discussed it in the small groups.
+
+40
+00:03:37.400 --> 00:03:39.480
+And I would say that's the last thing.
+
+41
+00:03:39.480 --> 00:03:50.240
+You know, when I became president of Fidelity, we were at uh $500 billion in management and we went to a trillion.
+
+42
+00:03:50.240 --> 00:04:01.760
+And when you're managing that sort of money, the key is how do you uh maintain the entrepreneurial spirit and the sense of identification?
+
+43
+00:04:01.760 --> 00:04:06.880
+And what we were able to do is to create a lot of different groups.
+
+44
+00:04:06.880 --> 00:04:20.480
+We had the value group, the growth group, the small cap group, international group, and uh each of them were relatively small, so they felt more ownership of what they were doing.
+
+45
+00:04:20.480 --> 00:04:27.600
+We were also able to put the money market funds together with the bond funds in New Hampshire.
+
+46
+00:04:27.600 --> 00:04:31.200
+We got a great deal for land and tax there.
+
+47
+00:04:31.200 --> 00:04:46.400
+And uh at that time, the money market funds had to have uh uh average maturity of 60 days or less, and the quality had to be very high.
+
+48
+00:04:46.400 --> 00:04:57.200
+And as we got bigger and bigger in the money market fund area, it wasn't really possible to find that much commercial paper that met those criteria.
+
+49
+00:04:57.200 --> 00:05:14.480
+So we're able to get the SEC to say that if somebody like JP Morgan would issue a put on a high-quality bond that uh and that we could put it to them every 60 days, that would count for a money market fund.
+
+50
+00:05:14.480 --> 00:05:21.120
+Independence works differently when every manager also gets a rigorous quarterly accounting.
+
+51
+00:05:21.120 --> 00:05:29.840
+On the Meb Favor Show, Financial Times journalist Robin Wigglesworth traces how Dutch bonds pooled money from hundreds or thousands of lenders.
+
+52
+00:05:30.760 --> 00:05:38.520
+It's the financial technology that made infrastructure and large-scale war possible and still underpins modern markets.
+
+53
+00:05:52.920 --> 00:06:01.160
+There's a limit to how much money you can borrow from one person, but bonds kind of allow you to borrow money from hundreds, even thousands, and now today millions of people.
+
+54
+00:06:01.160 --> 00:06:06.600
+So it kind of allows you to pull tiny little bits of money into one big sum of money.
+
+55
+00:06:06.600 --> 00:06:09.880
+And that was, you know, fantastic for wars.
+
+56
+00:06:19.640 --> 00:06:23.720
+So they have to build this incredibly elaborate system of dikes and waterways.
+
+57
+00:06:23.720 --> 00:06:25.720
+And that was all paid for by bonds.
+
+58
+00:06:25.720 --> 00:06:33.960
+And because of that, the Dutch had kind of the most developed bond market of let's say this is around by the 15th and 16th century.
+
+59
+00:06:33.960 --> 00:06:36.600
+But then they declared independence from Spain.
+
+60
+00:06:36.600 --> 00:06:39.480
+And Spain was kind of the hyperpower of the world at the time.
+
+61
+00:06:39.480 --> 00:06:41.960
+It was kind of the height of the Spanish Empire.
+
+62
+00:06:41.960 --> 00:06:51.560
+And the Netherlands was like a collection of small states and towns in a place that people used to call the bog of Europe because it was so swampy and wet.
+
+63
+00:06:51.560 --> 00:06:59.960
+And they managed to beat, it took a hundred years, but they managed to beat this superpower because of the power of bonds.
+
+64
+00:06:59.960 --> 00:07:05.320
+So showed you you can use bonds for both in general big big projects.
+
+65
+00:07:05.320 --> 00:07:14.680
+So fighting the elements, building this elaborate system of dikes and waterways to keep the water at bay, and you know, to fight for independence or fight a war.
+
+66
+00:07:15.040 --> 00:07:17.600
+And the Brits then took it even further.
+
+67
+00:07:17.600 --> 00:07:22.960
+They were the first proper kind of nation-state to set up like a national stock of debt.
+
+68
+00:07:22.960 --> 00:07:28.560
+It was called consolidated annuities, because they consolidated all these annuities.
+
+69
+00:07:28.560 --> 00:07:37.040
+And that became kind of the first risk-free rate in the world that kind of helped explain why Britain became an ascendant power in that era.
+
+70
+00:07:37.040 --> 00:07:40.320
+But they just copied and pasted the Dutch idea.
+
+71
+00:07:40.400 --> 00:07:49.840
+One of the challenges at the very most simplistic when we talk about bonds and debt is, are you gonna give me my money back?
+
+72
+00:07:49.840 --> 00:07:57.760
+And bonds didn't just finance governments, they expanded what governments could attempt.
+
+73
+00:07:57.760 --> 00:08:07.280
+On the Tim Ferris show, Mintava founder Niels Hoven explains why he wanted learning software as children could use without constant adult instruction.
+
+74
+00:08:07.600 --> 00:08:11.360
+The broader design challenge applies well beyond education.
+
+75
+00:08:11.360 --> 00:08:15.680
+Build tools that create capable users, not permanent dependents.
+
+76
+00:08:22.080 --> 00:08:32.800
+What I really want is I want them to be able to teach themselves, which aside from just being practical in that situation, is just this life skill that I feel is really, really important.
+
+77
+00:08:32.800 --> 00:08:38.160
+So I started looking around for software or apps that could support my kids as they're learning.
+
+78
+00:08:38.160 --> 00:08:39.760
+And there just wasn't very much out there.
+
+79
+00:08:39.760 --> 00:08:43.040
+I found a couple of things that were okay, and we made it work.
+
+80
+00:08:43.040 --> 00:08:51.920
+And it was honestly surprising how well they were able to learn despite using software that really wasn't designed for having kids teach themselves.
+
+81
+00:08:51.920 --> 00:08:53.920
+And so other parents noticed what I was doing.
+
+82
+00:08:53.920 --> 00:08:55.040
+They asked me questions about it.
+
+83
+00:08:55.040 --> 00:08:56.960
+I pointed them to the same software.
+
+84
+00:08:56.960 --> 00:09:05.720
+And some of them had some success, and some of them didn't, and really what I realized as all of this was going on was that the problem was in the design of the software.
+
+85
+00:09:05.720 --> 00:09:10.360
+No one is designing software for three and four-year-olds to be learning on their own.
+
+86
+00:09:10.360 --> 00:09:12.680
+It's not that it's impossible, it's just that it's really, really hard.
+
+87
+00:09:12.680 --> 00:09:13.880
+But my background is in games.
+
+88
+00:09:13.880 --> 00:09:17.480
+I spent a long time designing games and designing tutorials.
+
+89
+00:09:17.480 --> 00:09:19.720
+And it's just design problems all the way down.
+
+90
+00:09:19.720 --> 00:09:24.680
+And I felt like this is a problem that I could solve that I wanted to solve for myself, that I wanted to solve for other people.
+
+91
+00:09:24.680 --> 00:09:27.000
+And that's where Mentava came from.
+
+92
+00:09:27.080 --> 00:09:29.080
+And what's the magic sauce?
+
+93
+00:09:29.080 --> 00:09:30.120
+Why does it work?
+
+94
+00:09:30.120 --> 00:09:38.840
+Why is it better than the 12 other things that I've seen you rate from a scale of I think one to 10 in different ways and giving your reasons?
+
+95
+00:09:38.840 --> 00:09:46.840
+The key things that Mentava brings to the table is an extremely optimized curriculum and a lot of really good motivation design.
+
+96
+00:09:46.840 --> 00:09:54.760
+The curriculum advantage should not be as much of an advantage as it is, because reading and math are both basically solved problems.
+
+97
+00:09:54.760 --> 00:09:56.600
+You know, we know how to teach reading.
+
+98
+00:09:56.600 --> 00:09:59.880
+You teach kids letter sounds and then you teach them to blend them together.
+
+99
+00:09:59.880 --> 00:10:04.040
+And honestly, for $15, you can get a book off of Amazon that will let you do that.
+
+100
+00:10:04.040 --> 00:10:05.160
+You know, you have to be the teacher.
+
+101
+00:10:05.160 --> 00:10:08.680
+It is a lot of heavy lifting from the parent side, but like it will get the job done.
+
+102
+00:10:08.680 --> 00:10:15.080
+It's kind of unconscionable that this has been a debate in education for a generation, but this is very much a solved problem.
+
+103
+00:10:15.080 --> 00:10:21.880
+So we take phonics, we optimize it, we're a useful test for any product.
+
+104
+00:10:21.880 --> 00:10:27.160
+Does it increase the user's agency over time?
+
+105
+00:10:27.160 --> 00:10:29.640
+That's today's daily rundown.
+
+106
+00:10:29.960 --> 00:10:31.080
+Thanks for listening.
+
+107
+00:10:31.080 --> 00:10:32.920
+We'll be back tomorrow.
