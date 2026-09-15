@@ -1,0 +1,525 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:04.240
+Sati and Adela on containing persistent AI agents.
+
+2
+00:00:04.240 --> 00:00:07.920
+Jim Paulson on the earnings weakness hiding beneath the market.
+
+3
+00:00:07.920 --> 00:00:13.440
+And two sharp warnings about AI making work messier before it gets simpler.
+
+4
+00:00:13.440 --> 00:00:20.400
+For clips, all about what's happening below the surface of the AI boom.
+
+5
+00:00:20.400 --> 00:00:31.520
+On all in, Microsoft CEO Satya Nadella explains why persistent agents raise the stakes on reward hacking, containment, and insider risk monitoring.
+
+6
+00:00:31.520 --> 00:00:42.320
+As these systems get more autonomy, the old software question, fix the bug or accept the edge case, becomes a security decision.
+
+7
+00:00:42.320 --> 00:00:42.800
+Yeah.
+
+8
+00:00:42.800 --> 00:00:43.120
+Right?
+
+9
+00:00:43.120 --> 00:00:45.360
+I mean, that's kind of like 101, right?
+
+10
+00:00:45.360 --> 00:00:49.360
+Which is why on your face, you're like, you know, you have a bug.
+
+11
+00:00:49.360 --> 00:00:50.800
+Um, what do you do?
+
+12
+00:00:50.800 --> 00:00:58.000
+Do you stop and fix, or you defer, or you go in and say, hey, this is such an edge case?
+
+13
+00:00:58.000 --> 00:00:59.840
+That's kind of the judgment.
+
+14
+00:00:59.840 --> 00:01:04.880
+So I do think, and as the stakes go up, you want to like transaction processing.
+
+15
+00:01:04.880 --> 00:01:06.640
+I remember working on databases, right?
+
+16
+00:01:06.640 --> 00:01:07.440
+You know, wow.
+
+17
+00:01:07.440 --> 00:01:14.880
+Like, you know, you gotta take very seriously any bug uh where if the transaction's gonna get lost, right?
+
+18
+00:01:14.880 --> 00:01:17.920
+Data loss is a thing that you stop the thing for.
+
+19
+00:01:17.920 --> 00:01:30.320
+So I feel a little bit culturally in the AI industry, rediscovering maybe, because when you see, and it's possible that they see stuff which are showstoppers before the rest.
+
+20
+00:01:30.320 --> 00:01:33.680
+And if you see a showstopper, stop the show.
+
+21
+00:01:33.680 --> 00:01:34.960
+Um, right?
+
+22
+00:01:35.040 --> 00:01:36.160
+So fix the bugs.
+
+23
+00:01:36.160 --> 00:01:36.480
+Yeah.
+
+24
+00:01:36.480 --> 00:01:46.000
+But when you saw the the hugging face run, and it was super performative, dwarfesh did his whole post, civilizations.
+
+25
+00:01:46.000 --> 00:01:47.680
+What do you think?
+
+26
+00:01:47.680 --> 00:01:50.400
+W what what's your take on that test they ran?
+
+27
+00:01:50.400 --> 00:01:54.880
+Because they could have run a test where they had 3,000 agents defend a bunch of websites.
+
+28
+00:01:54.880 --> 00:02:04.440
+Instead, they instructed them to hack websites and you know, the hiding of information, all this anthropesizing, whatever of the agents.
+
+29
+00:02:04.680 --> 00:02:13.720
+I mean, the way at least I understand it was it was actually, you know, basically trying to uh do an eval uh for Cyber Gym.
+
+30
+00:02:13.720 --> 00:02:21.960
+And um, as I understand it, given that eval, it sort of figured out a way to say, let's just say reward a hack.
+
+31
+00:02:21.960 --> 00:02:24.760
+Uh, and that's what led it to hugging phase.
+
+32
+00:02:24.760 --> 00:02:37.880
+In fact, it speaks to I think what's the pre, you know, clear issue right now, which is you can have these things, if they're long-running persistent agents, uh, become essentially like new insider risk.
+
+33
+00:02:37.880 --> 00:02:43.160
+Uh, and so that I would start from the very basics of saying, okay, what is containment look like?
+
+34
+00:02:43.160 --> 00:02:54.920
+So, for example, like one of the things that I think is going to be really an issue and a thing that needs great solutions, is true aggressive monitoring of agent activity.
+
+35
+00:02:54.920 --> 00:02:59.320
+Uh persistence changes the risk.
+
+36
+00:02:59.320 --> 00:03:04.520
+An agent can carry a bad judgment into every task that follows.
+
+37
+00:03:04.520 --> 00:03:15.880
+On excess returns, market strategist Jim Paulson breaks down weak earnings breadth beneath the headline numbers, with tech and telecom doing much of the lifting.
+
+38
+00:03:15.960 --> 00:03:25.080
+That matters when broad monetary policy is supporting an economy whose sectors are moving in very different directions.
+
+39
+00:03:26.120 --> 00:03:33.640
+But below that surface, it's really a uh uh two-prong, almost three-pronged story on earnings here.
+
+40
+00:03:33.640 --> 00:03:35.480
+And that's what this chart brings out.
+
+41
+00:03:35.480 --> 00:03:51.520
+What I got here is forward 12-month earnings per share for the blue line is for the technology and telecommunication sectors, kind of new era, which I call the brainiac earnings, you know, earnings that come out from somebody who really came up with something cool.
+
+42
+00:03:51.760 --> 00:03:56.240
+Um, and they're just going gay busters, which everyone knows.
+
+43
+00:03:56.240 --> 00:04:01.600
+Um, and then there's another part that doesn't get as much attention but should, and that's the green line.
+
+44
+00:04:01.600 --> 00:04:07.120
+And that is those that are tied to energy commodity prices, basically, or commodity prices in general.
+
+45
+00:04:07.120 --> 00:04:08.800
+And they're not a big part.
+
+46
+00:04:08.800 --> 00:04:12.160
+The the blue line's about not quite 50% of the market cap.
+
+47
+00:04:12.160 --> 00:04:17.600
+The the green line's only 5%, but it's up unbelievably over this period of time, and it's mainly up.
+
+48
+00:04:17.600 --> 00:04:20.320
+We all know the reason because oil prices went up so much.
+
+49
+00:04:20.320 --> 00:04:20.960
+Okay.
+
+50
+00:04:20.960 --> 00:04:24.800
+And that's uh that's what I call the no-brainer earnings.
+
+51
+00:04:24.800 --> 00:04:31.680
+Because if you're an oil company, you're gonna make money even if you're a terrible manager, they're gonna go up like the green lines going up.
+
+52
+00:04:31.680 --> 00:04:42.400
+But there's this red line down there, which is all the rest, it's the remaining seven sectors of the SP, market cap weighted and so forth, and they're barely up this year.
+
+53
+00:04:42.400 --> 00:04:46.800
+If it was just those seven sectors, no one would be saying earnings are great.
+
+54
+00:04:46.800 --> 00:04:49.280
+Because they're up like six percent annualized year to date.
+
+55
+00:04:49.280 --> 00:04:55.920
+If you black back out inflation of three and a half to four, we're talking about two and a half percent real earnings growth.
+
+56
+00:04:55.920 --> 00:05:01.360
+No one would be celebrating that as some kind of overwhelming positive force.
+
+57
+00:05:01.360 --> 00:05:06.720
+And but if you look at SP overall, you average it, hey, we're doing great.
+
+58
+00:05:06.720 --> 00:05:07.840
+And that's what I'm saying.
+
+59
+00:05:07.840 --> 00:05:20.080
+I think I think we really need to separate these stories because if if I'm a policy official and I could do it, I'd be tightening on the blue and I'd be easing like a banjoe on the red.
+
+60
+00:05:20.080 --> 00:05:22.400
+Problem is we got no policies like that.
+
+61
+00:05:22.400 --> 00:05:24.480
+Not aggregate macro policies.
+
+62
+00:05:24.480 --> 00:05:30.680
+So uh we have to choose later next week, you know, whether we're gonna tighten or ease.
+
+63
+00:05:30.920 --> 00:05:45.720
+And I think there's too much calm, is I guess what I'm getting at, too much average analysis, which leads people to believe that you know a strong index can hide a much narrower earnings story.
+
+64
+00:05:45.720 --> 00:05:56.600
+On Masters of Scale, Axio's CEO Jim Vandehee describes the widening gap between aggressive AI adopters and companies trapped in the messy middle.
+
+65
+00:05:56.600 --> 00:06:03.240
+With bots stripping traffic from publishers almost overnight, this isn't a distant productivity debate.
+
+66
+00:06:03.240 --> 00:06:09.080
+It's already reshaping distribution and revenue.
+
+67
+00:06:09.800 --> 00:06:10.920
+Well, that's a lot of people.
+
+68
+00:06:10.920 --> 00:06:17.400
+You're talking about millions of people that were customers or coming to and tasting our content that no longer are.
+
+69
+00:06:17.400 --> 00:06:21.320
+And that happened almost overnight last couple of months.
+
+70
+00:06:21.320 --> 00:06:24.760
+Huge surge in the number of bots that are attacking websites.
+
+71
+00:06:24.760 --> 00:06:33.000
+There are these machines that are kind of hitting your site trying to get information, trying to get data, and they're kind of polluting the open web.
+
+72
+00:06:33.000 --> 00:06:34.040
+And that's new.
+
+73
+00:06:34.040 --> 00:06:36.040
+Okay, well, let's wrestle with that.
+
+74
+00:06:36.040 --> 00:06:46.680
+I think that's why there is a twilight zone feeling right now, where people are like they're hearing about this technology that could end humanity and it could you could start a business with one person.
+
+75
+00:06:46.680 --> 00:06:49.880
+And most people are like, I don't know, I don't really use it.
+
+76
+00:06:49.880 --> 00:06:52.360
+Or if I use it, it's kind of a glorified search engine.
+
+77
+00:06:52.360 --> 00:06:53.960
+Like, what's all the fuss about?
+
+78
+00:06:53.960 --> 00:07:03.160
+And I think the demarcation zone is people in companies that use it persistently and aggressively live in a different world right now than those that don't.
+
+79
+00:07:03.160 --> 00:07:08.720
+So if you go out to Silicon Valley, they feel like, oh my God, this is like 1999.
+
+80
+00:07:08.720 --> 00:07:10.120
+Like the world is changing.
+
+81
+00:07:10.120 --> 00:07:11.400
+I'm on the cutting edge.
+
+82
+00:07:11.400 --> 00:07:13.080
+Everything's about to explode.
+
+83
+00:07:13.080 --> 00:07:19.280
+But then you go to Toledo or you go to Topeka or you go to Oshkosh, and most people are like, I don't know, I'm just running my company, man.
+
+84
+00:07:19.440 --> 00:07:23.600
+I guess there's this new AI, and uh my employees are talking about it.
+
+85
+00:07:23.600 --> 00:07:26.160
+I'm sure we'll get to that one day soon.
+
+86
+00:07:26.160 --> 00:07:29.600
+And I think that's somewhat natural because it's a new technology.
+
+87
+00:07:29.600 --> 00:07:41.760
+Uh, I think introducing any kind of technology into an existing company is hard, because even if it's the coolest technology ever, you have to hook it up to all your clunky systems that you built over the last decade, and that's necessarily messy.
+
+88
+00:07:41.760 --> 00:07:45.120
+I call it the messy middle, which is where I think most companies are right now.
+
+89
+00:07:45.120 --> 00:07:53.440
+They're starting to use AI, they're prototyping, they're seeing the promise, and then they're realizing, oh crap, I gotta hook this up to my data reservoir.
+
+90
+00:07:53.440 --> 00:07:53.680
+Right.
+
+91
+00:07:53.680 --> 00:07:56.560
+This is a lot harder than I than I thought it was gonna be, right?
+
+92
+00:07:56.560 --> 00:07:58.240
+This is way harder than I thought.
+
+93
+00:07:58.240 --> 00:07:58.640
+Yeah.
+
+94
+00:07:58.640 --> 00:07:59.040
+Yeah.
+
+95
+00:07:59.040 --> 00:08:05.120
+So simplify opens with this this bracing line that AI isn't simplifying your life.
+
+96
+00:08:05.120 --> 00:08:08.640
+It's mass-producing more options, more decisions, more noise.
+
+97
+00:08:08.640 --> 00:08:14.800
+I I know I find myself sometimes falling into a rabbit hole as I explore new things with AI.
+
+98
+00:08:14.800 --> 00:08:21.680
+For media companies, waiting for clarity can mean losing the audience before the strategy is ready.
+
+99
+00:08:21.680 --> 00:08:34.080
+On the art of manliness, the conversation turns to AI as a complexity creation machine, multiplying presentations, emails, context, and demands on attention.
+
+100
+00:08:34.080 --> 00:08:42.960
+A useful counterpoint to today's platform announcements: more capability doesn't automatically mean less work.
+
+101
+00:08:45.040 --> 00:08:49.120
+How are you seeing AI increase the amount of complexity in our lives?
+
+102
+00:08:49.120 --> 00:08:53.680
+Because the idea, the selling point is AI is supposed to simplify our lives.
+
+103
+00:08:53.680 --> 00:08:57.920
+I think with time, AI might simplify our lives.
+
+104
+00:08:57.920 --> 00:09:03.400
+I think in the short term, it is the greatest complexity creation machine ever created.
+
+105
+00:09:03.400 --> 00:09:05.240
+And let me let me say why.
+
+106
+00:09:05.240 --> 00:09:07.240
+Because think about it at work.
+
+107
+00:09:07.240 --> 00:09:16.840
+Like, yes, if you really know how to use it with great expertise, and you're one of the one percent where it's a true force multiplier, it probably saves you time.
+
+108
+00:09:16.840 --> 00:09:23.240
+What is actually happening on the ground is now everybody can do better presentations, everybody can write more detailed memos.
+
+109
+00:09:23.240 --> 00:09:24.600
+So everybody is.
+
+110
+00:09:24.600 --> 00:09:37.320
+So suddenly we are all getting lit up with more presentations, with more emails, with more context, with more ideas at a time where we have less time to actually focus on it.
+
+111
+00:09:37.320 --> 00:09:50.840
+So unless you're really careful and you think about this almost like a system or an operating system or a mindset, you're just gonna end up in a bigger complexity trap than you were already caught in pre-AI.
+
+112
+00:09:50.840 --> 00:09:52.760
+Yeah, I've seen it in my own work.
+
+113
+00:09:52.760 --> 00:09:58.040
+So we get a lot of PR emails from people who want to be on the podcast.
+
+114
+00:09:58.040 --> 00:10:05.480
+And I'd say in the past year, the amount of those emails that we've gotten have increased probably 10x.
+
+115
+00:10:05.480 --> 00:10:06.760
+And I think it's AI.
+
+116
+00:10:06.760 --> 00:10:07.720
+It's all AI.
+
+117
+00:10:07.720 --> 00:10:13.240
+And again, like that's that's one example across one small part of your workday.
+
+118
+00:10:13.240 --> 00:10:17.640
+For most of us, we're getting hit with that from a hundred different directions.
+
+119
+00:10:17.640 --> 00:10:22.920
+You add that up and you end up wasting so much time.
+
+120
+00:10:22.920 --> 00:10:27.480
+Like the reason we wrote this book, I am not somebody, I think we talked about this a couple years ago.
+
+121
+00:10:27.480 --> 00:10:31.800
+I have no sort of egotistical scratch to itch in terms of writing books.
+
+122
+00:10:31.800 --> 00:10:37.800
+You know, I've reached a point in life, I'm 55, I've had some successes, I've won the lottery with my family.
+
+123
+00:10:37.800 --> 00:10:42.280
+So, like I'm playing with house money, and I want to like spend my time.
+
+124
+00:10:42.280 --> 00:10:44.440
+Like, how do you be useful to others?
+
+125
+00:10:44.440 --> 00:10:46.240
+And I think this book is useful.
+
+126
+00:10:44.600 --> 00:10:50.480
+I think about it with content, I think about it with time allocation.
+
+127
+00:10:46.240 --> 00:10:47.600
+I love that word useful.
+
+128
+00:10:51.840 --> 00:10:56.960
+When producing becomes nearly free, filtering becomes the real job.
+
+129
+00:10:58.960 --> 00:11:01.920
+That's the daily rundown for today.
+
+130
+00:11:01.920 --> 00:11:03.040
+Thanks for listening.
+
+131
+00:11:03.040 --> 00:11:04.880
+We'll be back tomorrow.

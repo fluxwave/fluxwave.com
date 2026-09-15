@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-15",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-15_20260915T200154Z_48612/clip_sources/3ca22c265b0cb9c6/01_Engineering_safeguards_for_agent_swarms_and_experi.mp3",
+      "source": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+      "start_time": 519,
+      "end_time": 650,
+      "topic": "Engineering safeguards for agent swarms and experimentally grown intelligence"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-15_20260915T200154Z_48612/clip_sources/a03a1655bdea24f4/01_Fed_hike_uncertainty_bond_yields_yield-curve_inver.mp3",
+      "source": "Jim Paulsen on the Weakening Economy, Tech Bear Market Risk and the Bull Market Built on Fear",
+      "start_time": 328,
+      "end_time": 451,
+      "topic": "Fed hike uncertainty, bond yields, yield-curve inversion, and market technical damage"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-15_20260915T200154Z_48612/clip_sources/d9806c705ee24e48/01_AI-driven_change_is_outpacing_conventional_busines.mp3",
+      "source": "Let\u2019s Kill Sh*t: Axios CEO on simplifying your work-life in the AI era",
+      "start_time": 307,
+      "end_time": 432,
+      "topic": "AI-driven change is outpacing conventional business planning"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-15_20260915T200154Z_48612/clip_sources/be2b26b187701fc5/01_A_monthly_employee_exercise_for_prioritizing_essen.mp3",
+      "source": "The 3-Step System for Simplifying Your Work and Life",
+      "start_time": 510,
+      "end_time": 633,
+      "topic": "A monthly employee exercise for prioritizing essential work, identifying waste, and finding tasks suitable for AI automation"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

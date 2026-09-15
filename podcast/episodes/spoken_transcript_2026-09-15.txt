@@ -1,0 +1,131 @@
+Sati and Adela on containing persistent AI agents.
+Jim Paulson on the earnings weakness hiding beneath the market.
+And two sharp warnings about AI making work messier before it gets simpler.
+For clips, all about what's happening below the surface of the AI boom.
+On all in, Microsoft CEO Satya Nadella explains why persistent agents raise the stakes on reward hacking, containment, and insider risk monitoring.
+As these systems get more autonomy, the old software question, fix the bug or accept the edge case, becomes a security decision.
+Yeah.
+Right?
+I mean, that's kind of like 101, right?
+Which is why on your face, you're like, you know, you have a bug.
+Um, what do you do?
+Do you stop and fix, or you defer, or you go in and say, hey, this is such an edge case?
+That's kind of the judgment.
+So I do think, and as the stakes go up, you want to like transaction processing.
+I remember working on databases, right?
+You know, wow.
+Like, you know, you gotta take very seriously any bug uh where if the transaction's gonna get lost, right?
+Data loss is a thing that you stop the thing for.
+So I feel a little bit culturally in the AI industry, rediscovering maybe, because when you see, and it's possible that they see stuff which are showstoppers before the rest.
+And if you see a showstopper, stop the show.
+Um, right?
+So fix the bugs.
+Yeah.
+But when you saw the the hugging face run, and it was super performative, dwarfesh did his whole post, civilizations.
+What do you think?
+W what what's your take on that test they ran?
+Because they could have run a test where they had 3,000 agents defend a bunch of websites.
+Instead, they instructed them to hack websites and you know, the hiding of information, all this anthropesizing, whatever of the agents.
+I mean, the way at least I understand it was it was actually, you know, basically trying to uh do an eval uh for Cyber Gym.
+And um, as I understand it, given that eval, it sort of figured out a way to say, let's just say reward a hack.
+Uh, and that's what led it to hugging phase.
+In fact, it speaks to I think what's the pre, you know, clear issue right now, which is you can have these things, if they're long-running persistent agents, uh, become essentially like new insider risk.
+Uh, and so that I would start from the very basics of saying, okay, what is containment look like?
+So, for example, like one of the things that I think is going to be really an issue and a thing that needs great solutions, is true aggressive monitoring of agent activity.
+Uh persistence changes the risk.
+An agent can carry a bad judgment into every task that follows.
+On excess returns, market strategist Jim Paulson breaks down weak earnings breadth beneath the headline numbers, with tech and telecom doing much of the lifting.
+That matters when broad monetary policy is supporting an economy whose sectors are moving in very different directions.
+But below that surface, it's really a uh uh two-prong, almost three-pronged story on earnings here.
+And that's what this chart brings out.
+What I got here is forward 12-month earnings per share for the blue line is for the technology and telecommunication sectors, kind of new era, which I call the brainiac earnings, you know, earnings that come out from somebody who really came up with something cool.
+Um, and they're just going gay busters, which everyone knows.
+Um, and then there's another part that doesn't get as much attention but should, and that's the green line.
+And that is those that are tied to energy commodity prices, basically, or commodity prices in general.
+And they're not a big part.
+The the blue line's about not quite 50% of the market cap.
+The the green line's only 5%, but it's up unbelievably over this period of time, and it's mainly up.
+We all know the reason because oil prices went up so much.
+Okay.
+And that's uh that's what I call the no-brainer earnings.
+Because if you're an oil company, you're gonna make money even if you're a terrible manager, they're gonna go up like the green lines going up.
+But there's this red line down there, which is all the rest, it's the remaining seven sectors of the SP, market cap weighted and so forth, and they're barely up this year.
+If it was just those seven sectors, no one would be saying earnings are great.
+Because they're up like six percent annualized year to date.
+If you black back out inflation of three and a half to four, we're talking about two and a half percent real earnings growth.
+No one would be celebrating that as some kind of overwhelming positive force.
+And but if you look at SP overall, you average it, hey, we're doing great.
+And that's what I'm saying.
+I think I think we really need to separate these stories because if if I'm a policy official and I could do it, I'd be tightening on the blue and I'd be easing like a banjoe on the red.
+Problem is we got no policies like that.
+Not aggregate macro policies.
+So uh we have to choose later next week, you know, whether we're gonna tighten or ease.
+And I think there's too much calm, is I guess what I'm getting at, too much average analysis, which leads people to believe that you know a strong index can hide a much narrower earnings story.
+On Masters of Scale, Axio's CEO Jim Vandehee describes the widening gap between aggressive AI adopters and companies trapped in the messy middle.
+With bots stripping traffic from publishers almost overnight, this isn't a distant productivity debate.
+It's already reshaping distribution and revenue.
+Well, that's a lot of people.
+You're talking about millions of people that were customers or coming to and tasting our content that no longer are.
+And that happened almost overnight last couple of months.
+Huge surge in the number of bots that are attacking websites.
+There are these machines that are kind of hitting your site trying to get information, trying to get data, and they're kind of polluting the open web.
+And that's new.
+Okay, well, let's wrestle with that.
+I think that's why there is a twilight zone feeling right now, where people are like they're hearing about this technology that could end humanity and it could you could start a business with one person.
+And most people are like, I don't know, I don't really use it.
+Or if I use it, it's kind of a glorified search engine.
+Like, what's all the fuss about?
+And I think the demarcation zone is people in companies that use it persistently and aggressively live in a different world right now than those that don't.
+So if you go out to Silicon Valley, they feel like, oh my God, this is like 1999.
+Like the world is changing.
+I'm on the cutting edge.
+Everything's about to explode.
+But then you go to Toledo or you go to Topeka or you go to Oshkosh, and most people are like, I don't know, I'm just running my company, man.
+I guess there's this new AI, and uh my employees are talking about it.
+I'm sure we'll get to that one day soon.
+And I think that's somewhat natural because it's a new technology.
+Uh, I think introducing any kind of technology into an existing company is hard, because even if it's the coolest technology ever, you have to hook it up to all your clunky systems that you built over the last decade, and that's necessarily messy.
+I call it the messy middle, which is where I think most companies are right now.
+They're starting to use AI, they're prototyping, they're seeing the promise, and then they're realizing, oh crap, I gotta hook this up to my data reservoir.
+Right.
+This is a lot harder than I than I thought it was gonna be, right?
+This is way harder than I thought.
+Yeah.
+Yeah.
+So simplify opens with this this bracing line that AI isn't simplifying your life.
+It's mass-producing more options, more decisions, more noise.
+I I know I find myself sometimes falling into a rabbit hole as I explore new things with AI.
+For media companies, waiting for clarity can mean losing the audience before the strategy is ready.
+On the art of manliness, the conversation turns to AI as a complexity creation machine, multiplying presentations, emails, context, and demands on attention.
+A useful counterpoint to today's platform announcements: more capability doesn't automatically mean less work.
+How are you seeing AI increase the amount of complexity in our lives?
+Because the idea, the selling point is AI is supposed to simplify our lives.
+I think with time, AI might simplify our lives.
+I think in the short term, it is the greatest complexity creation machine ever created.
+And let me let me say why.
+Because think about it at work.
+Like, yes, if you really know how to use it with great expertise, and you're one of the one percent where it's a true force multiplier, it probably saves you time.
+What is actually happening on the ground is now everybody can do better presentations, everybody can write more detailed memos.
+So everybody is.
+So suddenly we are all getting lit up with more presentations, with more emails, with more context, with more ideas at a time where we have less time to actually focus on it.
+So unless you're really careful and you think about this almost like a system or an operating system or a mindset, you're just gonna end up in a bigger complexity trap than you were already caught in pre-AI.
+Yeah, I've seen it in my own work.
+So we get a lot of PR emails from people who want to be on the podcast.
+And I'd say in the past year, the amount of those emails that we've gotten have increased probably 10x.
+And I think it's AI.
+It's all AI.
+And again, like that's that's one example across one small part of your workday.
+For most of us, we're getting hit with that from a hundred different directions.
+You add that up and you end up wasting so much time.
+Like the reason we wrote this book, I am not somebody, I think we talked about this a couple years ago.
+I have no sort of egotistical scratch to itch in terms of writing books.
+You know, I've reached a point in life, I'm 55, I've had some successes, I've won the lottery with my family.
+So, like I'm playing with house money, and I want to like spend my time.
+Like, how do you be useful to others?
+And I think this book is useful.
+I think about it with content, I think about it with time allocation.
+I love that word useful.
+When producing becomes nearly free, filtering becomes the real job.
+That's the daily rundown for today.
+Thanks for listening.
+We'll be back tomorrow.
