@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-14",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-14_20260915T115029Z_64483/clip_sources/d58a721968767d88/01_Persistent_organizational_context_numerical_verifi.mp3",
+      "source": "AI in the Investment Office \u2013 Abby Barlow, Laura Hill, Brian Sugrue, Jenny Heller, John Lawrence, Matt Bank, Kristin Kallergis Rowland, Jon Webster (EP.515)",
+      "start_time": 519,
+      "end_time": 708,
+      "topic": "Persistent organizational context, numerical verification, data privacy, and a future executive-assistant agent"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-14_20260915T115029Z_64483/clip_sources/20fd90c1f467e113/01_Why_Variational_uses_an_RFQ_broker_model_with_zero.mp3",
+      "source": "Lucas Schuermann \u2013\u00a0Swapping Out Perpetual Futures (S7E34)",
+      "start_time": 326,
+      "end_time": 449,
+      "topic": "Why Variational uses an RFQ broker model with zero maker and taker fees"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-14_20260915T115029Z_64483/clip_sources/981f67a3f66d189e/01_The_danger_of_outsourcing_values_to_bureaucracies.mp3",
+      "source": "Incentives Are for Losers (with Adam Mastroianni)",
+      "start_time": 668,
+      "end_time": 719,
+      "topic": "The danger of outsourcing values to bureaucracies, incentives, and ambient norms"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
