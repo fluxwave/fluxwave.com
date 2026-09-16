@@ -1,0 +1,405 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:09.280
+AI native CRMs, a sharp argument over extinction forecasts and the risks hiding inside leverage single stock ETFs.
+
+2
+00:00:09.280 --> 00:00:15.440
+Plus, Michael Moritz on how his two grandfathers responded to the rise of Nazi Germany.
+
+3
+00:00:17.360 --> 00:00:29.440
+On the A16Z podcast, the team behind an AI native CRM explains why useful agents need a high fidelity model of the business, not just a database and a prompt.
+
+4
+00:00:29.440 --> 00:00:36.880
+It's the infrastructure question behind today's push toward tool using AI.
+
+5
+00:00:36.960 --> 00:00:43.040
+Did you start off saying, I view Salesforce and HubSpot and other things, and here's what I want changed?
+
+6
+00:00:43.040 --> 00:00:46.640
+Or I guess how did you triangulate the job to be done?
+
+7
+00:00:46.720 --> 00:00:50.800
+Because in one hand, like a CRM is just a repository, right?
+
+8
+00:00:50.800 --> 00:00:53.120
+It's like customer relationship management.
+
+9
+00:00:53.120 --> 00:00:57.120
+Well, here's the repository of all the information, all the customer information.
+
+10
+00:00:57.120 --> 00:01:06.320
+But on the other hand, it's also like this if you've talked to anybody who's run a sales team, one of their biggest pain points is my stupid salespeople don't update the CRM.
+
+11
+00:01:06.320 --> 00:01:09.040
+And it's often a stale, you know, repository.
+
+12
+00:01:09.040 --> 00:01:15.280
+But I guess what were the governing principles, if you will, around what was broken with the world today?
+
+13
+00:01:15.280 --> 00:01:16.720
+What were you going to do differently?
+
+14
+00:01:16.720 --> 00:01:24.400
+Or was it like, let's just have people with negative pricing in my office and I'll figure out what they're complaining about and build around that.
+
+15
+00:01:24.480 --> 00:01:29.840
+I think um one of the things that benefited us was honestly how naive we were at the space.
+
+16
+00:01:29.840 --> 00:01:36.880
+Because if you're in sort of a growth stage company, the CRM is the tool that reps use to not forget things.
+
+17
+00:01:36.880 --> 00:01:37.280
+Right.
+
+18
+00:01:37.280 --> 00:01:40.400
+It's the tool that powers low-level automation.
+
+19
+00:01:40.400 --> 00:01:43.280
+Um, and it's also the tool that powers forecasts.
+
+20
+00:01:43.680 --> 00:01:50.080
+And I think um I think our naive view was actually the most important thing here is the latter.
+
+21
+00:01:50.080 --> 00:01:58.520
+You know, we if we can help you completely model your business and your customer reality, then the rest will be easy.
+
+22
+00:01:58.000 --> 00:02:05.000
+The real product then is the context that lets the agent act reliably.
+
+23
+00:02:05.960 --> 00:02:16.440
+Oxide and Friends examines an extinction forecast from a former anthropic employee and challenges the rhetoric used to frame catastrophic AI risk.
+
+24
+00:02:16.600 --> 00:02:23.640
+Worth hearing as new model launches keep capability and safety claims in the same conversation.
+
+25
+00:02:26.200 --> 00:02:29.960
+That's like listening to a podcast from 1970 and having it still age well.
+
+26
+00:02:29.960 --> 00:02:33.080
+Um and it ages really, really well is what I'm saying.
+
+27
+00:02:33.240 --> 00:02:34.440
+On a record, I like this.
+
+28
+00:02:34.440 --> 00:02:36.360
+It's like in the eight track from your podcast.
+
+29
+00:02:37.240 --> 00:02:44.120
+Put in the eight track with that podcast episode on it, and uh get in your T bird and you know, roll the windows down, man.
+
+30
+00:02:44.120 --> 00:02:48.280
+And because it crank that one, that is it is a classic track, is what that is.
+
+31
+00:02:48.520 --> 00:02:51.000
+Um, no, it has aged very well.
+
+32
+00:02:51.000 --> 00:02:57.800
+And I would also like to say that I gave then that in part based on that episode, that conversation kind of inspired me to give this talk at Monktoberfest.
+
+33
+00:02:57.800 --> 00:02:59.320
+Also aging very well.
+
+34
+00:02:59.320 --> 00:03:12.120
+So um I it was very nice to be able to point concerned folks, um, concerned and it just should be to give people a uh the context, and I would never read the tweet.
+
+35
+00:03:12.120 --> 00:03:27.960
+Um, the uh an exanthropic employee said that he felt there was a greater than 10% chance that we would have a human extinction at the hands of AI in the next 10 years, which is just uh it's bonkers.
+
+36
+00:03:27.960 --> 00:03:37.160
+So, you know, I feel like when we were having that discussion three years ago, you were kind of like, are we is this like we kind of tilting it when it's like, does anyone really believe this stuff that we are?
+
+37
+00:03:37.160 --> 00:03:38.840
+Um, but indeed they do.
+
+38
+00:03:38.840 --> 00:03:43.240
+So anyway, I I just want to say uh we did that was terrific.
+
+39
+00:03:43.240 --> 00:03:49.680
+Um I I really um that it was it was a great conversation, and it ages very well, is what I have to say.
+
+40
+00:03:49.680 --> 00:03:52.880
+And it also dovetails to today's discussion.
+
+41
+00:03:52.880 --> 00:04:05.520
+Because um the uh that discussion, my talk at Monktoberfest was all about the ways in which we still have very much have humanity in our engineering.
+
+42
+00:04:05.520 --> 00:04:14.720
+And I think that there's a lot of humanity in our engineering in just in our brains, but there's absolutely humanity in our engineering in terms of the physicality of the thing that we make.
+
+43
+00:04:14.720 --> 00:04:35.600
+And there is a huge gulf between uh the the kinds of things that we're asking an LOM to do in terms of language or code, and actually uh and I mean you can design, which is great, but when you forecast that extreme deserves scrutiny of both the evidence and the language.
+
+44
+00:04:35.600 --> 00:04:44.960
+Planet Money's two indicators looks at single stock leveraged ETFs tied to South Korea's AI memory chip boom.
+
+45
+00:04:44.960 --> 00:04:48.000
+Futures and leverage multiply the upside.
+
+46
+00:04:48.000 --> 00:05:04.160
+And when the chip trade reverses, the losses these look just like a normal ETF on the outside, except there's extra leverage, futures, and various other financial tricks on the inside to multiply your returns.
+
+47
+00:05:04.160 --> 00:05:06.240
+What could possibly go wrong?
+
+48
+00:05:06.240 --> 00:05:12.960
+Yeah, there's a downside is that if the ETF loses value, the losses are also magnified.
+
+49
+00:05:12.960 --> 00:05:16.800
+Now, these investments have been legal in the US since 2022.
+
+50
+00:05:16.800 --> 00:05:21.200
+South Korea wanted to keep up, so investors cut money in its stock market.
+
+51
+00:05:21.200 --> 00:05:30.520
+These ETFs became more popular in Korea as the value of those semiconductor companies grew, making up 20% of trading on the South Korean exchange on some days.
+
+52
+00:05:32.760 --> 00:05:34.760
+I call them weapons of self-destruction.
+
+53
+00:05:34.760 --> 00:05:38.840
+I don't I don't know why regulators uh approve these things.
+
+54
+00:05:38.840 --> 00:05:42.520
+His pessimistic view seems to hold in Korea at least.
+
+55
+00:05:42.520 --> 00:05:46.120
+The value of its stock market plummeted 40% at one point.
+
+56
+00:05:46.120 --> 00:05:52.360
+The companies still estimate booming demand for their memory chips, but investors got a little less excited.
+
+57
+00:05:52.360 --> 00:05:57.240
+The leverage bets started to unwind, and margin traders had to sell their investments.
+
+58
+00:06:41.240 --> 00:06:46.680
+The majority of these accounts belong to people under the age of 35, according to Citibank.
+
+59
+00:06:46.680 --> 00:06:52.200
+Younger people felt confident taking on a lot of risk and maybe had less experience in financial markets.
+
+60
+00:06:52.200 --> 00:06:53.480
+That's who got hurt.
+
+61
+00:06:53.480 --> 00:06:56.040
+Now, is there a lesson for the United States?
+
+62
+00:06:56.040 --> 00:06:58.440
+As we've discussed.
+
+63
+00:07:00.160 --> 00:07:03.600
+Can conceal a very different risk profile.
+
+64
+00:07:03.600 --> 00:07:14.000
+On Invest Like the Best, veteran investor and writer Michael Moritz recounts how his two grandfathers responded differently to the rise of Nazi Germany.
+
+65
+00:07:14.000 --> 00:07:22.560
+It's a personal story about judgment under pressure and the consequences of recognizing danger too late.
+
+66
+00:07:23.280 --> 00:07:25.920
+Maybe tell that story and explain what you learned from.
+
+67
+00:07:26.320 --> 00:07:34.480
+The two individuals, Patrick, that you referred to were my grandfathers, my maternal grandfather and my paternal grandfather.
+
+68
+00:07:34.480 --> 00:07:39.360
+I'll start with my paternal grandfather, who was a civil servant.
+
+69
+00:07:39.360 --> 00:07:46.560
+He was a sort of lower-level judge in the judiciary in Bavaria province in southern Germany.
+
+70
+00:07:46.560 --> 00:07:50.400
+He had fought in World War One.
+
+71
+00:07:50.400 --> 00:07:56.080
+He had somehow or other survived the horror of Verdun.
+
+72
+00:07:56.080 --> 00:08:07.600
+He had been given his iron cross, and he was, I think, a great believer in the German state, in the security that the state offered.
+
+73
+00:08:07.600 --> 00:08:12.960
+And then much later in 1933, he lost his job.
+
+74
+00:08:12.960 --> 00:08:18.640
+This is my assessment of the situation because he was a civil servant.
+
+75
+00:08:18.640 --> 00:08:33.840
+He was by nature conservative, by nature somewhat cautious, but also had this great belief in the state and the endurance of the state and the durability of the state, and that eventually the storm would blow over.
+
+76
+00:08:33.840 --> 00:08:39.680
+He also had a pension, and the pension was very important to him as a means for survival.
+
+77
+00:08:39.680 --> 00:08:43.040
+It was a combination of all of those things.
+
+78
+00:08:43.040 --> 00:08:52.560
+He wasn't oblivious, obviously, to what was happening around him, but it did make him more reluctant to leave Germany, I think, until it was too late.
+
+79
+00:08:52.560 --> 00:08:57.840
+And people forget, even if somebody had decided to leave Germany, there are all sorts of obstacles in the way.
+
+80
+00:08:57.840 --> 00:09:01.000
+He had to find a place elsewhere that would accept you.
+
+81
+00:09:01.160 --> 00:09:08.200
+You had to pay big taxes to the Nazi government in order to be able to secure your exit visas.
+
+82
+00:09:08.200 --> 00:09:09.960
+So there were all these sorts of obstacles.
+
+83
+00:09:09.960 --> 00:09:12.360
+So that was my paternal grandfather.
+
+84
+00:09:12.360 --> 00:09:18.520
+And he and his wife eventually were shipped off east and disappeared from history.
+
+85
+00:09:18.520 --> 00:09:22.120
+My maternal grandfather was cut from a different cloth.
+
+86
+00:09:22.120 --> 00:09:25.480
+I was too callous as a youth to really understand this.
+
+87
+00:09:25.480 --> 00:09:28.120
+But he died when I was about 16.
+
+88
+00:09:28.120 --> 00:09:36.520
+He had been a cattle trader, which was one of the occupations that Jews were really permitted to do in Germany.
+
+89
+00:09:36.520 --> 00:09:42.200
+But he was almost blind as a young man and completely blind by the time that I met him.
+
+90
+00:09:42.200 --> 00:09:53.080
+But somehow or other had been able to carve out a comfortable living for himself and his family by trading in cattle in a rural village in northwestern Germany.
+
+91
+00:09:53.080 --> 00:10:11.240
+My assessment of him in retrospect was that he was more street-wise, he was more entrepreneurial, wasn't burdened by the need to remain and collect a state pension because he had always been able to sustain himself and look out for his future.
+
+92
+00:10:11.240 --> 00:10:15.320
+And he got out with his wife, my grandmother.
+
+93
+00:10:15.320 --> 00:10:18.440
+But they got out by the skin of their teeth.
+
+94
+00:10:18.440 --> 00:10:23.160
+They got out 72 hours before war broke out.
+
+95
+00:10:23.160 --> 00:10:26.280
+72 hours later, they too would have perished.
+
+96
+00:10:26.280 --> 00:10:27.960
+What do you take from that?
+
+97
+00:10:27.960 --> 00:10:31.080
+What is the big lesson from that instinct?
+
+98
+00:10:31.080 --> 00:10:36.840
+How does that instinct imprint it on you and on the people you are?
+
+99
+00:10:36.840 --> 00:10:39.800
+That's today's Daily Rundown.
+
+100
+00:10:39.800 --> 00:10:41.080
+Thanks for listening.
+
+101
+00:10:41.080 --> 00:10:42.920
+We'll be back tomorrow.

@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-16",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-16_20260916T200131Z_52837/clip_sources/d2d3e02fcaa38a4e/01_Customer_discovery_reveals_fragmented_CRM_call-rec.mp3",
+      "source": "The AI-Native CRM",
+      "start_time": 321,
+      "end_time": 443,
+      "topic": "Customer discovery reveals fragmented CRM, call-recording, and warehouse data as the core AI bottleneck"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-16_20260916T200131Z_52837/clip_sources/46d46b21e5d61498/01_Why_physical_engineering_and_reliable_computer_man.mp3",
+      "source": "For Want of a Resistor",
+      "start_time": 555,
+      "end_time": 690,
+      "topic": "Why physical engineering and reliable computer manufacturing remain difficult for autonomous AI"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-16_20260916T200131Z_52837/clip_sources/6634c9bcba38f461/01_Margin_calls_force_mass_liquidations_despite_stron.mp3",
+      "source": "How investing is getting riskier (Two Indicators)",
+      "start_time": 374,
+      "end_time": 496,
+      "topic": "Margin calls force mass liquidations despite strong semiconductor fundamentals"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-16_20260916T200131Z_52837/clip_sources/a20840a3860622ef/01_Economic_distress_political_extremism_and_authorit.mp3",
+      "source": "Michael Moritz - Lessons From 40 Years of Investing and Writing - [Invest Like the Best, EP.491]",
+      "start_time": 761,
+      "end_time": 833,
+      "topic": "Economic distress, political extremism, and authoritarian risk"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

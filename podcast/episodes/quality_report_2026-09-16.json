@@ -1,0 +1,2370 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T20:18:55.124422+00:00",
+  "run_state": "completed",
+  "outcome": "ready",
+  "quality": "clean",
+  "status": "clean",
+  "publication_allowed": true,
+  "detector_version": "podcast-llm-ad-judge/1.4.1",
+  "ad_classifier": {
+    "authority": "llm",
+    "model": "openai/gpt-5.6-sol",
+    "version": "podcast-llm-ad-judge/1.4.1"
+  },
+  "providers": {
+    "tts": "edge-tts",
+    "tts_configured": "edge-tts",
+    "llm": "openclaw",
+    "llm_route": "openclaw-agent/codex-native",
+    "model": "openai/gpt-5.6-sol"
+  },
+  "assembly_manifest": [
+    {
+      "kind": "host_open",
+      "title": "",
+      "sha256": "bbf7c496a3965eb83c66cf02c615aa98b5bb3fa8a3930922ac02854a87dbba51",
+      "duration_s": 8.52
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_open",
+      "title": "",
+      "sha256": "c0204b360e73e2ff3be281f88b9457086325ba45029a5546189ca57510fbed73",
+      "duration_s": 5.856
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "host_intro_1",
+      "title": "",
+      "sha256": "dfb96a88c4666e7c4bfccb875ae6099893075e20845e91049f5bdb2b2729b7c1",
+      "duration_s": 11.256
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_1",
+      "title": "",
+      "sha256": "488266d7f6e1a08e988be3feaafe5f9bf7b3f31285c123389f97f74fffc1afa1",
+      "duration_s": 4.512
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "clip_1",
+      "title": "a16z Podcast \u2014 High-fidelity business world models as the foundation for prompts and tool-using agents",
+      "sha256": "3641f184d17795f1ef51bd0bdcad328b476261f327473ab72ad3ca0d7395c6f6",
+      "duration_s": 82.2
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "host_react_1",
+      "title": "",
+      "sha256": "b7b9afe56fd9620c6d2ab9fbbedea52b608459191cfa474811d4b49cde999601",
+      "duration_s": 5.184
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_2",
+      "title": "",
+      "sha256": "58bd31d77cf1106176529928aca6c15d434ffc19216abb8031b424ff1be86a65",
+      "duration_s": 9.696
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_2",
+      "title": "",
+      "sha256": "d87563b549eec15fa70da771662bdb8183b498185918d8ff37b11b49bd089f2c",
+      "duration_s": 6.888
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "clip_2",
+      "title": "Oxide and Friends \u2014 An Anthropic alumnus's extinction forecast and the hosts' critique of AI-risk rhetoric",
+      "sha256": "75ca24fb328df7f711219e831e7bd6663076da74c3f9306db7eb8992d2794e38",
+      "duration_s": 122.2
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "host_react_2",
+      "title": "",
+      "sha256": "04dcc8b593bf5027fc60cddcdf62b889172f0b33a5d016b889e793dfdf89436c",
+      "duration_s": 5.568
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_3",
+      "title": "",
+      "sha256": "ad98e7b7ad29fab84344813e505ffc87e4f4afd010cfff82c51e09bc74bdb3e1",
+      "duration_s": 8.352
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_3",
+      "title": "",
+      "sha256": "5af0757eb7179a2b03400ff3221e946a3bb82e75a9d6f66b700dde842e87c7a1",
+      "duration_s": 6.576
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "clip_3",
+      "title": "Planet Money \u2014 Single-stock leveraged ETFs amplify South Korea's AI-memory-chip boom and crash",
+      "sha256": "d4c21584f6ef563f448e700fa29a060fa0fd0f81833aaf7ec3c7347a279794f6",
+      "duration_s": 123.2
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "host_react_3",
+      "title": "",
+      "sha256": "c7787e2a6d1c5a61ac6af92b18b6957967c45569ed9438689b93c302af7fdf51",
+      "duration_s": 4.464
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_4",
+      "title": "",
+      "sha256": "d427ec9dae71b0a06732aa0f74f07a44304b2d1082928f7302693efb79c4cb73",
+      "duration_s": 9.48
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_intro_4",
+      "title": "",
+      "sha256": "e336c8c11f7a1795be8dd2fc45a73ea34b3dd60d93e0f749cd7cc5d0ed04a60d",
+      "duration_s": 6.384
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "clip_4",
+      "title": "Invest Like the Best with Patrick O'Shaughnessy \u2014 Two grandfathers\u2019 contrasting responses to the rise of Nazi Germany",
+      "sha256": "87078c45755e989bc31c2823492155e205351c878095f632768520c2ae52b7c8",
+      "duration_s": 191.2
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "2f6bd90fc9e979356e9f9bb46f62036ae1bd588ce81741afcfbaf6acea20c8d6",
+      "duration_s": 1.5
+    },
+    {
+      "kind": "host_close",
+      "title": "",
+      "sha256": "b33679bba210b659af8105448321b2be7ecef50e305432ba553718bbde5ccfe0",
+      "duration_s": 2.184
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    },
+    {
+      "kind": "host_close",
+      "title": "",
+      "sha256": "a41985725b955489e4628a01b96e9778221c78eb8e7c289a189516805e29576b",
+      "duration_s": 2.664
+    },
+    {
+      "kind": "pause",
+      "title": "",
+      "sha256": "64858fd66af5e33b5275aee39d87139bde32ab9ef01f0a49470be09bdb538a4c",
+      "duration_s": 0.8
+    }
+  ],
+  "failures": [],
+  "degraded_reasons": [],
+  "integrity": {
+    "status": "clean",
+    "errors": [],
+    "audio_duration_s": 643.388,
+    "duration_band": "target",
+    "clip_count": 4,
+    "unique_source_count": 4,
+    "chapter_count": 4
+  },
+  "clip_scans": [
+    {
+      "clip": "00_High-fidelity_business_world_models_as_the_foundat.mp3",
+      "source": "a16z Podcast",
+      "source_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6229af03-9c3d-49f0-b84c-fbbd1b7a789b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6229af03-9c3d-49f0-b84c-fbbd1b7a789b&feed=JGE3yC0V",
+      "source_audio_sha256": "f70a8314a329a6296b8fc751d5a8364c053d4fcddf01985f5bc1e76e9aa0cacc",
+      "source_ad_scan": {
+        "authority": "llm",
+        "classifier_version": "podcast-llm-ad-judge/1.4.1",
+        "classifier_model": "openai/gpt-5.6-sol",
+        "classifier_provider": "openclaw-agent/codex-native",
+        "schema_version": 1,
+        "audio_sha256": "f70a8314a329a6296b8fc751d5a8364c053d4fcddf01985f5bc1e76e9aa0cacc",
+        "transcript_sha256": "f98ff2eddc838c7c00de55747e17d88c9a058a4f766c4f1cec7d36785f66469c",
+        "asr_identity": "parakeet-mlx",
+        "segment_count": 700,
+        "input_order_normalized": true,
+        "status": "ad",
+        "reason": "llm_semantic_verdict",
+        "confidence": 0.99,
+        "summary": "Direct calls to try Lightfield and visit its website, followed by promotional calls to subscribe, review, share, follow, and access more A16Z content.",
+        "ad_ranges": [
+          {
+            "start_s": 3074.28,
+            "end_s": 3177.44,
+            "segment_ids": [
+              "s000682",
+              "s000683",
+              "s000684",
+              "s000685",
+              "s000686",
+              "s000692",
+              "s000693",
+              "s000694"
+            ],
+            "authority": "llm"
+          }
+        ],
+        "ad_segment_ids": [
+          "s000682",
+          "s000683",
+          "s000684",
+          "s000685",
+          "s000686",
+          "s000692",
+          "s000693",
+          "s000694"
+        ],
+        "chunk_verdicts": [
+          {
+            "chunk_index": 0,
+            "first_segment_id": "s000000",
+            "last_segment_id": "s000079",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.98,
+            "summary": "Editorial episode introduction and interview discussing Lightfield, Tome, and AI products without a promotional call to action, offer, or sponsorship message."
+          },
+          {
+            "chunk_index": 1,
+            "first_segment_id": "s000077",
+            "last_segment_id": "s000154",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial interview discussion about developing and testing a CRM product, with no sponsorship, promotional offer, or listener-directed call to action."
+          },
+          {
+            "chunk_index": 2,
+            "first_segment_id": "s000152",
+            "last_segment_id": "s000228",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.94,
+            "summary": "Editorial interview discussing Lightfield's CRM architecture and product workflows without sponsorship disclosure, offer, promo code, or promotional call to action."
+          },
+          {
+            "chunk_index": 3,
+            "first_segment_id": "s000226",
+            "last_segment_id": "s000301",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.96,
+            "summary": "Editorial interview discussing Lightfield's product, customers, and business strategy without sponsorship disclosure, offer, promo code, or promotional call to action."
+          },
+          {
+            "chunk_index": 4,
+            "first_segment_id": "s000299",
+            "last_segment_id": "s000372",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.98,
+            "summary": "Editorial interview discussion about CRM products, customer adoption, and product design without a promotional call to action or identifiable ad insertion."
+          },
+          {
+            "chunk_index": 5,
+            "first_segment_id": "s000370",
+            "last_segment_id": "s000449",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.93,
+            "summary": "Editorial interview discussion of Lightfield's product design, workflows, customer use, and pricing, with no sponsorship disclosure, offer, promo code, or promotional call to action."
+          },
+          {
+            "chunk_index": 6,
+            "first_segment_id": "s000447",
+            "last_segment_id": "s000522",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.98,
+            "summary": "Editorial interview discussion about Lightfield's pricing model, product workflows, outcomes, and company operations; no sponsorship, promotional call to action, or offer."
+          },
+          {
+            "chunk_index": 7,
+            "first_segment_id": "s000520",
+            "last_segment_id": "s000577",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.98,
+            "summary": "Editorial interview discussion about Lightfield's organization, product strategy, customers, and the broader AI market, with no sponsorship disclosure, offer, promo code, or promotional call to action."
+          },
+          {
+            "chunk_index": 8,
+            "first_segment_id": "s000575",
+            "last_segment_id": "s000651",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.98,
+            "summary": "Editorial interview discussion about CRM adoption, customer trust, and company strategy without a sponsorship disclosure, offer, promo code, or promotional call to action."
+          },
+          {
+            "chunk_index": 9,
+            "first_segment_id": "s000649",
+            "last_segment_id": "s000699",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000682",
+              "s000683",
+              "s000684",
+              "s000685",
+              "s000686",
+              "s000692",
+              "s000693",
+              "s000694"
+            ],
+            "confidence": 0.99,
+            "summary": "Enthusiastic product endorsement with a direct call to try Lightfield and visit its website, followed by calls to like, subscribe, review, share, follow, and access more A16Z content."
+          }
+        ],
+        "chunk_count": 10,
+        "semantic_retry_used": false,
+        "formatting_retry_count": 0,
+        "initial_final_verdict": null,
+        "publication_eligible": false,
+        "decision_key": "701cc3d4dc2dda4f7a48c65dd5351984c5b922ab25ecbae8508c96d65c6a5d46",
+        "decision_sha256": "e0cd6a43627728e99b53f713b2bceea246ec73ea0fd7df61d2eac760182f7132",
+        "gateway_metadata": [
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16316,
+              "output": 88,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "reasoningTokens": 35,
+              "total": 16404
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16352,
+              "output": 49,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16401
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 5989,
+              "output": 137,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "reasoningTokens": 85,
+              "total": 16494
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6095,
+              "output": 106,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "reasoningTokens": 52,
+              "total": 16569
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16517,
+              "output": 87,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "reasoningTokens": 37,
+              "total": 16604
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16502,
+              "output": 148,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "reasoningTokens": 88,
+              "total": 16650
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16474,
+              "output": 54,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16528
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16325,
+              "output": 91,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "reasoningTokens": 29,
+              "total": 16416
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16553,
+              "output": 111,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "reasoningTokens": 56,
+              "total": 16664
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 15508,
+              "output": 190,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "reasoningTokens": 91,
+              "total": 15698
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 14019,
+              "output": 88,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 14107
+            }
+          }
+        ],
+        "cache_hit": false,
+        "generated_at": "2026-09-16T20:05:14.466000+00:00"
+      },
+      "expected_transcript_overlap": 1.0,
+      "authority": "llm",
+      "classifier_version": "podcast-llm-ad-judge/1.4.1",
+      "classifier_model": "openai/gpt-5.6-sol",
+      "classifier_provider": "openclaw-agent/codex-native",
+      "schema_version": 1,
+      "audio_sha256": "682b9c8fa8a52b18429c69e0da4447aec25bbe71f8d3658fce75340fd179aea9",
+      "transcript_sha256": "1ed81c55b2105b67d896d6d92489daa602773a31c446dd517e66124198f635d6",
+      "asr_identity": "parakeet-mlx",
+      "segment_count": 16,
+      "input_order_normalized": false,
+      "status": "clean",
+      "reason": "llm_semantic_verdict",
+      "confidence": 0.99,
+      "summary": "The transcript contains editorial discussion only, with no commercial pitch, sponsorship, affiliate offer, house ad, or promotional call to action.",
+      "ad_ranges": [],
+      "ad_segment_ids": [],
+      "chunk_verdicts": [
+        {
+          "chunk_index": 0,
+          "first_segment_id": "s000000",
+          "last_segment_id": "s000015",
+          "verdict": "clean",
+          "ad_segment_ids": [],
+          "confidence": 0.99,
+          "summary": "Editorial discussion about CRM shortcomings and product-design principles, with no promotional call to action or identifiable commercial pitch."
+        }
+      ],
+      "chunk_count": 1,
+      "semantic_retry_used": false,
+      "formatting_retry_count": 0,
+      "initial_final_verdict": null,
+      "publication_eligible": true,
+      "decision_key": "7ba36ffeb192e8251ff7aa0fd467e78e1bb99595bae1d700817436b15a129592",
+      "decision_sha256": "e1937d6873be0c17fbf1c886a774f70854b6f334adb0debd3b7b3fe1b791bf53",
+      "gateway_metadata": [
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 3585,
+            "output": 45,
+            "cacheRead": 10368,
+            "cacheWrite": 0,
+            "total": 13998
+          }
+        },
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 13360,
+            "output": 50,
+            "cacheRead": 0,
+            "cacheWrite": 0,
+            "total": 13410
+          }
+        }
+      ],
+      "cache_hit": false,
+      "generated_at": "2026-09-16T20:17:24.330394+00:00",
+      "detector_version": "podcast-llm-ad-judge/1.4.1",
+      "ad_classifier": {
+        "authority": "llm",
+        "model": "openai/gpt-5.6-sol",
+        "version": "podcast-llm-ad-judge/1.4.1"
+      },
+      "audio_duration_s": 82.2
+    },
+    {
+      "clip": "00_An_Anthropic_alumnuss_extinction_forecast_and_the.mp3",
+      "source": "Oxide and Friends",
+      "source_url": "https://media.transistor.fm/27f44a32/c648798d.mp3",
+      "source_audio_sha256": "a1233a2a3365f84cbc5ac9d09958a86daf460529a6cbfec52ad3fdd8b6a8261c",
+      "source_ad_scan": {
+        "authority": "llm",
+        "classifier_version": "podcast-llm-ad-judge/1.4.1",
+        "classifier_model": "openai/gpt-5.6-sol",
+        "classifier_provider": "openclaw-agent/codex-native",
+        "schema_version": 1,
+        "audio_sha256": "a1233a2a3365f84cbc5ac9d09958a86daf460529a6cbfec52ad3fdd8b6a8261c",
+        "transcript_sha256": "f38946eb5ea8fa5c4af350f2a2166f08d0d0d53c0b33d4894023d1a74c7c2fdb",
+        "asr_identity": "parakeet-mlx",
+        "segment_count": 848,
+        "input_order_normalized": true,
+        "status": "clean",
+        "reason": "llm_semantic_verdict",
+        "confidence": 0.99,
+        "summary": "All chunks consistently describe editorial or technical discussion without sponsorships, commercial pitches, offers, or promotional calls to action.",
+        "ad_ranges": [],
+        "ad_segment_ids": [],
+        "chunk_verdicts": [
+          {
+            "chunk_index": 0,
+            "first_segment_id": "s000000",
+            "last_segment_id": "s000074",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial podcast conversation and guest introduction without a commercial pitch, sponsorship, offer, or promotional call to action."
+          },
+          {
+            "chunk_index": 1,
+            "first_segment_id": "s000072",
+            "last_segment_id": "s000146",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.98,
+            "summary": "Editorial discussion references and praises a prior episode, talk, and blog post without a promotional call to action."
+          },
+          {
+            "chunk_index": 2,
+            "first_segment_id": "s000144",
+            "last_segment_id": "s000223",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion about AI hallucination and a transition into a technical conversation; no sponsorship, commercial pitch, promo offer, or promotional call to action."
+          },
+          {
+            "chunk_index": 3,
+            "first_segment_id": "s000221",
+            "last_segment_id": "s000283",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial technical discussion of component supply constraints and PCIe clock-buffer operation, with no sponsorship, promotional offer, or call to action."
+          },
+          {
+            "chunk_index": 4,
+            "first_segment_id": "s000281",
+            "last_segment_id": "s000327",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial technical discussion about procurement, component shortages, and replacement parts; no sponsorship, commercial pitch, or promotional call to action."
+          },
+          {
+            "chunk_index": 5,
+            "first_segment_id": "s000325",
+            "last_segment_id": "s000378",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial technical discussion of component supply-chain constraints, substitutions, availability, and pricing; no sponsorship, promotional offer, or listener call to action."
+          },
+          {
+            "chunk_index": 6,
+            "first_segment_id": "s000376",
+            "last_segment_id": "s000444",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial technical discussion about component sourcing, circuit design, clock drivers, and signal termination; no promotional call to action or commercial pitch."
+          },
+          {
+            "chunk_index": 7,
+            "first_segment_id": "s000442",
+            "last_segment_id": "s000519",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Technical editorial discussion about diagnosing and reworking server-board clock circuitry; no sponsorship, commercial pitch, promotional offer, or call to action."
+          },
+          {
+            "chunk_index": 8,
+            "first_segment_id": "s000517",
+            "last_segment_id": "s000582",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Technical editorial discussion about circuit-board resistor selection and rework, with no sponsorship, commercial pitch, or promotional call to action."
+          },
+          {
+            "chunk_index": 9,
+            "first_segment_id": "s000580",
+            "last_segment_id": "s000652",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion of Oxide's hardware supply and engineering challenges; no paid promotion or promotional call to action."
+          },
+          {
+            "chunk_index": 10,
+            "first_segment_id": "s000650",
+            "last_segment_id": "s000729",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial technical discussion of diagnosing a hardware fault; company and equipment references are incidental and contain no promotional call to action."
+          },
+          {
+            "chunk_index": 11,
+            "first_segment_id": "s000727",
+            "last_segment_id": "s000794",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial technical discussion about hardware manufacturing, component failures, debugging, and supply logistics; no sponsorship, promotional offer, or call to action."
+          },
+          {
+            "chunk_index": 12,
+            "first_segment_id": "s000792",
+            "last_segment_id": "s000847",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial discussion of a manufacturing problem, teamwork, vendor relationships, and podcast scheduling; no promotional call to action or commercial pitch."
+          }
+        ],
+        "chunk_count": 13,
+        "semantic_retry_used": false,
+        "formatting_retry_count": 0,
+        "initial_final_verdict": null,
+        "publication_eligible": true,
+        "decision_key": "1a46749fd0ddf1a8afb4feb163dc17eaeee1b9b5e1f6ba2a5b327dcb1bf00b56",
+        "decision_sha256": "3828405bcdd5f1eb221294b793850aaf43232baa10e0b77629f54b59d5e15adf",
+        "gateway_metadata": [
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6026,
+              "output": 45,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16439
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16412,
+              "output": 45,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16457
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16569,
+              "output": 53,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16622
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6002,
+              "output": 50,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16420
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16276,
+              "output": 49,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16325
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 5936,
+              "output": 52,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16356
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16449,
+              "output": 50,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16499
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16551,
+              "output": 51,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16602
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6140,
+              "output": 49,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16557
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16547,
+              "output": 45,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16592
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6162,
+              "output": 47,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16577
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16415,
+              "output": 51,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16466
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16234,
+              "output": 49,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16283
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 14143,
+              "output": 47,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 14190
+            }
+          }
+        ],
+        "cache_hit": false,
+        "generated_at": "2026-09-16T20:09:17.830234+00:00"
+      },
+      "expected_transcript_overlap": 0.96,
+      "authority": "llm",
+      "classifier_version": "podcast-llm-ad-judge/1.4.1",
+      "classifier_model": "openai/gpt-5.6-sol",
+      "classifier_provider": "openclaw-agent/codex-native",
+      "schema_version": 1,
+      "audio_sha256": "bb209dcffae1b0c1959841139b7c71ac3baaacbfb34feadf169fa1130f2d819a",
+      "transcript_sha256": "1d81f5375fa1255043bfa4e52b4702eece4c769aca63bfce1fd0f17a79641d15",
+      "asr_identity": "parakeet-mlx",
+      "segment_count": 17,
+      "input_order_normalized": false,
+      "status": "clean",
+      "reason": "llm_semantic_verdict",
+      "confidence": 0.99,
+      "summary": "Editorial discussion only, with no promotional call to action or commercial pitch.",
+      "ad_ranges": [],
+      "ad_segment_ids": [],
+      "chunk_verdicts": [
+        {
+          "chunk_index": 0,
+          "first_segment_id": "s000000",
+          "last_segment_id": "s000016",
+          "verdict": "clean",
+          "ad_segment_ids": [],
+          "confidence": 0.99,
+          "summary": "Editorial discussion reflecting on a prior podcast conversation and related conference talk, with no promotional call to action or commercial pitch."
+        }
+      ],
+      "chunk_count": 1,
+      "semantic_retry_used": false,
+      "formatting_retry_count": 0,
+      "initial_final_verdict": null,
+      "publication_eligible": true,
+      "decision_key": "9f04a7c852c8c9fde9d43d31c0513b0d8c57d410e40e7a47cc87bfdbacc25d12",
+      "decision_sha256": "e7d7da3b64377bbc8897a268ea358a7df414223bb3139edbc1e292871d1af831",
+      "gateway_metadata": [
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 3771,
+            "output": 47,
+            "cacheRead": 10368,
+            "cacheWrite": 0,
+            "total": 14186
+          }
+        },
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 2994,
+            "output": 38,
+            "cacheRead": 10368,
+            "cacheWrite": 0,
+            "total": 13400
+          }
+        }
+      ],
+      "cache_hit": false,
+      "generated_at": "2026-09-16T20:17:39.141218+00:00",
+      "detector_version": "podcast-llm-ad-judge/1.4.1",
+      "ad_classifier": {
+        "authority": "llm",
+        "model": "openai/gpt-5.6-sol",
+        "version": "podcast-llm-ad-judge/1.4.1"
+      },
+      "audio_duration_s": 122.2
+    },
+    {
+      "clip": "00_Single-stock_leveraged_ETFs_amplify_South_Koreas_A.mp3",
+      "source": "Planet Money",
+      "source_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127",
+      "source_audio_sha256": "40e0349f314735cd64b94fa76e97ed7a1bbf6da11411e7a8cb94785a92cce771",
+      "source_ad_scan": {
+        "authority": "llm",
+        "classifier_version": "podcast-llm-ad-judge/1.4.1",
+        "classifier_model": "openai/gpt-5.6-sol",
+        "classifier_provider": "openclaw-agent/codex-native",
+        "schema_version": 1,
+        "audio_sha256": "40e0349f314735cd64b94fa76e97ed7a1bbf6da11411e7a8cb94785a92cce771",
+        "transcript_sha256": "f5042ae7f6134d0d990ed3905cee57f4dfb334d1ca543a1c5cb344b0fe16b440",
+        "asr_identity": "parakeet-mlx",
+        "segment_count": 307,
+        "input_order_normalized": true,
+        "status": "ad",
+        "reason": "llm_semantic_verdict",
+        "confidence": 1.0,
+        "summary": "The transcript contains paid sponsor messages and promotional calls to visit, apply, buy, subscribe, or listen.",
+        "ad_ranges": [
+          {
+            "start_s": 0.0,
+            "end_s": 74.28,
+            "segment_ids": [
+              "s000000",
+              "s000001",
+              "s000002"
+            ],
+            "authority": "llm"
+          },
+          {
+            "start_s": 110.0,
+            "end_s": 215.76,
+            "segment_ids": [
+              "s000031",
+              "s000032",
+              "s000033",
+              "s000034",
+              "s000035",
+              "s000036",
+              "s000037",
+              "s000038",
+              "s000039",
+              "s000040",
+              "s000041",
+              "s000042",
+              "s000043"
+            ],
+            "authority": "llm"
+          },
+          {
+            "start_s": 601.88,
+            "end_s": 761.64,
+            "segment_ids": [
+              "s000142",
+              "s000143",
+              "s000144",
+              "s000145",
+              "s000146",
+              "s000147",
+              "s000148",
+              "s000149",
+              "s000150",
+              "s000151",
+              "s000152",
+              "s000153",
+              "s000154",
+              "s000155",
+              "s000156",
+              "s000157",
+              "s000158",
+              "s000159",
+              "s000160",
+              "s000161",
+              "s000162",
+              "s000163",
+              "s000164"
+            ],
+            "authority": "llm"
+          },
+          {
+            "start_s": 1177.16,
+            "end_s": 1364.04,
+            "segment_ids": [
+              "s000272",
+              "s000273",
+              "s000274",
+              "s000275",
+              "s000276",
+              "s000277",
+              "s000288",
+              "s000289",
+              "s000290",
+              "s000291",
+              "s000292",
+              "s000293",
+              "s000294",
+              "s000295",
+              "s000296",
+              "s000297",
+              "s000298",
+              "s000299",
+              "s000300",
+              "s000301",
+              "s000302",
+              "s000303",
+              "s000304",
+              "s000305",
+              "s000306"
+            ],
+            "authority": "llm"
+          }
+        ],
+        "ad_segment_ids": [
+          "s000000",
+          "s000001",
+          "s000002",
+          "s000031",
+          "s000032",
+          "s000033",
+          "s000034",
+          "s000035",
+          "s000036",
+          "s000037",
+          "s000038",
+          "s000039",
+          "s000040",
+          "s000041",
+          "s000042",
+          "s000043",
+          "s000142",
+          "s000143",
+          "s000144",
+          "s000145",
+          "s000146",
+          "s000147",
+          "s000148",
+          "s000149",
+          "s000150",
+          "s000151",
+          "s000152",
+          "s000153",
+          "s000154",
+          "s000155",
+          "s000156",
+          "s000157",
+          "s000158",
+          "s000159",
+          "s000160",
+          "s000161",
+          "s000162",
+          "s000163",
+          "s000164",
+          "s000272",
+          "s000273",
+          "s000274",
+          "s000275",
+          "s000276",
+          "s000277",
+          "s000288",
+          "s000289",
+          "s000290",
+          "s000291",
+          "s000292",
+          "s000293",
+          "s000294",
+          "s000295",
+          "s000296",
+          "s000297",
+          "s000298",
+          "s000299",
+          "s000300",
+          "s000301",
+          "s000302",
+          "s000303",
+          "s000304",
+          "s000305",
+          "s000306"
+        ],
+        "chunk_verdicts": [
+          {
+            "chunk_index": 0,
+            "first_segment_id": "s000000",
+            "last_segment_id": "s000079",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000000",
+              "s000001",
+              "s000002",
+              "s000031",
+              "s000032",
+              "s000033",
+              "s000034",
+              "s000035",
+              "s000036",
+              "s000037",
+              "s000038",
+              "s000039",
+              "s000040",
+              "s000041",
+              "s000042",
+              "s000043"
+            ],
+            "confidence": 1.0,
+            "summary": "Paid sponsor messages promote Easy Cater, Schwab, and Ethos, including commercial descriptions and calls to visit or apply."
+          },
+          {
+            "chunk_index": 1,
+            "first_segment_id": "s000077",
+            "last_segment_id": "s000155",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000142",
+              "s000143",
+              "s000144",
+              "s000145",
+              "s000146",
+              "s000147",
+              "s000148",
+              "s000149",
+              "s000150",
+              "s000151",
+              "s000152",
+              "s000153",
+              "s000154",
+              "s000155"
+            ],
+            "confidence": 1.0,
+            "summary": "Explicit sponsor messages promote Schwab investing services and Ethos life insurance with application and quote calls to action; the final segment introduces additional sponsor support from Lexus Broadway in Boston."
+          },
+          {
+            "chunk_index": 2,
+            "first_segment_id": "s000153",
+            "last_segment_id": "s000229",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000153",
+              "s000154",
+              "s000155",
+              "s000156",
+              "s000157",
+              "s000158",
+              "s000159",
+              "s000160",
+              "s000161",
+              "s000162",
+              "s000163",
+              "s000164"
+            ],
+            "confidence": 0.99,
+            "summary": "Commercial calls to action for Ethos and a sponsored musical promotion are followed by an NPR house ad urging listeners to listen to Up First; later betting references are editorial reporting."
+          },
+          {
+            "chunk_index": 3,
+            "first_segment_id": "s000227",
+            "last_segment_id": "s000306",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000272",
+              "s000273",
+              "s000274",
+              "s000275",
+              "s000276",
+              "s000277",
+              "s000288",
+              "s000289",
+              "s000290",
+              "s000291",
+              "s000292",
+              "s000293",
+              "s000294",
+              "s000295",
+              "s000296",
+              "s000297",
+              "s000298",
+              "s000299",
+              "s000300",
+              "s000301",
+              "s000302",
+              "s000303",
+              "s000304",
+              "s000305",
+              "s000306"
+            ],
+            "confidence": 0.99,
+            "summary": "Promotional calls to buy/review the Planet Money book, subscribe to The Indicator, listen to Fresh Air and Life Kit, followed by a paid Capital One banking message."
+          }
+        ],
+        "chunk_count": 4,
+        "semantic_retry_used": false,
+        "formatting_retry_count": 0,
+        "initial_final_verdict": null,
+        "publication_eligible": false,
+        "decision_key": "1ff9f60256011a8c7612532c3390654a8e77b8f53b97ec11a17fd224ea61e0cc",
+        "decision_sha256": "55daafbf99bc16aca4c45b77d1a67c0b14876630d6ea15d8408f1b57e7cbbb34",
+        "gateway_metadata": [
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 5824,
+              "output": 112,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16304
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 5946,
+              "output": 191,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "reasoningTokens": 75,
+              "total": 16505
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6182,
+              "output": 187,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "reasoningTokens": 79,
+              "total": 16737
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16434,
+              "output": 158,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16592
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 3487,
+              "output": 332,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "reasoningTokens": 29,
+              "total": 14187
+            }
+          }
+        ],
+        "cache_hit": false,
+        "generated_at": "2026-09-16T20:14:49.866438+00:00"
+      },
+      "expected_transcript_overlap": 1.0,
+      "authority": "llm",
+      "classifier_version": "podcast-llm-ad-judge/1.4.1",
+      "classifier_model": "openai/gpt-5.6-sol",
+      "classifier_provider": "openclaw-agent/codex-native",
+      "schema_version": 1,
+      "audio_sha256": "da32ba17258cba54aad0db67052e4dbfe9eee5e4a5aad0d100017f6dbf52c576",
+      "transcript_sha256": "19c6f6177e2e60b9ff275dee16324d7d111e1ee9669318539ff24654e5c5a92f",
+      "asr_identity": "parakeet-mlx",
+      "segment_count": 24,
+      "input_order_normalized": false,
+      "status": "clean",
+      "reason": "llm_semantic_verdict",
+      "confidence": 0.99,
+      "summary": "The complete transcript contains only editorial reporting and criticism, with no commercial pitch or promotional call to action.",
+      "ad_ranges": [],
+      "ad_segment_ids": [],
+      "chunk_verdicts": [
+        {
+          "chunk_index": 0,
+          "first_segment_id": "s000000",
+          "last_segment_id": "s000023",
+          "verdict": "clean",
+          "ad_segment_ids": [],
+          "confidence": 0.99,
+          "summary": "Editorial reporting and criticism about leveraged ETFs and South Korean markets, with no promotional call to action or commercial pitch."
+        }
+      ],
+      "chunk_count": 1,
+      "semantic_retry_used": false,
+      "formatting_retry_count": 0,
+      "initial_final_verdict": null,
+      "publication_eligible": true,
+      "decision_key": "0cb5c382ec201c346c8b4c5f136b83c06571e8857b69828af5a18d0e65bf9cb8",
+      "decision_sha256": "baedeb4be1fa87d24f3444272ce8505b78b18e7cd883e617c4eda0512a8a0112",
+      "gateway_metadata": [
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 3872,
+            "output": 46,
+            "cacheRead": 10368,
+            "cacheWrite": 0,
+            "total": 14286
+          }
+        },
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 13361,
+            "output": 44,
+            "cacheRead": 0,
+            "cacheWrite": 0,
+            "total": 13405
+          }
+        }
+      ],
+      "cache_hit": false,
+      "generated_at": "2026-09-16T20:17:54.847277+00:00",
+      "detector_version": "podcast-llm-ad-judge/1.4.1",
+      "ad_classifier": {
+        "authority": "llm",
+        "model": "openai/gpt-5.6-sol",
+        "version": "podcast-llm-ad-judge/1.4.1"
+      },
+      "audio_duration_s": 123.2
+    },
+    {
+      "clip": "00_Two_grandfathers_contrasting_responses_to_the_rise.mp3",
+      "source": "Invest Like the Best with Patrick O'Shaughnessy",
+      "source_url": "https://traffic.megaphone.fm/CLS6587705018.mp3",
+      "source_audio_sha256": "b4fd8cab1e617d6cde8de234e59c1c98b0530e230f1a154fec75f21d046e2cf7",
+      "source_ad_scan": {
+        "authority": "llm",
+        "classifier_version": "podcast-llm-ad-judge/1.4.1",
+        "classifier_model": "openai/gpt-5.6-sol",
+        "classifier_provider": "openclaw-agent/codex-native",
+        "schema_version": 1,
+        "audio_sha256": "b4fd8cab1e617d6cde8de234e59c1c98b0530e230f1a154fec75f21d046e2cf7",
+        "transcript_sha256": "13aa81cd448532851f66f92766b232553b7703c5ded3f03a8c498ed84c058079",
+        "asr_identity": "parakeet-mlx",
+        "segment_count": 774,
+        "input_order_normalized": true,
+        "status": "ad",
+        "reason": "llm_semantic_verdict",
+        "confidence": 1.0,
+        "summary": "Multiple commercial pitches and promotional calls to action advertise sponsors and direct listeners to websites, trials, demos, discounts, and subscriptions.",
+        "ad_ranges": [
+          {
+            "start_s": 0.0,
+            "end_s": 191.84,
+            "segment_ids": [
+              "s000000",
+              "s000001",
+              "s000002",
+              "s000003",
+              "s000004",
+              "s000005",
+              "s000006",
+              "s000007",
+              "s000008",
+              "s000009",
+              "s000010",
+              "s000011",
+              "s000012",
+              "s000013",
+              "s000014",
+              "s000015",
+              "s000016",
+              "s000017",
+              "s000022"
+            ],
+            "authority": "llm"
+          },
+          {
+            "start_s": 912.8,
+            "end_s": 1053.44,
+            "segment_ids": [
+              "s000128",
+              "s000129",
+              "s000130",
+              "s000131",
+              "s000132",
+              "s000133",
+              "s000134",
+              "s000135",
+              "s000136",
+              "s000137"
+            ],
+            "authority": "llm"
+          },
+          {
+            "start_s": 3307.64,
+            "end_s": 3431.24,
+            "segment_ids": [
+              "s000550",
+              "s000551",
+              "s000552",
+              "s000553",
+              "s000554",
+              "s000555",
+              "s000556",
+              "s000557",
+              "s000558",
+              "s000559",
+              "s000560",
+              "s000561",
+              "s000562",
+              "s000563"
+            ],
+            "authority": "llm"
+          },
+          {
+            "start_s": 4314.92,
+            "end_s": 4477.92,
+            "segment_ids": [
+              "s000752",
+              "s000753",
+              "s000754",
+              "s000755",
+              "s000756",
+              "s000757",
+              "s000758",
+              "s000759",
+              "s000760",
+              "s000761",
+              "s000762",
+              "s000763",
+              "s000764",
+              "s000765",
+              "s000766",
+              "s000767",
+              "s000768",
+              "s000769",
+              "s000770",
+              "s000771",
+              "s000772",
+              "s000773"
+            ],
+            "authority": "llm"
+          }
+        ],
+        "ad_segment_ids": [
+          "s000000",
+          "s000001",
+          "s000002",
+          "s000003",
+          "s000004",
+          "s000005",
+          "s000006",
+          "s000007",
+          "s000008",
+          "s000009",
+          "s000010",
+          "s000011",
+          "s000012",
+          "s000013",
+          "s000014",
+          "s000015",
+          "s000016",
+          "s000017",
+          "s000022",
+          "s000128",
+          "s000129",
+          "s000130",
+          "s000131",
+          "s000132",
+          "s000133",
+          "s000134",
+          "s000135",
+          "s000136",
+          "s000137",
+          "s000550",
+          "s000551",
+          "s000552",
+          "s000553",
+          "s000554",
+          "s000555",
+          "s000556",
+          "s000557",
+          "s000558",
+          "s000559",
+          "s000560",
+          "s000561",
+          "s000562",
+          "s000563",
+          "s000752",
+          "s000753",
+          "s000754",
+          "s000755",
+          "s000756",
+          "s000757",
+          "s000758",
+          "s000759",
+          "s000760",
+          "s000761",
+          "s000762",
+          "s000763",
+          "s000764",
+          "s000765",
+          "s000766",
+          "s000767",
+          "s000768",
+          "s000769",
+          "s000770",
+          "s000771",
+          "s000772",
+          "s000773"
+        ],
+        "chunk_verdicts": [
+          {
+            "chunk_index": 0,
+            "first_segment_id": "s000000",
+            "last_segment_id": "s000065",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000000",
+              "s000001",
+              "s000002",
+              "s000003",
+              "s000004",
+              "s000005",
+              "s000006",
+              "s000007",
+              "s000008",
+              "s000009",
+              "s000010",
+              "s000011",
+              "s000012",
+              "s000013",
+              "s000014",
+              "s000015",
+              "s000016",
+              "s000017",
+              "s000022"
+            ],
+            "confidence": 0.99,
+            "summary": "Multiple commercial pitches promote Ramp, Felix by Rogo, and WorkOS with product claims and calls to visit their websites; additional promotional calls direct listeners to Colossus and Positive Sum websites."
+          },
+          {
+            "chunk_index": 1,
+            "first_segment_id": "s000063",
+            "last_segment_id": "s000129",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000128",
+              "s000129"
+            ],
+            "confidence": 0.99,
+            "summary": "Commercial pitch for an agentic trust platform that helps companies monitor vendor, AI-tool, and environmental risks."
+          },
+          {
+            "chunk_index": 2,
+            "first_segment_id": "s000127",
+            "last_segment_id": "s000190",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000128",
+              "s000129",
+              "s000130",
+              "s000131",
+              "s000132",
+              "s000133",
+              "s000134",
+              "s000135",
+              "s000136",
+              "s000137"
+            ],
+            "confidence": 0.99,
+            "summary": "Commercial pitches promote Vanta and Ridgeline, including a listener discount, product-benefit claims, and calls to visit a website or request a demo."
+          },
+          {
+            "chunk_index": 3,
+            "first_segment_id": "s000188",
+            "last_segment_id": "s000263",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial interview discussion about family history, moral courage, wartime resistance, and personal self-doubt; no promotional call to action or commercial pitch."
+          },
+          {
+            "chunk_index": 4,
+            "first_segment_id": "s000261",
+            "last_segment_id": "s000333",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial interview discussion about family, career history, journalism, Time magazine, Apple, and Steve Jobs; no commercial pitch or promotional call to action."
+          },
+          {
+            "chunk_index": 5,
+            "first_segment_id": "s000331",
+            "last_segment_id": "s000406",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial interview discussion about notable individuals, artistic obsession, relationships, and venture-capital career history; no promotional call to action or commercial pitch."
+          },
+          {
+            "chunk_index": 6,
+            "first_segment_id": "s000404",
+            "last_segment_id": "s000477",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial interview discussion about venture capital history, investing, and Sequoia; no commercial pitch or promotional call to action."
+          },
+          {
+            "chunk_index": 7,
+            "first_segment_id": "s000475",
+            "last_segment_id": "s000545",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.99,
+            "summary": "Editorial interview discussion about investment ethics, leadership, Alex Ferguson, Sequoia, and influential individuals; no paid promotion or promotional call to action."
+          },
+          {
+            "chunk_index": 8,
+            "first_segment_id": "s000543",
+            "last_segment_id": "s000611",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000550",
+              "s000551",
+              "s000552",
+              "s000553",
+              "s000554",
+              "s000555",
+              "s000556",
+              "s000557",
+              "s000558",
+              "s000559",
+              "s000560",
+              "s000561",
+              "s000562",
+              "s000563"
+            ],
+            "confidence": 1.0,
+            "summary": "A sequence of commercial pitches promotes Ramp, Vanta, WorkOS, Ridgeline, and Rogo with explicit website, trial, demo, and visit calls to action."
+          },
+          {
+            "chunk_index": 9,
+            "first_segment_id": "s000609",
+            "last_segment_id": "s000688",
+            "verdict": "clean",
+            "ad_segment_ids": [],
+            "confidence": 0.98,
+            "summary": "Editorial interview discussion of personal life, leadership, philanthropy, and the San Francisco Standard without a promotional call to action or commercial pitch."
+          },
+          {
+            "chunk_index": 10,
+            "first_segment_id": "s000686",
+            "last_segment_id": "s000765",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000752",
+              "s000753",
+              "s000754",
+              "s000755",
+              "s000756",
+              "s000757",
+              "s000758",
+              "s000759",
+              "s000760",
+              "s000761",
+              "s000762",
+              "s000763",
+              "s000764",
+              "s000765"
+            ],
+            "confidence": 1.0,
+            "summary": "Promotional calls to visit and subscribe to Colossus are followed by commercial pitches and URLs for Ramp, Vanta, and WorkOS."
+          },
+          {
+            "chunk_index": 11,
+            "first_segment_id": "s000763",
+            "last_segment_id": "s000773",
+            "verdict": "ad",
+            "ad_segment_ids": [
+              "s000763",
+              "s000764",
+              "s000765",
+              "s000766",
+              "s000767",
+              "s000768",
+              "s000769",
+              "s000770",
+              "s000771",
+              "s000772",
+              "s000773"
+            ],
+            "confidence": 0.99,
+            "summary": "Multiple commercial pitches promote Vanta, WorkOS, Ridgeline, and Rogo with explicit website calls to action."
+          }
+        ],
+        "chunk_count": 12,
+        "semantic_retry_used": false,
+        "formatting_retry_count": 0,
+        "initial_final_verdict": null,
+        "publication_eligible": false,
+        "decision_key": "01d14abfe4e7f4cde9cf82c940b299fe51130cbe868d4c4547d1015f24c43508",
+        "decision_sha256": "2c68948a9423323f15f4f4ad301f2feb9e74ca9cdb73b6158f03a1eea4610180",
+        "gateway_metadata": [
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 5855,
+              "output": 309,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "reasoningTokens": 169,
+              "total": 16532
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 5840,
+              "output": 82,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "reasoningTokens": 27,
+              "total": 16290
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 5946,
+              "output": 95,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16409
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6096,
+              "output": 53,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16517
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6066,
+              "output": 53,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16487
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6130,
+              "output": 52,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16550
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16427,
+              "output": 48,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16475
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6034,
+              "output": 53,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16455
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6000,
+              "output": 115,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16483
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 6108,
+              "output": 51,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 16527
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 16649,
+              "output": 108,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "total": 16757
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 3364,
+              "output": 92,
+              "cacheRead": 10368,
+              "cacheWrite": 0,
+              "total": 13824
+            }
+          },
+          {
+            "configured_model": "openai/gpt-5.6-sol",
+            "resolved_model": "openai/gpt-5.6-sol",
+            "provider": "openclaw-agent/codex-native",
+            "agent": "podcast-ad-judge",
+            "agent_harness": "codex",
+            "fallback_used": false,
+            "usage": {
+              "input": 14395,
+              "output": 345,
+              "cacheRead": 0,
+              "cacheWrite": 0,
+              "reasoningTokens": 34,
+              "total": 14740
+            }
+          }
+        ],
+        "cache_hit": false,
+        "generated_at": "2026-09-16T20:13:11.685163+00:00"
+      },
+      "expected_transcript_overlap": 0.982,
+      "authority": "llm",
+      "classifier_version": "podcast-llm-ad-judge/1.4.1",
+      "classifier_model": "openai/gpt-5.6-sol",
+      "classifier_provider": "openclaw-agent/codex-native",
+      "schema_version": 1,
+      "audio_sha256": "53ccb575ef7a0c4bbeab06fe1971d09034c6769d60351690e7b39b57ec44ca24",
+      "transcript_sha256": "5ee6cb63849259858abf382b37f0a2af246674c0ee7cd90e1a91239146f2f219",
+      "asr_identity": "parakeet-mlx",
+      "segment_count": 31,
+      "input_order_normalized": false,
+      "status": "clean",
+      "reason": "llm_semantic_verdict",
+      "confidence": 0.99,
+      "summary": "The transcript contains only editorial interview content, with no advertising or promotional calls to action.",
+      "ad_ranges": [],
+      "ad_segment_ids": [],
+      "chunk_verdicts": [
+        {
+          "chunk_index": 0,
+          "first_segment_id": "s000000",
+          "last_segment_id": "s000030",
+          "verdict": "clean",
+          "ad_segment_ids": [],
+          "confidence": 0.99,
+          "summary": "Editorial interview discussion about family history, Nazi Germany, and survival; no commercial or promotional content."
+        }
+      ],
+      "chunk_count": 1,
+      "semantic_retry_used": false,
+      "formatting_retry_count": 0,
+      "initial_final_verdict": null,
+      "publication_eligible": true,
+      "decision_key": "68259133b32d58e6b65e137732db1e7447c16f2c712c2e68a2951f672ff7d1ee",
+      "decision_sha256": "512263d5fd1721890df6488fd33855eea7a2016037a57d675546660848fb4f5d",
+      "gateway_metadata": [
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 4170,
+            "output": 43,
+            "cacheRead": 10368,
+            "cacheWrite": 0,
+            "total": 14581
+          }
+        },
+        {
+          "configured_model": "openai/gpt-5.6-sol",
+          "resolved_model": "openai/gpt-5.6-sol",
+          "provider": "openclaw-agent/codex-native",
+          "agent": "podcast-ad-judge",
+          "agent_harness": "codex",
+          "fallback_used": false,
+          "usage": {
+            "input": 2990,
+            "output": 41,
+            "cacheRead": 10368,
+            "cacheWrite": 0,
+            "total": 13399
+          }
+        }
+      ],
+      "cache_hit": false,
+      "generated_at": "2026-09-16T20:18:17.354973+00:00",
+      "detector_version": "podcast-llm-ad-judge/1.4.1",
+      "ad_classifier": {
+        "authority": "llm",
+        "model": "openai/gpt-5.6-sol",
+        "version": "podcast-llm-ad-judge/1.4.1"
+      },
+      "audio_duration_s": 191.2
+    }
+  ],
+  "final_audio_scan": {
+    "authority": "llm",
+    "classifier_version": "podcast-llm-ad-judge/1.4.1",
+    "classifier_model": "openai/gpt-5.6-sol",
+    "classifier_provider": "openclaw-agent/codex-native",
+    "schema_version": 1,
+    "audio_sha256": "004b4510eb6d293678d6312c5e5245474ed538b3bf5fcec623a896e3b7377e2b",
+    "transcript_sha256": "7b25f79b4e6e1726047cb6e3505089037b8bc7032750963d5d116b7058d5ddd0",
+    "asr_identity": "parakeet-mlx",
+    "segment_count": 101,
+    "input_order_normalized": false,
+    "status": "clean",
+    "reason": "llm_semantic_verdict",
+    "confidence": 0.99,
+    "summary": "All chunks report only editorial previews, attribution, historical discussion, and a standard sign-off, with no advertising or promotional call to action.",
+    "ad_ranges": [],
+    "ad_segment_ids": [],
+    "chunk_verdicts": [
+      {
+        "chunk_index": 0,
+        "first_segment_id": "s000000",
+        "last_segment_id": "s000070",
+        "verdict": "clean",
+        "ad_segment_ids": [],
+        "confidence": 0.99,
+        "summary": "Editorial previews, source attribution, and discussion excerpts contain no paid sponsorship, commercial pitch, promo offer, or promotional call to action."
+      },
+      {
+        "chunk_index": 1,
+        "first_segment_id": "s000068",
+        "last_segment_id": "s000100",
+        "verdict": "clean",
+        "ad_segment_ids": [],
+        "confidence": 0.99,
+        "summary": "Editorial historical discussion followed by a standard episode sign-off; no commercial or promotional call to action."
+      }
+    ],
+    "chunk_count": 2,
+    "semantic_retry_used": false,
+    "formatting_retry_count": 0,
+    "initial_final_verdict": null,
+    "publication_eligible": true,
+    "decision_key": "58c81db8d54639fa391df4e7acec1e7ba3c25c8a720706458b1e14ee96819d7a",
+    "decision_sha256": "87858bd2c428354671f61009045eb2cc431b41c7ff37faa777f39fde136b4af3",
+    "gateway_metadata": [
+      {
+        "configured_model": "openai/gpt-5.6-sol",
+        "resolved_model": "openai/gpt-5.6-sol",
+        "provider": "openclaw-agent/codex-native",
+        "agent": "podcast-ad-judge",
+        "agent_harness": "codex",
+        "fallback_used": false,
+        "usage": {
+          "input": 5907,
+          "output": 80,
+          "cacheRead": 10368,
+          "cacheWrite": 0,
+          "reasoningTokens": 28,
+          "total": 16355
+        }
+      },
+      {
+        "configured_model": "openai/gpt-5.6-sol",
+        "resolved_model": "openai/gpt-5.6-sol",
+        "provider": "openclaw-agent/codex-native",
+        "agent": "podcast-ad-judge",
+        "agent_harness": "codex",
+        "fallback_used": false,
+        "usage": {
+          "input": 14587,
+          "output": 43,
+          "cacheRead": 0,
+          "cacheWrite": 0,
+          "total": 14630
+        }
+      },
+      {
+        "configured_model": "openai/gpt-5.6-sol",
+        "resolved_model": "openai/gpt-5.6-sol",
+        "provider": "openclaw-agent/codex-native",
+        "agent": "podcast-ad-judge",
+        "agent_harness": "codex",
+        "fallback_used": false,
+        "usage": {
+          "input": 3056,
+          "output": 51,
+          "cacheRead": 10368,
+          "cacheWrite": 0,
+          "total": 13475
+        }
+      }
+    ],
+    "cache_hit": false,
+    "generated_at": "2026-09-16T20:18:55.064600+00:00",
+    "detector_version": "podcast-llm-ad-judge/1.4.1",
+    "ad_classifier": {
+      "authority": "llm",
+      "model": "openai/gpt-5.6-sol",
+      "version": "podcast-llm-ad-judge/1.4.1"
+    },
+    "audio_duration_s": 643.388
+  },
+  "transcripts": {
+    "text": "spoken_transcript_2026-09-16.txt",
+    "vtt": "transcript_2026-09-16.vtt"
+  },
+  "audio_sha256": "004b4510eb6d293678d6312c5e5245474ed538b3bf5fcec623a896e3b7377e2b"
+}
