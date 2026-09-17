@@ -9,6 +9,63 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — September 17, 2026</title>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-17.mp3" length="9940268" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-09-17.mp3</guid>
+      <itunes:duration>10:21</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-09-17.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-09-17.json" type="application/json+chapters"/>
+      <description>Daily Digest — September 17, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-17.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-17.txt
+
+Chapters:
+0:33 — Dwarkesh Podcast — How multi-agent LLM systems coordinate and why rigid coordina
+2:56 — The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intell
+5:31 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Anthropic and OpenAI revenue acc
+8:02 — Excess Returns — Credit-card data as alternative data for tracking consumer beha
+
+Sources:
+- Noam Brown – Agent swarms, alignment, &amp; recursive self-improvement (Dwarkesh Podcast)
+  Link: https://www.dwarkesh.com/p/noam-brown
+  Source audio: https://api.substack.com/feed/podcast/216149332/7d69c76fc9ac6716e7931d0de12ec324.mp3
+- From Voice Agents to AI Avatars with Alexander Smola - #777 (The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intelligence))
+  Link: https://twimlai.com/podcast/twimlai/voice-agents-ai-avatars
+  Source audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN7382779687.mp3
+- Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq &amp; AI's Take Off Problem (All-In with Chamath, Jason, Sacks &amp; Friedberg)
+  Link: https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem
+  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Brad_G_AIS26_AUDIO_v9k.mp3?dest-id=1928300
+- Franklin Templeton CEO Jenny Johnson on AI, Private Markets, and the Hidden Risks in Index Funds (Excess Returns)
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Franklin-Templeton-CEO-Jenny-Johnson-on-AI--Private-Markets--and-the-Hidden-Risks-in-Index-Funds-e3oupag
+  Source audio: https://traffic.megaphone.fm/APO7546332021.mp3</description>
+      <itunes:summary>Daily Digest — September 17, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-17.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-17.txt
+
+Chapters:
+0:33 — Dwarkesh Podcast — How multi-agent LLM systems coordinate and why rigid coordina
+2:56 — The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intell
+5:31 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Anthropic and OpenAI revenue acc
+8:02 — Excess Returns — Credit-card data as alternative data for tracking consumer beha
+
+Sources:
+- Noam Brown – Agent swarms, alignment, &amp; recursive self-improvement (Dwarkesh Podcast)
+  Link: https://www.dwarkesh.com/p/noam-brown
+  Source audio: https://api.substack.com/feed/podcast/216149332/7d69c76fc9ac6716e7931d0de12ec324.mp3
+- From Voice Agents to AI Avatars with Alexander Smola - #777 (The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intelligence))
+  Link: https://twimlai.com/podcast/twimlai/voice-agents-ai-avatars
+  Source audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN7382779687.mp3
+- Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq &amp; AI's Take Off Problem (All-In with Chamath, Jason, Sacks &amp; Friedberg)
+  Link: https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem
+  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Brad_G_AIS26_AUDIO_v9k.mp3?dest-id=1928300
+- Franklin Templeton CEO Jenny Johnson on AI, Private Markets, and the Hidden Risks in Index Funds (Excess Returns)
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Franklin-Templeton-CEO-Jenny-Johnson-on-AI--Private-Markets--and-the-Hidden-Risks-in-Index-Funds-e3oupag
+  Source audio: https://traffic.megaphone.fm/APO7546332021.mp3</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — September 16, 2026</title>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-16.mp3" length="10295084" type="audio/mpeg"/>
@@ -720,59 +777,6 @@ Sources:
   Source audio: https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/7d156235-f387-442d-92d2-b4ba0105ac94/audio.mp3?utm_source=Podcast&amp;in_playlist=982f5071-765c-403d-969d-ae27003a8d83
 - Why Working Harder Won’t Make You Rich - Codie Sanchez - #1145 (Modern Wisdom)
   Source audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB1231483504.mp3</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — September 03, 2026</title>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-03.mp3" length="9889196" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-09-03.mp3</guid>
-      <itunes:duration>10:18</itunes:duration>
-      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-09-03.vtt" type="text/vtt" rel="captions"/>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-09-03.json" type="application/json+chapters"/>
-      <description>Daily Digest — September 03, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-03.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-03.txt
-
-Chapters:
-0:31 — Complex Systems with Patrick McKenzie (patio11) — Why internal wallet transactio
-3:11 — a16z Podcast — Legacy card-network latency constraints, secure enclaves, and opp
-5:37 — Modern Wisdom — How the hero complex prevents founders from delegating and pursu
-7:58 — Masters of Scale — Agglomeration effects and why AI founders cluster in technolo
-
-Sources:
-- Everyone wants to be your wallet (Complex Systems with Patrick McKenzie (patio11))
-  Link: https://share.transistor.fm/s/513e8a5c
-  Source audio: https://pscrb.fm/rss/p/prfx.byspotify.com/e/media.transistor.fm/513e8a5c/f32c4030.mp3
-- The $100B Niches Hiding Inside Payments (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/the-100b-niches-hiding-inside-payments-aKQoOt7o
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a13b21a1-e71b-428e-969a-c4fe80db9f9c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=a13b21a1-e71b-428e-969a-c4fe80db9f9c&amp;feed=JGE3yC0V
-- How To Build A Business That Runs Without You - Codie Sanchez - #1145 (Modern Wisdom)
-  Source audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB1231483504.mp3
-- Angela Duckworth on why grit isn’t enough (Masters of Scale)
-  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/c48bf4f8-aeda-48c6-b613-33d1c53b27bf.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</description>
-      <itunes:summary>Daily Digest — September 03, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-03.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-03.txt
-
-Chapters:
-0:31 — Complex Systems with Patrick McKenzie (patio11) — Why internal wallet transactio
-3:11 — a16z Podcast — Legacy card-network latency constraints, secure enclaves, and opp
-5:37 — Modern Wisdom — How the hero complex prevents founders from delegating and pursu
-7:58 — Masters of Scale — Agglomeration effects and why AI founders cluster in technolo
-
-Sources:
-- Everyone wants to be your wallet (Complex Systems with Patrick McKenzie (patio11))
-  Link: https://share.transistor.fm/s/513e8a5c
-  Source audio: https://pscrb.fm/rss/p/prfx.byspotify.com/e/media.transistor.fm/513e8a5c/f32c4030.mp3
-- The $100B Niches Hiding Inside Payments (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/the-100b-niches-hiding-inside-payments-aKQoOt7o
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a13b21a1-e71b-428e-969a-c4fe80db9f9c/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=a13b21a1-e71b-428e-969a-c4fe80db9f9c&amp;feed=JGE3yC0V
-- How To Build A Business That Runs Without You - Codie Sanchez - #1145 (Modern Wisdom)
-  Source audio: https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB1231483504.mp3
-- Angela Duckworth on why grit isn’t enough (Masters of Scale)
-  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/c48bf4f8-aeda-48c6-b613-33d1c53b27bf.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</itunes:summary>
     </item>
   </channel>
 </rss>

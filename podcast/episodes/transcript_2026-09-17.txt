@@ -1,0 +1,60 @@
+Daily Digest — 2026-09-17
+
+Chapters
+- 0:33 — Dwarkesh Podcast — How multi-agent LLM systems coordinate and why rigid coordinator-worker architectures are limiting
+- 2:56 — The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence) — Designing real-time multimodal
+- 5:31 — All-In with Chamath, Jason, Sacks & Friedberg — Anthropic and OpenAI revenue acceleration as the key signal supporting A
+- 8:02 — Excess Returns — Credit-card data as alternative data for tracking consumer behavior and economic trends
+
+Sources
+- Noam Brown – Agent swarms, alignment, & recursive self-improvement
+  Podcast: Dwarkesh Podcast
+  Link: https://www.dwarkesh.com/p/noam-brown
+  Audio: https://api.substack.com/feed/podcast/216149332/7d69c76fc9ac6716e7931d0de12ec324.mp3
+- From Voice Agents to AI Avatars with Alexander Smola - #777
+  Podcast: The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)
+  Link: https://twimlai.com/podcast/twimlai/voice-agents-ai-avatars
+  Audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN7382779687.mp3
+- Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem
+  Podcast: All-In with Chamath, Jason, Sacks & Friedberg
+  Link: https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem
+  Audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Brad_G_AIS26_AUDIO_v9k.mp3?dest-id=1928300
+- Franklin Templeton CEO Jenny Johnson on AI, Private Markets, and the Hidden Risks in Index Funds
+  Podcast: Excess Returns
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Franklin-Templeton-CEO-Jenny-Johnson-on-AI--Private-Markets--and-the-Hidden-Risks-in-Index-Funds-e3oupag
+  Audio: https://traffic.megaphone.fm/APO7546332021.mp3
+
+Host Script
+[OPEN]
+[A] Today: agent swarms, voice AI that responds at human speed, the revenue case for massive AI infrastructure spending, and a real-time read on the consumer.
+[B] Plus, why all of that connects to today’s push for faster models and custom inference stacks.
+
+[INTRO_1]
+[A] On the Dwarkesh Podcast, Noam Brown explains how multi-agent LLM systems coordinate—and why fixed coordinator-worker roles may limit the path from human-level to superhuman performance.
+[CLIP_1]
+(clip plays here)
+[REACT_1]
+[B] That makes swarm design part of the alignment problem, not just a scaling technique.
+
+[INTRO_2]
+[B] On The TWIML AI Podcast, Alexander Smola breaks down the research and engineering behind real-time multimodal agents, starting with the milliseconds that shape human perception and interruption.
+[CLIP_2]
+(clip plays here)
+[REACT_2]
+[A] Faster models only matter if the whole system can respond inside that human timing window.
+
+[INTRO_3]
+[A] On All-In, investor Brad Gerstner argues that accelerating revenue at Anthropic and OpenAI is the key signal behind today’s enormous spending on chips, data centers, and custom inference infrastructure.
+[CLIP_3]
+(clip plays here)
+[REACT_3]
+[B] The bet is that demand compounds fast enough to meet the capacity being built now.
+
+[INTRO_4]
+[B] On Excess Returns, Franklin Templeton CEO Jenny Johnson explains how credit-card data can reveal shifts in consumer behavior before traditional economic reports catch up.
+[CLIP_4]
+(clip plays here)
+
+[CLOSE]
+[A] That’s today’s Daily Rundown.
+[B] We’ll be back tomorrow with the clips driving tech forward.

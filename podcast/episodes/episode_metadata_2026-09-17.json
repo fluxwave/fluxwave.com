@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-17",
+  "chapters": [
+    {
+      "startTime": 33.768,
+      "title": "Dwarkesh Podcast \u2014 How multi-agent LLM systems coordinate and why rigid coordinator-worker architectures are limiting"
+    },
+    {
+      "startTime": 176.704,
+      "title": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence) \u2014 Designing real-time multimodal"
+    },
+    {
+      "startTime": 331.112,
+      "title": "All-In with Chamath, Jason, Sacks & Friedberg \u2014 Anthropic and OpenAI revenue acceleration as the key signal supporting A"
+    },
+    {
+      "startTime": 482.824,
+      "title": "Excess Returns \u2014 Credit-card data as alternative data for tracking consumer behavior and economic trends"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Noam Brown \u2013 Agent swarms, alignment, & recursive self-improvement",
+      "podcast": "Dwarkesh Podcast",
+      "link": "https://www.dwarkesh.com/p/noam-brown",
+      "audio_url": "https://api.substack.com/feed/podcast/216149332/7d69c76fc9ac6716e7931d0de12ec324.mp3",
+      "transcript_url": "",
+      "published": "2026-09-17T15:38:13+00:00"
+    },
+    {
+      "title": "From Voice Agents to AI Avatars with Alexander Smola - #777",
+      "podcast": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)",
+      "link": "https://twimlai.com/podcast/twimlai/voice-agents-ai-avatars",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN7382779687.mp3",
+      "transcript_url": "",
+      "published": "2026-09-17T04:52:00+00:00"
+    },
+    {
+      "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
+      "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
+      "link": "https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Brad_G_AIS26_AUDIO_v9k.mp3?dest-id=1928300",
+      "transcript_url": "",
+      "published": "2026-09-17T03:04:00+00:00"
+    },
+    {
+      "title": "Franklin Templeton CEO Jenny Johnson on AI, Private Markets, and the Hidden Risks in Index Funds",
+      "podcast": "Excess Returns",
+      "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Franklin-Templeton-CEO-Jenny-Johnson-on-AI--Private-Markets--and-the-Hidden-Risks-in-Index-Funds-e3oupag",
+      "audio_url": "https://traffic.megaphone.fm/APO7546332021.mp3",
+      "transcript_url": "",
+      "published": "2026-09-16T18:34:12+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-09-17.txt"
+}

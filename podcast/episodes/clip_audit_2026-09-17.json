@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-17",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-17_20260917T200135Z_61200/clip_sources/c566ea0164d3153d/01_Why_model_strength_long-horizon_reasoning_and_gene.mp3",
+      "source": "Noam Brown \u2013 Agent swarms, alignment, & recursive self-improvement",
+      "start_time": 316,
+      "end_time": 499,
+      "topic": "Why model strength, long-horizon reasoning, and generalization mattered more than the 10,000-agent scaffold"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-17_20260917T200135Z_61200/clip_sources/694a3362cf9961a6/01_Audio_tokenization_inference_cost_and_the_model-si.mp3",
+      "source": "From Voice Agents to AI Avatars with Alexander Smola - #777",
+      "start_time": 553,
+      "end_time": 674,
+      "topic": "Audio tokenization, inference cost, and the model-size versus temporal-resolution trade-off"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-17_20260917T200135Z_61200/clip_sources/11ec576b3c758331/01_The_revenue_required_to_support_hyperscaler_AI_cap.mp3",
+      "source": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
+      "start_time": 447,
+      "end_time": 572,
+      "topic": "The revenue required to support hyperscaler AI capex and massive compute expansion"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-17_20260917T200135Z_61200/clip_sources/848a88c44cb0bb02/01_AIs_rapid_labor-market_impact_and_the_importance_o.mp3",
+      "source": "Franklin Templeton CEO Jenny Johnson on AI, Private Markets, and the Hidden Risks in Index Funds",
+      "start_time": 585,
+      "end_time": 705,
+      "topic": "AI's rapid labor-market impact and the importance of becoming proficient with AI tools"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

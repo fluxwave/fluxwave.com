@@ -1,0 +1,433 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:10.960
+Agent Swarms, voice AI that responds at human speed, the revenue case for massive AI infrastructure spending and a real-time read on the consumer.
+
+2
+00:00:10.960 --> 00:00:19.040
+Plus, why all of that connects to today's push for faster models and custom inference stacks?
+
+3
+00:00:19.040 --> 00:00:33.200
+On the DwarCash podcast, Noam Brown explains how multi-agent LLM systems coordinate and why fixed coordinator worker roles may limit the path from human level to superhuman performance.
+
+4
+00:00:33.840 --> 00:00:34.800
+Is a wall yet.
+
+5
+00:00:38.320 --> 00:00:40.320
+But it is like a plausible scenario.
+
+6
+00:00:40.320 --> 00:00:40.880
+Yeah.
+
+7
+00:00:40.880 --> 00:00:48.560
+Um and uh just for the audience, when when you're referring to like AlphaGo or Alpha Zero, you're saying like getting superhuman relatively fast after achieving human level performance.
+
+8
+00:00:48.720 --> 00:01:05.120
+Yeah, I mean, if you look at the trajectory of gameplaying AIs like Go, they within a span of like a year went from beating a European chess champion being like, I don't know, like number 50 in the world, to beating the world champion to being unimaginably orders of attitude stronger than any human alive.
+
+9
+00:01:05.120 --> 00:01:05.760
+Yeah.
+
+10
+00:01:05.760 --> 00:01:14.800
+And it's possible that domains like math, we see a similar trajectory, but it I think there is a very plausible scenario where actually that doesn't happen.
+
+11
+00:01:14.800 --> 00:01:15.360
+Yeah, yeah, yeah.
+
+12
+00:01:15.520 --> 00:01:21.360
+So I I want to understand if in six months people will have access to multi-agent systems.
+
+13
+00:01:21.360 --> 00:01:26.480
+How should one model what it is like to collaborate with or hire a multi-agent system?
+
+14
+00:01:26.480 --> 00:01:35.680
+Yeah, I should start by talking about how these multi-agent systems actually work, which is I think a very different way than a lot of multi-agent systems in other AIs.
+
+15
+00:01:35.680 --> 00:01:52.880
+So a lot of people that have approached multi-agents for things like LLMs tend to take this like very scaffolded approach where, you know, for example, there might be a uh coordinator agent that delegates work to a bunch of children and gives them a task and the children work on it and then return their answer.
+
+16
+00:01:52.880 --> 00:01:57.440
+Um, and this seems like a very sensible setup, very sensible scaffold.
+
+17
+00:01:57.440 --> 00:02:01.080
+It definitely helps, but there are a bunch of limitations with these kinds of setups.
+
+18
+00:02:01.160 --> 00:02:08.680
+So for example, if if in this setup you have a coordinator that's sending tasks to children, the children work on it and then return their answers.
+
+19
+00:02:08.680 --> 00:02:12.600
+Well, what happens if two children are given similar tasks?
+
+20
+00:02:12.600 --> 00:02:13.880
+Can they talk to each other?
+
+21
+00:02:13.880 --> 00:02:15.560
+And usually the answer is no.
+
+22
+00:02:15.720 --> 00:02:17.480
+And that's just that's very inefficient, right?
+
+23
+00:02:17.480 --> 00:02:29.800
+If you're if you're given a task and it's actually really helpful to talk to somebody that might know an answer to a question that you're working on or a part part of something that you're working on, it'd be really helpful if we just be able to ping them and say, hey, can you help me out with this thing?
+
+24
+00:02:29.800 --> 00:02:36.040
+But a lot of systems don't have that set up, and adding it just increases the complexities.
+
+25
+00:02:36.440 --> 00:02:42.120
+That makes swarm design part of the alignment problem, not just a scaling technique.
+
+26
+00:02:42.120 --> 00:02:56.360
+On the Twimble AI podcast, Alexander Smaller breaks down the research and engineering behind real-time multimodal agents, starting with the milliseconds that shape human perception and interruption.
+
+27
+00:02:57.640 --> 00:03:13.080
+When you think about the challenge of voice AI, how do you break it up in terms of primarily engineering problems, primarily research problems?
+
+28
+00:03:13.080 --> 00:03:17.400
+Um if you try that, it's not gonna go well.
+
+29
+00:03:17.400 --> 00:03:19.560
+You need to do both at the same time.
+
+30
+00:03:19.560 --> 00:03:22.840
+So let me give you a simple example.
+
+31
+00:03:22.920 --> 00:03:37.960
+So uh let's start with you know the very simple basics, namely it takes about 150 milliseconds for you know, basically a photon hitting your retina to your cortex actually doing something with it.
+
+32
+00:03:37.960 --> 00:03:46.640
+And that number is reasonably stable that you can actually use that as a non-invasive diagnostic to find out whether you have a neurodegenerative disease.
+
+33
+00:03:44.920 --> 00:03:50.480
+Because in that case, the signal takes many detours and it takes longer.
+
+34
+00:03:50.720 --> 00:03:59.200
+So what people will do is they will flash a checkerboard pattern in front of you and then wait how long it takes for that stimulus to hit your cortex.
+
+35
+00:03:59.200 --> 00:04:05.680
+Uh from the ears, it's actually a little bit shorter because it's a well half the way, right?
+
+36
+00:04:05.680 --> 00:04:17.040
+Now what that means is that basically humans kind of operate at around maybe six to ten hertz, really, when it comes to audiovisual perception.
+
+37
+00:04:17.040 --> 00:04:30.080
+I mean, of course, we feel like the road is very fluid, and I mean we have our fancy 30 or 60 hertz displays, but the brain kind of, you know, within that time frame, it's kind of okay.
+
+38
+00:04:30.080 --> 00:04:39.200
+So what we did correspondingly is make sure that our model is interruptible within about a similar time frame.
+
+39
+00:04:39.200 --> 00:04:46.080
+So it does interruption handling with about within about 150-ish milliseconds or so.
+
+40
+00:04:46.080 --> 00:04:58.800
+Now, uh the next thing is you need to at least uh the current paradigm of how to deal with audio and other things is at some point you convert everything into tokens.
+
+41
+00:04:58.800 --> 00:05:08.160
+And then those tokens will go to whatever LLM style backbone that you have.
+
+42
+00:05:08.480 --> 00:05:15.200
+Faster models only matter if the whole system can respond inside the human timing window.
+
+43
+00:05:15.200 --> 00:05:28.720
+On all in, investor Brad Gerstner argues that accelerating revenue and anthropic and open AI is the key signal behind today's enormous spending on chips, data centers, and custom inference infrastructure.
+
+44
+00:05:31.560 --> 00:05:37.800
+You may remember a certain podcast I did with Sam Altman and Satya in October of last year.
+
+45
+00:05:37.800 --> 00:05:41.720
+And I asked Sam a very basic question that was on everybody's mind.
+
+46
+00:05:41.720 --> 00:05:48.600
+How can you commit to a trillion dollars in CapEx when you have $13 billion of gap revenue?
+
+47
+00:05:48.600 --> 00:05:52.680
+I thought this would be a way to clear up some confusion in the market.
+
+48
+00:05:52.680 --> 00:05:57.160
+Instead, he told me to sell my shares.
+
+49
+00:05:57.160 --> 00:06:03.560
+But then in the beginning of December, we have Opus 4.5 and clawed code.
+
+50
+00:06:03.560 --> 00:06:07.160
+And then in January, Anthropic's revenue was $2 billion.
+
+51
+00:06:07.160 --> 00:06:09.560
+And then in February, it's $4 billion.
+
+52
+00:06:09.560 --> 00:06:11.560
+And in March, it was $11 billion.
+
+53
+00:06:11.560 --> 00:06:14.040
+Do you notice anything that happened there in March?
+
+54
+00:06:14.040 --> 00:06:17.080
+People started figuring out what anthropics revenue was.
+
+55
+00:06:17.080 --> 00:06:20.920
+We had an exclamation point answer to the question.
+
+56
+00:06:27.800 --> 00:06:33.400
+We ripped off the bottom because the fuse was lit by anthropic's monthly revenue.
+
+57
+00:06:33.400 --> 00:06:37.080
+And then in in June and July, we had some consolidation.
+
+58
+00:06:37.080 --> 00:06:37.640
+Why?
+
+59
+00:06:37.640 --> 00:06:41.880
+Because Anthropic came out and said, oh, our annual run rate revenue is 65.
+
+60
+00:06:41.880 --> 00:06:46.600
+People thought it was 75, so they had to revise down their estimates a little bit.
+
+61
+00:06:46.600 --> 00:06:48.760
+And we had some concerns about open source.
+
+62
+00:06:48.760 --> 00:06:50.200
+Is open source catching up?
+
+63
+00:06:50.200 --> 00:06:53.960
+You know, is anthropic going to continue to be able to generate those revenues?
+
+64
+00:06:53.960 --> 00:06:59.720
+And so we've kind of moved sideways since then.
+
+65
+00:06:59.720 --> 00:07:08.600
+It's hard to get your head around the fact that these revenues have never happened before in the history of capitalism.
+
+66
+00:07:08.600 --> 00:07:09.080
+Right?
+
+67
+00:07:09.080 --> 00:07:13.320
+We are on parabolic double exponential curves around these revenues.
+
+68
+00:07:13.320 --> 00:07:27.920
+So the collective run rate, let's just call it the top three labs, Anthropic OpenAI and SpaceX, is about $100 billion based upon all the rumors that are out there coming out of July.
+
+69
+00:07:27.920 --> 00:07:43.680
+I think they need to collectively get to at least $180 billion by the end of the year, add another $80 billion across those three labs just to keep the AI trade intact.
+
+70
+00:07:43.680 --> 00:07:49.520
+The bet is that demand compounds fast enough to meet the capacity being built now.
+
+71
+00:07:49.520 --> 00:08:02.640
+On excess returns, Franklin Templeton CEO Jenny Johnson explains how credit card data can reveal shifts in consumer behavior before traditional economic reports catch up.
+
+72
+00:08:02.800 --> 00:08:03.440
+Relevant.
+
+73
+00:08:03.440 --> 00:08:13.120
+So all I'd say is like my advice to any intern, throw yourself into it, get to know it, become a real expert in it, get your hands dirty.
+
+74
+00:08:13.120 --> 00:08:15.840
+I mean, even a CEO, there's no sitting there at the top.
+
+75
+00:08:15.840 --> 00:08:16.560
+There's a problem.
+
+76
+00:08:16.560 --> 00:08:20.560
+You got to dig down and get in there deep, and you got to know when you pull yourself out.
+
+77
+00:08:20.560 --> 00:08:25.760
+So you have to really be a student of whatever it is you do.
+
+78
+00:08:25.760 --> 00:08:28.240
+And then also you're responsible for your own career.
+
+79
+00:08:28.240 --> 00:08:28.720
+It's great.
+
+80
+00:08:28.720 --> 00:08:37.200
+We can all tell, you know, the managers and the budget, you need to develop your people and get, but in the end, nobody's a better advocate for your career than you.
+
+81
+00:08:37.200 --> 00:08:41.440
+And so look for areas that you think are interesting, job opportunities and open.
+
+82
+00:08:41.440 --> 00:08:46.560
+I always say read the CEO's letter in the annual report, and you'll know what's on the CEO's mind.
+
+83
+00:08:46.560 --> 00:08:51.760
+There's a lot of clues that can be really important, I think, for people starting out in an industry.
+
+84
+00:08:51.840 --> 00:08:54.720
+I love the idea of the labels too.
+
+85
+00:08:54.720 --> 00:09:00.280
+Because you're working in the credit card department, going, hey, you know, consumption.
+
+86
+00:08:59.840 --> 00:09:04.840
+This seems to kind of matter for the company.
+
+87
+00:09:00.280 --> 00:09:02.040
+Here it's a big part of GDP.
+
+88
+00:09:05.160 --> 00:09:08.680
+Like now, when somebody calls it alternative data, you're just like, this is credit.
+
+89
+00:09:08.840 --> 00:09:09.880
+I got an AJ.
+
+90
+00:09:09.960 --> 00:09:11.080
+Yeah, guess what?
+
+91
+00:09:11.080 --> 00:09:11.560
+I did.
+
+92
+00:09:11.560 --> 00:09:18.360
+I I literally sat down with our Bloomberg rep and said, show me what data you have on spending and credit card data.
+
+93
+00:09:18.360 --> 00:09:19.880
+I want to understand what Bloomberg has.
+
+94
+00:09:19.880 --> 00:09:22.040
+They have a bunch of different alternative data sources.
+
+95
+00:09:22.040 --> 00:09:26.040
+And so I wanted to understand how to do it because you're exactly right.
+
+96
+00:09:26.040 --> 00:09:31.320
+You be it becomes really important to understand trends.
+
+97
+00:09:31.320 --> 00:09:36.120
+You know, our higher end um, you know, are people increasing the balances?
+
+98
+00:09:36.120 --> 00:09:39.160
+Are they paying off the percentage of people who pay it off every month?
+
+99
+00:09:39.160 --> 00:09:39.960
+Is that changing?
+
+100
+00:09:39.960 --> 00:09:42.520
+Are delinquencies edging up at 30 days?
+
+101
+00:09:42.520 --> 00:09:48.760
+Tremendous amount of how is the US is a 70% consumer-driven market.
+
+102
+00:09:48.760 --> 00:09:53.720
+A lot of that can be read if you could look at the credit card data.
+
+103
+00:09:53.720 --> 00:09:58.360
+Yeah, it's remarkable how these things only stack through those experiences over time.
+
+104
+00:09:58.360 --> 00:10:03.000
+And the faster you start to see what rhymes, the faster the advantage you have is.
+
+105
+00:10:03.000 --> 00:10:04.040
+Absolutely.
+
+106
+00:10:04.040 --> 00:10:13.880
+All right, let's talk about AI for a little bit because obviously that's reshaping both the way you're approaching the business, the way you're thinking.
+
+107
+00:10:13.880 --> 00:10:16.840
+That's today's daily rundown.
+
+108
+00:10:16.840 --> 00:10:20.760
+We'll be back tomorrow with Eclipse Driving Tech Forward.
