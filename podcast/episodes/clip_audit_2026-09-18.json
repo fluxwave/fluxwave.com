@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-18",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-18_20260918T200148Z_69528/clip_sources/9808cd9234475748/01_The_contradiction_between_Anthropics_rapid_develop.mp3",
+      "source": "Titans on Tomorrow Ep. 3 - Andrew Ross Sorkin Breaks Down AI Panic - Genuine Danger or Cynical Strategy?",
+      "start_time": 574,
+      "end_time": 639,
+      "topic": "The contradiction between Anthropic's rapid development and Dario Amodei's warnings"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-18_20260918T200148Z_69528/clip_sources/d66e5c06d05ea93a/01_Why_tax-form_databases_were_difficult_to_reconcile.mp3",
+      "source": "There's a Mind-Boggling Number of Rich People in America",
+      "start_time": 462,
+      "end_time": 602,
+      "topic": "Why tax-form databases were difficult to reconcile"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-18_20260918T200148Z_69528/clip_sources/735cb5773489ec6d/01_Large-scale_space-observation_data_orbital_data_ce.mp3",
+      "source": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+      "start_time": 660,
+      "end_time": 780,
+      "topic": "Large-scale space-observation data, orbital data centers, and emerging commercial space infrastructure"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

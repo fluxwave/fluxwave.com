@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:12.400
+The hidden data behind America's wealth, the incentives shaping AI regulation, a century of stock market evidence, and NASA's plan for a lasting return to the moon.
+
+2
+00:00:12.400 --> 00:00:16.560
+For clips for big systems and who gets to shape them.
+
+3
+00:00:18.480 --> 00:00:29.920
+On odd lots, Princeton economist Owen Zidar and Chicago Booth's Eric Zwick explain how they linked fragmented treasury and IRS records to map wealth in America.
+
+4
+00:00:29.920 --> 00:00:32.880
+It's the data work behind a striking question.
+
+5
+00:00:32.880 --> 00:00:37.200
+Just how many rich Americans are there?
+
+6
+00:00:37.440 --> 00:00:46.640
+How they got there, and the authors are Owen Zidar, professor of economics at Princeton, and Eric Zwick, Professor of Economics and Finance at Chicago Booth.
+
+7
+00:00:46.640 --> 00:00:48.800
+So thank you both so much for being here.
+
+8
+00:00:48.880 --> 00:00:49.840
+Thanks for having us.
+
+9
+00:00:50.000 --> 00:00:50.960
+It's great to be here.
+
+10
+00:00:50.960 --> 00:00:52.080
+It's a great book.
+
+11
+00:00:52.080 --> 00:00:54.320
+I legitimately, I really enjoyed it.
+
+12
+00:00:54.320 --> 00:00:59.120
+When I was reading it, I was thinking it's sort of like a stud, like an upscale studs turkle.
+
+13
+00:00:59.120 --> 00:01:03.520
+You know, you have all these stories of millionaires and how they actually got there.
+
+14
+00:01:03.520 --> 00:01:15.760
+But the origin story of this book is something I wanted to ask you about, because it also sits squarely within Otlots territory when we talk about, I guess, what a mess government data and technology tends to be.
+
+15
+00:01:15.760 --> 00:01:26.960
+Because this book started with a project, a commission by the Treasury Department to try to sift through IRS data to figure out who these people actually were and how many of them there are.
+
+16
+00:01:26.960 --> 00:01:30.960
+Talk to us about what you found when you started that project.
+
+17
+00:01:31.360 --> 00:01:31.840
+Yes.
+
+18
+00:01:31.840 --> 00:01:52.640
+So we started more than a decade ago, uh, commissioned by the Treasury to go into the bowels of the Treasury and work with tax data to try and link all the businesses to their owners and workers because they didn't have the ability to do that, and they needed it to do tax policy to sort of think about what if we change the tax code, how much tax these pass-through businesses pay.
+
+19
+00:01:52.640 --> 00:01:55.920
+They didn't have the capacity to do that because the data weren't connected.
+
+20
+00:01:55.920 --> 00:01:59.280
+And so that was the original kind of sin of our project.
+
+21
+00:01:59.280 --> 00:02:25.240
+That was the foundation of our project was to sort of build this data that as we continued to expand it, add years, add different types of uh layers on it by looking at just the entrepreneurs, for instance, um, we could start to see, oh, there's actually a picture of income, wealth, entrepreneurship, prosperity in the American economy that is very different than the picture that we were getting from the media, than a picture we were getting from the Capital Book and so on.
+
+22
+00:02:25.240 --> 00:02:35.720
+And so that's sort of the beginning was that kind of nerdy tax data project, the computers, the databases, the XML, and so on, which we can talk more about, but that's where we started.
+
+23
+00:02:35.720 --> 00:02:40.360
+Well, I wanted to ask about the databases actually, because it just sounded like a nightmare the way you described it.
+
+24
+00:02:40.360 --> 00:02:50.600
+And then there's this funny moment in the book where you basically like randomly find the guy who kind of built these systems and understood them and was able to help you wrap your head around them.
+
+25
+00:02:50.600 --> 00:02:52.440
+How difficult was this?
+
+26
+00:02:52.440 --> 00:02:57.480
+I mean, so the underlying data are basically everything on a tax form.
+
+27
+00:02:59.080 --> 00:03:03.960
+Better wealth debates start with knowing what the records can and can't show.
+
+28
+00:03:04.280 --> 00:03:16.360
+On the Ben Shapiro show's Titans on Tomorrow, Andrew Ross Orkin examines why AI labs may coordinate around regulation and where shared safety concerns could shade into collusion.
+
+29
+00:03:16.680 --> 00:03:25.880
+That matters as the industry pushes for rules while Microsoft faces fresh criticism over AI scraping and whose labor pays for these systems.
+
+30
+00:03:28.360 --> 00:03:39.080
+Having said that, I think that could and very well will be a byproduct, potentially, of whatever kind of regulatory scheme you come up with.
+
+31
+00:03:39.080 --> 00:03:40.680
+So do I think they're scared?
+
+32
+00:03:40.680 --> 00:03:41.160
+Yes.
+
+33
+00:03:41.160 --> 00:03:42.600
+Do I think that's real?
+
+34
+00:03:42.600 --> 00:03:43.320
+Absolutely.
+
+35
+00:03:43.320 --> 00:03:44.520
+Do I think that's driving it?
+
+36
+00:03:44.600 --> 00:03:44.920
+Absolutely.
+
+37
+00:03:46.640 --> 00:03:50.320
+And by the way, then there's these other elements though that may be driving it.
+
+38
+00:03:50.320 --> 00:03:56.480
+You know, we could talk about Dario and his effective altruism and that whole crew.
+
+39
+00:03:56.480 --> 00:03:57.760
+There's something to that.
+
+40
+00:03:57.760 --> 00:04:09.760
+You could argue that Elon is willing to support Dario's effort to do some of this, in part because Grok, at least right now, while it's coming on strong and I think actually is getting better, it's still behind.
+
+41
+00:04:09.760 --> 00:04:13.440
+So if you could slow down some of this, maybe that helps him.
+
+42
+00:04:13.440 --> 00:04:20.720
+You could argue that Sam at OpenAI has come out publicly and said, look, there should be no IPOs right now.
+
+43
+00:04:20.720 --> 00:04:24.560
+Well, he's not planning to have an IPO till 2027.
+
+44
+00:04:24.560 --> 00:04:26.960
+That would slow down Dario.
+
+45
+00:04:26.960 --> 00:04:31.920
+So everybody has their own sort of reason for what they're doing.
+
+46
+00:04:31.920 --> 00:04:37.440
+I think there's the genuine reason, and then there are these byproducts that can ultimately help them.
+
+47
+00:04:37.440 --> 00:04:40.320
+And I do think the regulatory capture one is real.
+
+48
+00:04:40.320 --> 00:04:47.920
+You know, one of the things that Dario is calling for effectively is that all these companies can talk to each other.
+
+49
+00:04:47.920 --> 00:04:55.840
+So historically, Coke and Pepsi were not really supposed to get in a room together and say, hey, you know, how are you doing?
+
+50
+00:04:55.840 --> 00:04:57.200
+How's the business going?
+
+51
+00:04:57.360 --> 00:04:58.960
+How much are you charging?
+
+52
+00:04:58.960 --> 00:05:03.040
+Uh what are you seeing in the supply chain, all of those things.
+
+53
+00:05:06.480 --> 00:05:11.280
+Is that something that in this new world of AI should be considered appropriate?
+
+54
+00:05:11.280 --> 00:05:13.680
+And effectively, what they are saying, that's what they want to do.
+
+55
+00:05:13.680 --> 00:05:15.600
+They want to get in a room together.
+
+56
+00:05:15.600 --> 00:05:17.680
+Is that a form of regulatory capture?
+
+57
+00:05:17.680 --> 00:05:23.440
+Maybe if you also have supervisors who are in each of these establishments, and do they work for the government?
+
+58
+00:05:23.440 --> 00:05:25.200
+Do they work for the companies?
+
+59
+00:05:25.200 --> 00:05:35.960
+So there's lots of sort of questions, but I do take the same rules can reduce real risk and protect the companies already on top.
+
+60
+00:05:36.520 --> 00:05:45.960
+On the Meb Faber show, financial economist Roger Ibotson recalls how building a century of total return data changed the case for owning stocks.
+
+61
+00:05:46.040 --> 00:05:53.640
+He also traces the addition of small caps and the evidence for their long-run return premium.
+
+62
+00:05:54.760 --> 00:05:57.000
+We didn't even have a small caps at the time in there.
+
+63
+00:05:57.000 --> 00:05:58.680
+We just had the large caps.
+
+64
+00:05:58.680 --> 00:06:07.560
+We added the small caps a few years later because actually David Booth and my co-author of the time, Rick Singfield, who helped me develop these original stuff.
+
+65
+00:06:07.560 --> 00:06:12.600
+Rex and David uh started Dimensional Fund Advisors together at that time.
+
+66
+00:06:12.600 --> 00:06:19.960
+So at that time, though, in 1974, 1975, it was right after this.
+
+67
+00:06:19.960 --> 00:06:21.560
+You can see a dip there.
+
+68
+00:06:21.720 --> 00:06:23.560
+This is this was a big recession.
+
+69
+00:06:23.560 --> 00:06:31.800
+This this was the worst return since the 1930s that actually happened in 1973 and 1974.
+
+70
+00:06:31.800 --> 00:06:41.720
+And then we come out with this chart which shows that stocks do way better than bonds and way better than treasury bills, and way better than inflation.
+
+71
+00:06:41.720 --> 00:06:47.080
+And it was big news at the time because people hadn't seen this chart then.
+
+72
+00:06:47.080 --> 00:06:49.160
+This is the first time people saw this chart.
+
+73
+00:06:49.160 --> 00:06:56.280
+And suddenly they say, Well, maybe stocks are all right to buy because they just had this big crash in the stock market.
+
+74
+00:06:56.280 --> 00:06:58.680
+Is stocks something we just have to avoid?
+
+75
+00:06:58.680 --> 00:07:06.760
+Well, actually, you can see even after the big dip, it's not a it's still way above bonds and bills and inflation.
+
+76
+00:07:06.760 --> 00:07:13.480
+So it was uh it actually made headlines in some some newspapers and so forth when we came out of the study.
+
+77
+00:07:13.480 --> 00:07:17.840
+And uh and it's it was this chart, I guess, that really captivated everybody.
+
+78
+00:07:18.080 --> 00:07:24.880
+People were becoming more aware that equities have good long-run returns, essentially.
+
+79
+00:07:24.880 --> 00:07:29.040
+It's not necessarily a big return after that for small caps.
+
+80
+00:07:29.040 --> 00:07:37.440
+A lot of the return from small caps came from 1974 to 19 early the early 1980s, there you could, as you can see.
+
+81
+00:07:37.440 --> 00:07:43.280
+But certainly over the over overall period, small caps have outperformed by almost one percent a year.
+
+82
+00:07:43.360 --> 00:07:49.120
+Money shows up when markets are expensive and have done really well and disappears when they're cheap.
+
+83
+00:07:49.120 --> 00:07:52.080
+How do you think about people?
+
+84
+00:07:52.080 --> 00:08:02.960
+You probably come to a different conclusion if you study the full hundred year period than if you just investment orthodoxy often starts as a difficult measurement problem.
+
+85
+00:08:02.960 --> 00:08:15.520
+On all in, Jared Isaacman lays out a space roadmap built around interoperable launches, autonomous lunar infrastructure, and manufacturing with materials found on the moon.
+
+86
+00:08:15.520 --> 00:08:25.440
+The longer-term goal includes a nuclear-powered scouting mission to Mars, turning Artemis from a visit into permanent capability.
+
+87
+00:08:45.440 --> 00:08:54.320
+And then Artemis 4 in 2028 when American astronauts return to the lunar surface and this time to stay.
+
+88
+00:08:54.320 --> 00:09:00.760
+In parallel.
+
+89
+00:09:00.760 --> 00:09:09.800
+In parallel, we are establishing humanity's first outposts on another world, a moon base, and this time we are leveraging the NASA playbook of decades past.
+
+90
+00:09:09.800 --> 00:09:12.280
+We are not jumping directly to the dream state.
+
+91
+00:09:12.280 --> 00:09:16.920
+We will launch missions on a near monthly cadence and undertake the science of survival.
+
+92
+00:09:16.920 --> 00:09:30.440
+That means autonomous and crewed mobility, surface improvement, institute resource utilization and manufacturing, logistics, habitability, power, communications, and all the science instruments the mass budget affords.
+
+93
+00:09:30.440 --> 00:09:36.840
+We will bring it to you live and HD on the Moon based website, and we will leave no doubters this time.
+
+94
+00:09:36.840 --> 00:09:40.440
+We go for the scientific and the economic potential.
+
+95
+00:09:40.440 --> 00:09:53.800
+We go to learn about the formation of our solar system, but primarily because the lunar south pole, where the water ice is, is gonna be the technological proving ground for where we inevitably go next, which is Mars.
+
+96
+00:09:53.800 --> 00:10:10.520
+In 2028, in 2028, NASA will leave decades and billions of dollars of failed nuclear programs behind and launch SR1 Freedom, a 100 kilowatt fission reactor that will finally get America underway on nuclear power.
+
+97
+00:10:10.520 --> 00:10:22.440
+The mission will transit Mars and release Skyfall, which will carries three ingenuity class helicopters and using ground penetrating radar to scout subsurface ice and future landing sites.
+
+98
+00:10:22.440 --> 00:10:27.480
+This will mark the beginning of the nuclear NASA pivoting our work.
+
+99
+00:10:30.320 --> 00:10:34.880
+to infrastructure that compounds.
+
+100
+00:10:34.880 --> 00:10:37.840
+That's the daily rundown for today.
+
+101
+00:10:37.840 --> 00:10:39.040
+Thanks for listening.
+
+102
+00:10:39.040 --> 00:10:40.720
+We'll be back tomorrow.
