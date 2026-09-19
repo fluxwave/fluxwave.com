@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-19",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-19_20260919T200132Z_85556/clip_sources/2b34ba2bdb83a93c/01_The_Hugging_FaceOpenAI_incident_and_insufficient_m.mp3",
+      "source": "Databricks CEO on AI Pacing, Cyber Risk, and the Enterprise",
+      "start_time": 441,
+      "end_time": 561,
+      "topic": "The Hugging Face\u2013OpenAI incident and insufficient monitoring of autonomous RL experiments"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-19_20260919T200132Z_85556/clip_sources/f357bd7b11b622fd/01_Why_the_oil_shock_is_unlikely_to_create_sustained.mp3",
+      "source": "David Rosenberg on Why He Wants the Bonds Everyone Hates \u2014 and Where He's Hiding in Stocks",
+      "start_time": 326,
+      "end_time": 477,
+      "topic": "Why the oil shock is unlikely to create sustained inflation"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-19_20260919T200132Z_85556/clip_sources/0a3a0ad556c3d1c8/01_Inference-chip_specialization_and_the_emerging_XPU.mp3",
+      "source": "Investing for the AI Boom: Masters in Business with Glen Kacher",
+      "start_time": 705,
+      "end_time": 835,
+      "topic": "Inference-chip specialization and the emerging XPU landscape"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-19_20260919T200132Z_85556/clip_sources/2e0ecf24d8225d2e/01_Boeings_hidden_MCAS_software_sensor_failure_and_th.mp3",
+      "source": "Bill Gurley: Searching for Feynman",
+      "start_time": 313,
+      "end_time": 434,
+      "topic": "Boeing's hidden MCAS software, sensor failure, and the 737 Max crash"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

@@ -1,0 +1,107 @@
+What's really pushing treasury yields higher?
+Whether NVIDIA can defend its AI lead and why slowing frontier AI may not solve the security problem.
+Plus, Bill Gurley revisits the regulatory failures behind the 737 max disasters.
+On excess returns, economist David Rosenberg argues the latest rise in treasury yields is mostly about higher real rates, not renewed inflation fears.
+That distinction matters for anyone deciding whether today's deeply unpopular bonds are actually a bargain.
+So, you know, back to your question, I just think that um, you know, there's just too much priced end.
+I don't think that it's not a big inflation story.
+It's funny because everybody talks about inflation, and that's the Fed's ultimate goal.
+But most of this backup in yields from the February 27th low, when we were below 4%, 90% of the increase in the 10-year Treasury note yield has come from the real interest rate.
+Umly 10% has come from market-based inflation expectations.
+For all the talk about inflation from the guests that you know you interview, or who you'll see on CNBC or Bloomberg TV or Fox Business, everybody's got inflation on the brain, yes, because the oil price is so visible.
+Uh housing, labor, uh money supply, sort of less visible, get less press.
+Um, but they are not ratifying a broad-based move in inflation.
+It's really been confined.
+There's been spillover, of course, in delivery services and airfares.
+But, you know, when I take a look and I see that the core goods, CPI, the stuff you can see, touch, and feel, uh, appliances, furniture, uh, building materials, uh, apparel, autos, uh, collectively, uh, they're running basically at 0.6% year for year.
+This time last year, they were one and a half percent.
+Uh, that's one of the metrics that I looked at very closely because so much of the service sector is guesswork and imputed services, which by the way, is one of the things that uh I believe that Kevin Morse's own task force uh is going to be uh revising so much of these inflation numbers for guessw.
+But if you look at X Energy, X food core goods, the stuff I just mentioned, um, there's absolutely there's no inflation there whatsoever in a store than it was last year.
+You know, just because people don't talk about it doesn't mean it's not important.
+Uh I talk about it.
+But it's been the real rate.
+It's a very important thing.
+If inflation expectations aren't the driver, the bond sell off may be pricing a different kind of economic risk.
+On masters and business, investor Glenn Catcher breaks down Nvidia's roughly 85% share of AI accelerators, and whether the shift from training to inference opens the door to rivals.
+With AI spending still surging, this is the core question behind NVIDIA's mode.
+You know, there's a there's a lot of uh discussion today around uh NVIDIA that a lot of people sort of assume NVIDIA is gonna lose their their massive market share uh in AI accelerators, which is roughly eighty-five percent.
+And certainly I think the the the move to to um inference is an opportunity for competitors to change uh you know and what's going on there.
+But I think people right now are, for instance, underestimating NVIDIA's opportunity to to innovate as well.
+So let's define some terms for some of the lay people not might might be listening.
+Compute and inference explain what those are explain how they're investable themes.
+Sure.
+So the the can the training compute that um that or the or the chips, the AI accelerator chips and today NVIDIA dominates that still with their graphics processor uh chips.
+And that you know those chips originally were made for gaming uh for uh doing very rapid mathematics that have to do with uh uh calculating physics and lighting uh uh shading and video games it turns out that the same kind of mathematics are uh incredibly uh well positioned to do the math around AI and then um so you're you're training uh a model an AI model that will be able to make judgments and then when you're actually using that model to ask questions and and um you know or have it solve problems and and actually execute those problems uh that's called inferencing right and so inferencing can be done on a more simple chip um so we people have kind of used an oper uh phrase XPU to to uh to X out the graphics and let's say this is gonna be this is the next generation of chips that uh can be used to actually solve the problems with those models that are built.
+Meaning the compute and the inference are on going to be on the same chip?
+They can be they can be done with the same chip, but you can have a more specialized lower cost chip, usually an inference with uh more memory, for instance.
+Uh and there's different approaches and software to uh to execute that with a lower call.
+Inference changes the battlefield, but market share alone doesn't show how hard Nvidious ecosystem is to displace.
+On the A16Z podcast, Databricks CEO Ollie Gotzi explains why pacing frontier AI is hard to separate from ordinary safety and security engineering.
+That matters as newer AI systems move beyond text generation into decision making and enterprise operations.
+That was very, very sensible.
+The problem was is this couch in this notion of pacing.
+And there's there's a number of issues with pacing.
+First off, it's orthogonal to safety and security.
+Like you can slowly build a weapon.
+That's not different than building a weapon.
+People don't feel it's it's it's genuine because like these companies have been at a dead run.
+You're still buying more compute to be even faster.
+No, no, no.
+I mean, no, I mean, like they just haven't done it, they haven't done it historically, but also it kind of kind of feels like this kind of almost milk toast capitulation to the pause people.
+So you're like, well, you say pause, well, I say pacing, which is almost like pause, but it's not like pause.
+So like they they chose they chose this kind of like flag to follow around pacing.
+But if you actually read, did you read the the the documentary rock?
+It's a totally sensible document.
+I read it, yeah.
+It just has nothing to do with pacing, right?
+And so I honestly No, he does mention it.
+Looks I I kind of a little bit disagree.
+I look, there's a tragedy of the commons.
+There's this like, hey, if you want to stop, if you want to go slower, why don't you go slower?
+Why do you write articles?
+There's a lot of people making that argument.
+But no, I mean, as a business leader, I understand that.
+There's a tragedy of the commons.
+Like I'm competing.
+I want to win, you know, and you're running ahead.
+Yeah, so I I'm just saying that the, you know, so it makes kind of sense where people say, hey, if you guys don't stop this, this strategy of the commons is gonna continue.
+I'm not gonna stop racing, because you know, there is IPOs at stake, there is a competition at stake, there's also some animosity between the people.
+So like I'm not gonna stop unilaterally, I'll be a sucker, you know.
+You why don't you stop first?
+You know, so then they're saying, hey, can can you come in and stop us?
+Um, but you know, I think that uh you could also make the argument that if you look at the hugging face opening eye incident, that uh by the way, I think these companies are great, and I think they are probably investing a lot of resources.
+I agree but it's very clear from if you read what happened, is that uh they weren't monitoring every token coming out and having it, you know, they were just like running these RL experiments, and then after the fact coming in and checking, okay, what happened?
+So they should have paced.
+There should have been much slower development, doesn't automatically make a dangerous capability safer.
+On all in, venture capitalist Bill Gurley examines regulatory capture around the 737 max, and why neither Boeing nor the FAA grounded the plane after evidence pointed to MCOS.
+He connects that failure to the bipartisan investigation into how oversight broke down before the second crash.
+There's our favorite word again.
+Um he even said to him, Sir, do you know you don't work for Boeing?
+Um one of the real failures here in this case, 45 days after the first crash, almost everyone knew the MCASH software was at fault.
+And no one grounded the plane.
+Boeing didn't ground the plane, the FAA didn't ground the plane, and the second crash.
+I mean, the first crash should have never happened because that piece of software should have been identified, which would have required retraining, but the second crash should have really never happened.
+I wanted to share with you, I don't want to go through this in detail, but these are the two different committees in the House and the Senate, and I just want to highlight that they were decidedly bipartisan.
+DeFasio was the head of the House Committee, very active.
+Ted Cruz and Wicker were super active.
+No one thought this was anything that should be partisan, nor should it be.
+Look at these stats, they're horrible.
+1800 deaths, 400,000 people displaced, damage 125 billion dollars.
+What happened here?
+Well, the Army Corps of Engineers that built the levee want you to believe that the water went over the levees.
+But that's you know, an act of God, natural disaster.
+But this was only a hurricane or category three level hurricane.
+What in fact happened was the levees gave way from underneath.
+They washed under.
+Um, and that's what's unfortunate is this was a preventable accident as well.
+Um, as with these others, you have searchers and blockers.
+The House had it had a commission, the Senate had a commission, the press played a key role.
+Mark Slufstein and John McQuaid um had written a series three years earlier about how this could happen.
+They would win two Pulitzer.
+I actually had a chance to talk with John about it.
+Um, the NSF, the National Science Foundation cared so much about this, they did a bake off for to have another team doing investigation in these two professors.
+The stakes here are accountability.
+Who acts when a regulator becomes too close to the company it oversees?
+That's the daily rundown for today.
+Thanks for listening.
+We'll be back with more clips tomorrow.

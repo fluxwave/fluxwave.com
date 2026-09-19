@@ -1,0 +1,429 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:02.320
+What's really pushing treasury yields higher?
+
+2
+00:00:02.320 --> 00:00:10.480
+Whether NVIDIA can defend its AI lead and why slowing frontier AI may not solve the security problem.
+
+3
+00:00:10.480 --> 00:00:19.600
+Plus, Bill Gurley revisits the regulatory failures behind the 737 max disasters.
+
+4
+00:00:19.600 --> 00:00:30.880
+On excess returns, economist David Rosenberg argues the latest rise in treasury yields is mostly about higher real rates, not renewed inflation fears.
+
+5
+00:00:31.040 --> 00:00:38.560
+That distinction matters for anyone deciding whether today's deeply unpopular bonds are actually a bargain.
+
+6
+00:00:41.200 --> 00:00:46.400
+So, you know, back to your question, I just think that um, you know, there's just too much priced end.
+
+7
+00:00:46.400 --> 00:00:49.440
+I don't think that it's not a big inflation story.
+
+8
+00:00:49.440 --> 00:00:54.720
+It's funny because everybody talks about inflation, and that's the Fed's ultimate goal.
+
+9
+00:00:54.720 --> 00:01:05.760
+But most of this backup in yields from the February 27th low, when we were below 4%, 90% of the increase in the 10-year Treasury note yield has come from the real interest rate.
+
+10
+00:01:05.760 --> 00:01:09.600
+Umly 10% has come from market-based inflation expectations.
+
+11
+00:01:09.600 --> 00:01:24.480
+For all the talk about inflation from the guests that you know you interview, or who you'll see on CNBC or Bloomberg TV or Fox Business, everybody's got inflation on the brain, yes, because the oil price is so visible.
+
+12
+00:01:24.480 --> 00:01:33.040
+Uh housing, labor, uh money supply, sort of less visible, get less press.
+
+13
+00:01:33.040 --> 00:01:37.920
+Um, but they are not ratifying a broad-based move in inflation.
+
+14
+00:01:37.920 --> 00:01:39.600
+It's really been confined.
+
+15
+00:01:39.600 --> 00:01:43.280
+There's been spillover, of course, in delivery services and airfares.
+
+16
+00:01:43.280 --> 00:02:01.400
+But, you know, when I take a look and I see that the core goods, CPI, the stuff you can see, touch, and feel, uh, appliances, furniture, uh, building materials, uh, apparel, autos, uh, collectively, uh, they're running basically at 0.6% year for year.
+
+17
+00:01:59.600 --> 00:02:03.560
+This time last year, they were one and a half percent.
+
+18
+00:02:04.680 --> 00:02:24.120
+Uh, that's one of the metrics that I looked at very closely because so much of the service sector is guesswork and imputed services, which by the way, is one of the things that uh I believe that Kevin Morse's own task force uh is going to be uh revising so much of these inflation numbers for guessw.
+
+19
+00:02:24.280 --> 00:02:35.320
+But if you look at X Energy, X food core goods, the stuff I just mentioned, um, there's absolutely there's no inflation there whatsoever in a store than it was last year.
+
+20
+00:02:35.320 --> 00:02:39.240
+You know, just because people don't talk about it doesn't mean it's not important.
+
+21
+00:02:39.240 --> 00:02:40.840
+Uh I talk about it.
+
+22
+00:02:40.840 --> 00:02:42.200
+But it's been the real rate.
+
+23
+00:02:42.200 --> 00:02:44.040
+It's a very important thing.
+
+24
+00:02:44.120 --> 00:02:51.960
+If inflation expectations aren't the driver, the bond sell off may be pricing a different kind of economic risk.
+
+25
+00:02:52.040 --> 00:03:05.640
+On masters and business, investor Glenn Catcher breaks down Nvidia's roughly 85% share of AI accelerators, and whether the shift from training to inference opens the door to rivals.
+
+26
+00:03:05.640 --> 00:03:11.640
+With AI spending still surging, this is the core question behind NVIDIA's mode.
+
+27
+00:03:13.800 --> 00:03:28.280
+You know, there's a there's a lot of uh discussion today around uh NVIDIA that a lot of people sort of assume NVIDIA is gonna lose their their massive market share uh in AI accelerators, which is roughly eighty-five percent.
+
+28
+00:03:28.280 --> 00:03:38.600
+And certainly I think the the the move to to um inference is an opportunity for competitors to change uh you know and what's going on there.
+
+29
+00:03:38.600 --> 00:03:45.040
+But I think people right now are, for instance, underestimating NVIDIA's opportunity to to innovate as well.
+
+30
+00:03:44.920 --> 00:03:50.800
+So let's define some terms for some of the lay people not might might be listening.
+
+31
+00:03:51.520 --> 00:03:57.360
+Compute and inference explain what those are explain how they're investable themes.
+
+32
+00:03:57.680 --> 00:03:58.160
+Sure.
+
+33
+00:03:58.160 --> 00:04:12.800
+So the the can the training compute that um that or the or the chips, the AI accelerator chips and today NVIDIA dominates that still with their graphics processor uh chips.
+
+34
+00:04:12.800 --> 00:05:20.240
+And that you know those chips originally were made for gaming uh for uh doing very rapid mathematics that have to do with uh uh calculating physics and lighting uh uh shading and video games it turns out that the same kind of mathematics are uh incredibly uh well positioned to do the math around AI and then um so you're you're training uh a model an AI model that will be able to make judgments and then when you're actually using that model to ask questions and and um you know or have it solve problems and and actually execute those problems uh that's called inferencing right and so inferencing can be done on a more simple chip um so we people have kind of used an oper uh phrase XPU to to uh to X out the graphics and let's say this is gonna be this is the next generation of chips that uh can be used to actually solve the problems with those models that are built.
+
+35
+00:05:20.560 --> 00:05:23.680
+Meaning the compute and the inference are on going to be on the same chip?
+
+36
+00:05:23.680 --> 00:05:32.520
+They can be they can be done with the same chip, but you can have a more specialized lower cost chip, usually an inference with uh more memory, for instance.
+
+37
+00:05:32.520 --> 00:05:39.160
+Uh and there's different approaches and software to uh to execute that with a lower call.
+
+38
+00:05:39.240 --> 00:05:47.560
+Inference changes the battlefield, but market share alone doesn't show how hard Nvidious ecosystem is to displace.
+
+39
+00:05:47.560 --> 00:05:58.920
+On the A16Z podcast, Databricks CEO Ollie Gotzi explains why pacing frontier AI is hard to separate from ordinary safety and security engineering.
+
+40
+00:05:59.240 --> 00:06:09.080
+That matters as newer AI systems move beyond text generation into decision making and enterprise operations.
+
+41
+00:06:09.400 --> 00:06:10.920
+That was very, very sensible.
+
+42
+00:06:10.920 --> 00:06:14.280
+The problem was is this couch in this notion of pacing.
+
+43
+00:06:14.280 --> 00:06:16.440
+And there's there's a number of issues with pacing.
+
+44
+00:06:16.440 --> 00:06:19.160
+First off, it's orthogonal to safety and security.
+
+45
+00:06:19.160 --> 00:06:21.080
+Like you can slowly build a weapon.
+
+46
+00:06:21.400 --> 00:06:23.720
+That's not different than building a weapon.
+
+47
+00:06:23.720 --> 00:06:30.280
+People don't feel it's it's it's genuine because like these companies have been at a dead run.
+
+48
+00:06:30.760 --> 00:06:32.840
+You're still buying more compute to be even faster.
+
+49
+00:06:33.000 --> 00:06:33.320
+No, no, no.
+
+50
+00:06:33.320 --> 00:06:41.880
+I mean, no, I mean, like they just haven't done it, they haven't done it historically, but also it kind of kind of feels like this kind of almost milk toast capitulation to the pause people.
+
+51
+00:06:41.880 --> 00:06:45.960
+So you're like, well, you say pause, well, I say pacing, which is almost like pause, but it's not like pause.
+
+52
+00:06:46.120 --> 00:06:52.840
+So like they they chose they chose this kind of like flag to follow around pacing.
+
+53
+00:06:52.840 --> 00:06:56.360
+But if you actually read, did you read the the the documentary rock?
+
+54
+00:06:56.440 --> 00:06:57.560
+It's a totally sensible document.
+
+55
+00:06:57.880 --> 00:06:58.440
+I read it, yeah.
+
+56
+00:06:58.440 --> 00:07:00.040
+It just has nothing to do with pacing, right?
+
+57
+00:07:00.040 --> 00:07:01.960
+And so I honestly No, he does mention it.
+
+58
+00:07:01.960 --> 00:07:03.800
+Looks I I kind of a little bit disagree.
+
+59
+00:07:03.800 --> 00:07:05.480
+I look, there's a tragedy of the commons.
+
+60
+00:07:05.560 --> 00:07:09.320
+There's this like, hey, if you want to stop, if you want to go slower, why don't you go slower?
+
+61
+00:07:09.320 --> 00:07:10.200
+Why do you write articles?
+
+62
+00:07:10.200 --> 00:07:11.400
+There's a lot of people making that argument.
+
+63
+00:07:11.560 --> 00:07:13.640
+But no, I mean, as a business leader, I understand that.
+
+64
+00:07:13.640 --> 00:07:14.920
+There's a tragedy of the commons.
+
+65
+00:07:15.200 --> 00:07:16.080
+Like I'm competing.
+
+66
+00:07:16.080 --> 00:07:17.920
+I want to win, you know, and you're running ahead.
+
+67
+00:07:22.160 --> 00:07:29.040
+Yeah, so I I'm just saying that the, you know, so it makes kind of sense where people say, hey, if you guys don't stop this, this strategy of the commons is gonna continue.
+
+68
+00:07:29.040 --> 00:07:36.160
+I'm not gonna stop racing, because you know, there is IPOs at stake, there is a competition at stake, there's also some animosity between the people.
+
+69
+00:07:36.160 --> 00:07:39.120
+So like I'm not gonna stop unilaterally, I'll be a sucker, you know.
+
+70
+00:07:39.200 --> 00:07:40.240
+You why don't you stop first?
+
+71
+00:07:40.240 --> 00:07:42.880
+You know, so then they're saying, hey, can can you come in and stop us?
+
+72
+00:07:42.880 --> 00:07:52.800
+Um, but you know, I think that uh you could also make the argument that if you look at the hugging face opening eye incident, that uh by the way, I think these companies are great, and I think they are probably investing a lot of resources.
+
+73
+00:07:52.960 --> 00:08:07.600
+I agree but it's very clear from if you read what happened, is that uh they weren't monitoring every token coming out and having it, you know, they were just like running these RL experiments, and then after the fact coming in and checking, okay, what happened?
+
+74
+00:08:07.600 --> 00:08:08.640
+So they should have paced.
+
+75
+00:08:08.640 --> 00:08:16.400
+There should have been much slower development, doesn't automatically make a dangerous capability safer.
+
+76
+00:08:16.400 --> 00:08:30.080
+On all in, venture capitalist Bill Gurley examines regulatory capture around the 737 max, and why neither Boeing nor the FAA grounded the plane after evidence pointed to MCOS.
+
+77
+00:08:30.400 --> 00:08:38.880
+He connects that failure to the bipartisan investigation into how oversight broke down before the second crash.
+
+78
+00:08:39.760 --> 00:08:41.600
+There's our favorite word again.
+
+79
+00:08:41.600 --> 00:08:48.000
+Um he even said to him, Sir, do you know you don't work for Boeing?
+
+80
+00:08:48.000 --> 00:08:57.920
+Um one of the real failures here in this case, 45 days after the first crash, almost everyone knew the MCASH software was at fault.
+
+81
+00:08:57.920 --> 00:08:59.800
+And no one grounded the plane.
+
+82
+00:08:58.960 --> 00:09:04.040
+Boeing didn't ground the plane, the FAA didn't ground the plane, and the second crash.
+
+83
+00:09:04.200 --> 00:09:14.760
+I mean, the first crash should have never happened because that piece of software should have been identified, which would have required retraining, but the second crash should have really never happened.
+
+84
+00:09:14.760 --> 00:09:23.880
+I wanted to share with you, I don't want to go through this in detail, but these are the two different committees in the House and the Senate, and I just want to highlight that they were decidedly bipartisan.
+
+85
+00:09:23.880 --> 00:09:27.320
+DeFasio was the head of the House Committee, very active.
+
+86
+00:09:27.320 --> 00:09:29.800
+Ted Cruz and Wicker were super active.
+
+87
+00:09:29.800 --> 00:09:34.680
+No one thought this was anything that should be partisan, nor should it be.
+
+88
+00:10:17.640 --> 00:10:19.320
+Look at these stats, they're horrible.
+
+89
+00:10:19.320 --> 00:10:25.800
+1800 deaths, 400,000 people displaced, damage 125 billion dollars.
+
+90
+00:10:25.800 --> 00:10:27.160
+What happened here?
+
+91
+00:10:27.160 --> 00:10:34.200
+Well, the Army Corps of Engineers that built the levee want you to believe that the water went over the levees.
+
+92
+00:10:34.200 --> 00:10:37.640
+But that's you know, an act of God, natural disaster.
+
+93
+00:10:37.640 --> 00:10:41.480
+But this was only a hurricane or category three level hurricane.
+
+94
+00:10:41.480 --> 00:10:44.840
+What in fact happened was the levees gave way from underneath.
+
+95
+00:10:44.880 --> 00:10:46.640
+They washed under.
+
+96
+00:10:46.640 --> 00:10:51.600
+Um, and that's what's unfortunate is this was a preventable accident as well.
+
+97
+00:10:51.600 --> 00:10:55.120
+Um, as with these others, you have searchers and blockers.
+
+98
+00:10:55.120 --> 00:11:00.400
+The House had it had a commission, the Senate had a commission, the press played a key role.
+
+99
+00:11:00.400 --> 00:11:07.120
+Mark Slufstein and John McQuaid um had written a series three years earlier about how this could happen.
+
+100
+00:11:07.120 --> 00:11:08.720
+They would win two Pulitzer.
+
+101
+00:11:08.720 --> 00:11:11.120
+I actually had a chance to talk with John about it.
+
+102
+00:11:11.120 --> 00:11:21.840
+Um, the NSF, the National Science Foundation cared so much about this, they did a bake off for to have another team doing investigation in these two professors.
+
+103
+00:11:21.840 --> 00:11:24.080
+The stakes here are accountability.
+
+104
+00:11:24.080 --> 00:11:31.200
+Who acts when a regulator becomes too close to the company it oversees?
+
+105
+00:11:31.200 --> 00:11:34.160
+That's the daily rundown for today.
+
+106
+00:11:34.160 --> 00:11:35.360
+Thanks for listening.
+
+107
+00:11:35.360 --> 00:11:38.080
+We'll be back with more clips tomorrow.
