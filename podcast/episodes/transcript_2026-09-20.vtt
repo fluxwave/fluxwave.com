@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:07.360
+China's open weight AI push, machines improving their own learning and the biology of longevity.
+
+2
+00:00:07.360 --> 00:00:12.880
+Plus, why paying hip hop's pioneers required more than writing checks?
+
+3
+00:00:14.720 --> 00:00:30.640
+On excess returns, Jason, Sue traces Deepseek from a cash-rich high-frequency hedge fund side project to a symbol of China's open weight AI strategy and why the global AI gap may be narrowing.
+
+4
+00:00:31.760 --> 00:00:39.200
+Yeah, so I would say other than DeepSeek, which kind of the funny story is that DeepSeek actually was first of all a high-frequency hedge fund, right?
+
+5
+00:00:39.200 --> 00:00:41.920
+And they just had so much money, so much compute power.
+
+6
+00:00:41.920 --> 00:00:43.360
+This is like a side project.
+
+7
+00:00:43.360 --> 00:00:46.320
+Like, could they do something given all the scientists?
+
+8
+00:00:46.320 --> 00:01:06.160
+But otherwise, the the other kind of uh AI model developers, uh, first they started in in large language model and now they've sort of expanded into kind of world models, but they are very similar to a US in the sense that they all are uh the biggest tech companies, like their equivalent of our Mac 7, right?
+
+9
+00:01:06.160 --> 00:01:10.080
+You know, their Alibaba, their Tencent, their Baidu, right?
+
+10
+00:01:10.080 --> 00:01:15.920
+So mapping into our Amazon, our uh, you know, Tesla or our you know, Meta.
+
+11
+00:01:15.920 --> 00:01:26.000
+Uh so it is their biggest tech companies, the biggest cash flow, of course, with their treasure trove of top scientists that are making advances uh on these uh AI models.
+
+12
+00:01:26.000 --> 00:01:28.000
+So perfect parallel to the US.
+
+13
+00:01:28.000 --> 00:01:28.800
+Except for Deep Seek.
+
+14
+00:01:28.880 --> 00:01:33.760
+Do you think China will play ball on in terms of like helping on the the regulating the models type thing?
+
+15
+00:01:33.760 --> 00:01:42.480
+Like I was just letting listening to a interview with Elon Musk before we got on, and he was saying basically I was the plan right now they have seems to be the companies will check each other's models before they come out.
+
+16
+00:01:42.480 --> 00:01:45.120
+And he was saying, like, I think China will sign on to that.
+
+17
+00:01:45.120 --> 00:01:46.960
+But I was thinking, like, I don't know anything about this.
+
+18
+00:01:46.960 --> 00:01:48.640
+I don't think that might be hard to get it to do.
+
+19
+00:01:48.640 --> 00:01:51.680
+Like, do you do you think they would want to cooperate in something like that?
+
+20
+00:01:51.680 --> 00:01:55.840
+Well, I mean, uh, you know, right now, if you look at the the China models, right?
+
+21
+00:01:55.840 --> 00:02:01.000
+They are um open source, meaning any and everyone can look at it and check it.
+
+22
+00:01:59.840 --> 00:02:04.760
+So they already opened themselves uh two worlds inspection.
+
+23
+00:02:04.920 --> 00:02:09.240
+Now that's because they're not trying to sell software, they're trying to sell hardware, right?
+
+24
+00:02:09.240 --> 00:02:12.760
+They know they have a hardware advantage, they have an energy advantage.
+
+25
+00:02:12.760 --> 00:02:19.960
+So you're trying to make money uh where kind of US companies have to make it with the, you know, the close models.
+
+26
+00:02:19.960 --> 00:02:25.320
+Now, um, if the USS Okay, well, yeah, just for for the sake of human safety, right?
+
+27
+00:02:25.320 --> 00:02:31.480
+Like, we should all open up our models to each other to check, um, yeah, trying to welcome that, right?
+
+28
+00:02:31.480 --> 00:02:43.160
+Because they previously would have no access to that, whereas your models are open to the open weight strategy makes today's fight over protecting model weights even more consequential.
+
+29
+00:02:43.160 --> 00:02:51.560
+On Tom Bilew's impact theory, AI safety researcher Roman Yampulski examined synthetic data and automated experimentation.
+
+30
+00:02:51.560 --> 00:02:57.800
+The pieces that could turn model development into a self-improvement cycle.
+
+31
+00:03:01.800 --> 00:03:05.480
+But I've seen headlines anyway, and hopefully you'll tell me that they're not true.
+
+32
+00:03:05.480 --> 00:03:22.200
+But I've seen headlines where it's like now AI is creating the most efficient learning algorithms itself, which, if true, seems to be the first step down the road of recursive self-learning where it will just completely detach from us and make itself smarter and smarter and smarter.
+
+33
+00:03:22.680 --> 00:03:25.720
+We already had examples of AI teaching itself.
+
+34
+00:03:25.720 --> 00:03:27.480
+Self-play was exactly that.
+
+35
+00:03:27.480 --> 00:03:32.760
+That's how games like Go were successfully defeated.
+
+36
+00:03:32.760 --> 00:03:37.160
+A system would play many, many, many games against itself.
+
+37
+00:03:37.160 --> 00:03:41.240
+The better solutions, better agents would propagate those.
+
+38
+00:03:41.240 --> 00:03:47.360
+And after a while, without any human data, they became superhuman in those domains.
+
+39
+00:03:47.360 --> 00:03:50.240
+You can generate artificial data in other domains.
+
+40
+00:03:50.240 --> 00:03:58.320
+You can use one AI to generate environments, and now we want to compete in them, and that creates this type of self-improvement.
+
+41
+00:03:58.320 --> 00:04:09.200
+Typically, we start with human data as a seed and grow from there, but there is zero reason to think we cannot do the zero knowledge learning in other domains.
+
+42
+00:04:09.200 --> 00:04:16.080
+You can do uh run novel experiments in physics and chemistry, discover things from first principles.
+
+43
+00:04:16.080 --> 00:04:28.080
+And yeah, we're starting to see AI used to assist in designing design of new models, parameters for models, optimization of runs, and this process will continue.
+
+44
+00:04:28.080 --> 00:04:32.240
+They already designed new computer chips on which they're gonna run.
+
+45
+00:04:32.240 --> 00:04:35.040
+So there is definitely an improvement cycle.
+
+46
+00:04:35.040 --> 00:04:36.400
+It's not fully complete.
+
+47
+00:04:36.400 --> 00:04:43.600
+There are still humans in the loop, a lot of great humans in the loop, but long term I think all the steps can be automated.
+
+48
+00:04:43.680 --> 00:04:51.440
+Okay, and do you think that right now AI already has what it needs to improve itself?
+
+49
+00:04:51.440 --> 00:05:00.960
+Or are we still at a point where if all humans stopped, that AI would be like, ah, damn, I'm I didn't quite get on lifespan.
+
+50
+00:05:00.960 --> 00:05:01.360
+Dr.
+
+51
+00:05:01.360 --> 00:05:04.160
+David Sinclair explains the survival circuit.
+
+52
+00:05:04.160 --> 00:05:24.680
+How perceived adversity may activate sertuants and amp while inhibiting MTR pathways, sirtuin activators, mTOR inhibitors, and AMPK activators.
+
+53
+00:05:24.640 --> 00:05:29.880
+All three of these make sense in the context of something that you've called the survival circuit.
+
+54
+00:05:29.600 --> 00:05:34.840
+Yeah, we came up with this during discussions for lifespan the book.
+
+55
+00:05:29.880 --> 00:05:31.560
+Can you hit on that briefly?
+
+56
+00:05:35.080 --> 00:05:42.840
+And the idea is that if we're in periods of adversity or even perceived adversity, we can trick our body into thinking we're gonna die, but we're not really.
+
+57
+00:05:42.840 --> 00:05:48.600
+By fasting, by exercising, by being in different temperatures, by taking molecules in from plants that are stressed.
+
+58
+00:05:48.600 --> 00:05:53.240
+These give us the feeling of biological stress called hormesis.
+
+59
+00:05:53.240 --> 00:05:57.240
+And the survival circuit exists to react to that and keep us alive.
+
+60
+00:05:57.240 --> 00:06:01.240
+And it's been around pretty much since life of first formed on the planet.
+
+61
+00:06:01.240 --> 00:06:06.600
+We know this because survival enzymes are what we call longevity genes that give rise to these enzymes.
+
+62
+00:06:06.600 --> 00:06:14.680
+We find them in plants, even in bacteria, that of course we have many of these genes in our own body, and we think that they've evolved to keep us alive when times are tough.
+
+63
+00:06:14.680 --> 00:06:23.400
+Problem is life's pretty easy these days for most of us on the planet, and these survival circuit genes just don't get turned on the way they used to.
+
+64
+00:06:23.400 --> 00:06:25.000
+And so we age more rapidly.
+
+65
+00:06:25.320 --> 00:06:42.920
+Most of the things that do turn on the survival circuit in that really positive way that leads to better health and longevity, as you've described it to me over the years, these things work together to either activate sirtuins to inhibit mTOR, or to activate AMPK.
+
+66
+00:06:42.920 --> 00:06:46.440
+And again, people can do a deep dive on that in the book, but those are the three things.
+
+67
+00:06:46.440 --> 00:06:46.760
+Yeah.
+
+68
+00:06:46.760 --> 00:06:48.360
+Usually I'll cover it very briefly.
+
+69
+00:06:48.360 --> 00:06:54.280
+So Surtuins, these are the genes that I worked on pretty much my whole career since I came to MIT in 1995.
+
+70
+00:06:54.280 --> 00:07:00.600
+Discovered a link to lifespan under Lenny Gorenti's tutelage, where he was lucky to land.
+
+71
+00:07:00.600 --> 00:07:01.880
+And that was in yeast cells.
+
+72
+00:07:01.880 --> 00:07:23.040
+So sirtuins are silent information regulators, SIR in the name, and they regulate many different things, but what they do that I think is most critical is they stabilize the information in the cell, the DNA, the genome, and the epigenome, which we've talked about a lot because it's central to the information theory of aging, which I believe explains a lot of aging itself.
+
+73
+00:07:23.040 --> 00:07:36.320
+So there's the On the A16Z podcast, Nas, Grandmaster Kaz, Steve Stout, and Ben Horowitz explain why financial awards alone couldn't repay hip hop's pioneers.
+
+74
+00:07:36.320 --> 00:07:41.440
+Recognition and dignity had to come with them.
+
+75
+00:07:44.480 --> 00:07:47.200
+We had a hard time actually helping people.
+
+76
+00:07:49.600 --> 00:07:54.560
+Yeah, I have some stories on that of I don't even know if I can mention the name.
+
+77
+00:07:54.560 --> 00:07:58.720
+So we had people who literally didn't get the award because they thought it was a scam.
+
+78
+00:07:58.720 --> 00:07:59.520
+Yeah.
+
+79
+00:07:59.600 --> 00:08:01.200
+They just did they didn't want to mess with it.
+
+80
+00:08:01.200 --> 00:08:24.560
+And that's actually what reinforced the belief that if you celebrated the artist, and it didn't feel like you were giving them something like reparations, but you were actually celebrating them and get them the honor and dignity they deserve that they had not received properly, then that would be the way that it would be accepted and celebrated.
+
+81
+00:08:24.560 --> 00:08:34.480
+And it wasn't until we did the first one, and it was, you know, we like any other startup, you duct tape and right, you whatever we got to do to get this thing going.
+
+82
+00:08:34.480 --> 00:08:38.080
+But we had Scarface and Rock Him.
+
+83
+00:08:38.080 --> 00:08:44.800
+And then obviously the support of the board and having Nas on the board, and that all helped.
+
+84
+00:08:44.800 --> 00:08:47.040
+And then it was started to go through the community.
+
+85
+00:08:47.000 --> 00:08:49.760
+There is something that's happening, and that's when it worked.
+
+86
+00:08:49.760 --> 00:08:54.200
+But literally it was disbelief from the initial phone calls and just initial reach out.
+
+87
+00:08:54.200 --> 00:08:56.000
+Like, why would anybody do this?
+
+88
+00:08:56.000 --> 00:08:59.120
+That's how fucked they've been for so long.
+
+89
+00:08:59.120 --> 00:09:02.520
+Like, why would anybody come look and try to help us now?
+
+90
+00:09:02.520 --> 00:09:12.040
+Yeah, and how fucked the rap community has been like to not show love, to be so divided, to act like it's every man for itself.
+
+91
+00:09:12.040 --> 00:09:18.680
+You know, rap is competitive, but at some point we gotta bring it around to what it's supposed to be.
+
+92
+00:09:18.680 --> 00:09:22.120
+And it was funny, like nothing like this ever existed.
+
+93
+00:09:22.120 --> 00:09:27.240
+It's sort of like when you were talking to me, I was like, why hasn't this happened?
+
+94
+00:09:27.240 --> 00:09:32.840
+Like, I'm in the right circle of people to be talking about the right thing.
+
+95
+00:09:32.840 --> 00:09:38.040
+And it was almost like it was daring for us to even to do something like this.
+
+96
+00:09:38.040 --> 00:09:38.680
+Yeah.
+
+97
+00:09:38.680 --> 00:09:42.920
+Well, it's one of those things where I think somebody gotta step up at some point.
+
+98
+00:09:42.920 --> 00:09:50.760
+And that's the thing about if recipients think the help is a scam, trust isn't a side issue.
+
+99
+00:09:50.760 --> 00:09:54.840
+It's the whole delivery system.
+
+100
+00:09:54.840 --> 00:09:57.640
+That's today's daily rundown.
+
+101
+00:09:57.640 --> 00:09:58.760
+Thanks for listening.
+
+102
+00:09:58.760 --> 00:10:00.760
+We'll be back tomorrow.

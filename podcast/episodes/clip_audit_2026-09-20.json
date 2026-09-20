@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-20",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-20_20260920T200132Z_6070/clip_sources/6eb2f946a27f1785/01_China_reaches_parity_with_US_AI_labs_and_its_major.mp3",
+      "source": "The AI Gap Is Closing | Jason Hsu on China, Momentum Crashes and the S&P\u2019s Seven-Stock Bet",
+      "start_time": 323,
+      "end_time": 454,
+      "topic": "China reaches parity with U.S. AI labs and its major model developers"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-20_20260920T200132Z_6070/clip_sources/b1b7968accd4aea5/01_Whether_scaling_LLMs_is_sufficient_for_AGI_and_whe.mp3",
+      "source": "The Alarming Truth About Superintelligent AI: Roman Yampolsky on Human Survival (Replay)",
+      "start_time": 634,
+      "end_time": 762,
+      "topic": "Whether scaling LLMs is sufficient for AGI and whether next-token prediction builds world models"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-20_20260920T200132Z_6070/clip_sources/b346a1e661185530/01_Nas_and_Ben_Horowitz_on_collective-action_failures.mp3",
+      "source": "Nas, Grandmaster Caz, Steve Stoute & Ben Horowitz on Paying Hip-Hop\u2019s Pioneers Their Due",
+      "start_time": 387,
+      "end_time": 510,
+      "topic": "Nas and Ben Horowitz on collective-action failures and the need for individuals to create institutions"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-20_20260920T200132Z_6070/clip_sources/50404f079b163e7b/01_Sirtuins_cellular_information_stability_and_mTOR_s.mp3",
+      "source": "This Sugar Substitute May Extend Your Life | Lifespan with Dr. David Sinclair - S2, Ep. 9",
+      "start_time": 402,
+      "end_time": 527,
+      "topic": "Sirtuins, cellular information stability, and mTOR signaling"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
