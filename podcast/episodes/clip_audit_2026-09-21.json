@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-21",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-21_20260921T200141Z_33883/clip_sources/866cee172e66c013/01_Intent_capture_versus_AI-powered_product_discovery.mp3",
+      "source": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market",
+      "start_time": 382,
+      "end_time": 562,
+      "topic": "Intent capture versus AI-powered product discovery in Google, Meta, and AppLovin advertising systems"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-21_20260921T200141Z_33883/clip_sources/00052206e5592f70/01_Telemetry_diagnostics_and_debugging_infrastructure.mp3",
+      "source": "AI Safety Language Is Destroying the Debate | Steven Sinofsky",
+      "start_time": 439,
+      "end_time": 559,
+      "topic": "Telemetry, diagnostics, and debugging infrastructure for safety-critical AI"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-21_20260921T200141Z_33883/clip_sources/acce57a457308095/01_Constructing_separate_AI_and_anti-AI_portfolio_sle.mp3",
+      "source": "Andr\u00e9 Perold \u2013 Investing Through Exponential Change (EP.516)",
+      "start_time": 591,
+      "end_time": 717,
+      "topic": "Constructing separate AI and anti-AI portfolio sleeves under radical uncertainty"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-21_20260921T200141Z_33883/clip_sources/a90b451f6fd1b539/01_Principles-first_decomposition_of_technologies_bus.mp3",
+      "source": "Fundamentals Will Help You Survive the Constant Acceleration of Software Engineering",
+      "start_time": 465,
+      "end_time": 595,
+      "topic": "Principles-first decomposition of technologies, business offerings, LLM providers, tools, and engineering practices"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

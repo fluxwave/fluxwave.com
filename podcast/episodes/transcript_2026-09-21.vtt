@@ -1,0 +1,453 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:10.240
+Rogue AI agents as ordinary software bugs, investing through exponential change and the fight over AI-driven advertising.
+
+2
+00:00:10.240 --> 00:00:18.640
+Plus, why software fundamentals still matter when databases and language models keep changing?
+
+3
+00:00:18.640 --> 00:00:31.520
+On the A16Z podcast, former Microsoft executive Steven Sinofsky argues that rogue agent behavior is better understood as software bugs, not science fiction misalignment.
+
+4
+00:00:31.520 --> 00:00:41.360
+That framing matters as lawmakers weigh AI restrictions, and Google rolls out its open agentic orchestrator.
+
+5
+00:00:41.360 --> 00:00:50.800
+And well-intentioned people like Congressman Galheimer are getting on TV in the morning and saying, we need a bill to stop rogue AI agents.
+
+6
+00:00:50.800 --> 00:00:53.200
+And the stop rogue AI Act.
+
+7
+00:00:53.200 --> 00:00:57.600
+And you listen to all of this and you realize we have a huge problem.
+
+8
+00:00:57.600 --> 00:01:06.960
+And this huge problem is just making my head explode, which is the AI people are making it impossible for anybody to understand what they've done.
+
+9
+00:01:06.960 --> 00:01:12.800
+And they're using words like, well, the AI failed to be aligned.
+
+10
+00:01:12.800 --> 00:01:13.360
+Okay.
+
+11
+00:01:13.360 --> 00:01:15.200
+What does that mean?
+
+12
+00:01:15.200 --> 00:01:18.880
+What it means is there was a bug in the software.
+
+13
+00:01:18.880 --> 00:01:23.040
+The software did not do what we thought it would do.
+
+14
+00:01:23.040 --> 00:01:35.920
+But when you say misaligned, it it puts all these characteristics on AI that it was thinking of doing something, that it had to make a moral judgment, that it had rules and guidelines to do things.
+
+15
+00:01:35.920 --> 00:01:50.560
+And it's like, wow, we had bugs in spreadsheets where they didn't do what we thought that they were supposed to do, and we didn't sit around like in a circle and pray to the gods of alignment that the spreadsheet would do math correctly.
+
+16
+00:01:50.560 --> 00:02:02.520
+Like what, you know, when when Word ate your file and deleted all your content, we didn't think that demons had taken over Word and made it do things against the will of man.
+
+17
+00:01:59.840 --> 00:02:04.840
+And this is a huge, huge problem.
+
+18
+00:02:05.400 --> 00:02:08.200
+Because it's literally nonsense what they're saying.
+
+19
+00:02:08.200 --> 00:02:09.560
+Like there was a bug.
+
+20
+00:02:09.560 --> 00:02:13.960
+Like when you you you what software doesn't do what it's supposed to do, it's a bug.
+
+21
+00:02:13.960 --> 00:02:15.560
+Now there's different kinds of software.
+
+22
+00:02:15.560 --> 00:02:18.920
+There are simulations and there's models and there's emulation.
+
+23
+00:02:18.920 --> 00:02:21.880
+There are all these ways to decide what to do.
+
+24
+00:02:21.880 --> 00:02:35.800
+And just because it decides to do it, not based on step one, step two, step three, if A or B do step five, but just based on statistics, that doesn't mean you eliminate the idea that it should do what you want it to do.
+
+25
+00:02:35.800 --> 00:02:37.960
+It means your statistics are wrong.
+
+26
+00:02:37.960 --> 00:02:43.240
+It means that you guess a word that should come next that shouldn't have come next.
+
+27
+00:02:43.240 --> 00:02:48.280
+And that's just a bug in your label matters.
+
+28
+00:02:48.280 --> 00:02:51.160
+Bug suggests testing and accountability.
+
+29
+00:02:51.160 --> 00:02:55.160
+Rogue AI invites a very different law.
+
+30
+00:02:55.160 --> 00:03:08.200
+On capital allocators, Harvard Business School professor Andre Prold considers investing amid AI disruption, soaring valuations, and a US debt load approaching 40 trillion dollars.
+
+31
+00:03:18.360 --> 00:03:20.920
+And on each dimension that's exponential.
+
+32
+00:03:20.920 --> 00:03:23.000
+What's happening in healthcare?
+
+33
+00:03:23.160 --> 00:03:24.680
+Exponential change.
+
+34
+00:03:24.680 --> 00:03:30.440
+The GLP one drugs are changing the outlook for our health in profound ways.
+
+35
+00:03:30.440 --> 00:03:37.720
+If you look at the budget deficit, we have two trillion and growing feels very exponential.
+
+36
+00:03:37.720 --> 00:03:38.240
+The U.S.
+
+37
+00:03:38.200 --> 00:03:41.400
+debt was $5 trillion in early 2000s.
+
+38
+00:03:41.400 --> 00:03:43.080
+It's 40 trillion.
+
+39
+00:03:43.080 --> 00:03:44.200
+It's not all good.
+
+40
+00:03:44.200 --> 00:03:47.200
+A big deficit is very exciting for investing.
+
+41
+00:03:44.840 --> 00:03:50.800
+If the alternative is no deficit, it's not as exciting.
+
+42
+00:03:51.040 --> 00:03:53.840
+The deficit's a problem for the next gen.
+
+43
+00:03:53.840 --> 00:03:55.360
+If you're investing, it's great.
+
+44
+00:03:55.360 --> 00:03:57.360
+That's the conundrum that we're in.
+
+45
+00:03:57.360 --> 00:03:58.160
+You've got to separate.
+
+46
+00:03:58.160 --> 00:03:59.440
+You've got to wear two hats.
+
+47
+00:03:59.440 --> 00:04:03.360
+What I think about the actual world we're in versus the investing world.
+
+48
+00:04:03.680 --> 00:04:08.640
+When things are exciting, because there's so much change, they're also pretty challenging.
+
+49
+00:04:08.640 --> 00:04:15.440
+We'd love to get your sense of if you're able to capture some of these exciting movements.
+
+50
+00:04:15.440 --> 00:04:19.600
+What are the challenges that you're facing and have to overcome to make that work?
+
+51
+00:04:19.920 --> 00:04:25.040
+You're seeing companies with extraordinary earnings growth, high valuations.
+
+52
+00:04:25.040 --> 00:04:33.840
+We're seeing venture investments in the many billions, 20 billion value, 5 billion before.
+
+53
+00:04:33.840 --> 00:04:35.520
+How do you decide those?
+
+54
+00:04:35.520 --> 00:04:42.720
+How do you think about investing in a world where the underlying fundamentals are changing very quickly, but the price is very high?
+
+55
+00:04:42.720 --> 00:04:46.080
+If the price was low, would you believe it was changing?
+
+56
+00:04:46.080 --> 00:04:50.160
+Because the price is high, it's consistent with things going really well.
+
+57
+00:04:50.160 --> 00:04:53.120
+When the price is high, you always recoil.
+
+58
+00:04:53.120 --> 00:04:57.360
+Part of you needs to say something like, AI is going to work.
+
+59
+00:04:57.360 --> 00:05:00.800
+10 years from now, we'll be in a world we won't recognize.
+
+60
+00:05:00.960 --> 00:05:02.400
+May not be the case.
+
+61
+00:05:02.400 --> 00:05:03.680
+That's possible.
+
+62
+00:05:03.680 --> 00:05:05.920
+Maybe only half of that's possible.
+
+63
+00:05:05.920 --> 00:05:07.520
+It's still profound.
+
+64
+00:05:07.520 --> 00:05:09.520
+Maybe only a quarter is possible.
+
+65
+00:05:09.520 --> 00:05:10.960
+It's still profound.
+
+66
+00:05:10.960 --> 00:05:31.560
+If I think that's true, it means that I need to think long-term and be comfortable owning things at high prices, knowing that in any normal investment environment, you'd never own them, because this is that tension is everywhere.
+
+67
+00:05:31.560 --> 00:05:37.640
+Rapid growth, expensive assets, and deficits that leave less room for error.
+
+68
+00:05:37.640 --> 00:05:48.840
+On all in, Apple and CEO Adam Ferroy explains how recommendation driven discovery ads create demand and how LLM chat could challenge Google search.
+
+69
+00:05:49.240 --> 00:05:56.040
+Timely as platforms from AI assistants to Disney Plus look for more places to put advertising.
+
+70
+00:05:58.600 --> 00:06:10.040
+And you would think people wouldn't like them, but we see tons of engagement on little mini games that are appearing in other games, and people are playing these previews because the technologies have gotten so good at recommending something relevant to someone.
+
+71
+00:06:10.360 --> 00:06:22.040
+There's been a lot of hand wringing about the impact AI will have on the ad networks, specifically Google's interface, and OpenAI has an ad product now.
+
+72
+00:06:22.040 --> 00:06:26.040
+I'm sure you've been monitoring it and trying to learn from it.
+
+73
+00:06:26.040 --> 00:06:32.760
+What is advertising going to look like when people are doing five or six queries with a chat bot?
+
+74
+00:06:32.760 --> 00:06:37.320
+Because it's pretty obvious 95% of the world are not going to pay 20 bucks a month for this technology.
+
+75
+00:06:37.320 --> 00:06:38.920
+They're going to expect it to be free.
+
+76
+00:06:38.920 --> 00:06:41.320
+Chat GPT has already said they're going to make it free.
+
+77
+00:06:41.320 --> 00:06:43.640
+Tell us what they're doing in advertising.
+
+78
+00:06:43.640 --> 00:06:52.440
+And is it going to be less effective each time, but in aggregate, people are going to use it more, or is it going to just be even better than Google Search's franchise?
+
+79
+00:06:52.440 --> 00:06:55.080
+Yeah, I mean, there's two sides of advertising.
+
+80
+00:06:55.080 --> 00:07:02.840
+One part of it is bottom of funnel advertising where consumers sort of knows what they want to buy, but they're doing research to go complete the transaction.
+
+81
+00:07:02.840 --> 00:07:04.520
+And that's Google search business.
+
+82
+00:07:04.520 --> 00:07:11.960
+If I wanted to buy a pair of dress shoes, go to Google historically, do some research, and they direct me to where I need to go based on the ads.
+
+83
+00:07:11.960 --> 00:07:15.680
+And today you can go to a large language model and close the loop on that same thing.
+
+84
+00:07:15.680 --> 00:07:21.200
+So that ads model is almost gonna exclusively compete with the Google search business.
+
+85
+00:07:21.200 --> 00:07:26.080
+What we operate in is a world where we're showing a user an ad and we don't know what their intent is.
+
+86
+00:07:26.080 --> 00:07:29.600
+So we're trying to create something that didn't exist before.
+
+87
+00:07:29.600 --> 00:07:32.880
+Show them a recommendation and get them to go, wow, that looks really cool.
+
+88
+00:07:32.880 --> 00:07:35.280
+Let me go transact on that and do it really quickly.
+
+89
+00:07:35.280 --> 00:07:38.160
+That that's what drives Facebook's ad business too.
+
+90
+00:07:38.160 --> 00:07:46.480
+And so the reason that's interesting to me is that the transaction via search or LM was going to happen anyways.
+
+91
+00:07:46.480 --> 00:07:52.960
+If the LM didn't exist and Google Ads had never come to existence, but Google search existed, that transaction, the closed loop would have happened.
+
+92
+00:07:52.960 --> 00:07:57.200
+So there's not actually a whole lot of economic expansion that happens from that.
+
+93
+00:07:57.200 --> 00:08:02.560
+But when you show a consumer an ad for something that they had no idea existed, they didn't know they needed to buy.
+
+94
+00:08:45.080 --> 00:08:55.560
+Highly structured, if it's you know kind of predictable, um, if it had if it's relational in particular, then Postgres tends to kind of match that from a fundamentals perspective, right?
+
+95
+00:08:55.560 --> 00:09:12.440
+And if you understand the fundamentals underlying, then you can also understand that other relational databases could probably most likely, if they're if they kind of follow the same abstraction patterns, can probably fit a similar uh job, right?
+
+96
+00:09:12.680 --> 00:09:29.160
+And very similarly, um, if you understand the primitives of NoSQL, if you understand the primitives of you know, an index lookup, for example, then you don't necessarily have to worry so much about learning every single abstraction that exists.
+
+97
+00:09:29.160 --> 00:09:39.560
+You can understand the fundamentals of a particular abstraction and uh compare it to and look for the underlying characteristics, right?
+
+98
+00:09:39.560 --> 00:09:44.440
+This is kind of the the um the thrust of principles first thinking.
+
+99
+00:09:44.440 --> 00:09:46.840
+We want to understand the underlying characteristics.
+
+100
+00:09:46.840 --> 00:09:55.960
+We're kind of decomposing those characteristics so that we can uh uh you know better recompose those things into solutions that we care about.
+
+101
+00:09:55.960 --> 00:09:59.960
+Um we can think about this applied to a lot of different domains.
+
+102
+00:09:59.960 --> 00:10:02.520
+We can think about it applied to business domains, for example.
+
+103
+00:10:02.520 --> 00:10:08.600
+What are the characteristics of a particular offering that make it more competitive than another offering, right?
+
+104
+00:10:08.600 --> 00:10:24.120
+That there's some characteristics that we could compare, things that we do or don't care about, rather than having to understand everything on the market, rather than having to keep up with every single uh uh you know new technology, new framework that comes out.
+
+105
+00:10:24.120 --> 00:10:35.240
+We can understand some of the characteristics of LLM so that when a new model releases from one provider versus another provider, we know what characteristics we can compare.
+
+106
+00:10:35.240 --> 00:10:41.040
+There's a new thing that happens in this provider or in this model that's not happening over here.
+
+107
+00:10:41.040 --> 00:10:48.400
+Then we can have a clearer understanding of the differences between these rather than looking at them as two wholly different things.
+
+108
+00:10:44.680 --> 00:10:50.640
+So they share some fundamentals.
+
+109
+00:10:48.400 --> 00:10:48.800
+Right?
+
+110
+00:10:50.800 --> 00:10:55.280
+There's some product names change fast.
+
+111
+00:10:55.280 --> 00:10:59.280
+Workload characteristics usually change much more slowly.
+
+112
+00:11:04.080 --> 00:11:05.200
+Thanks for listening.
+
+113
+00:11:05.200 --> 00:11:07.200
+We'll be back tomorrow.
