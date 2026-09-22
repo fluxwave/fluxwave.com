@@ -1,0 +1,421 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:11.600
+AI built for investment research, the real energy cost of computing, what genetics can and can't tell you about heart risk and a better alternative to the bucket list.
+
+2
+00:00:11.600 --> 00:00:14.160
+For clips for useful ideas.
+
+3
+00:00:14.160 --> 00:00:17.840
+Here's the rundown.
+
+4
+00:00:17.840 --> 00:00:30.160
+On Invest Like the Best, Gabe Stengel explains why finance AI only became truly useful when stronger models met compliance, regulatory workflows, and careful product design.
+
+5
+00:00:30.160 --> 00:00:35.200
+With MIMO, Claude, and GPT, six all in today's news.
+
+6
+00:00:35.200 --> 00:00:40.160
+It's a reminder that the model is only part of the product.
+
+7
+00:00:41.040 --> 00:00:42.240
+And I like using it.
+
+8
+00:00:42.240 --> 00:00:50.880
+And you know, it brings me joy in my day-to-day because the UX and the attention to detail in the craftsmanship is so obviously built for me and who I am.
+
+9
+00:00:50.880 --> 00:00:53.360
+And so that's been the best part of the product.
+
+10
+00:00:54.000 --> 00:01:06.000
+And you would attribute that to you took seriously all the compliance regulatory workflow, last mile hookup stuff, and then the models became good enough, and all of a sudden that was super valuable.
+
+11
+00:01:06.000 --> 00:01:11.520
+Well, there's also small details of understanding how someone within one of these firms works and building for it.
+
+12
+00:01:11.520 --> 00:01:13.120
+I'll give you an example.
+
+13
+00:01:13.120 --> 00:01:36.880
+We make it so easy for a managing director at a bank to email a markup of a deck, which is how they're typically doing these workloads anyway, except sending them to an analyst and sending it to our AI analyst over email, and then returning that markup on 20 minutes as opposed to two days, and at the same time alert the junior analyst on the deal what's happening and show them the full auditability of all the little markups that were made in case they want to weigh in.
+
+14
+00:01:36.880 --> 00:01:50.000
+And that whole UX, that whole flow just makes it so much easier for this financial professional who is not logged into a computer in 10 years, but does have an iPad where they know how to mark these things up to actually adopt and use AI.
+
+15
+00:01:50.000 --> 00:02:00.000
+And there are these small details of how you build a product that's great for a specific end user that you only know if you have the kind of spidey sense for what the job is.
+
+16
+00:02:00.200 --> 00:02:05.480
+What is like the bleeding edge of what it can do that impresses you the most?
+
+17
+00:02:05.480 --> 00:02:07.240
+Like what kinds of jobs?
+
+18
+00:02:07.240 --> 00:02:11.400
+The coolest things that we're working on is taking these innovations like mole book.
+
+19
+00:02:11.400 --> 00:02:23.800
+Imagine if every PM at a hedge fund had 10,000 agents that were just kind of fraternizing, talking about ideas, reading through the notes, pontificating, and then at the end of 24 hours of debate just gave you one idea.
+
+20
+00:02:23.800 --> 00:02:29.560
+And the reason you're able to do that is because investors are happy to pay $50,000 for one really good idea.
+
+21
+00:02:29.560 --> 00:02:35.560
+Whereas there's very few other domains where you can expand that many tokens just for one simple insight.
+
+22
+00:02:35.560 --> 00:02:41.240
+What we're seeing right now though is that the models are smarter than anyone I know, anyone I spend time with, and it's plumbing.
+
+23
+00:02:41.240 --> 00:02:47.000
+Connect it to your context, inform it about your thesis, tell it the way that you work, and try and integrate it into what you do.
+
+24
+00:02:47.000 --> 00:02:51.160
+And so building out all the plumbing to actually collect that.
+
+25
+00:02:51.160 --> 00:02:57.240
+In regulated work, that last mile integration is often the actual moat.
+
+26
+00:02:57.240 --> 00:03:07.800
+On all in, AI hardware founder Naveen Rao argues that moving data, not doing the computation, is what drives much of AI's energy use.
+
+27
+00:03:07.800 --> 00:03:17.480
+He compares today's machines with animals operating on tiny amounts of power, reframing the race for more efficient AI.
+
+28
+00:03:23.160 --> 00:03:29.880
+And other animals, like you know, um rats and bats and things like this, they run on milliwatts of energy.
+
+29
+00:03:29.880 --> 00:03:33.000
+So just something that's pretty relatable to everyone is a squirrel.
+
+30
+00:03:33.000 --> 00:03:35.160
+You probably watched how accurate they can be.
+
+31
+00:03:35.160 --> 00:03:39.320
+They jump between branches and they do it perfectly a thousand times out of a thousand.
+
+32
+00:03:39.320 --> 00:03:42.360
+Their brain runs on eight milliwatts of energy.
+
+33
+00:03:42.360 --> 00:03:48.000
+You could run over a hundred squirrel brains on your phone, and it has very precise and accurate behavior.
+
+34
+00:03:48.000 --> 00:03:50.480
+So biology's created something quite incredible.
+
+35
+00:03:50.480 --> 00:03:55.200
+In fact, it's the right kind of physical substrate for intelligence.
+
+36
+00:03:55.200 --> 00:03:57.360
+So this is a quote I love.
+
+37
+00:03:57.360 --> 00:04:00.640
+I don't feel like we truly understand something until we can create it.
+
+38
+00:04:00.640 --> 00:04:03.760
+We've gotten a lot better at creating intelligence systems.
+
+39
+00:04:03.760 --> 00:04:06.640
+However, they do it in a kind of inefficient way.
+
+40
+00:04:06.640 --> 00:04:08.720
+What kind of inefficiency is there?
+
+41
+00:04:08.720 --> 00:04:14.640
+Well, as I kind of hinted at the beginning, most of the energy in a computing system goes into moving information around.
+
+42
+00:04:14.640 --> 00:04:23.600
+Just to put some numbers on it, the human cortex, the squiggly part of your brain, the outside of it, only moves about 16 billion bits per second.
+
+43
+00:04:23.600 --> 00:04:30.080
+That's actually kind of a small number if you think about it, because there's you know some 13 or 14 billion neurons in that cortex.
+
+44
+00:04:30.080 --> 00:04:37.760
+Um, a GPU or you know, a high-end computing system moves nearly 30 trillion bits in and out of memory per second.
+
+45
+00:04:37.760 --> 00:04:39.120
+That's outside the chip.
+
+46
+00:04:39.120 --> 00:04:43.440
+Inside the chip, it's probably a you know 10, 100x more than that.
+
+47
+00:04:43.440 --> 00:04:47.440
+So we're moving a lot more bits in these synthetic systems than the brain does.
+
+48
+00:04:47.440 --> 00:04:51.040
+And that's actually what drives the energy demand.
+
+49
+00:04:51.040 --> 00:04:52.960
+And you know, how do we get here?
+
+50
+00:04:52.960 --> 00:04:56.800
+You know, computers have been around for hundreds of years, actually, in some form.
+
+51
+00:04:56.800 --> 00:05:03.520
+They were mechanical, they became analog around the turn of the century, and they became digital back in the 1930s, 1940s.
+
+52
+00:05:03.520 --> 00:05:10.160
+So this the operation of that computer in 1940, 1945 is actually very similar to how they operate today.
+
+53
+00:05:10.160 --> 00:05:11.600
+There's not a huge paradigm shift.
+
+54
+00:05:11.680 --> 00:05:16.480
+Actually, you have this memory on the outside, and you have some kind of computing and you move bits back and forth.
+
+55
+00:05:16.480 --> 00:05:21.520
+That operation creates a machine that just requires a lot of movement, but it's very fast.
+
+56
+00:05:21.520 --> 00:05:23.280
+We built computers to be fast.
+
+57
+00:05:23.280 --> 00:05:30.920
+They're always faster than the better intelligence per what may matter more than raw benchmark gains.
+
+58
+00:05:31.720 --> 00:05:45.320
+On Mark Bell's Power Project, geneticist Ryan Rossner separates inherited predisposition from biomarkers you may be able to change, including LP, A LDL, OPOB, and APO.
+
+59
+00:05:45.400 --> 00:05:53.000
+That distinction matters when a genetic result sounds fixed, but the underlying health risk may still be manageable.
+
+60
+00:05:55.320 --> 00:05:57.000
+Not usually for either.
+
+61
+00:05:57.000 --> 00:06:02.680
+I mean, most people have some enzymatic deficiency that they would benefit from B12.
+
+62
+00:06:02.680 --> 00:06:11.800
+Um I actually have a complex two mutation in my mitochondria that alters uh my succinate levels and like we were talking about that before you got here today.
+
+63
+00:06:13.320 --> 00:06:13.960
+I'm kidding.
+
+64
+00:06:13.960 --> 00:06:15.000
+I have no idea what you just said.
+
+65
+00:06:15.160 --> 00:06:15.640
+Okay.
+
+66
+00:06:15.720 --> 00:06:16.040
+Yeah.
+
+67
+00:06:16.040 --> 00:06:17.960
+Just tell me if I'm geeking out too much.
+
+68
+00:06:18.920 --> 00:06:23.800
+But you we I would say, you know, pe we do find actionable stuff, absolutely.
+
+69
+00:06:23.800 --> 00:06:27.800
+Um, whether it's muscle fiber type or nutrient pathways, there's always something for sure.
+
+70
+00:06:28.120 --> 00:06:41.400
+You know, I know sometimes routinely when somebody gets blood work done, especially if they're getting like a cardio lipid profile or getting their LP little A look at looked at, or the Apo B and APO E and all these different things.
+
+71
+00:06:41.400 --> 00:06:45.320
+It does seem like there's some actionable things they can do surrounding that.
+
+72
+00:06:45.320 --> 00:06:51.160
+But I get a little confused about something like LP little A, where they're like, oh, you know, it's just genetics.
+
+73
+00:06:51.160 --> 00:06:53.400
+But then that seems to move around quite a bit.
+
+74
+00:06:53.400 --> 00:06:53.720
+Yeah.
+
+75
+00:06:54.040 --> 00:07:01.240
+For some people, and it seems like there's medications that lower it, so it's like, well, if it's genetics, then how does a medication like alter it?
+
+76
+00:07:01.240 --> 00:07:01.720
+You know what I mean?
+
+77
+00:07:01.960 --> 00:07:03.080
+Yeah, that's a good question.
+
+78
+00:07:03.080 --> 00:07:12.600
+I had the same impression of LPA that it was genetic, and then I saw uh uh a buddy's test over time and it absolutely moved, and I was like, it seems like it's movable.
+
+79
+00:07:12.680 --> 00:07:13.160
+Right.
+
+80
+00:07:13.160 --> 00:07:19.600
+So yeah, I don't I'm not it maybe it's more genetic than let's say uh LDL, but um something like that.
+
+81
+00:07:20.160 --> 00:07:23.840
+Quick question because I know you've you've definitely thought about this on the data side of things.
+
+82
+00:07:23.840 --> 00:07:26.560
+For those who are scared, they're like, oh, they have my data.
+
+83
+00:07:26.880 --> 00:07:39.760
+What in theory, if your data was you know taken by the government or some you know, entities, what could be done with your like could there anything like is there anything that could endanger me if I did that?
+
+84
+00:07:39.760 --> 00:07:52.160
+Or you know, theoretically, theoretically, mathematically, yes, but like uh a powerful entity going to the lens of making like a bioweapon targeting an individual.
+
+85
+00:07:52.160 --> 00:08:08.640
+They like Devin's exact words were like bullets or on the art of manliness, the one skill of your plan for a more interesting life contrasts a bucket list with an invisible list built around capabilities you develop.
+
+86
+00:08:08.720 --> 00:08:17.360
+Instead of collecting one-off experiences, the idea is to choose skills that permanently expand what you can do.
+
+87
+00:08:17.360 --> 00:08:18.160
+Go to Paris.
+
+88
+00:08:18.160 --> 00:08:25.200
+I want to see the Eiffel Tower, I wanna, you know, I want to see the northern lights in Iceland or whatever, right?
+
+89
+00:08:25.200 --> 00:08:45.920
+So it could include things, and this is also somewhat true of the Masogi concept in in Japan, is like things that are almost one-off things that you could cross off just by like a short sprint period of time, like either just going to the right place, going to the right restaurant, you know, when people talk about bucket lists, for example, in New York City, it's like, you know, go to Central Park during the day and read a book or something like that, right?
+
+90
+00:08:45.920 --> 00:08:50.080
+It's not this ongoing investment, usually the way people talk about bucket lists.
+
+91
+00:08:50.080 --> 00:08:50.480
+Yeah.
+
+92
+00:08:50.480 --> 00:09:02.360
+Whereas the invisible lists, it's really about tackling things that are hard and that require a year to become at least intermediate at.
+
+93
+00:09:02.520 --> 00:09:24.360
+And the whole process is all about creating themes to your ears to say, okay, this is not just about one thing you did that year, but about a process you went through the entire year and a skill or hobby that you've acquired that year that you can either take with you into future years or say, hey, I am glad I did that thing, but I'm never going to do it again.
+
+94
+00:09:24.360 --> 00:09:30.840
+But it really is a whole different level of commitment than what people typically talk about when they talk about bucket lists.
+
+95
+00:09:31.000 --> 00:09:37.560
+Okay, so yeah, an invisible list it's it's more skill focused, hobby focused, and these are hobbies that require, you know, commitment.
+
+96
+00:09:37.560 --> 00:09:46.520
+And then, like you said, the way you approach your invisible list is you're laying out a process that you have to commit at least a year towards.
+
+97
+00:09:46.520 --> 00:09:59.720
+So I think when most people like I'm a perfect example of that, when I'm like, I want to learn this new skill, I like the idea of it, and then I'll kind of take sort of half steps towards it, and then I give up after maybe two or three weeks.
+
+98
+00:09:59.720 --> 00:10:03.960
+You're saying no, you have to give yourself a year to do this thing.
+
+99
+00:10:04.040 --> 00:10:08.200
+Yeah, and and there's something powerful about a year for a few reasons.
+
+100
+00:10:08.200 --> 00:10:14.120
+One is it's long enough that you can go from beginner to intermediate in almost anything.
+
+101
+00:10:14.120 --> 00:10:18.680
+And two is it also allows for a little bit of trial and error.
+
+102
+00:10:18.680 --> 00:10:29.240
+Uh, every year, pretty much, I have this middle period of time in which I hit a slump of a skill keeps paying off after the moment you would have crossed off.
+
+103
+00:10:31.240 --> 00:10:34.200
+That's the daily rundown for today.
+
+104
+00:10:34.200 --> 00:10:35.560
+Thanks for listening.
+
+105
+00:10:35.560 --> 00:10:37.560
+We'll be back tomorrow.

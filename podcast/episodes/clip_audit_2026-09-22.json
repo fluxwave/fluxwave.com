@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-22",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-22_20260922T200145Z_42093/clip_sources/59c976afde3be50e/01_Agent_swarms_context_plumbing_and_deal-making_auto.mp3",
+      "source": "Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492]",
+      "start_time": 379,
+      "end_time": 565,
+      "topic": "Agent swarms, context plumbing, and deal-making automation"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-22_20260922T200145Z_42093/clip_sources/d11b67a8691db130/01_AI_data-center_growth_is_colliding_with_hard_energ.mp3",
+      "source": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+      "start_time": 327,
+      "end_time": 448,
+      "topic": "AI data-center growth is colliding with hard energy constraints"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-22_20260922T200145Z_42093/clip_sources/4df5aa7b24013db3/01_Using_a_one-year_commitment_to_progress_from_begin.mp3",
+      "source": "The One-Skill-a-Year Plan for a More Interesting Life",
+      "start_time": 573,
+      "end_time": 644,
+      "topic": "Using a one-year commitment to progress from beginner to intermediate"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-22_20260922T200145Z_42093/clip_sources/e02994b0aa961374/01_Genetic-data_breaches_privacy_tradeoffs_and_the_co.mp3",
+      "source": "Can We Engineer Superhuman Genetics Ryan Rosner, PhD",
+      "start_time": 634,
+      "end_time": 754,
+      "topic": "Genetic-data breaches, privacy tradeoffs, and the cost of leaving genomic information unused"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

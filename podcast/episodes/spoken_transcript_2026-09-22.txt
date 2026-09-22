@@ -1,0 +1,105 @@
+AI built for investment research, the real energy cost of computing, what genetics can and can't tell you about heart risk and a better alternative to the bucket list.
+For clips for useful ideas.
+Here's the rundown.
+On Invest Like the Best, Gabe Stengel explains why finance AI only became truly useful when stronger models met compliance, regulatory workflows, and careful product design.
+With MIMO, Claude, and GPT, six all in today's news.
+It's a reminder that the model is only part of the product.
+And I like using it.
+And you know, it brings me joy in my day-to-day because the UX and the attention to detail in the craftsmanship is so obviously built for me and who I am.
+And so that's been the best part of the product.
+And you would attribute that to you took seriously all the compliance regulatory workflow, last mile hookup stuff, and then the models became good enough, and all of a sudden that was super valuable.
+Well, there's also small details of understanding how someone within one of these firms works and building for it.
+I'll give you an example.
+We make it so easy for a managing director at a bank to email a markup of a deck, which is how they're typically doing these workloads anyway, except sending them to an analyst and sending it to our AI analyst over email, and then returning that markup on 20 minutes as opposed to two days, and at the same time alert the junior analyst on the deal what's happening and show them the full auditability of all the little markups that were made in case they want to weigh in.
+And that whole UX, that whole flow just makes it so much easier for this financial professional who is not logged into a computer in 10 years, but does have an iPad where they know how to mark these things up to actually adopt and use AI.
+And there are these small details of how you build a product that's great for a specific end user that you only know if you have the kind of spidey sense for what the job is.
+What is like the bleeding edge of what it can do that impresses you the most?
+Like what kinds of jobs?
+The coolest things that we're working on is taking these innovations like mole book.
+Imagine if every PM at a hedge fund had 10,000 agents that were just kind of fraternizing, talking about ideas, reading through the notes, pontificating, and then at the end of 24 hours of debate just gave you one idea.
+And the reason you're able to do that is because investors are happy to pay $50,000 for one really good idea.
+Whereas there's very few other domains where you can expand that many tokens just for one simple insight.
+What we're seeing right now though is that the models are smarter than anyone I know, anyone I spend time with, and it's plumbing.
+Connect it to your context, inform it about your thesis, tell it the way that you work, and try and integrate it into what you do.
+And so building out all the plumbing to actually collect that.
+In regulated work, that last mile integration is often the actual moat.
+On all in, AI hardware founder Naveen Rao argues that moving data, not doing the computation, is what drives much of AI's energy use.
+He compares today's machines with animals operating on tiny amounts of power, reframing the race for more efficient AI.
+And other animals, like you know, um rats and bats and things like this, they run on milliwatts of energy.
+So just something that's pretty relatable to everyone is a squirrel.
+You probably watched how accurate they can be.
+They jump between branches and they do it perfectly a thousand times out of a thousand.
+Their brain runs on eight milliwatts of energy.
+You could run over a hundred squirrel brains on your phone, and it has very precise and accurate behavior.
+So biology's created something quite incredible.
+In fact, it's the right kind of physical substrate for intelligence.
+So this is a quote I love.
+I don't feel like we truly understand something until we can create it.
+We've gotten a lot better at creating intelligence systems.
+However, they do it in a kind of inefficient way.
+What kind of inefficiency is there?
+Well, as I kind of hinted at the beginning, most of the energy in a computing system goes into moving information around.
+Just to put some numbers on it, the human cortex, the squiggly part of your brain, the outside of it, only moves about 16 billion bits per second.
+That's actually kind of a small number if you think about it, because there's you know some 13 or 14 billion neurons in that cortex.
+Um, a GPU or you know, a high-end computing system moves nearly 30 trillion bits in and out of memory per second.
+That's outside the chip.
+Inside the chip, it's probably a you know 10, 100x more than that.
+So we're moving a lot more bits in these synthetic systems than the brain does.
+And that's actually what drives the energy demand.
+And you know, how do we get here?
+You know, computers have been around for hundreds of years, actually, in some form.
+They were mechanical, they became analog around the turn of the century, and they became digital back in the 1930s, 1940s.
+So this the operation of that computer in 1940, 1945 is actually very similar to how they operate today.
+There's not a huge paradigm shift.
+Actually, you have this memory on the outside, and you have some kind of computing and you move bits back and forth.
+That operation creates a machine that just requires a lot of movement, but it's very fast.
+We built computers to be fast.
+They're always faster than the better intelligence per what may matter more than raw benchmark gains.
+On Mark Bell's Power Project, geneticist Ryan Rossner separates inherited predisposition from biomarkers you may be able to change, including LP, A LDL, OPOB, and APO.
+That distinction matters when a genetic result sounds fixed, but the underlying health risk may still be manageable.
+Not usually for either.
+I mean, most people have some enzymatic deficiency that they would benefit from B12.
+Um I actually have a complex two mutation in my mitochondria that alters uh my succinate levels and like we were talking about that before you got here today.
+I'm kidding.
+I have no idea what you just said.
+Okay.
+Yeah.
+Just tell me if I'm geeking out too much.
+But you we I would say, you know, pe we do find actionable stuff, absolutely.
+Um, whether it's muscle fiber type or nutrient pathways, there's always something for sure.
+You know, I know sometimes routinely when somebody gets blood work done, especially if they're getting like a cardio lipid profile or getting their LP little A look at looked at, or the Apo B and APO E and all these different things.
+It does seem like there's some actionable things they can do surrounding that.
+But I get a little confused about something like LP little A, where they're like, oh, you know, it's just genetics.
+But then that seems to move around quite a bit.
+Yeah.
+For some people, and it seems like there's medications that lower it, so it's like, well, if it's genetics, then how does a medication like alter it?
+You know what I mean?
+Yeah, that's a good question.
+I had the same impression of LPA that it was genetic, and then I saw uh uh a buddy's test over time and it absolutely moved, and I was like, it seems like it's movable.
+Right.
+So yeah, I don't I'm not it maybe it's more genetic than let's say uh LDL, but um something like that.
+Quick question because I know you've you've definitely thought about this on the data side of things.
+For those who are scared, they're like, oh, they have my data.
+What in theory, if your data was you know taken by the government or some you know, entities, what could be done with your like could there anything like is there anything that could endanger me if I did that?
+Or you know, theoretically, theoretically, mathematically, yes, but like uh a powerful entity going to the lens of making like a bioweapon targeting an individual.
+They like Devin's exact words were like bullets or on the art of manliness, the one skill of your plan for a more interesting life contrasts a bucket list with an invisible list built around capabilities you develop.
+Instead of collecting one-off experiences, the idea is to choose skills that permanently expand what you can do.
+Go to Paris.
+I want to see the Eiffel Tower, I wanna, you know, I want to see the northern lights in Iceland or whatever, right?
+So it could include things, and this is also somewhat true of the Masogi concept in in Japan, is like things that are almost one-off things that you could cross off just by like a short sprint period of time, like either just going to the right place, going to the right restaurant, you know, when people talk about bucket lists, for example, in New York City, it's like, you know, go to Central Park during the day and read a book or something like that, right?
+It's not this ongoing investment, usually the way people talk about bucket lists.
+Yeah.
+Whereas the invisible lists, it's really about tackling things that are hard and that require a year to become at least intermediate at.
+And the whole process is all about creating themes to your ears to say, okay, this is not just about one thing you did that year, but about a process you went through the entire year and a skill or hobby that you've acquired that year that you can either take with you into future years or say, hey, I am glad I did that thing, but I'm never going to do it again.
+But it really is a whole different level of commitment than what people typically talk about when they talk about bucket lists.
+Okay, so yeah, an invisible list it's it's more skill focused, hobby focused, and these are hobbies that require, you know, commitment.
+And then, like you said, the way you approach your invisible list is you're laying out a process that you have to commit at least a year towards.
+So I think when most people like I'm a perfect example of that, when I'm like, I want to learn this new skill, I like the idea of it, and then I'll kind of take sort of half steps towards it, and then I give up after maybe two or three weeks.
+You're saying no, you have to give yourself a year to do this thing.
+Yeah, and and there's something powerful about a year for a few reasons.
+One is it's long enough that you can go from beginner to intermediate in almost anything.
+And two is it also allows for a little bit of trial and error.
+Uh, every year, pretty much, I have this middle period of time in which I hit a slump of a skill keeps paying off after the moment you would have crossed off.
+That's the daily rundown for today.
+Thanks for listening.
+We'll be back tomorrow.

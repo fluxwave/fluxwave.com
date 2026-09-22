@@ -9,6 +9,59 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — September 22, 2026</title>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-22.mp3" length="10206380" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-09-22.mp3</guid>
+      <itunes:duration>10:37</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-09-22.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-09-22.json" type="application/json+chapters"/>
+      <description>Daily Digest — September 22, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-22.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-22.txt
+
+Chapters:
+0:40 — Invest Like the Best with Patrick O'Shaughnessy — Workflow-native AI for finance
+3:17 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Data movement, rather than compu
+5:55 — Mark Bell's Power Project — Genetic predisposition versus changing biomarkers su
+8:17 — The Art of Manliness — How an invisible list differs from a bucket list
+
+Sources:
+- Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492] (Invest Like the Best with Patrick O'Shaughnessy)
+  Source audio: https://traffic.megaphone.fm/CLS7922860814.mp3
+- Naveen Rao: 4D Computing, AI's Energy Wall &amp; Beating Biology (All-In with Chamath, Jason, Sacks &amp; Friedberg)
+  Link: https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology
+  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300
+- Can We Engineer Superhuman Genetics Ryan Rosner, PhD (Mark Bell's Power Project)
+  Link: https://podcasters.spotify.com/pod/show/powerproject/episodes/Can-We-Engineer-Superhuman-Genetics-Ryan-Rosner--PhD-e3p5h0s
+  Source audio: https://anchor.fm/s/ddfd45c0/podcast/play/126058972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-21%2F432334515-44100-2-e5cafda9c151c.mp3
+- The One-Skill-a-Year Plan for a More Interesting Life (The Art of Manliness)
+  Source audio: https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/rss.art19.com/episodes/3ad013fe-1119-4cca-87a7-969e579fef6e.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</description>
+      <itunes:summary>Daily Digest — September 22, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-22.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-22.txt
+
+Chapters:
+0:40 — Invest Like the Best with Patrick O'Shaughnessy — Workflow-native AI for finance
+3:17 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Data movement, rather than compu
+5:55 — Mark Bell's Power Project — Genetic predisposition versus changing biomarkers su
+8:17 — The Art of Manliness — How an invisible list differs from a bucket list
+
+Sources:
+- Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492] (Invest Like the Best with Patrick O'Shaughnessy)
+  Source audio: https://traffic.megaphone.fm/CLS7922860814.mp3
+- Naveen Rao: 4D Computing, AI's Energy Wall &amp; Beating Biology (All-In with Chamath, Jason, Sacks &amp; Friedberg)
+  Link: https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology
+  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300
+- Can We Engineer Superhuman Genetics Ryan Rosner, PhD (Mark Bell's Power Project)
+  Link: https://podcasters.spotify.com/pod/show/powerproject/episodes/Can-We-Engineer-Superhuman-Genetics-Ryan-Rosner--PhD-e3p5h0s
+  Source audio: https://anchor.fm/s/ddfd45c0/podcast/play/126058972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-21%2F432334515-44100-2-e5cafda9c151c.mp3
+- The One-Skill-a-Year Plan for a More Interesting Life (The Art of Manliness)
+  Source audio: https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/rss.art19.com/episodes/3ad013fe-1119-4cca-87a7-969e579fef6e.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — September 21, 2026</title>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-21.mp3" length="10680236" type="audio/mpeg"/>
@@ -724,59 +777,6 @@ Sources:
 - All-In on the S&amp;P 500 Worked for 18 Years | Jared Dillian on Why It's Still Wrong (Excess Returns)
   Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/All-In-on-the-SP-500-Worked-for-18-Years--Jared-Dillian-on-Why-Its-Still-Wrong-e3oi43u
   Source audio: https://traffic.megaphone.fm/APO9515289434.mp3</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — September 08, 2026</title>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-08.mp3" length="10644908" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-09-08.mp3</guid>
-      <itunes:duration>11:05</itunes:duration>
-      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-09-08.vtt" type="text/vtt" rel="captions"/>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-09-08.json" type="application/json+chapters"/>
-      <description>Daily Digest — September 08, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-08.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-08.txt
-
-Chapters:
-0:41 — a16z Podcast — Mathematical taste, search-tree pruning, and solving the unit-dis
-3:17 — Throughline — The myth of Ned Ludd and the Luddites' actual goals
-6:03 — Adam Carolla Show — Multifamily real estate opportunities and emerging US growth
-8:27 — Masters of Scale — Private equity, sports-team financialization, and fragmented 
-
-Sources:
-- OpenAI Researchers on the Future of Mathematical Reasoning (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/openai-researchers-on-the-future-of-mathematical-reasoning-Jn50EkyR
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0936ea4f-0124-43ff-b2b1-641cc247a0c3/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=0936ea4f-0124-43ff-b2b1-641cc247a0c3&amp;feed=JGE3yC0V
-- Is it time for a Luddite Renaissance? (Throughline)
-  Link: https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance
-  Source audio: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510333/npr.simplecastaudio.com/923a8c19-6266-45f0-88de-3997479f3ca3/episodes/fda6bc75-3e08-4ff3-8347-ebce90e2a8bc/audio/128/default.mp3?awCollectionId=923a8c19-6266-45f0-88de-3997479f3ca3&amp;awEpisodeId=fda6bc75-3e08-4ff3-8347-ebce90e2a8bc&amp;feed=gvAZ3nqF&amp;t=podcast&amp;e=nx-s1-5955618&amp;p=510333&amp;d=1006&amp;size=16101546
-- Grant Cardone DESTROYS The Coastal Commission &amp; Says Cash is Trash (Adam Carolla Show)
-  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/9b4717f0-1e35-4ef0-9a4f-d2017ec12a80.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
-- NFL Kickoff: the science gets more damning, but the money keeps growing (Masters of Scale)
-  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/97c291aa-7d24-433a-8be4-0956fe4d9f6e.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</description>
-      <itunes:summary>Daily Digest — September 08, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-08.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-08.txt
-
-Chapters:
-0:41 — a16z Podcast — Mathematical taste, search-tree pruning, and solving the unit-dis
-3:17 — Throughline — The myth of Ned Ludd and the Luddites' actual goals
-6:03 — Adam Carolla Show — Multifamily real estate opportunities and emerging US growth
-8:27 — Masters of Scale — Private equity, sports-team financialization, and fragmented 
-
-Sources:
-- OpenAI Researchers on the Future of Mathematical Reasoning (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/openai-researchers-on-the-future-of-mathematical-reasoning-Jn50EkyR
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0936ea4f-0124-43ff-b2b1-641cc247a0c3/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=0936ea4f-0124-43ff-b2b1-641cc247a0c3&amp;feed=JGE3yC0V
-- Is it time for a Luddite Renaissance? (Throughline)
-  Link: https://www.npr.org/2026/09/08/nx-s1-5955618/is-it-time-for-a-luddite-renaissance
-  Source audio: https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510333/npr.simplecastaudio.com/923a8c19-6266-45f0-88de-3997479f3ca3/episodes/fda6bc75-3e08-4ff3-8347-ebce90e2a8bc/audio/128/default.mp3?awCollectionId=923a8c19-6266-45f0-88de-3997479f3ca3&amp;awEpisodeId=fda6bc75-3e08-4ff3-8347-ebce90e2a8bc&amp;feed=gvAZ3nqF&amp;t=podcast&amp;e=nx-s1-5955618&amp;p=510333&amp;d=1006&amp;size=16101546
-- Grant Cardone DESTROYS The Coastal Commission &amp; Says Cash is Trash (Adam Carolla Show)
-  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/claritaspod.com/measure/arttrk.com/p/PDPN1/pscrb.fm/rss/p/rss.art19.com/episodes/9b4717f0-1e35-4ef0-9a4f-d2017ec12a80.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
-- NFL Kickoff: the science gets more damning, but the money keeps growing (Masters of Scale)
-  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/97c291aa-7d24-433a-8be4-0956fe4d9f6e.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</itunes:summary>
     </item>
   </channel>
 </rss>
