@@ -1,0 +1,489 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:09.840
+Learning engineering through illustration, the debt study undone by a spreadsheet and an unusual trail to America's hidden wealth.
+
+2
+00:00:09.840 --> 00:00:17.520
+Plus, why Replet's Amjad Massad thinks young people can break text monocultures.
+
+3
+00:00:17.520 --> 00:00:28.480
+On the Pragmatic Engineer, design engineer Maggie Appleton explains how illustrating technical ideas for illicit became her real education in JavaScript and React.
+
+4
+00:00:28.560 --> 00:00:38.080
+With new AI tools arriving almost daily, it's a useful case for learning by making complex systems understandable.
+
+5
+00:00:41.520 --> 00:00:44.000
+And that was really where I learned JavaScript React.
+
+6
+00:00:44.000 --> 00:00:49.040
+Like that was, I think my real front-end engineering education was like doing illustrations for them.
+
+7
+00:00:49.040 --> 00:00:57.680
+But in doing the illustrations, I had to understand the material I was illustrating, which turned out to be like React components and use effect and like JavaScript functions.
+
+8
+00:00:57.680 --> 00:01:04.400
+And uh in a weird way, I just ended up moving more into front-end engineering and visual design because it just felt like a natural move.
+
+9
+00:01:04.480 --> 00:01:06.560
+You worked at Elicit as well, right?
+
+10
+00:01:06.720 --> 00:01:07.040
+Yeah.
+
+11
+00:01:07.120 --> 00:01:08.400
+Was that before ECHAD?
+
+12
+00:01:08.640 --> 00:01:09.280
+After.
+
+13
+00:01:09.280 --> 00:01:10.000
+That was after.
+
+14
+00:01:10.000 --> 00:01:10.400
+Yeah.
+
+15
+00:01:10.400 --> 00:01:14.480
+So so you you you were at Eckhead as as their learned design there.
+
+16
+00:01:14.480 --> 00:01:17.680
+And then Illicit was an AI startup, right?
+
+17
+00:01:17.920 --> 00:01:19.200
+Yeah, early, pretty early.
+
+18
+00:01:19.200 --> 00:01:21.120
+Well, pretty early, yeah.
+
+19
+00:01:21.200 --> 00:01:28.080
+I mean, it was like the founders there were really kind of incredible people, and that one of them had been studying language models for 10 years.
+
+20
+00:01:28.080 --> 00:01:39.440
+He had like seen the writing on the wall way before anyone else, but like kind of out of MIT, like PhD kind of like, you know, machine learning stuff, and kind of had this realization of like language models are gonna revolutionize science.
+
+21
+00:01:39.440 --> 00:01:43.040
+He was really big on like how could this speed up the scientific process?
+
+22
+00:01:43.040 --> 00:01:46.560
+So illicit originally was um, and it still is actually.
+
+23
+00:01:46.560 --> 00:01:52.560
+I mean, they've they've expanded, but at its core, it is using language models to speed up the scientific literature review process.
+
+24
+00:01:52.600 --> 00:02:00.520
+It's usually is very manual, slow thing of all these academics reading thousands of papers and extracting data about them into spreadsheets, perfect for models, like a perfect use case.
+
+25
+00:01:59.920 --> 00:02:03.720
+So I joined them, I think it was late 2021, early 2022.
+
+26
+00:02:04.040 --> 00:02:08.520
+And and you were the only designer product manager, you were the founding designer.
+
+27
+00:02:08.520 --> 00:02:08.760
+Yeah.
+
+28
+00:02:08.760 --> 00:02:09.080
+Yeah.
+
+29
+00:02:09.080 --> 00:02:12.920
+And there were six of us in the beginning when I joined, maybe seven.
+
+30
+00:02:12.920 --> 00:02:13.880
+I might have been the seventh.
+
+31
+00:02:13.880 --> 00:02:14.440
+I forget.
+
+32
+00:02:14.520 --> 00:02:15.480
+A very small team.
+
+33
+00:02:15.480 --> 00:02:17.400
+And it stayed small most of the time I was there.
+
+34
+00:02:17.400 --> 00:02:19.640
+And yeah, I was the only designer the whole time.
+
+35
+00:02:19.640 --> 00:02:24.280
+And then we had a PM at some point who left, and then we didn't get another one, since no PM for quite a while.
+
+36
+00:02:24.280 --> 00:02:31.480
+And it was a really wonderful experience because it was a classic early startup, but like it was like we were family, we would like stay together for weeks at a time during retreats.
+
+37
+00:02:31.480 --> 00:02:36.040
+Like the founders had really strong conviction, and they're really smart people, and I trusted them so much.
+
+38
+00:02:36.040 --> 00:02:40.120
+So it was sort of like get on board with the vision kind of deal.
+
+39
+00:02:40.120 --> 00:02:44.680
+Teaching the concept became the path to mastering the code.
+
+40
+00:02:44.680 --> 00:02:56.840
+Planet Money revisits the influential claim that national debt above 90% of GDP sharply slows growth and the spreadsheet error that weakened it.
+
+41
+00:02:56.920 --> 00:03:03.960
+That matters whenever a single economic threshold becomes the case for austerity.
+
+42
+00:03:04.120 --> 00:03:05.720
+Exactly what the paper said.
+
+43
+00:03:05.720 --> 00:03:08.520
+Allow me to planet money out on the paper for a second.
+
+44
+00:03:08.520 --> 00:03:15.000
+To be precise, the paper lumped countries into low, medium, high, and very high debt groups.
+
+45
+00:03:15.000 --> 00:03:23.640
+This very high debt group contained countries with debt above 90% of GDP, including some countries with way higher debt levels.
+
+46
+00:03:23.640 --> 00:03:36.040
+And so what the paper technically found is that this very high debt group, on average, over a very long time was associated with lower economic growth.
+
+47
+00:03:36.040 --> 00:03:41.160
+But that nuance aside, that 90% number got some real traction.
+
+48
+00:03:41.160 --> 00:03:45.040
+Karen remembers people talking about it as this like red line.
+
+49
+00:03:44.840 --> 00:03:50.240
+You know, it wasn't your average economist who was running around like things were on fire.
+
+50
+00:03:50.320 --> 00:04:00.320
+It was more that the people who didn't like all this fiscal stimulus were starting to use it as a reason why the government needed to tighten its belt.
+
+51
+00:04:00.560 --> 00:04:04.080
+If you were a debt hawk, you had a good argument for your position.
+
+52
+00:04:04.080 --> 00:04:05.440
+Yeah, exactly.
+
+53
+00:04:05.440 --> 00:04:12.560
+Now, up to this point, we've been talking about this grand debt experiment as if the US were the only country that was running up this huge bill.
+
+54
+00:04:12.560 --> 00:04:16.080
+But of course, lots of countries were trying to spend their way out of the Great Recession.
+
+55
+00:04:16.080 --> 00:04:19.760
+Debt to GDP ratios were ballooning pretty much everywhere.
+
+56
+00:04:19.760 --> 00:04:27.200
+And so around the world, people were looking at that 90% red line and wondering, um, that apply to us too.
+
+57
+00:04:27.200 --> 00:04:33.680
+Back then, international monetary fund economist Andrea Presbidro was just getting started in macroeconomics.
+
+58
+00:04:37.360 --> 00:04:38.720
+Which university?
+
+59
+00:04:44.000 --> 00:04:50.000
+As much as the paper itself, Andrea remembers the fights about it, playing out in blogs and newspapers.
+
+60
+00:04:58.880 --> 00:05:00.880
+Yeah, these were live arguments.
+
+61
+00:05:00.880 --> 00:05:10.720
+There were impassioned calls for austerity measures and belt tightening, and equally impassioned arguments for the other side saying no, don't mess up this.
+
+62
+00:05:25.440 --> 00:05:26.520
+Mistakes.
+
+63
+00:05:26.520 --> 00:05:33.720
+Understanding who is wealthy in America and where that money actually came from.
+
+64
+00:05:34.440 --> 00:05:40.600
+And there are just I'm a fisherman and a boater, and I know the prices of all these boats.
+
+65
+00:05:40.600 --> 00:05:42.680
+And it's like, I don't understand.
+
+66
+00:05:42.680 --> 00:05:51.720
+There are just hundreds and hundreds of vessels in a marina that that's four million, that's two million, that's half a million, that's 800.
+
+67
+00:05:51.720 --> 00:05:54.120
+Like I know the prices of these things.
+
+68
+00:05:54.200 --> 00:05:57.640
+I'm like, where is all this money coming from?
+
+69
+00:05:57.640 --> 00:06:07.160
+Uh the books kind of lay out, but the fascinating thing is this has been out there in plain view for decades.
+
+70
+00:06:07.160 --> 00:06:09.080
+How did we all miss this?
+
+71
+00:06:09.320 --> 00:06:10.280
+It's so funny.
+
+72
+00:06:10.280 --> 00:06:13.720
+I mean, we joked that one of the sections of the book should be called Yachtsee.
+
+73
+00:06:13.720 --> 00:06:17.400
+So it's sort of like, you know, you look at who owns yachts and you see it, you know.
+
+74
+00:06:17.400 --> 00:06:26.360
+Uh, we actually scaled up your intuition, which you know, I wouldn't bet against Barry in the markets, and I think uh confirmation bias, maybe you're just right.
+
+75
+00:06:26.360 --> 00:06:28.840
+Uh, we bought yacht registration data.
+
+76
+00:06:28.840 --> 00:06:37.080
+And so you could actually, unlike in the tax data where you know our large scale research was done, you could actually see the names of the people in the yacht registration data.
+
+77
+00:06:37.080 --> 00:06:38.840
+The the tax data is all anonymized.
+
+78
+00:06:38.840 --> 00:06:40.280
+So you have to tax data is anonymous.
+
+79
+00:06:42.120 --> 00:06:48.440
+You get like, okay, this business is in auto dealer, this is HVAC, you know, this is a dentist, that kind of thing.
+
+80
+00:06:48.440 --> 00:06:50.600
+You get rough geography, right?
+
+81
+00:06:50.600 --> 00:06:54.120
+Like sort of county or area zip code, exactly.
+
+82
+00:06:54.120 --> 00:06:59.240
+But you don't, you know, to protect people's privacy, we don't know who they are, and we're not allowed to.
+
+83
+00:06:59.240 --> 00:07:00.360
+It's illegal to do that.
+
+84
+00:07:00.360 --> 00:07:04.000
+So we got other data for the book to kind of figure out.
+
+85
+00:07:04.000 --> 00:07:06.200
+We sort of knew where to look from the research.
+
+86
+00:07:06.200 --> 00:07:08.680
+Um, let's go find some of them and meet them.
+
+87
+00:07:08.680 --> 00:07:20.800
+And the yacht data is how we found people like Nancy Mueller, who made yacht money, you know, building a business, selling uh ready to bake frozen quiche in uh big box stores.
+
+88
+00:07:20.960 --> 00:07:40.560
+That's how we found Dick Portillo, who made yacht money starting from like a single hot dog stand in suburban Chicago 50 years ago, uh, to have the largest private, you know, red fast casual restaurant business doing hot dogs, Italian beef, chocolate cake shakes, and the like, sold it to Berkshire Partners for a billion dollars.
+
+89
+00:07:40.560 --> 00:07:45.040
+Sometimes the clearest wealth data is sitting in the marina.
+
+90
+00:07:45.040 --> 00:07:58.480
+On the A16Z podcast, Replit founder Umjad Massad argues that young people bring first principles thinking to cultures, including Silicon Valley, that develop shared blind spots.
+
+91
+00:07:58.480 --> 00:08:05.280
+As AI reshapes education and work, he's asking who will challenge the assumptions baked into both.
+
+92
+00:08:07.840 --> 00:08:12.240
+And every one of us, we probably have a blind spot in society.
+
+93
+00:08:12.240 --> 00:08:15.200
+We probably we have a lot of blind spots in Silicon Valley.
+
+94
+00:08:15.200 --> 00:08:22.400
+There's a lot of ideas that don't come out of Silicon Valley because there's a monoculture here, there's a certain way of thinking.
+
+95
+00:08:22.400 --> 00:08:27.760
+Every culture is somehow a monoculture, even the most radical cultures like Silicon Valley.
+
+96
+00:08:27.920 --> 00:08:29.840
+So, what do you need from young people?
+
+97
+00:08:29.840 --> 00:08:36.240
+You need them to experiment, you need to encourage them to do to try impossible things.
+
+98
+00:08:36.240 --> 00:08:43.360
+And every now and then, they're gonna have a breakthrough that once we thought was impossible.
+
+99
+00:08:43.360 --> 00:08:47.920
+And now it's suddenly possible because the technology changed, something changed.
+
+100
+00:08:48.000 --> 00:08:51.360
+So college ultimately should be about that.
+
+101
+00:08:51.360 --> 00:09:02.200
+Let's get these people with clear minds, zen mindsets, first principle mindsets, and encourage them to go question the deeply held beliefs.
+
+102
+00:08:59.680 --> 00:09:03.320
+I think that's well said.
+
+103
+00:09:03.480 --> 00:09:17.720
+I mean, imagine if you were 18 today and you were able to design your ideal experience in terms of how much you go to class, to what projects you work on, to what kind of deep study you would engage into what you'd want to study.
+
+104
+00:09:17.720 --> 00:09:25.240
+What are some principles that you would add to that in terms of how you wish if you could redo 18 to 22, but in 2026?
+
+105
+00:09:25.240 --> 00:09:25.560
+Yeah.
+
+106
+00:09:25.560 --> 00:09:26.760
+How you'd think about it.
+
+107
+00:09:26.760 --> 00:09:33.640
+Yeah, I'd want to go to a college that's not prescriptive about what I learned.
+
+108
+00:09:33.640 --> 00:09:34.280
+Yeah.
+
+109
+00:09:34.280 --> 00:09:37.560
+I want to be in an environment where there's a lot of different paths.
+
+110
+00:09:37.560 --> 00:09:43.240
+There's a class about something totally I haven't even thought about it.
+
+111
+00:09:43.240 --> 00:09:45.000
+It's outside my world, right?
+
+112
+00:09:45.000 --> 00:09:52.200
+We're talking about the story with Steve Jobs, one of the most inspiring speeches he gave is the Stanford commencement speech.
+
+113
+00:09:52.200 --> 00:09:54.680
+And he talked about connecting things backwards.
+
+114
+00:09:54.680 --> 00:10:03.320
+And so the way Steve Jobs approached college, I think it's the ideal experience of college, where he's like, he went to read college, but he couldn't afford it.
+
+115
+00:10:03.320 --> 00:10:07.640
+So he dropped out, but kept dropping into different classes.
+
+116
+00:10:07.640 --> 00:10:09.400
+One of them was calligraphy.
+
+117
+00:10:09.720 --> 00:10:13.240
+And in the calligraphy class, he didn't know why he was interested in it.
+
+118
+00:10:13.240 --> 00:10:15.720
+And he just did it and learned it.
+
+119
+00:10:15.720 --> 00:10:23.320
+Later on, when they were inventing the Mac and inventing user interfaces, they're like, oh, we should have proportionally spaceful.
+
+120
+00:10:25.720 --> 00:10:28.120
+That's today's daily rundown.
+
+121
+00:10:28.520 --> 00:10:29.560
+Thanks for listening.
+
+122
+00:10:29.560 --> 00:10:31.320
+We'll be back tomorrow.

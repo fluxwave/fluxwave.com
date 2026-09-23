@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-23",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-23_20260923T200137Z_52696/clip_sources/534f8a7ddcb41daa/01_Building_an_AI_research_product_as_the_sole_design.mp3",
+      "source": "Design Engineering with Maggie Appleton",
+      "start_time": 438,
+      "end_time": 558,
+      "topic": "Building an AI research product as the sole designer on a tiny team"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-23_20260923T200137Z_52696/clip_sources/b113a67fea203159/01_Designing_flexible_curiosity-driven_education_for.mp3",
+      "source": "Amjad Masad on Rethinking College for the AI Era",
+      "start_time": 378,
+      "end_time": 506,
+      "topic": "Designing flexible, curiosity-driven education for builders in the AI era"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-23_20260923T200137Z_52696/clip_sources/b3f2e37e2e6dd8b6/01_Why_the_90_debt-to-GDP_threshold_was_widely_misint.mp3",
+      "source": "Is our national debt finally too much? (update)",
+      "start_time": 525,
+      "end_time": 650,
+      "topic": "Why the 90% debt-to-GDP threshold was widely misinterpreted as a hard economic limit"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-23_20260923T200137Z_52696/clip_sources/e7c90f8250a1adf5/01_Business_ownership_versus_salary_income_as_the_pat.mp3",
+      "source": "At The Money: Who Is Wealthy in America, and How Did They Get Rich?",
+      "start_time": 588,
+      "end_time": 710,
+      "topic": "Business ownership versus salary income as the path to wealth"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
