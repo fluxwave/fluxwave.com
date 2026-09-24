@@ -1,0 +1,473 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:07.920
+AI agents and cyber failures, the math behind leveraged software deals, and a costly spAC lesson.
+
+2
+00:00:08.240 --> 00:00:16.640
+Plus, Kevin Ryan on decade-long bets, including nuclear energy, back in focus after Italy's parliamentary vote.
+
+3
+00:00:18.720 --> 00:00:27.760
+On the A16Z podcast, Eddie Lazarin argues that agent swarms and unauthorized hacking aren't signs of runaway superintelligence.
+
+4
+00:00:27.760 --> 00:00:31.440
+They're cybersecurity and access control failures.
+
+5
+00:00:31.840 --> 00:00:37.760
+That distinction matters as increasingly capable agents gain permission to use real systems.
+
+6
+00:00:40.080 --> 00:00:50.960
+And they're not, in my view, they're not little glimpses of a superintelligence that's about to, you know, throw off its its uh its shackles, so to speak, and and and go wild on us.
+
+7
+00:00:51.040 --> 00:01:08.960
+Well, I agree that most of the sort of AI cyber incidents that we've seen so far have been mostly control failures, especially ones that relied on testing environments supplied by the company irregular, which had all kinds of defects, which are basically training models to reward hack.
+
+8
+00:01:08.960 --> 00:01:12.160
+Um the hugging face incident did seem kind of different.
+
+9
+00:01:12.160 --> 00:01:19.920
+Um it did seem like, you know, I like I'm not really concerned about agents coordinating in emergent ways.
+
+10
+00:01:19.920 --> 00:01:24.640
+Um I think that's good for agents to con to emergent ways.
+
+11
+00:01:24.640 --> 00:01:24.880
+Yeah.
+
+12
+00:01:24.880 --> 00:01:25.120
+Yeah.
+
+13
+00:01:25.120 --> 00:01:32.640
+I mean, I I think like the whole like agent swarm terminology uh assumes too much on the part of the models being evil.
+
+14
+00:01:32.640 --> 00:01:33.840
+It makes them sound evil.
+
+15
+00:01:33.840 --> 00:01:38.560
+Like um, I think Rune tweeted like they should be called agent fleets instead.
+
+16
+00:01:38.560 --> 00:01:39.600
+I think that's a good one.
+
+17
+00:01:39.600 --> 00:01:40.320
+I like that.
+
+18
+00:01:40.320 --> 00:01:46.920
+But like they did hack into uh another company when they were told not to.
+
+19
+00:01:46.720 --> 00:01:47.080
+Yeah.
+
+20
+00:01:47.280 --> 00:01:55.920
+So it seems like uh And and and so do so do like kids is script kiddies, so do bad countries, so do hacker collectives.
+
+21
+00:01:55.920 --> 00:01:57.120
+They do those things.
+
+22
+00:01:57.120 --> 00:02:04.520
+And yet we never go and say, oh my God, we should have put up the sign that says they should have been nice and they shouldn't have acted into anything.
+
+23
+00:01:59.520 --> 00:02:06.760
+You know, we we don't use alignment as a solution there.
+
+24
+00:02:07.000 --> 00:02:11.640
+The alignment is kind of this uh I it's almost like it's a little religious thinking almost.
+
+25
+00:02:11.640 --> 00:02:28.680
+It's like you know, trying to redesign the deity a little bit instead of rooting yourself in the world and saying, well, we need to design better controls, better cybersecurity, we need to design better systems overall and design the systems to be truly resilient to even extremely capable beings.
+
+26
+00:02:29.000 --> 00:02:32.120
+Well, I mean, designing the deity is like fine for AI, I think.
+
+27
+00:02:32.120 --> 00:02:37.240
+Like, you know, with humans, uh, we have a disadvantage in that humans are black box systems.
+
+28
+00:02:37.240 --> 00:02:40.200
+Like human brains are basically uninterpretable.
+
+29
+00:02:41.640 --> 00:02:47.240
+More autonomy makes ordinary security controls much less ordinary.
+
+30
+00:02:47.240 --> 00:02:56.920
+On all in, bending spoon's CEO Luca Ferrari breaks down how interest rates, debt, and selective equity issuance shape software acquisitions.
+
+31
+00:02:57.400 --> 00:03:07.640
+Listen for the pressure created when borrowing costs hit 10 or 12%, and the target's cash flow has to justify the price.
+
+32
+00:03:07.880 --> 00:03:20.040
+Quote unquote only raised uh about half a billion dollar in primary equity, uh, and we were at roughly 20 billion in valuation, and even the half a billion dollar, we had raised pretty much all of it in the previous six months or so.
+
+33
+00:03:20.040 --> 00:03:24.760
+So almost all of our truck record we've uh achieved through reinvestment of free cash flows and debt.
+
+34
+00:03:24.760 --> 00:03:29.800
+But going forward, I think, particularly as a public company, using equity tactically here and there could be a good good idea.
+
+35
+00:03:30.040 --> 00:03:47.520
+So with that equity, um you you're taking loans, I guess, uh five, six points over LIBOR, so 10%, 12% loans, and then you buy a business like Airtable, but that that means you have to pay $100 million in debt payments per year.
+
+36
+00:03:47.760 --> 00:03:53.760
+If interest rates go up and it's a 90-some odd chance they're going to start going up, what does that do with the business?
+
+37
+00:03:53.760 --> 00:03:54.960
+Does it throttle it a bit?
+
+38
+00:03:54.960 --> 00:04:00.480
+And then my second question: people have been pretty enamored by the progress you're making.
+
+39
+00:04:00.480 --> 00:04:04.800
+Uh, and I think you're now facing uh some bending spoons competitors.
+
+40
+00:04:04.800 --> 00:04:05.840
+So maybe you could talk.
+
+41
+00:04:05.840 --> 00:04:08.480
+Are you seeing more people show up at these auctions?
+
+42
+00:04:08.480 --> 00:04:11.360
+And it's not just you and like two other players.
+
+43
+00:04:11.440 --> 00:04:16.400
+Yeah, so um that is an accelerant to our growth.
+
+44
+00:04:16.400 --> 00:04:25.920
+Uh we would still go up pretty fast if we only use free cash flows, but uh our free cash flows, but definitely being able to use debt is is a good thing, uh, prudent levels of debt.
+
+45
+00:04:25.920 --> 00:04:29.840
+And and I would say uh I will give you like two parts.
+
+46
+00:04:29.840 --> 00:04:32.880
+Uh first, the the risk with the existing indebtness.
+
+47
+00:04:32.960 --> 00:04:37.920
+So all of our debt currently, the the average cost, the blended cost is about nine percent.
+
+48
+00:04:37.920 --> 00:04:39.600
+Give or take, and it's fully hedged.
+
+49
+00:04:39.600 --> 00:04:43.760
+So increases in in uh interest rates would not uh impact our cost of debt.
+
+50
+00:04:43.760 --> 00:04:47.040
+Uh it matures in 2031.
+
+51
+00:04:47.040 --> 00:04:50.560
+So we are in a position to pay paid back completely before maturity.
+
+52
+00:04:50.560 --> 00:04:53.680
+We're currently at two and a half times leverage approximately.
+
+53
+00:04:53.680 --> 00:04:59.680
+Now, if uh interest rates were to go up substantially, then new debt would be would be more expensive.
+
+54
+00:04:59.680 --> 00:05:06.080
+Um I think that would be under most scenarios a net positive for us for a couple of reasons.
+
+55
+00:05:06.080 --> 00:05:13.600
+Our returns on Levered historically have been pretty high, consistently above 25% again on leverage.
+
+56
+00:05:13.680 --> 00:05:18.640
+At those rates, cheap leverage can't rescue an expensive deal.
+
+57
+00:05:18.640 --> 00:05:27.520
+On excess returns, Jack Reigns revisits the SPAC trade that cost him $157,000 in three minutes.
+
+58
+00:05:27.520 --> 00:05:31.160
+He explains redemption floors, units, and warrants.
+
+59
+00:05:29.840 --> 00:05:34.840
+The mechanics investors skipped while chasing post merger upside.
+
+60
+00:05:43.400 --> 00:05:43.960
+No.
+
+61
+00:05:43.960 --> 00:05:46.040
+And he said, I don't either.
+
+62
+00:05:46.040 --> 00:05:54.920
+But I saw on Twitter that if you buy Desert Eagle Acquisition Company, which is a SPAC, and you hold it for a couple of months, you'll have DraftKings stock.
+
+63
+00:05:54.920 --> 00:05:56.120
+And I said, okay.
+
+64
+00:05:56.120 --> 00:05:59.240
+So it's like an it's like an IPO vehicle.
+
+65
+00:05:59.240 --> 00:06:00.680
+He said, I don't know what that means.
+
+66
+00:06:00.680 --> 00:06:02.200
+And I said, okay.
+
+67
+00:06:02.200 --> 00:06:06.120
+So if you have two acronyms that you don't know what it means, it's probably a good idea, right?
+
+68
+00:06:06.360 --> 00:06:07.560
+And he made money on that.
+
+69
+00:06:07.560 --> 00:06:11.800
+So I I I well, I you know, I I always finance guy in college.
+
+70
+00:06:11.800 --> 00:06:14.040
+I worked for our like student managed investment fund.
+
+71
+00:06:14.040 --> 00:06:15.800
+I liked financial markets.
+
+72
+00:06:15.800 --> 00:06:23.320
+And I uh I looked into it and it's like, okay, SPAC is basically publicly traded bank account.
+
+73
+00:06:23.320 --> 00:06:32.200
+And I see, okay, there's these DAC was the ticker, Desert Eagle stock shares, and there are units and there were warrants.
+
+74
+00:06:32.280 --> 00:06:44.520
+Then I look into it and it's like, okay, the way they priced the deals are the investors in the SPAC got units for their money at $10 a unit, and after 30 days or 90 days or whatever, um, every unit came with like half a warrant.
+
+75
+00:06:44.520 --> 00:06:49.720
+So for every two units you had, you ended up with one share, or you ended up with two shares and one warrant.
+
+76
+00:06:49.720 --> 00:07:02.120
+The nice thing about SPACs was that because they were backed by money in a bank account, um, the investors in the SPAC could redeem that money before the merger went through if they like didn't agree with it, didn't like the price, whatever.
+
+77
+00:07:02.120 --> 00:07:03.880
+So there was like a redemption floor.
+
+78
+00:07:03.880 --> 00:07:11.800
+Even during COVID, a lot of the specs briefly traded below the floor when a lot of people got margin called, but there was like cash in the bank account worth $10 a share.
+
+79
+00:07:11.800 --> 00:07:14.200
+The only real risk was like time.
+
+80
+00:07:14.200 --> 00:07:21.760
+Um but the stock could trade above its, you know, nav value at any point if people are really hype about it.
+
+81
+00:07:21.760 --> 00:07:24.160
+So the bubble starts happening in 2020.
+
+82
+00:07:24.160 --> 00:07:31.440
+Things that turn into meme stocks, sports betting, DraftKings, electric vehicles, marijuana, and outer space.
+
+83
+00:07:31.440 --> 00:07:36.720
+So I noticed the DraftKings stock went from 10 to 20 before the merger closed.
+
+84
+00:07:36.720 --> 00:07:40.000
+The warrants went from like a dollar to non-dollars.
+
+85
+00:07:40.000 --> 00:07:42.720
+I was like, you just and you noticed that.
+
+86
+00:07:42.880 --> 00:07:45.280
+So stock price did this, warrants did that.
+
+87
+00:07:45.280 --> 00:07:47.760
+Like that was just observation.
+
+88
+00:07:48.080 --> 00:07:52.400
+The downside was hiding in the structure, not the story.
+
+89
+00:07:52.400 --> 00:08:06.320
+On the Tim Ferris show, double click and MongoDB founder Kevin Ryan explains how he spots 10-year trends across unstructured data, psychedelics, nuclear energy, the creator economy, and value-based care.
+
+90
+00:08:06.320 --> 00:08:15.280
+His nuclear bet feels especially timely today as Italy's parliament votes to bring atomic power back into its energy strategy.
+
+91
+00:08:17.840 --> 00:08:24.080
+Unstructured data in databases was Mongo, and that was a 20-year trend.
+
+92
+00:08:24.080 --> 00:08:26.080
+Psychedelics was a very important trend.
+
+93
+00:08:26.080 --> 00:08:32.720
+I became a big believer that that you know would be significant for mental health, and that we are five years into that 10-year trend.
+
+94
+00:08:32.720 --> 00:08:41.360
+Nuclear energy is something that we made a bet on, a very significant bet on two and a half years ago, and our incredible company there.
+
+95
+00:08:41.360 --> 00:08:48.240
+The creator economy is something that we made a bet on several years ago, and have an extremely successful company there.
+
+96
+00:08:48.240 --> 00:08:50.640
+That's a trend that is continuing.
+
+97
+00:08:50.640 --> 00:08:55.600
+There are other trends out there, and more specifically, value-based care is a trend.
+
+98
+00:08:55.600 --> 00:09:10.760
+Value-based care is a way the government has structured it so that you can go to multiple hospitals or doctor's practices and work out ways for them to reduce their costs by focusing on a specialty often.
+
+99
+00:09:10.760 --> 00:09:15.640
+And if you reduce their costs, then you can share in the savings.
+
+100
+00:09:15.640 --> 00:09:18.280
+And so we have multiple companies there.
+
+101
+00:09:18.280 --> 00:09:20.600
+And sometimes there are trends.
+
+102
+00:09:20.600 --> 00:09:24.200
+I'm not able to think of the right way to benefit from the right product.
+
+103
+00:09:24.200 --> 00:09:27.880
+Longevity and this focus still haven't come up with the right thing.
+
+104
+00:09:27.880 --> 00:09:33.000
+I have a conference called Doc, which is in Napa Valley in October, that is longevity and science.
+
+105
+00:09:33.000 --> 00:09:39.400
+And so that's to learn more, but I don't have a product idea yet on that.
+
+106
+00:09:39.880 --> 00:09:41.080
+Why do you do events?
+
+107
+00:09:41.080 --> 00:09:44.360
+Are the events opportunity and talent scouting mostly?
+
+108
+00:09:44.360 --> 00:09:48.440
+I understand that learning is sort of a bedrock beneath both of those two.
+
+109
+00:09:48.440 --> 00:09:51.560
+But what was the impetus behind an event like that?
+
+110
+00:09:51.560 --> 00:09:54.760
+Yeah, so I have four now, and some of them are linked to my business.
+
+111
+00:09:54.760 --> 00:10:03.480
+So deep tech New York, it's 450 people talking about the most fundamental deep tech trends that are happening out there, material science, things like that.
+
+112
+00:10:03.480 --> 00:10:07.400
+Then I have one Digital Health New York, which is next week, then I have doc.
+
+113
+00:10:07.400 --> 00:10:15.560
+And then I have one that's called Odyssey, which is just ideas that's less commercial and just getting a hundred very smart people together.
+
+114
+00:10:15.560 --> 00:10:19.080
+And I look at that as more.
+
+115
+00:10:19.080 --> 00:10:24.280
+A long term thesis can look early, right up until policy catches up.
+
+116
+00:10:26.360 --> 00:10:28.840
+That's today's daily rundown.
+
+117
+00:10:29.240 --> 00:10:30.360
+Thanks for listening.
+
+118
+00:10:30.360 --> 00:10:32.120
+We'll be back tomorrow.

@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-24",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-24_20260924T200145Z_55439/clip_sources/f5ee81c65c76160e/01_Mechanistic_interpretability_inevitable_malicious.mp3",
+      "source": "The Case Against an AI Pause | Eddy Lazzarin",
+      "start_time": 373,
+      "end_time": 500,
+      "topic": "Mechanistic interpretability, inevitable malicious models, and intelligence-based defenses"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-24_20260924T200145Z_55439/clip_sources/4c15dd6635ecbb4e/01_Using_deep-tech_and_digital-health_gatherings_to_d.mp3",
+      "source": "#884: How to Spot 10-Year Trends and Build Billion-Dollar Companies \u2014 Kevin Ryan of DoubleClick, MongoDB, Business Insider, and Many More",
+      "start_time": 371,
+      "end_time": 491,
+      "topic": "Using deep-tech and digital-health gatherings to discover emerging ideas and exceptional talent"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-24_20260924T200145Z_55439/clip_sources/56a9d1dde4a6c5e5/01_Identifying_leverage_and_momentum_in_SPAC_warrants.mp3",
+      "source": "He Lost $157,000 in 3 Minutes | Jack Raines on the Lesson Winning Never Taught Him",
+      "start_time": 500,
+      "end_time": 629,
+      "topic": "Identifying leverage and momentum in SPAC warrants"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-24_20260924T200145Z_55439/clip_sources/b29a47ef5e1e6c4a/00_Proprietary_operating_system_for_acquired_technolo.mp3",
+      "source": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
+      "start_time": 315,
+      "end_time": 435,
+      "topic": "Proprietary operating system for acquired technology companies"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
