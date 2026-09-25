@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-25",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-25_20260925T200147Z_76390/clip_sources/803ea8789d276529/01_Human_curation_as_a_defense_against_growing_startu.mp3",
+      "source": "The Reputation Graph of Silicon Valley | Introducing Cosign",
+      "start_time": 441,
+      "end_time": 561,
+      "topic": "Human curation as a defense against growing startup and AI-generated noise"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-25_20260925T200147Z_76390/clip_sources/64669cf7053b96ec/01_Why_liquidity_and_attempted_manipulation_can_impro.mp3",
+      "source": "688. When Is a Bet Not a Bet?",
+      "start_time": 647,
+      "end_time": 767,
+      "topic": "Why liquidity and attempted manipulation can improve prediction-market accuracy"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-25_20260925T200147Z_76390/clip_sources/6ad4fdedb490199d/01_Oil_diesel_and_supply-chain_inflation_driving_bond.mp3",
+      "source": "AI's World-Changing Breakthroughs, Bond Market Mayhem & US-China Power Moves | The Tom Bilyeu Show",
+      "start_time": 314,
+      "end_time": 434,
+      "topic": "Oil, diesel, and supply-chain inflation driving bond yields higher"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-25_20260925T200147Z_76390/clip_sources/46bed55219ead5c4/01_Contrarian_commodity_investing_through_incentive_p.mp3",
+      "source": "Dave Iben: The World Is on Sale While America Trades at a Premium | #652",
+      "start_time": 312,
+      "end_time": 436,
+      "topic": "Contrarian commodity investing through incentive prices and platinum scarcity"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
