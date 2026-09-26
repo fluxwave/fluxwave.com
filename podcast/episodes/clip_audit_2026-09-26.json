@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-26",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-26_20260926T203438Z_21381/clip_sources/3c4bfb52e091585a/01_The_gap_between_AI_safety_messaging_and_frontier_l.mp3",
+      "source": "Aaron Levie, Steven Sinofsky & Martin Casado: How Do You Secure a World of AI Agents?",
+      "start_time": 513,
+      "end_time": 635,
+      "topic": "The gap between AI safety messaging and frontier labs' actual incentives"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-26_20260926T203438Z_21381/clip_sources/3c6a394a38443165/01_Individual_responsibility_versus_collective_govern.mp3",
+      "source": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
+      "start_time": 387,
+      "end_time": 510,
+      "topic": "Individual responsibility versus collective governance for frontier AI releases"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-26_20260926T203438Z_21381/clip_sources/d0ca4a75d655c45d/01_Employee_equity_profit_sharing_and_ownership_as_a.mp3",
+      "source": "Rapid Response: Stop creating businesses. Buy one instead, with Codie Sanchez",
+      "start_time": 321,
+      "end_time": 441,
+      "topic": "Employee equity, profit sharing, and ownership as a way to align incentives and gain control over financial outcomes"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

@@ -1,0 +1,469 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:11.280
+Who should control frontier AI, what the jobs report hides, how liability could restrain unsafe models, and why buying a business can still buy you a job.
+
+2
+00:00:11.280 --> 00:00:18.720
+For clips, all about accountability and the numbers and systems behind it.
+
+3
+00:00:18.720 --> 00:00:34.000
+On the A16Z podcast, Aaron Levy, Steven Sinowski, and Martin Cassado debate whether AI labs can satisfy regulators by merely pacing development, or whether existential risk claims point toward nationalization.
+
+4
+00:00:34.000 --> 00:00:40.240
+That tension lands harder as new details emerge about open AI agents hacking hugging face.
+
+5
+00:00:42.080 --> 00:00:42.720
+Dressing it.
+
+6
+00:00:42.720 --> 00:00:47.600
+So you're saying, well, we're not gonna pause, we're gonna pace to make them happy, but we'll also somehow make the regulators happy.
+
+7
+00:00:47.600 --> 00:00:49.280
+And I think it makes them both unhappy.
+
+8
+00:00:49.600 --> 00:00:53.280
+Because the pause people are like, well, that's not a pause, that's just pacing.
+
+9
+00:00:53.280 --> 00:00:55.920
+And the regulators are you're still doing the thing.
+
+10
+00:00:55.920 --> 00:00:56.400
+Right.
+
+11
+00:00:56.400 --> 00:01:00.800
+And so I just feel like my sense of what's happening is the labs are actually trying to do the right thing.
+
+12
+00:01:00.800 --> 00:01:02.160
+And I applaud them for that.
+
+13
+00:01:02.160 --> 00:01:05.440
+I think this is a pragmatic proposal, and I applaud them for that.
+
+14
+00:01:05.440 --> 00:01:15.520
+I think the messaging is wrong because they're trying to like split the difference between an internal kind of fringe faction, which are doomers, pause, and then the regulators on the other side.
+
+15
+00:01:15.520 --> 00:01:18.080
+And the problem is they're making both of them unhappy.
+
+16
+00:01:18.080 --> 00:01:23.440
+And I think what they have to do is they need to come out, they need to address the X-risk question directly.
+
+17
+00:01:23.600 --> 00:01:27.120
+They need to say, no, we don't think the stuff we're gonna do is gonna cause extinction.
+
+18
+00:01:27.120 --> 00:01:29.840
+And then I think this becomes just very sensible.
+
+19
+00:01:29.840 --> 00:01:32.400
+And what would you do, just to play the other side for one second?
+
+20
+00:01:32.400 --> 00:01:33.440
+What do you do?
+
+21
+00:01:33.440 --> 00:01:50.320
+Do you make room for the one possible Venn diagram, which is the lab researcher that is both simultaneously super scared, but also works on advancing the state of AI because they believe that it's so important to get right that they want to pursue that.
+
+22
+00:01:50.320 --> 00:01:56.080
+And then obviously the language is right now very problematic, but that person does exist.
+
+23
+00:01:56.080 --> 00:02:01.720
+And that that is a real kind of person in our industry, which is like we have to be at the forefront of AI.
+
+24
+00:01:59.840 --> 00:02:05.800
+So let me address this directly.
+
+25
+00:02:01.720 --> 00:02:03.000
+I'm also very scared of it.
+
+26
+00:02:03.000 --> 00:02:04.360
+And so that's why I'm working on this.
+
+27
+00:02:05.960 --> 00:02:09.960
+I used to work for Lawrence Livermore National Labs on a weapons program, nuclear weapons.
+
+28
+00:02:09.960 --> 00:02:12.120
+I know what it's like to work on things that have excess.
+
+29
+00:02:12.280 --> 00:02:13.880
+You were the first pacer.
+
+30
+00:02:14.760 --> 00:02:16.440
+We were part of the first pacer.
+
+31
+00:02:17.800 --> 00:02:30.920
+So if a constituency within the labs that are the most knowledgeable people believe this stuff has existential risk, the answer is to nationalize it and actually put controls that we know that work.
+
+32
+00:02:31.000 --> 00:02:31.560
+Right.
+
+33
+00:02:31.560 --> 00:02:40.440
+Now, if they don't actually believe that, and in the private conversations I have, the most sensible people don't, it's a small fraction that do, this is an HR problem.
+
+34
+00:02:40.920 --> 00:02:41.320
+Right.
+
+35
+00:02:41.320 --> 00:02:43.640
+So to me, an HR problem is a company problem.
+
+36
+00:02:43.640 --> 00:02:52.760
+Like if they are worried that they can't recruit people, or they can't retain people, which it seems to me a lot of this is just that.
+
+37
+00:02:52.760 --> 00:03:01.080
+If labs frame their work as existential, governments may treat control, not pacing, as the logical answer.
+
+38
+00:03:01.080 --> 00:03:13.000
+On excess returns, the data scientist who rebuilt the jobs report explains why pail changes can swing by more than a hundred thousand, even when the overall employment estimate is sound.
+
+39
+00:03:13.160 --> 00:03:21.080
+Useful context before treating one monthly headline as a clean read on the economy.
+
+40
+00:03:23.320 --> 00:03:38.520
+Nine out of those ten times, or roughly, or something like this, they they would find, you know, or you know, plus or minus 122,000 jobs around what they actually found, which was I can't remember the number now, like somewhere in the hundreds or something like that.
+
+41
+00:03:38.520 --> 00:03:53.920
+So when you well, the way that I simply, you know, my my simple mind just thinks of this is like if the number comes out at like 100 plus 100, it's really plus or 100, it's it's 100 plus 122,000 and minus 122,000.
+
+42
+00:03:53.920 --> 00:03:59.440
+And nine times out of 10, they're they're saying we are confident that it's somewhere in between that range.
+
+43
+00:03:59.440 --> 00:04:02.960
+And you're just like, why do we care then?
+
+44
+00:04:02.960 --> 00:04:11.120
+I mean, like, why it's so this is an issue where it makes sense when you actually understand what the BLS is doing.
+
+45
+00:04:11.120 --> 00:04:17.200
+We have like 160 million plus people, you know, in the labor force.
+
+46
+00:04:17.200 --> 00:04:22.720
+And so when you start looking at like, you know, an error of 100,000, like that's really accurate.
+
+47
+00:04:22.720 --> 00:04:31.920
+And so they're doing a really good job of projecting or estimating the absolute number of employees at any given point in time.
+
+48
+00:04:31.920 --> 00:04:33.600
+And that's what the survey is designed to do.
+
+49
+00:04:33.600 --> 00:04:34.720
+And so it's like, okay, great.
+
+50
+00:04:34.720 --> 00:04:40.320
+Well, we did our job, but then somehow, and maybe you can tell me why.
+
+51
+00:04:40.320 --> 00:04:52.080
+Throughout time, we have decided to say, well, now we're gonna take this number, the absolute number, which is BLS says is great, and now we're just gonna do a markover month change of it, which is not great.
+
+52
+00:04:52.080 --> 00:04:55.680
+It has a tremendous amount of error because the survey is not designed for that.
+
+53
+00:04:55.680 --> 00:05:01.360
+And then now everybody has decided that this is a meaningful number.
+
+54
+00:05:02.080 --> 00:05:07.520
+And so it's you know, looking at it from as like an outsider, you're just like, how did that happen?
+
+55
+00:05:07.520 --> 00:05:18.880
+But I guess, you know, and Ben Hunt says this all the time like if if everybody agrees that it's right or it's meaningful, I guess it's meaningful, you know.
+
+56
+00:05:18.520 --> 00:05:31.880
+You know, I mean, it doesn't matter what the actual like, you know, logic is or the methodology or studying the surveys, like you and I can know this, but until everybody else knows it, then it's not really meaningful.
+
+57
+00:05:31.880 --> 00:05:36.760
+So anyway, all that said.
+
+58
+00:05:36.760 --> 00:05:43.240
+The level can be reliable while the month to month change is mostly statistical noise.
+
+59
+00:05:43.240 --> 00:05:58.280
+On all in, Chamaf Palapidia, Jason Calicani's, David Sachs, and David Friedberg ask whether ordinary corporate tools, product liability and internal controls can slow unsafe AI releases.
+
+60
+00:05:58.360 --> 00:06:04.120
+It's the practical counterpart to today's broader argument over who should govern frontier models.
+
+61
+00:06:07.000 --> 00:06:08.680
+We have product liability landscape.
+
+62
+00:06:10.520 --> 00:06:14.360
+We have this product liability perspective in the United States.
+
+63
+00:06:14.360 --> 00:06:22.440
+It's meant to prevent companies from doing things that they're not supposed to do, especially if they know that those things could be harmful.
+
+64
+00:06:22.440 --> 00:06:32.520
+And on the other side, it's folks making the thing that were being, I think a little naive and basically saying we're not a company, we're a lab, protect us.
+
+65
+00:06:32.520 --> 00:06:38.840
+And I think the mature response is you should have internal controls and you should robustly test things.
+
+66
+00:06:38.840 --> 00:06:43.800
+And what Zuck said earlier and what Elon has said in the past is we're just under a lot of scrutiny.
+
+67
+00:06:43.800 --> 00:06:46.200
+And so when things aren't perfect, we just slow things down.
+
+68
+00:06:46.200 --> 00:06:47.720
+Elon has done that with FSD.
+
+69
+00:06:47.720 --> 00:06:48.600
+You said this, Jason.
+
+70
+00:06:48.600 --> 00:07:01.960
+He could have been at FSD three or four years ago, but he has publicly stated we can't afford it because every accident that Tesla incurs is magnified a thousand X than what any other company would incur.
+
+71
+00:07:01.960 --> 00:07:03.480
+And so we just have to go slower.
+
+72
+00:07:03.480 --> 00:07:13.160
+Zach last week said we were about to roll out Muse, which looks like one of the most successful product launches in recent memory, has huge implications, actually, which we should talk about.
+
+73
+00:07:13.160 --> 00:07:14.640
+And he had to slow roll it.
+
+74
+00:07:13.720 --> 00:07:20.080
+He and Alexander, who I was talking to last night, had to slow roll it for a couple of months to get it perfect.
+
+75
+00:07:14.360 --> 00:07:21.920
+So it's all within your control.
+
+76
+00:07:22.080 --> 00:07:23.920
+It's just what do you choose to do?
+
+77
+00:07:23.920 --> 00:07:27.360
+And uh I think that was the most interesting observation.
+
+78
+00:07:27.360 --> 00:07:35.760
+We have to stop calling these companies labs, they're companies, and we have to be judged on the same standards, including product liability.
+
+79
+00:07:35.760 --> 00:07:36.080
+Yeah.
+
+80
+00:07:36.080 --> 00:07:39.040
+And there was a lot of coverage of this moment, Saks.
+
+81
+00:07:39.040 --> 00:07:49.360
+Interestingly, some of the fake news media were like on a popular podcast, and then they play the clip, but they're just afraid to say the name of the podcast.
+
+82
+00:07:49.360 --> 00:07:50.320
+Pretty hilarious.
+
+83
+00:07:50.320 --> 00:08:01.840
+I think Jamath is getting us into the first topic here already, which is whether we're gonna have individual responsibility as our North Star or some sort of collective action.
+
+84
+00:08:01.840 --> 00:08:08.720
+And the thing that always works the best is individual responsibility, whether it's at the level of individuals or companies.
+
+85
+00:08:08.720 --> 00:08:13.760
+The relevant decision to make in every case.
+
+86
+00:08:20.080 --> 00:08:33.520
+On masters of scale, rapid response, Cody Sanchez explains why small business returns vary so widely, and how an owner without repeatable systems can become trapped inside the operation.
+
+87
+00:08:33.840 --> 00:08:43.200
+A timely reality check for anyone tempted to buy a profitable business instead of building one.
+
+88
+00:08:43.200 --> 00:08:48.240
+You alluded to this when you talked about sort of the motivation for this book versus the first book.
+
+89
+00:08:48.240 --> 00:08:53.280
+Like owning a business can trap you as easily as it frees you.
+
+90
+00:08:53.280 --> 00:08:57.360
+And I know the founders I talk to, I'm sure you hear this all the time too.
+
+91
+00:08:57.360 --> 00:09:01.560
+Like, if I known how hard it was, I never would have started this.
+
+92
+00:09:01.560 --> 00:09:05.720
+You know, is it better sometimes not to know how hard it is?
+
+93
+00:09:06.200 --> 00:09:12.280
+Well, one, I think that we have all gotten sort of trauma bonded over entrepreneurship.
+
+94
+00:09:12.280 --> 00:09:16.200
+It doesn't sound very fun if I come on here and say, actually, business is going pretty good.
+
+95
+00:09:16.200 --> 00:09:19.880
+We're making a lot of money, I'm having a good time, things are going well.
+
+96
+00:09:19.880 --> 00:09:21.240
+It's kind of gross.
+
+97
+00:09:21.240 --> 00:09:24.120
+And so it's almost like the reverse of the casino.
+
+98
+00:09:24.120 --> 00:09:26.200
+In the casino, they only tell you when they win.
+
+99
+00:09:26.200 --> 00:09:33.080
+In business, they only really like talking about the difficulty or hardships, or when they've raised a bunch of outside venture capital.
+
+100
+00:09:33.080 --> 00:09:39.160
+And so I think for most small business owners, yes, it's hard, but they kind of love the game.
+
+101
+00:09:39.160 --> 00:09:41.880
+Like it's an addictive game to play.
+
+102
+00:09:41.880 --> 00:09:44.760
+The problem is that they aren't profitable.
+
+103
+00:09:44.760 --> 00:09:47.080
+Everything's more fun when you're making money.
+
+104
+00:09:47.080 --> 00:09:56.680
+And so if the average small business owner makes $65,000 a year, well, that's less than minimum wage in California and less than even the median income in the US.
+
+105
+00:09:56.680 --> 00:10:03.000
+And so we've got to figure out how to have profitable businesses, because then the pain and difficulty is a lot easier to manage.
+
+106
+00:10:03.320 --> 00:10:11.560
+What are the I don't know, the mistakes or the traps that folks who are, you know, running their own businesses are running themselves into.
+
+107
+00:10:11.560 --> 00:10:15.400
+It's not that they're not working hard, they're not working on the right things.
+
+108
+00:10:15.400 --> 00:10:15.880
+Yeah.
+
+109
+00:10:15.880 --> 00:10:26.600
+If you look at the, you know, dispersion of returns, basically, the top 10 to 20% of companies, they're like 30x more profitable than the lower companies.
+
+110
+00:10:26.600 --> 00:10:31.000
+What we've seen is that most business owners, they don't run on systems.
+
+111
+00:10:31.000 --> 00:10:33.160
+Uh, and and even I see it in my business.
+
+112
+00:10:33.160 --> 00:10:35.960
+I mean, I just had to let go of of two employees.
+
+113
+00:10:35.960 --> 00:10:42.920
+And the reason why, these are execs, serious people making hundreds of thousands of dollars a year, because I couldn't get them to use a system.
+
+114
+00:10:42.920 --> 00:10:48.320
+They wanted to cowboy it because cowboying it as a business owner feels good.
+
+115
+00:10:48.320 --> 00:10:53.520
+If the business only works when you're there, you bought yourself a demanding job.
+
+116
+00:10:55.280 --> 00:10:58.080
+That's today's daily rundown.
+
+117
+00:10:58.080 --> 00:11:02.080
+We'll be back tomorrow with the clips shaping tech in business.
