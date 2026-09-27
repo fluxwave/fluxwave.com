@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-27",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-27_20260927T200119Z_52430/clip_sources/19f7ce690bafec36/01_Harveys_high-velocity_culture_of_experimentation_r.mp3",
+      "source": "Building a Team at AI Speed | Harvey\u2019s Maggie Landers",
+      "start_time": 376,
+      "end_time": 500,
+      "topic": "Harvey's high-velocity culture of experimentation, rapid iteration, and learning from failure"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-27_20260927T200119Z_52430/clip_sources/ca244a31d9d72b02/01_Turning_new_wearable_biosignals_into_useful_softwa.mp3",
+      "source": "The Lived Informatics Model",
+      "start_time": 324,
+      "end_time": 463,
+      "topic": "Turning new wearable biosignals into useful software interfaces and personal insights"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-27_20260927T200119Z_52430/clip_sources/c3c802a41b6b4100/01_Autonomous_drones_and_self-driving_cars_as_precurs.mp3",
+      "source": "Marc Andreessen on How AI, Culture, and Regulation Will Shape Tomorrow\u2019s World (Replay)",
+      "start_time": 399,
+      "end_time": 519,
+      "topic": "Autonomous drones and self-driving cars as precursors to general-purpose walking robots"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
