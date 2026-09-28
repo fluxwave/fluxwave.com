@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-28",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-28_20260928T200156Z_54354/clip_sources/9a24af09915f4018/01_Agent-to-agent_calendar_coordination_and_trusted-p.mp3",
+      "source": "Noah Shinn - Building Instinct: The Personal Agent - [Invest Like the Best, EP.493]",
+      "start_time": 539,
+      "end_time": 603,
+      "topic": "Agent-to-agent calendar coordination and trusted-person networks"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-28_20260928T200156Z_54354/clip_sources/9c02565b1b3eb19b/01_Reliability_boundaries_and_the_convergence_of_LLMs.mp3",
+      "source": "AI Can Write Code. Why Isn\u2019t Software Better?",
+      "start_time": 375,
+      "end_time": 502,
+      "topic": "Reliability boundaries and the convergence of LLMs with classical machine learning"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-28_20260928T200156Z_54354/clip_sources/436fc6e85bb5cbb1/01_Why_fixed-income_market_structure_creates_persiste.mp3",
+      "source": "Nancy Zimmerman \u2013 People, Process, and Fixed Income Arbitrage at Bracebridge (EP.517)",
+      "start_time": 737,
+      "end_time": 797,
+      "topic": "Why fixed-income market structure creates persistent alpha"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-28_20260928T200156Z_54354/clip_sources/6be62350d2012ddb/01_How_drug_discovery_starts_with_unmet_patient_needs.mp3",
+      "source": "#409 \u2012 Inside modern drug development: the science, economics, and regulatory hurdles behind bringing new medicines to patients | Lloyd Klickstein, M.D., Ph.D.",
+      "start_time": 336,
+      "end_time": 476,
+      "topic": "How drug discovery starts with unmet patient needs and distinguishes incremental improvements from breakthrough therapies"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
