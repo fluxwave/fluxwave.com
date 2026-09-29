@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-29",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-29_20260929T200204Z_89061/clip_sources/8a66c7e28b46d1a1/01_Mapping_repeated_decisions_as_a_tree_and_deriving.mp3",
+      "source": "The Game Was Rigged in Their Favor. 28% Went Bust Anyway | Kris Abdelmessih on How to Size Bets",
+      "start_time": 646,
+      "end_time": 719,
+      "topic": "Mapping repeated decisions as a tree and deriving the Kelly framework"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-29_20260929T200204Z_89061/clip_sources/12292c189a03cb05/01_How_fiscal_and_political_incentives_drive_capital.mp3",
+      "source": "Why 3 Private Companies Are Worth 45 Years of Public Tech \u2014 And You're Locked Out",
+      "start_time": 442,
+      "end_time": 570,
+      "topic": "How fiscal and political incentives drive capital redistribution and financial repression"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-29_20260929T200204Z_89061/clip_sources/2075eaf00030c7b6/01_Healthcare_economics_chronic_disease_and_the_value.mp3",
+      "source": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+      "start_time": 640,
+      "end_time": 712,
+      "topic": "Healthcare economics, chronic disease, and the value of early detection"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
