@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-30",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-30_20260930T200129Z_93325/clip_sources/b90e8a71ea8fa6e1/01_Autonomous_agents_driving_an_explosion_in_compute.mp3",
+      "source": "The $1 Trillion AI Buildout | State of Markets",
+      "start_time": 451,
+      "end_time": 582,
+      "topic": "Autonomous agents driving an explosion in compute demand"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-30_20260930T200129Z_93325/clip_sources/581e950e0660e98a/01_From_graphics_software_to_storage_systems_and_an_e.mp3",
+      "source": "Distributed databases with Peter Mattis",
+      "start_time": 374,
+      "end_time": 494,
+      "topic": "From graphics software to storage systems and an early Google opportunity"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-30_20260930T200129Z_93325/clip_sources/00cd7751621e45d2/01_Wealth-distribution_data_showing_millions_of_multi.mp3",
+      "source": "At the Money: The Data Behind America's Wealthy",
+      "start_time": 308,
+      "end_time": 445,
+      "topic": "Wealth-distribution data showing millions of multimillionaires and 65,000 Americans worth over $100 million"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-09-30_20260930T200129Z_93325/clip_sources/4a7a2f969e719de5/01_Whether_Spains_quality_of_life_creates_a_resource.mp3",
+      "source": "Luis Garicano on Spain, Europe, and the Future of Work",
+      "start_time": 379,
+      "end_time": 506,
+      "topic": "Whether Spain\u2019s quality of life creates a resource curse and why major economic reforms tend to occur only during crises"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

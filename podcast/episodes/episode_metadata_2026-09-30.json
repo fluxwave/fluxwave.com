@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-30",
+  "chapters": [
+    {
+      "startTime": 39.128,
+      "title": "a16z Podcast \u2014 Hyperscaler capital spending and the economics of rapidly scaling AI infrastructure"
+    },
+    {
+      "startTime": 203.024,
+      "title": "The Pragmatic Engineer \u2014 Open source impact and the beginnings of Gmail's storage system"
+    },
+    {
+      "startTime": 343.04,
+      "title": "Masters in Business \u2014 How private-business ownership drives wealth accumulation outside public markets"
+    },
+    {
+      "startTime": 504.944,
+      "title": "Conversations with Tyler \u2014 Spain\u2019s productivity crisis, pension-heavy political economy, and an energy-led growth scenar"
+    }
+  ],
+  "sources": [
+    {
+      "title": "The $1 Trillion AI Buildout | State of Markets",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/the-1-trillion-ai-buildout-state-of-markets-tkJj_Zp1",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7104380b-ad2f-4075-b459-cb07cd66a70b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7104380b-ad2f-4075-b459-cb07cd66a70b&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-09-30T10:00:00+00:00"
+    },
+    {
+      "title": "Distributed databases with Peter Mattis",
+      "podcast": "The Pragmatic Engineer",
+      "link": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
+      "audio_url": "https://api.substack.com/feed/podcast/217889431/e6c0522fd2ba52d0d7c1d42880a1a952.mp3",
+      "transcript_url": "",
+      "published": "2026-09-30T16:30:05+00:00"
+    },
+    {
+      "title": "At the Money: The Data Behind America's Wealthy",
+      "podcast": "Masters in Business",
+      "link": "https://omny.fm/shows/masters-in-business/at-the-money-the-date-behind-americas-wealthy",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/7aa8c2fb-6a07-43f5-a8bf-b4d500cbaf1c/audio.mp3?utm_source=Podcast&in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d",
+      "transcript_url": "",
+      "published": "2026-09-30T12:27:46+00:00"
+    },
+    {
+      "title": "Luis Garicano on Spain, Europe, and the Future of Work",
+      "podcast": "Conversations with Tyler",
+      "link": "https://cowenconvos.libsyn.com/luis-garicano-on-spain-europe-and-the-future-of-work",
+      "audio_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-296-LuisGaricano-podcast-v1.mp3?dest-id=850607",
+      "transcript_url": "",
+      "published": "2026-09-30T12:02:00+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-09-30.txt"
+}
