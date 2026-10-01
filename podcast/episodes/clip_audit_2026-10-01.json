@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-01",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-01_20261001T200129Z_28267/clip_sources/471dd726da4b6d1b/01_Mesh_networking_peer-to-peer_protocols_and_carrier.mp3",
+      "source": "Rebuilding the Internet for Privacy | Barrett Lyon on DoxxNet",
+      "start_time": 500,
+      "end_time": 620,
+      "topic": "Mesh networking, peer-to-peer protocols, and carrier-grade NAT"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-01_20261001T200129Z_28267/clip_sources/75a51863c98116de/01_Scaling_thousands_of_AI_agents_and_a_sudden_leap_i.mp3",
+      "source": "Navigating the AI Revolution: Who Wins, Who Loses, and How to Prepare | Emad Mostaque",
+      "start_time": 504,
+      "end_time": 627,
+      "topic": "Scaling thousands of AI agents and a sudden leap in frontier-math performance"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-01_20261001T200129Z_28267/clip_sources/02d661ea8161a76a/01_Market_dispersion_across_semiconductors_software_a.mp3",
+      "source": "Everything in Markets Is Now Moving Incredibly Fast",
+      "start_time": 443,
+      "end_time": 563,
+      "topic": "Market dispersion across semiconductors, software, agentic commerce, and other AI beneficiaries"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-01_20261001T200129Z_28267/clip_sources/a13788c55d41b7c8/01_AI_disruption_across_software_professional_service.mp3",
+      "source": "They Beat All US Stock Funds Since 2003 | Michael Baron on the AI Winners Investors Miss",
+      "start_time": 461,
+      "end_time": 584,
+      "topic": "AI disruption across software, professional services, finance, and commercial real estate"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
