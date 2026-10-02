@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-02",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-02_20261002T200145Z_46164/clip_sources/051856aa8bd7efa3/01_Four-level_taxonomy_of_enterprise_agents_from_retr.mp3",
+      "source": "Why AI Agents Can Beat the Incumbents",
+      "start_time": 384,
+      "end_time": 508,
+      "topic": "Four-level taxonomy of enterprise agents, from retrieval assistants to principal agents"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-02_20261002T200145Z_46164/clip_sources/943ee2de83637537/01_How_a_decentralized_industry_reliably_delivers_fre.mp3",
+      "source": "689. Here\u2019s Why Your Hamburger Just Got So Pricey",
+      "start_time": 506,
+      "end_time": 686,
+      "topic": "How a decentralized industry reliably delivers fresh beef and why ground beef demand creates a supply puzzle"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-02_20261002T200145Z_46164/clip_sources/597140cf6a8691e3/01_Agencies_becoming_investors_and_equity_partners_in.mp3",
+      "source": "Why Every Agency Wants a Piece of the Creator Economy",
+      "start_time": 582,
+      "end_time": 722,
+      "topic": "Agencies becoming investors and equity partners in creator-owned businesses"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-02_20261002T200145Z_46164/clip_sources/d8970d698ef5059c/01_How_fuel_hedging_can_create_a_competitive_advantag.mp3",
+      "source": "How Airlines Actually Hedge Higher Fuel Prices",
+      "start_time": 319,
+      "end_time": 445,
+      "topic": "How fuel hedging can create a competitive advantage for airlines during oil-price shocks"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
