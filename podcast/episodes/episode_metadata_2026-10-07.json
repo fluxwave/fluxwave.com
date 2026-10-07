@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-07",
+  "chapters": [
+    {
+      "startTime": 33.768,
+      "title": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence) \u2014 Decision reliability and the j"
+    },
+    {
+      "startTime": 195.8,
+      "title": "a16z Podcast \u2014 Mortgage data infrastructure: historical context and changing borrower identities"
+    },
+    {
+      "startTime": 351.08,
+      "title": "Excess Returns \u2014 AI investment valuations, earnings growth, and industrial spillovers"
+    },
+    {
+      "startTime": 514.952,
+      "title": "The Pragmatic Engineer \u2014 Automating a large Fortran refactor with regular expressions"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Why Jev Is Changing How We Build With AI with Diogo Almeida - #779",
+      "podcast": "The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)",
+      "link": "https://twimlai.com/podcast/twimlai/jev-changing-how-we-build-ai",
+      "audio_url": "https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2040611678.mp3",
+      "transcript_url": "",
+      "published": "2026-10-06T21:43:00+00:00"
+    },
+    {
+      "title": "How Valon Rebuilt a $13 Trillion Industry From Scratch",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/how-valon-rebuilt-a-13-trillion-industry-from-scratch-0mcVWvYe",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b653e837-66de-4c84-8582-adba2b75051f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b653e837-66de-4c84-8582-adba2b75051f&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-10-07T10:00:00+00:00"
+    },
+    {
+      "title": "Tom Maher on Small-Cap Investing, AI Infrastructure and Opportunities Beyond Big Tech",
+      "podcast": "Excess Returns",
+      "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Tom-Maher-on-Small-Cap-Investing--AI-Infrastructure-and-Opportunities-Beyond-Big-Tech-e3q37c8",
+      "audio_url": "https://traffic.megaphone.fm/APO2886168700.mp3",
+      "transcript_url": "",
+      "published": "2026-10-07T14:17:16+00:00"
+    },
+    {
+      "title": "Building resilient systems with Sam Newman",
+      "podcast": "The Pragmatic Engineer",
+      "link": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+      "audio_url": "https://api.substack.com/feed/podcast/218980052/828d036d1ad46c29f3ad04d639f26aa7.mp3",
+      "transcript_url": "",
+      "published": "2026-10-07T17:19:58+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-10-07.txt"
+}

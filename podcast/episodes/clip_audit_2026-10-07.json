@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-07",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-07_20261007T211606Z_92197/clip_sources/33540b27c066e110/01_Post-training_objectives_and_costly_errors_in_auto.mp3",
+      "source": "Why Jev Is Changing How We Build With AI with Diogo Almeida - #779",
+      "start_time": 399,
+      "end_time": 534,
+      "topic": "Post-training objectives and costly errors in automated workflows"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-07_20261007T211606Z_92197/clip_sources/3d13d3853ecace4c/01_Automation_leverage_and_improving_abstractions.mp3",
+      "source": "Building resilient systems with Sam Newman",
+      "start_time": 365,
+      "end_time": 485,
+      "topic": "Automation leverage and improving abstractions"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-07_20261007T211606Z_92197/clip_sources/4a19b8be0b16d3e7/01_Why_AI_needs_accurately_represented_financial_reco.mp3",
+      "source": "How Valon Rebuilt a $13 Trillion Industry From Scratch",
+      "start_time": 385,
+      "end_time": 511,
+      "topic": "Why AI needs accurately represented financial records"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-07_20261007T211606Z_92197/clip_sources/3a4671df77052891/01_Industrial_recovery_signals_and_margin-driven_earn.mp3",
+      "source": "Tom Maher on Small-Cap Investing, AI Infrastructure and Opportunities Beyond Big Tech",
+      "start_time": 394,
+      "end_time": 514,
+      "topic": "Industrial recovery signals and margin-driven earnings growth"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

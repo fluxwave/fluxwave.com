@@ -1,0 +1,437 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:09.040
+Today on the Daily Rundown, uneven AI agents, mortgage infrastructure, and what AI spending means beyond big tech.
+
+2
+00:00:09.040 --> 00:00:16.720
+Plus a Fortran refactor and the practical side of keeping old systems running.
+
+3
+00:00:16.720 --> 00:00:25.440
+On the Twimble AI podcast, Diogo Almeida discusses why AI's impressive capabilities don't guarantee reliable decisions.
+
+4
+00:00:25.440 --> 00:00:34.800
+With AI math progress in today's headlines, that gap matters for anyone deploying agents discrete decisions.
+
+5
+00:00:34.800 --> 00:00:39.520
+And it's very different to optimize for strings versus like this these discrete decisions.
+
+6
+00:00:39.520 --> 00:00:43.040
+And that I believe is the largest explainer of this gap.
+
+7
+00:00:58.880 --> 00:01:07.840
+But I don't think that like AI being good at some things and bad at other things is like this one-dimensional, you know, text versus decisions.
+
+8
+00:01:07.840 --> 00:01:20.720
+Like it's a jagged edge, and there will be a there will need to be, I think, a lot of different things or something fundamentally different to smooth out that jagged edge and kind of push that frontier forward.
+
+9
+00:01:20.720 --> 00:01:23.440
+And I'm wondering if you have any thoughts on what that looks like.
+
+10
+00:01:23.760 --> 00:01:27.600
+Can I actually test the hypothesis about the jagged edge for really quick?
+
+11
+00:01:27.760 --> 00:01:28.240
+Absolutely.
+
+12
+00:01:28.240 --> 00:01:30.560
+Because I feel like that's a fun one to talk about.
+
+13
+00:01:30.560 --> 00:01:40.240
+Um aside, a lot of what we do is really focus on making the model like this robust, like cognitive core that can be plugged into any software.
+
+14
+00:01:40.240 --> 00:01:49.360
+And a lot of what we do is really focus on how can we smooth out the jaggedness that is put in via all sorts of like weird processes.
+
+15
+00:01:49.360 --> 00:01:53.760
+So uh, but but like to test the hypothesis about the jagged edge existing.
+
+16
+00:01:53.760 --> 00:02:02.760
+Um have you ever seen ChatGPT respond to you rudely or like insulting you for no reason?
+
+17
+00:02:03.160 --> 00:02:05.240
+Not if I didn't tell it to do that.
+
+18
+00:02:05.240 --> 00:02:05.960
+Exactly.
+
+19
+00:02:05.960 --> 00:02:10.280
+So there's actually so the models are actually reliable at some stuff, right?
+
+20
+00:02:10.280 --> 00:02:13.720
+They're not just they're like super duper reliable at some stuff.
+
+21
+00:02:13.720 --> 00:02:19.320
+I would say that jaggedness is not intrinsic to LLMs or AI.
+
+22
+00:02:19.320 --> 00:02:24.920
+Uh, you're saying jaggedness is where like it's to our application of them towards specific problem.
+
+23
+00:02:24.920 --> 00:02:27.000
+Yes, and to our optimization process, right?
+
+24
+00:02:27.000 --> 00:02:38.680
+Like if you optimize super hard in a particular direction, um, you get certain types of reliability that you lose others because you focused all of your optimization pressure on those things that really matter.
+
+25
+00:02:38.680 --> 00:02:55.400
+Like if you are optimizing for decisions, for example, um, in a customer service chat, saying to give someone a refund when you shouldn't is from an accuracy perspective, exactly the same as like mashing your face on the keyboard.
+
+26
+00:02:55.400 --> 00:03:01.160
+Solving a hard problem and making the right operational decision are different tasks.
+
+27
+00:03:01.160 --> 00:03:15.160
+On a 16Z podcast, the team behind mortgage service revalant explores how borrower circumstances change and what better data infrastructure means when a homeowner struggles to pay.
+
+28
+00:03:25.640 --> 00:03:32.040
+Yeah, it's a classic problem where the average person who pays on time probably doesn't have to notice that much.
+
+29
+00:03:32.040 --> 00:03:40.760
+I mean, this is a very classic thing where I think whenever people realize that most Americans actually are barely maybe one paycheck away from being able to make the payments.
+
+30
+00:03:40.760 --> 00:03:42.720
+It's a little bit of an astonishing fact.
+
+31
+00:03:42.720 --> 00:03:55.440
+But it's a similar dynamic where in mortgages, again, most people pay on time, but there are people who have certain events that happen to them that are unfortunate, not predictable, and it really cause a lot of stress and anxiety.
+
+32
+00:03:55.440 --> 00:03:57.040
+So here's an example of this.
+
+33
+00:03:57.040 --> 00:04:05.440
+One of the key problems with some of the legacy systems is that they don't really model and really capture all of the context associated with the life of the mortgage, right?
+
+34
+00:04:05.440 --> 00:04:14.080
+Meaning you originate the mortgage, they have a snapshot of what's going on right now, but the history isn't fully with really the enough fidelity captured.
+
+35
+00:04:14.080 --> 00:04:24.640
+And so a good example of this is when someone passes away, the borrower might end up changing because maybe they were the borrower on the loan before, and then thereafter there's a new borrower on the loan.
+
+36
+00:04:24.640 --> 00:04:27.040
+Now, that is a normal thing.
+
+37
+00:04:27.040 --> 00:04:32.000
+The systems today do not actually capture all of the changes along the way.
+
+38
+00:04:32.000 --> 00:04:39.120
+And so if you want to look at what happened before that, it's actually very challenging for the servicers because they put it in an ad hoc database on the side.
+
+39
+00:04:39.120 --> 00:04:41.920
+They only have what is going on at any given point in time.
+
+40
+00:04:41.920 --> 00:04:48.800
+And so you might have a situation as an example where someone says, hey, or not says something cursed them.
+
+41
+00:04:48.800 --> 00:04:56.080
+They end up in a situation where a homeowner passes away, their kids are trying to take over, but they no longer have access to the records before.
+
+42
+00:04:56.080 --> 00:05:01.120
+And that might be important because they're trying to file state taxes, they're trying to figure out what happened before.
+
+43
+00:05:01.120 --> 00:05:05.200
+And because of how, again, the systems work, they'll say, Well, you weren't that borrower.
+
+44
+00:05:05.200 --> 00:05:06.720
+You don't have access to that history.
+
+45
+00:05:06.720 --> 00:05:08.560
+We're cutting it off at this point in time.
+
+46
+00:05:08.560 --> 00:05:12.480
+And so that causes a lot of anxiety and stress because you have to keep in mind, right?
+
+47
+00:05:12.480 --> 00:05:16.720
+These are like real people at a moment in time where they're trying to figure out something really, really tough.
+
+48
+00:05:16.720 --> 00:05:20.080
+And you have to over and over again tell them, my mom passed away.
+
+49
+00:05:20.080 --> 00:05:21.200
+This is why this happened.
+
+50
+00:05:21.200 --> 00:05:22.560
+Please give me the information.
+
+51
+00:05:22.560 --> 00:05:30.360
+And so it percolates in that form and paying on time may hide the differences between servicers.
+
+52
+00:05:29.760 --> 00:05:33.880
+Financial trouble makes those differences consequential.
+
+53
+00:05:34.520 --> 00:05:42.360
+On excess returns, investor Tom Marr examines AI valuations, earnings growth, and industrial spillovers.
+
+54
+00:05:42.360 --> 00:05:50.920
+Why the investment story extends beyond big tech and why expectations can shift prices quickly.
+
+55
+00:05:51.800 --> 00:05:55.720
+And that multiple, depending on different periods of time, may be stable for a long run.
+
+56
+00:05:55.720 --> 00:06:05.160
+But when you have these potential sort of, you know, the magnitude of what these things may or may not change, that that multiple can sort of compress or expand very quickly.
+
+57
+00:06:05.160 --> 00:06:14.920
+And you know, it's funny, in in the second quarter, there was very little scrutiny put on any valuation if you were even remotely or partially related to the AI build out.
+
+58
+00:06:14.920 --> 00:06:18.520
+And then as you entered the third quarter, that rapidly unwound.
+
+59
+00:06:18.520 --> 00:06:36.760
+And so the question will be some of these stocks in that sort of cohort is that you know, if you kind of peel off whatever the sort of excess froth in that multiple that was based on sort of uh a mania kind of behavior, you'll get to a level where perhaps the earnings growth will be enough to support it, even if we've seen sort of peak acceleration in that growth.
+
+60
+00:06:36.840 --> 00:06:47.800
+But yeah, it's it's definitely in the macro, but then I think within the market, you have again, you know, the market's trying to try and junge things that are gonna impact the markets for or the world for 20 or 30 years, and they're trying to do it instantaneously.
+
+61
+00:06:47.800 --> 00:06:50.200
+So you get a little bit of a sawtooth pattern.
+
+62
+00:06:50.200 --> 00:06:58.920
+Just on the earnings growth in small caps, like what is driving what where in the market, what sectors are mostly driving that, would you say?
+
+63
+00:06:58.920 --> 00:06:59.320
+Sure.
+
+64
+00:06:59.320 --> 00:07:08.440
+Well, you've obviously seen nice sense solid growth in the technology sector, and a lot of that is obviously feeding off the AI um build out, but you've also seen a lot of that in industrials.
+
+65
+00:07:08.440 --> 00:07:24.320
+And frankly, um, some of the most pressive uh revisions up have been companies in the industrial space that are either involved in literally constructing the AI build-out or uh supply what I describe as non-sort of IT hardware or equipment into that space.
+
+66
+00:07:24.320 --> 00:07:31.760
+But another thing that we've sort of picked up on that's kind of interesting, is that in what I would describe as mainstream industrials, we've seen some recovery.
+
+67
+00:07:31.760 --> 00:07:35.600
+And you know, had the ISM under 50 for a long period of time, it's starting to perk up.
+
+68
+00:07:35.600 --> 00:07:43.680
+And you know, you're picking up that into things that, you know, for instance, some of those companies that would supply sort of machinery uh or other things into the industrial space.
+
+69
+00:07:43.680 --> 00:07:49.920
+But you've even heard from some of the truckers, for example, that you know, unsided or heavy uh haul loads are starting to pick up.
+
+70
+00:07:49.920 --> 00:07:53.120
+Those are usually indicative of some industrial economy starting to build.
+
+71
+00:07:53.120 --> 00:07:57.520
+So I think you've got a lot of that sort of also percolating through the system.
+
+72
+00:07:57.520 --> 00:08:10.720
+Now, if you add to all of that, I think, you know, if there's a benefit to sort of running through periods of inflation and supply chain constraints, a lot of the good companies, I think, have found ways to get more efficient.
+
+73
+00:08:10.800 --> 00:08:17.440
+Exposure to AI spending and a price worth paying for that exposure are separate questions.
+
+74
+00:08:17.440 --> 00:08:28.880
+On the pragmatic engineer, Sam Newman recalls using regular expressions to automate a large Fortran refactor, including loop safeguards for expensive Unix runs.
+
+75
+00:08:28.880 --> 00:08:34.640
+It's a concrete case of automating legacy maintenance.
+
+76
+00:08:35.120 --> 00:08:38.960
+From being the person that was doing like nothing to person did everything.
+
+77
+00:08:38.960 --> 00:08:45.440
+But I remember my first week there, I was given a Fortran 77 code base.
+
+78
+00:08:45.440 --> 00:08:49.120
+So Fortran 77 was released in the year I was born.
+
+79
+00:08:49.120 --> 00:08:56.080
+And every single for loop had a break condition because we were basically doing analysis on these Unix machines.
+
+80
+00:08:56.080 --> 00:08:59.920
+And it's if the models and these the time on the machines was expensive.
+
+81
+00:09:00.760 --> 00:09:03.400
+And we were worried about accidental infinite loops.
+
+82
+00:09:03.400 --> 00:09:05.800
+This is I was trying to solve the halting problem, basically.
+
+83
+00:09:05.800 --> 00:09:13.160
+So every for loop across these 8,000 files had a break condition of I think it was 99,999 loops.
+
+84
+00:09:13.160 --> 00:09:16.360
+And if it went over that, the program basically broke and aborted.
+
+85
+00:09:16.520 --> 00:09:21.160
+The models had got bigger, the computer got more powerful, so you had to go through and change them all.
+
+86
+00:09:21.800 --> 00:09:22.920
+By hand back then.
+
+87
+00:09:22.920 --> 00:09:27.640
+By hand, well, this is one of the nicest things that anyone's ever done to me in a professional career.
+
+88
+00:09:27.640 --> 00:09:32.600
+Because Fortran 77 is based on the old um punch card limitations to an extent.
+
+89
+00:09:32.600 --> 00:09:35.000
+So your lines can't go very long.
+
+90
+00:09:35.000 --> 00:09:36.520
+So it's all a bit fiddly.
+
+91
+00:09:36.520 --> 00:09:37.720
+You can't go put a nine.
+
+92
+00:09:37.720 --> 00:09:41.800
+And my boss said, I reckon I reckon it'll take about two weeks if you do it by hand.
+
+93
+00:09:41.800 --> 00:09:44.360
+Or and he slid a book across to me, you can read this.
+
+94
+00:09:44.360 --> 00:09:48.680
+And he said, he gave me a copy of the O'Reilly said an orc book.
+
+95
+00:09:48.680 --> 00:09:53.080
+And so I spent two days learning how to do regular expressions.
+
+96
+00:09:53.080 --> 00:09:58.760
+And I wrote a refactoring using regular expressions, accounting for line lengths and everything else.
+
+97
+00:09:58.760 --> 00:10:02.040
+And it's, I think the closest I've ever come to feeling like a god.
+
+98
+00:10:02.200 --> 00:10:04.440
+I did it and I thought, oh, that's the thrill.
+
+99
+00:10:04.440 --> 00:10:05.800
+That's the absolute thrill.
+
+100
+00:10:05.960 --> 00:10:19.720
+I'm not sure if it's a joke or a story, but you know, the two, the two um builders who need to build a wall, and and one of them starts to build the wall one by one by one, and the other one is kind of drawing, making plans, and like I don't know, like it takes us three days to build the wall.
+
+101
+00:10:19.720 --> 00:10:23.880
+And the first two days, the sky was nothing, and the builder building it feels really good.
+
+102
+00:10:23.880 --> 00:10:29.160
+And then on day three, this builder like builds a machine that builds, or like puts together the machine that builds the wall for them.
+
+103
+00:10:29.160 --> 00:10:33.640
+And then but sometimes sometimes, of course, the wall falls down the moment you set the machine.
+
+104
+00:10:33.880 --> 00:10:36.680
+The thing is, I love that that story, that story is all true.
+
+105
+00:10:36.680 --> 00:10:41.960
+And it it's one of the earliest times I can remember learning something and having such a physical reaction.
+
+106
+00:10:41.960 --> 00:10:50.480
+And I remember this has been just towards when at the end of Last Leaving Thought Works, some grads in, and they're asked to tell some stories about like what had happened.
+
+107
+00:10:53.040 --> 00:10:55.840
+That's the daily rundown for today.
+
+108
+00:10:56.080 --> 00:10:57.360
+Thanks for listening.
+
+109
+00:10:57.360 --> 00:10:58.960
+See you next time.

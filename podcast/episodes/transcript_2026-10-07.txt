@@ -1,0 +1,61 @@
+Daily Digest — 2026-10-07
+
+Chapters
+- 0:33 — The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence) — Decision reliability and the j
+- 3:15 — a16z Podcast — Mortgage data infrastructure: historical context and changing borrower identities
+- 5:51 — Excess Returns — AI investment valuations, earnings growth, and industrial spillovers
+- 8:34 — The Pragmatic Engineer — Automating a large Fortran refactor with regular expressions
+
+Sources
+- Why Jev Is Changing How We Build With AI with Diogo Almeida - #779
+  Podcast: The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence)
+  Link: https://twimlai.com/podcast/twimlai/jev-changing-how-we-build-ai
+  Audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2040611678.mp3
+- How Valon Rebuilt a $13 Trillion Industry From Scratch
+  Podcast: a16z Podcast
+  Link: https://a16z.simplecast.com/episodes/how-valon-rebuilt-a-13-trillion-industry-from-scratch-0mcVWvYe
+  Audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b653e837-66de-4c84-8582-adba2b75051f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b653e837-66de-4c84-8582-adba2b75051f&feed=JGE3yC0V
+- Tom Maher on Small-Cap Investing, AI Infrastructure and Opportunities Beyond Big Tech
+  Podcast: Excess Returns
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Tom-Maher-on-Small-Cap-Investing--AI-Infrastructure-and-Opportunities-Beyond-Big-Tech-e3q37c8
+  Audio: https://traffic.megaphone.fm/APO2886168700.mp3
+- Building resilient systems with Sam Newman
+  Podcast: The Pragmatic Engineer
+  Link: https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam
+  Audio: https://api.substack.com/feed/podcast/218980052/828d036d1ad46c29f3ad04d639f26aa7.mp3
+
+Host Script
+[OPEN]
+[A] Today on The Daily Rundown: uneven AI agents, mortgage infrastructure, and what AI spending means beyond big tech.
+[B] Plus, a Fortran refactor—and the practical side of keeping old systems running.
+
+[INTRO_1]
+[B] On The TWIML AI Podcast, Diogo Almeida discusses why AI’s impressive capabilities don’t guarantee reliable decisions. With AI math progress in today’s headlines, that gap matters for anyone deploying agents.
+[CLIP_1]
+(clip plays here)
+[REACT_1]
+[A] Solving a hard problem and making the right operational decision are different tests.
+
+[INTRO_2]
+[A] On the a16z Podcast, the team behind mortgage servicer Valon explores how borrower circumstances change—and what better data infrastructure means when a homeowner struggles to pay.
+[CLIP_2]
+(clip plays here)
+[REACT_2]
+[B] Paying on time may hide the differences between servicers. Financial trouble makes those differences consequential.
+
+[INTRO_3]
+[B] On Excess Returns, investor Tom Maher examines AI valuations, earnings growth, and industrial spillovers—why the investment story extends beyond big tech, and why expectations can shift prices quickly.
+[CLIP_3]
+(clip plays here)
+[REACT_3]
+[A] Exposure to AI spending and a price worth paying for that exposure are separate questions.
+
+[INTRO_4]
+[A] On The Pragmatic Engineer, Sam Newman recalls using regular expressions to automate a large Fortran refactor—including loop safeguards for expensive Unix runs. It’s a concrete case of automating legacy maintenance.
+[CLIP_4]
+(clip plays here)
+[REACT_4]
+
+[CLOSE]
+[B] That’s The Daily Rundown for today.
+[A] Thanks for listening. See you next time.

@@ -9,6 +9,63 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — October 07, 2026</title>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-10-07.mp3" length="10549676" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-10-07.mp3</guid>
+      <itunes:duration>10:59</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-10-07.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-10-07.json" type="application/json+chapters"/>
+      <description>Daily Digest — October 07, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-10-07.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-10-07.txt
+
+Chapters:
+0:33 — The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intell
+3:15 — a16z Podcast — Mortgage data infrastructure: historical context and changing bor
+5:51 — Excess Returns — AI investment valuations, earnings growth, and industrial spill
+8:34 — The Pragmatic Engineer — Automating a large Fortran refactor with regular expres
+
+Sources:
+- Why Jev Is Changing How We Build With AI with Diogo Almeida - #779 (The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intelligence))
+  Link: https://twimlai.com/podcast/twimlai/jev-changing-how-we-build-ai
+  Source audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2040611678.mp3
+- How Valon Rebuilt a $13 Trillion Industry From Scratch (a16z Podcast)
+  Link: https://a16z.simplecast.com/episodes/how-valon-rebuilt-a-13-trillion-industry-from-scratch-0mcVWvYe
+  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b653e837-66de-4c84-8582-adba2b75051f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=b653e837-66de-4c84-8582-adba2b75051f&amp;feed=JGE3yC0V
+- Tom Maher on Small-Cap Investing, AI Infrastructure and Opportunities Beyond Big Tech (Excess Returns)
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Tom-Maher-on-Small-Cap-Investing--AI-Infrastructure-and-Opportunities-Beyond-Big-Tech-e3q37c8
+  Source audio: https://traffic.megaphone.fm/APO2886168700.mp3
+- Building resilient systems with Sam Newman (The Pragmatic Engineer)
+  Link: https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam
+  Source audio: https://api.substack.com/feed/podcast/218980052/828d036d1ad46c29f3ad04d639f26aa7.mp3</description>
+      <itunes:summary>Daily Digest — October 07, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-10-07.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-10-07.txt
+
+Chapters:
+0:33 — The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intell
+3:15 — a16z Podcast — Mortgage data infrastructure: historical context and changing bor
+5:51 — Excess Returns — AI investment valuations, earnings growth, and industrial spill
+8:34 — The Pragmatic Engineer — Automating a large Fortran refactor with regular expres
+
+Sources:
+- Why Jev Is Changing How We Build With AI with Diogo Almeida - #779 (The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intelligence))
+  Link: https://twimlai.com/podcast/twimlai/jev-changing-how-we-build-ai
+  Source audio: https://pscrb.fm/rss/p/traffic.megaphone.fm/MLN2040611678.mp3
+- How Valon Rebuilt a $13 Trillion Industry From Scratch (a16z Podcast)
+  Link: https://a16z.simplecast.com/episodes/how-valon-rebuilt-a-13-trillion-industry-from-scratch-0mcVWvYe
+  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b653e837-66de-4c84-8582-adba2b75051f/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=b653e837-66de-4c84-8582-adba2b75051f&amp;feed=JGE3yC0V
+- Tom Maher on Small-Cap Investing, AI Infrastructure and Opportunities Beyond Big Tech (Excess Returns)
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Tom-Maher-on-Small-Cap-Investing--AI-Infrastructure-and-Opportunities-Beyond-Big-Tech-e3q37c8
+  Source audio: https://traffic.megaphone.fm/APO2886168700.mp3
+- Building resilient systems with Sam Newman (The Pragmatic Engineer)
+  Link: https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam
+  Source audio: https://api.substack.com/feed/podcast/218980052/828d036d1ad46c29f3ad04d639f26aa7.mp3</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — October 02, 2026</title>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-10-02.mp3" length="10470572" type="audio/mpeg"/>
@@ -720,63 +777,6 @@ Sources:
 - Nas, Grandmaster Caz, Steve Stoute &amp; Ben Horowitz on Paying Hip-Hop’s Pioneers Their Due (a16z Podcast)
   Link: https://a16z.simplecast.com/episodes/nas-grandmaster-caz-steve-stoute-ben-horowitz-on-paying-hip-hops-pioneers-their-due-0OiuXVpk
   Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/bde9dcba-b188-4612-9f1b-1d14c1fd0bd8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=bde9dcba-b188-4612-9f1b-1d14c1fd0bd8&amp;feed=JGE3yC0V</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — September 19, 2026</title>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-19.mp3" length="11175212" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-09-19.mp3</guid>
-      <itunes:duration>11:38</itunes:duration>
-      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-09-19.vtt" type="text/vtt" rel="captions"/>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-09-19.json" type="application/json+chapters"/>
-      <description>Daily Digest — September 19, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-19.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-19.txt
-
-Chapters:
-0:40 — Excess Returns — Real rates, not inflation expectations, are driving Treasury yi
-3:13 — Masters in Business — NVIDIA's AI accelerator moat and the shift from training t
-6:09 — a16z Podcast — Why 'pacing' frontier AI is difficult to separate from ordinary s
-8:39 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Regulatory capture, failure to g
-
-Sources:
-- David Rosenberg on Why He Wants the Bonds Everyone Hates — and Where He's Hiding in Stocks (Excess Returns)
-  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/David-Rosenberg-on-Why-He-Wants-the-Bonds-Everyone-Hates--and-Where-Hes-Hiding-in-Stocks-e3p1jm2
-  Source audio: https://traffic.megaphone.fm/APO6909787317.mp3
-- Investing for the AI Boom: Masters in Business with Glen Kacher (Masters in Business)
-  Link: https://omny.fm/shows/masters-in-business/investing-for-the-ai-boom-masters-in-business-with-glen-kacher
-  Source audio: https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/7d3e615b-9db0-4ebc-baa7-b4c901597c1b/audio.mp3?utm_source=Podcast&amp;in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d
-- Databricks CEO on AI Pacing, Cyber Risk, and the Enterprise (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/databricks-ceo-on-ai-pacing-cyber-risk-and-the-enterprise-QM1oJt1I
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/809021a5-7883-43db-a718-62cf28e58cf8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=809021a5-7883-43db-a718-62cf28e58cf8&amp;feed=JGE3yC0V
-- Bill Gurley: Searching for Feynman (All-In with Chamath, Jason, Sacks &amp; Friedberg)
-  Link: https://allinchamathjason.libsyn.com/bill-gurley-the-covid-cover-up-the-search-for-the-truth
-  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Gurley_Ch_V2.mp3?dest-id=1928300</description>
-      <itunes:summary>Daily Digest — September 19, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-19.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-19.txt
-
-Chapters:
-0:40 — Excess Returns — Real rates, not inflation expectations, are driving Treasury yi
-3:13 — Masters in Business — NVIDIA's AI accelerator moat and the shift from training t
-6:09 — a16z Podcast — Why 'pacing' frontier AI is difficult to separate from ordinary s
-8:39 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Regulatory capture, failure to g
-
-Sources:
-- David Rosenberg on Why He Wants the Bonds Everyone Hates — and Where He's Hiding in Stocks (Excess Returns)
-  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/David-Rosenberg-on-Why-He-Wants-the-Bonds-Everyone-Hates--and-Where-Hes-Hiding-in-Stocks-e3p1jm2
-  Source audio: https://traffic.megaphone.fm/APO6909787317.mp3
-- Investing for the AI Boom: Masters in Business with Glen Kacher (Masters in Business)
-  Link: https://omny.fm/shows/masters-in-business/investing-for-the-ai-boom-masters-in-business-with-glen-kacher
-  Source audio: https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/7d3e615b-9db0-4ebc-baa7-b4c901597c1b/audio.mp3?utm_source=Podcast&amp;in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d
-- Databricks CEO on AI Pacing, Cyber Risk, and the Enterprise (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/databricks-ceo-on-ai-pacing-cyber-risk-and-the-enterprise-QM1oJt1I
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/809021a5-7883-43db-a718-62cf28e58cf8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=809021a5-7883-43db-a718-62cf28e58cf8&amp;feed=JGE3yC0V
-- Bill Gurley: Searching for Feynman (All-In with Chamath, Jason, Sacks &amp; Friedberg)
-  Link: https://allinchamathjason.libsyn.com/bill-gurley-the-covid-cover-up-the-search-for-the-truth
-  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/AIS26_Gurley_Ch_V2.mp3?dest-id=1928300</itunes:summary>
     </item>
   </channel>
 </rss>
