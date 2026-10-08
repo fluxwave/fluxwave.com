@@ -1,0 +1,437 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:08.640
+Today on the daily rundown, what AI agents need behind the scenes and how personal assistants could work together.
+
+2
+00:00:08.640 --> 00:00:14.960
+Plus, protecting the downside in real estate lending and why Hip Camp's founder learned to code.
+
+3
+00:00:16.880 --> 00:00:25.440
+On the A16Z podcast, AWS CEO Matt Garmin explores enterprise agents infrastructure and context needs.
+
+4
+00:00:25.440 --> 00:00:35.680
+With GPT Six and Claude Haiku 5.5 in today's headlines, security and scaling matter beyond the model.
+
+5
+00:00:36.240 --> 00:00:37.840
+How do I think about performance?
+
+6
+00:00:37.840 --> 00:00:40.480
+How do I think about having all the capabilities that I need?
+
+7
+00:00:40.480 --> 00:00:47.120
+How do I think about setting up my IM setup so that when I have more than three employees, this thing is gonna work and scale?
+
+8
+00:00:47.120 --> 00:00:51.600
+Which is a lot of times why they like AWS as opposed to just going to a neo cloud or something like that.
+
+9
+00:00:51.600 --> 00:00:57.280
+They actually need all of those other security and and capabilities that come around from training.
+
+10
+00:00:57.280 --> 00:01:00.320
+And so I think that's something that hasn't changed and is exactly the same.
+
+11
+00:01:00.320 --> 00:01:03.600
+I think the scale at which the ramp up is definitely different today.
+
+12
+00:01:03.600 --> 00:01:12.320
+I also think increasingly we're seeing teams that want a cloud that is great to work with agents and not just with people.
+
+13
+00:01:15.280 --> 00:01:18.640
+How do you think about exactly how do you think about broad scale?
+
+14
+00:01:18.640 --> 00:01:20.080
+How do you think about performance?
+
+15
+00:01:20.080 --> 00:01:27.120
+How do you think about an interface that is a well-defined API interface that agents can actually easily traverse and work across?
+
+16
+00:01:27.120 --> 00:01:38.480
+And so that's also something that we both I think we're naturally set up to do well, but that we've actually doubled down on to ensure things like how can you start a database in three seconds and really get to some capabilities that agents are excited about.
+
+17
+00:01:46.160 --> 00:01:52.400
+I'd say what we've done is we've optimized some existing services so that they can both work for people and agents.
+
+18
+00:01:52.400 --> 00:01:56.320
+And so the answer is we definitely have some services designed for building agents.
+
+19
+00:01:56.640 --> 00:01:59.840
+So we have things like agent core and bedrock and pieces like that.
+
+20
+00:02:00.120 --> 00:02:03.720
+But when we look at just taking an underlying component like S3, right?
+
+21
+00:02:03.720 --> 00:02:08.360
+Which is where the vast majority of companies store their data and have their data lakes.
+
+22
+00:02:08.360 --> 00:02:25.480
+It turns out like a lot of the use cases for people and agents are similar, but you want to have, and one of the things that we have in preview right now, or in in beta, it's called AWS context that allows you to build a context layer so that agents can actually more easily find all of the data they want across your various data lakes.
+
+23
+00:02:25.480 --> 00:02:47.720
+And so whether you have your data stored in Aurora or you have it in S3, or you have it in somewhere else in AWS, can kind of build this context layer where when people aren't necessarily gonna access data in that way, but agents actually are happy to go across on the Tim Ferris show, the random show explores personal AI assistance coordinating and carrying your context between them.
+
+24
+00:02:47.720 --> 00:02:54.440
+Moving help with inbox overwhelm beyond a privileged few very quickly.
+
+25
+00:02:54.440 --> 00:02:54.840
+Right.
+
+26
+00:02:54.840 --> 00:03:10.280
+And particularly once it went from this weird beeper device to smartphone, it was pretty clear that the adoption was going to be rapid and then get outside of type one diabetics, certainly type two, but then get to kind of healthy normies and worried well.
+
+27
+00:03:10.280 --> 00:03:10.760
+Yeah.
+
+28
+00:03:10.760 --> 00:03:20.360
+And on the assistance side, I was also pointing out like back in the day, yes, it was a 1% problem, just like inbox overwhelm, and everybody has six inboxes now.
+
+29
+00:03:20.360 --> 00:03:29.480
+But in the case of assistance, it's like sure it went from like full time in person to virtual assistant to digitally enhanced virtual assistant.
+
+30
+00:03:29.480 --> 00:03:38.200
+And I was like, by the time you read this, we will have AI assistants that can do 99% of what I'm describing.
+
+31
+00:03:38.200 --> 00:03:39.560
+And it's already happened.
+
+32
+00:03:39.560 --> 00:03:40.120
+Yeah.
+
+33
+00:03:40.120 --> 00:03:42.040
+So I've had it change flights for me.
+
+34
+00:03:42.040 --> 00:03:45.200
+I've told that there's a restaurant that's a hard reservation to get into.
+
+35
+00:03:43.400 --> 00:03:47.680
+And I've told it, hey, there's a hard reservation to get into.
+
+36
+00:03:45.600 --> 00:03:46.480
+This is all instinct.
+
+37
+00:03:46.480 --> 00:03:46.720
+Yeah.
+
+38
+00:03:49.360 --> 00:03:54.160
+And it's like, hey, I can't log in with your open table, but it drops at this time every two weeks.
+
+39
+00:03:54.160 --> 00:04:03.600
+But I'll if you give me a link and this is a secure like vault, and I gave it my open table login, and then it snagged the reservation for me perfectly and like adds my calendar.
+
+40
+00:04:03.600 --> 00:04:09.360
+And then the cool thing is if you have multiple friends with instinct, you can friend your instincts together.
+
+41
+00:04:09.360 --> 00:04:15.200
+So I said to a couple of my friends, there was one person I wanted to take to dinner, and our instincts became friends.
+
+42
+00:04:15.200 --> 00:04:21.040
+And so I said, share the calendar invite and all the details, and the instincts just talk to each other and figure out the schedule.
+
+43
+00:04:21.440 --> 00:04:22.320
+It's magic.
+
+44
+00:04:22.320 --> 00:04:33.520
+This is how Skynet auto-populates for all the Illuminati, by the way, they don't exist people, but they put them all in the same calendar invite to get them in the one spot so the drone swarm can strike them at once.
+
+45
+00:04:33.840 --> 00:04:35.200
+Yeah, it's gonna be awesome.
+
+46
+00:04:35.200 --> 00:04:37.040
+I'm definitely gonna use this.
+
+47
+00:04:37.040 --> 00:04:38.480
+Everyone is going to be using this.
+
+48
+00:04:38.560 --> 00:04:38.880
+Right.
+
+49
+00:04:38.880 --> 00:04:40.960
+I mean, uh, ChatGPT just announced dots.
+
+50
+00:04:40.960 --> 00:04:42.080
+That's their version of it now.
+
+51
+00:04:42.080 --> 00:04:43.280
+So that's come out.
+
+52
+00:04:43.280 --> 00:04:49.520
+How do you think about your history memory context?
+
+53
+00:04:49.520 --> 00:05:00.480
+If you've predominantly used something, let's just say this may or may not be true, but if you've predominantly used Chat GPT, would you be inclined to use dots or would you be inclined to use something else?
+
+54
+00:05:00.480 --> 00:05:14.080
+On capital allocators, Investgo's Charlie Rose explains real estate lending that puts credit quality before yield and how equity colleagues on the ground knowledge helps lenders assess the downside.
+
+55
+00:05:15.600 --> 00:05:24.240
+In other instances where we're working with our relationship borrowers and our relationship borrowers are generally our peers.
+
+56
+00:05:24.240 --> 00:05:28.880
+90 plus percent of our borrowers are institutional groups.
+
+57
+00:05:28.880 --> 00:05:37.400
+If you think of a big private equity manager with a real estate business, they're most likely one of our borrowers.
+
+58
+00:05:37.400 --> 00:05:50.360
+So when they bring us a de novo transaction, we're working side by side with the equity colleagues to get their insights because they are boots on the ground day to day in these markets.
+
+59
+00:05:50.360 --> 00:05:56.680
+They can help us better underwrite the risk of those opportunities that we're seeing.
+
+60
+00:05:56.680 --> 00:06:00.360
+If you work backwards, that second point, credit over yield.
+
+61
+00:06:00.360 --> 00:06:01.960
+What do you mean by that?
+
+62
+00:06:01.960 --> 00:06:14.840
+When we are investing, we identify outperformance as hitting the target returns that we have established than outperforming on credit quality.
+
+63
+00:06:14.840 --> 00:06:31.320
+We define outperformance as having better quality sponsors, higher quality real estate, lower advance rates or loan to value ratios, higher cash coverage, and better covenant packages.
+
+64
+00:06:31.320 --> 00:06:52.440
+When we are sitting in our Monday morning pipeline call talking about the opportunities in front of us and the competitive dynamic, our default is always to say we're going to lean in on pricing rather than leaning in on leverage or structure.
+
+65
+00:06:52.440 --> 00:07:10.480
+If I have my choice, I'm going to try to win business by being more efficiently priced than my peer rather than winning business by offering a couple million dollars extra proceeds.
+
+66
+00:07:10.200 --> 00:07:16.480
+As you look at that set of criteria, it lends itself to higher quality assets.
+
+67
+00:07:16.720 --> 00:07:21.200
+You would also think by nature of that underwriting.
+
+68
+00:07:21.200 --> 00:07:34.800
+On Masters of Scale, Hip Camp founder Alyssa Ravejo discusses learning to code to unblock her startup, turning a passion for the outdoors into a marketplace she could actually build.
+
+69
+00:07:35.280 --> 00:07:36.160
+Some money, right?
+
+70
+00:07:36.160 --> 00:07:41.120
+For me, it was about solving a problem that I thought was worth solving, right?
+
+71
+00:07:41.120 --> 00:07:45.600
+And was worth the years and the energy that it would take to solve that.
+
+72
+00:07:45.600 --> 00:07:53.440
+I really had a good understanding of scale and the internet and how this new technology can totally change and will totally change how the world works.
+
+73
+00:07:53.440 --> 00:08:02.000
+But then it was combining that with nature and the outdoors and the passion I have for getting people to basically you know reconnect with the biosphere and nature.
+
+74
+00:08:02.000 --> 00:08:06.480
+It was like those two things together that that was that was worth going all in on.
+
+75
+00:08:06.480 --> 00:08:09.040
+How did you actually get hip camp off the ground?
+
+76
+00:08:09.040 --> 00:08:16.400
+Both from a how how were you financing it and how did you get a website or or an app in consumers' hands?
+
+77
+00:08:16.400 --> 00:08:16.880
+Yeah.
+
+78
+00:08:16.880 --> 00:08:18.960
+So originally I had to learn how to code.
+
+79
+00:08:19.280 --> 00:08:31.760
+I had this idea, and I I tried to start a couple other startups, maybe like in between different moments at different parts of my life, and that it always required like the big blocker was finding a software engineer who wanted to build this.
+
+80
+00:08:31.760 --> 00:08:35.760
+And I found that it was just time to be able to do that on my own.
+
+81
+00:08:35.760 --> 00:08:39.040
+And so I went to dev boot camp, which had just started at the time.
+
+82
+00:08:39.040 --> 00:08:39.280
+Right.
+
+83
+00:08:39.280 --> 00:08:40.560
+This is before vibe coding.
+
+84
+00:08:41.600 --> 00:08:42.080
+Yeah.
+
+85
+00:08:42.160 --> 00:08:42.640
+Yes.
+
+86
+00:08:42.640 --> 00:08:43.200
+Yes.
+
+87
+00:08:43.200 --> 00:08:48.960
+I don't regret learning to code, but man, it things would have been a lot faster if I'd had if I'd had codex.
+
+88
+00:08:48.960 --> 00:08:50.000
+Uh, that would have been great.
+
+89
+00:08:50.000 --> 00:08:50.560
+But I did it.
+
+90
+00:08:50.560 --> 00:08:52.080
+So I learned how to code.
+
+91
+00:08:52.080 --> 00:09:07.640
+And I ended up enlisting my sisters again, my first employees, and um a couple friends, and actually, you know, building this very early version of the site that um actually got some traffic and got people using it early on.
+
+92
+00:09:07.640 --> 00:09:08.840
+And we got traction.
+
+93
+00:09:08.840 --> 00:09:13.080
+We got people, I think we were getting close to having probably one of the biggest search engines for camping.
+
+94
+00:09:13.080 --> 00:09:14.920
+How did you find those customers earlier?
+
+95
+00:09:14.920 --> 00:09:15.880
+How did they find you?
+
+96
+00:09:15.880 --> 00:09:16.920
+A little of everything.
+
+97
+00:09:16.920 --> 00:09:21.320
+I mean, this was an era where I was going to like every meetup I could.
+
+98
+00:09:21.320 --> 00:09:24.760
+I would just walk around with my laptop, handing out stickers, big sticker fan.
+
+99
+00:09:24.760 --> 00:09:25.960
+I brought I brought stickers.
+
+100
+00:09:25.960 --> 00:09:26.360
+Nice.
+
+101
+00:09:26.360 --> 00:09:28.680
+Um, and so I would just ask people, do you like to camp?
+
+102
+00:09:28.680 --> 00:09:33.000
+And if they made the mistake of saying yes, I was like, well, let me show you this and open the laptop.
+
+103
+00:09:33.000 --> 00:09:35.800
+And oh, do you see that place to put your email and put that in there?
+
+104
+00:09:35.800 --> 00:09:36.840
+Oh, good, it's working.
+
+105
+00:09:36.840 --> 00:09:38.760
+Big shout out to REI on Brandon.
+
+106
+00:09:38.760 --> 00:09:46.280
+They let me sit at a a little card table I'd bring and set up in front of their front door.
+
+107
+00:09:46.280 --> 00:09:48.200
+That's the daily rundown.
+
+108
+00:09:48.200 --> 00:09:50.200
+Thanks for listening.
+
+109
+00:09:50.200 --> 00:09:52.920
+See you next time.

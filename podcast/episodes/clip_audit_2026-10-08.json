@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-08",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-08_20261008T200130Z_991/clip_sources/b2f44863bdbfdb3c/01_Coding_agents_selecting_services_and_deploying_app.mp3",
+      "source": "Building the Cloud for an Agentic World | AWS CEO Matt Garman",
+      "start_time": 494,
+      "end_time": 614,
+      "topic": "Coding agents selecting services and deploying applications"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-08_20261008T200130Z_991/clip_sources/d83a85b0576662b3/01_Persistent_agent_memory_as_a_platform_moat.mp3",
+      "source": "#886: The Random Show \u2014 AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More",
+      "start_time": 443,
+      "end_time": 565,
+      "topic": "Persistent agent memory as a platform moat"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
