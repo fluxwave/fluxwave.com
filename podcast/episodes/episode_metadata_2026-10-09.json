@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-09",
+  "chapters": [
+    {
+      "startTime": 32.112,
+      "title": "The Meb Faber Show - Better Investing \u2014 Multi-agent portfolio construction, productive dissent, and human oversight"
+    },
+    {
+      "startTime": 194.368,
+      "title": "a16z Podcast \u2014 AI-driven chip design and the shift toward expert-guided automation"
+    },
+    {
+      "startTime": 338.32,
+      "title": "Radiolab \u2014 Emergent mathematical reasoning and rapid improvements in LLM capabilities"
+    },
+    {
+      "startTime": 483.6,
+      "title": "Excess Returns \u2014 Market breadth indicators and the limits of divergence-based timing"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Andrew Ang: Should AI Agents Run Your Asset Allocation? | #653",
+      "podcast": "The Meb Faber Show - Better Investing",
+      "link": "",
+      "audio_url": "https://traffic.megaphone.fm/TIFM2493312981.mp3",
+      "transcript_url": "",
+      "published": "2026-10-09T08:30:00+00:00"
+    },
+    {
+      "title": "Chips, Memory, and Power | Pat Gelsinger",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/chips-memory-and-power-pat-gelsinger-uwHe_vsU",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2a98eb9e-80e8-4172-958c-8f92f8976e78/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2a98eb9e-80e8-4172-958c-8f92f8976e78&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-10-09T10:00:00+00:00"
+    },
+    {
+      "title": "Math Vs Machine",
+      "podcast": "Radiolab",
+      "link": "https://www.radiolab.org",
+      "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/d3fb7725-466a-4dc6-930a-49571fdf61ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=d3fb7725-466a-4dc6-930a-49571fdf61ce&feed=EmVW7VGp",
+      "transcript_url": "",
+      "published": "2026-10-09T14:00:00+00:00"
+    },
+    {
+      "title": "Katie Stockton Still Sees a Bull Market. So Why Is Her ETF Only 50% in Stocks?",
+      "podcast": "Excess Returns",
+      "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Katie-Stockton-Still-Sees-a-Bull-Market--So-Why-Is-Her-ETF-Only-50-in-Stocks-e3q6277",
+      "audio_url": "https://traffic.megaphone.fm/APO8317929905.mp3",
+      "transcript_url": "",
+      "published": "2026-10-08T17:08:20+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-10-09.txt"
+}

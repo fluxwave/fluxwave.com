@@ -1,0 +1,130 @@
+Welcome to the Daily Rundown.
+Today, AI teams managing portfolios, automation designing chips, and machines tackling math.
+Then what market breadth can and can't tell you about a bull market?
+On the Meb Faber show, Andrew Wong explores giving different portfolio strategies their own AI agents.
+For investors, the stakes are how those agents disagree and what humans still oversee.
+Asset allocation methods rely on just one portfolio construction method.
+It's usually some variant of old-fashioned mean variants.
+You know, thank you, Markovitz in 1952.
+But you can now have an agent for each portfolio construction method.
+Some of them are pretty trivial, like marker cap weight or equal weight.
+Some of them are really sophisticated, like hierarchical risk parity or total portfolio approaches.
+Um you can have dozens of these agents now specializing in each of these portfolio construction methods.
+So that's scale.
+The other thing that I do is I allow the agents to vote on each other's proposals.
+So there's interactions.
+They critique, they give referee reports, they revise, right?
+And then they discuss uh among each other.
+And I call this uh you know productive dissent.
+And if you look at this contrasted to like human teams, you know, when you have disagreements, sometimes in extreme cases, HR gets involved or a really talented member, you know, leaves the firm.
+It's sort of hard to harness this sort of disagreement or differences of opinion, but you can really do it easily with agents, because they're agents.
+They kind of uh don't care.
+And I think that's very valuable information to make decisions.
+In fact, I think the best opportunities are the ones where there is a lot of disagreement.
+And then the third one is that you can get all of these agents to improve, and they improve very quickly.
+They find new skills, new techniques.
+And that I think is a real advantage.
+So where's the human in all of this?
+Well, what you want to oversee is that entire new investment workflow.
+You want governing documents like an investment policy statement.
+You want uh things that will get surfaced to you in an exception-based framework, which requires you to actually uh look at something uh uh seriously.
+And that's a kind of very new way to look at uh an investment workflow.
+It elevates, I think, the role of human uh decision making, but it does this with scale, with interaction, right?
+And then with agents learning.
+This is so super interesting to me.
+You know, is there ever a chance when the agents are like kind of whispering behind your back where they're like, hey, by the way, if you vote for me, I'll vote for you.
+Or is there any like collusion?
+Because like that's a normal investing committee.
+On the A16Z podcast, Pat Gelsinger connects early chip design automation to today's AI tools.
+As AI demands more computing power, he examines where expert guided automation takes chip design next.
+So they created EDA into some really one of the hallmarks that not only was the 486 this compatible pipeline microprocessor, but we ushered in many of the foundations of what became the modern EDA industry and was really a pretty magical period of the industry.
+Yeah, yeah.
+So if you look at today, yeah, well, will people look back as Blackwell and saying this is of the last generation that was done before AI took over the design process for micros?
+I think there are certainly aspects of that.
+Are we in a similar transition right now?
+And I think w when you look at things like Jalapino today, right?
+You sort of say that's sort of a first principles use of AI in the chip design process, right?
+Where you throw out a lot of those things.
+Now, there are pieces of design that are still really hard, right?
+In that sense.
+And a lot of the analog, right, aspect, CERTs is probably the best example of that, you know, are still not AIable, right?
+You just need lots of silicon data, right, to get those.
+So you either get so conservative in your analog design that you're able to, I'll say AI it, or right, you got to do those the hardware.
+But now many of the logic functions can really be done with AI tools and techniques in pretty incredible ways, right?
+Your transistor budgets are big enough.
+The design tools are getting smart enough, a few experts guiding the tools and how to apply it.
+And I really think it will be somewhat like the 46 that way, right?
+We sort of look back and say, yep, that was the beginning of a new era of chip design.
+Whenever you have the technology to make something easy, that means the bottleneck moves somewhere else.
+Yeah.
+Can we guess at this point where the bottleneck will be in the future?
+There's some things which it seems like AI is incredibly good at, right?
+Like creating the software layers, you know, writing kernels, a lot of the I think a lot of this sort of being able to specify the the objectives at a higher level, which then gets sort of translated into very log, right?
+And so what is the new frontier?
+What is the thing that that will be difficult?
+Radio Lab's math versus machine explores how language models started solving reasoning problems, not just crunching numbers.
+As capabilities improve, the puzzle is why learning from text produces mathematical reasoning.
+It could actually solve problems, not just number crunching.
+No.
+You could give it logic puzzles.
+You could give it what looks like a hard math problem for a high school student that involve reasoning.
+I see.
+This is the part that's mysterious, and I'm not even sure it's very well understood by anybody.
+Somehow, by having read all the books in the library of Congress and everything on the internet.
+Everything on the internet, including blog posts, news articles.
+Somehow the language itself encodes enough logic and reasoning to do math.
+They hadn't built it to do math.
+And this is what we would call an emergent property.
+It emerged without being designed.
+And you were saying it's starting to get better at math slowly like a child?
+Did you were you like sort of noticing?
+It progressed through all the developmental stages.
+It got good at high school math, then it got good at it spend longer in trig trigonometry than it expected to because one of the more painful subjects.
+No, actually, you touch on a really interesting point, Sorin, because what they're not good at and have not been good at until recently is anything that's visual.
+Okay.
+But but but the bigger point is that it keeps getting better.
+Like as of a few months ago, we were saying it can do research level math.
+But it can't that seems crazy fast.
+Like a year ago, you were were about as worried as you would be about me taking your job.
+And then No, I I want to get the chronology right.
+High school was like 2024.
+Okay.
+Twenty twenty five, it's as good as a really smart college student.
+Okay.
+And then in twenty twenty six in the spring, it's as good as a first rate mathematician, but not the world's best.
+That was in March or whatever.
+But by May, it was actually solving problems that the world's best mathematicians had not been able to solve by May of 2026.
+What what problem did it?
+Was it one particular problem?
+So the first the first one that really got everybody's attention in my world was called the unit distance.
+On excess returns, Katie Stockton discusses market breadth, how widely stocks participate in a rally and why divergences aren't reliable timing signals.
+Useful context when a bull market feels increasingly narrow.
+Already maybe some minor inklings of that.
+Talk to us about breadth divergences.
+How much do we put emphasis on them when we see them?
+Because this is that you hit on it already.
+It's like the sentiment that we feel when we're talking about this stuff, that it doesn't necessarily rhyme with what the numbers are and how this is playing out.
+Yeah, for sure.
+And I I think that breath and even other market internals, uh, depending on which one we're talking about, I guess individually, but they're generally not the best market timing devices when you're looking at them in cumulative terms.
+The oscillating measures can be pretty timely, but the cumulative measure is less so.
+So if we're talking about like an advanced decline line and a negative divergence, which we do not have, mind you, um, then that can be indic indicative of a weaker tape.
+And um, so it's almost telling us usually what we already know from a momentum perspective that things have weakened.
+And it is often a precursor to something worse in price terms, but it won't tell you exactly when that's happening.
+It won't tell you how how deep the drawdown could be.
+It won't tell you how long the drawdown should be.
+So there's a lot missing in terms of a takeaway from breath divergences.
+And we do feel like they're almost oversighted as something that should be a cause for concern because they are often, when you see them, you know, the lower high in in the AD line and then the higher high in price, they're often reverse really quickly.
+So they they often just go away and then people stop talking about them.
+It's these confusing signals inside of the data right now.
+And this is part of why I love I love your research on this.
+Talk another one that's just boggling my mind.
+The percentages of stocks above their 50-day average.
+It's it's these price and signal divergences that are not stressing me out, but making me want to ask these questions.
+What's going on with that one?
+Yeah, that's pretty wild.
+And that is exactly what's happening with the market right now is that the app the average stock, right?
+The so-called average stock has really pulled back.
+Some are actually in proper downtrends, so you know, below their 200-day moving averages in addition to their 50-day moving averages.
+That's the daily rundown.
+Thanks for listening.
+See you next time.

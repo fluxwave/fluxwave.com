@@ -1,0 +1,521 @@
+WEBVTT
+
+1
+00:00:00.160 --> 00:00:01.840
+Welcome to the Daily Rundown.
+
+2
+00:00:01.840 --> 00:00:09.920
+Today, AI teams managing portfolios, automation designing chips, and machines tackling math.
+
+3
+00:00:09.920 --> 00:00:14.480
+Then what market breadth can and can't tell you about a bull market?
+
+4
+00:00:16.240 --> 00:00:23.840
+On the Meb Faber show, Andrew Wong explores giving different portfolio strategies their own AI agents.
+
+5
+00:00:23.840 --> 00:00:31.680
+For investors, the stakes are how those agents disagree and what humans still oversee.
+
+6
+00:00:32.480 --> 00:00:36.720
+Asset allocation methods rely on just one portfolio construction method.
+
+7
+00:00:36.720 --> 00:00:40.720
+It's usually some variant of old-fashioned mean variants.
+
+8
+00:00:40.720 --> 00:00:43.520
+You know, thank you, Markovitz in 1952.
+
+9
+00:00:43.520 --> 00:00:47.920
+But you can now have an agent for each portfolio construction method.
+
+10
+00:00:47.920 --> 00:00:52.240
+Some of them are pretty trivial, like marker cap weight or equal weight.
+
+11
+00:00:52.240 --> 00:00:58.320
+Some of them are really sophisticated, like hierarchical risk parity or total portfolio approaches.
+
+12
+00:00:58.320 --> 00:01:05.360
+Um you can have dozens of these agents now specializing in each of these portfolio construction methods.
+
+13
+00:01:05.360 --> 00:01:06.800
+So that's scale.
+
+14
+00:01:06.800 --> 00:01:12.320
+The other thing that I do is I allow the agents to vote on each other's proposals.
+
+15
+00:01:12.720 --> 00:01:14.160
+So there's interactions.
+
+16
+00:01:14.160 --> 00:01:18.880
+They critique, they give referee reports, they revise, right?
+
+17
+00:01:18.880 --> 00:01:21.520
+And then they discuss uh among each other.
+
+18
+00:01:21.520 --> 00:01:24.960
+And I call this uh you know productive dissent.
+
+19
+00:01:24.960 --> 00:01:37.680
+And if you look at this contrasted to like human teams, you know, when you have disagreements, sometimes in extreme cases, HR gets involved or a really talented member, you know, leaves the firm.
+
+20
+00:01:37.680 --> 00:01:46.880
+It's sort of hard to harness this sort of disagreement or differences of opinion, but you can really do it easily with agents, because they're agents.
+
+21
+00:01:46.880 --> 00:01:48.480
+They kind of uh don't care.
+
+22
+00:01:48.480 --> 00:01:51.520
+And I think that's very valuable information to make decisions.
+
+23
+00:01:51.520 --> 00:01:56.640
+In fact, I think the best opportunities are the ones where there is a lot of disagreement.
+
+24
+00:01:56.640 --> 00:02:03.480
+And then the third one is that you can get all of these agents to improve, and they improve very quickly.
+
+25
+00:02:03.480 --> 00:02:06.040
+They find new skills, new techniques.
+
+26
+00:02:06.280 --> 00:02:08.600
+And that I think is a real advantage.
+
+27
+00:02:08.600 --> 00:02:10.760
+So where's the human in all of this?
+
+28
+00:02:10.760 --> 00:02:17.800
+Well, what you want to oversee is that entire new investment workflow.
+
+29
+00:02:17.800 --> 00:02:22.040
+You want governing documents like an investment policy statement.
+
+30
+00:02:22.040 --> 00:02:32.520
+You want uh things that will get surfaced to you in an exception-based framework, which requires you to actually uh look at something uh uh seriously.
+
+31
+00:02:32.520 --> 00:02:37.320
+And that's a kind of very new way to look at uh an investment workflow.
+
+32
+00:02:37.320 --> 00:02:43.960
+It elevates, I think, the role of human uh decision making, but it does this with scale, with interaction, right?
+
+33
+00:02:43.960 --> 00:02:45.720
+And then with agents learning.
+
+34
+00:02:45.800 --> 00:02:47.480
+This is so super interesting to me.
+
+35
+00:02:47.480 --> 00:02:53.400
+You know, is there ever a chance when the agents are like kind of whispering behind your back where they're like, hey, by the way, if you vote for me, I'll vote for you.
+
+36
+00:02:53.400 --> 00:02:54.600
+Or is there any like collusion?
+
+37
+00:02:54.600 --> 00:02:57.480
+Because like that's a normal investing committee.
+
+38
+00:02:57.720 --> 00:03:05.080
+On the A16Z podcast, Pat Gelsinger connects early chip design automation to today's AI tools.
+
+39
+00:03:05.080 --> 00:03:12.440
+As AI demands more computing power, he examines where expert guided automation takes chip design next.
+
+40
+00:03:15.160 --> 00:03:34.600
+So they created EDA into some really one of the hallmarks that not only was the 486 this compatible pipeline microprocessor, but we ushered in many of the foundations of what became the modern EDA industry and was really a pretty magical period of the industry.
+
+41
+00:03:34.600 --> 00:03:35.240
+Yeah, yeah.
+
+42
+00:03:35.480 --> 00:03:45.840
+So if you look at today, yeah, well, will people look back as Blackwell and saying this is of the last generation that was done before AI took over the design process for micros?
+
+43
+00:03:44.840 --> 00:03:50.000
+I think there are certainly aspects of that.
+
+44
+00:03:46.080 --> 00:03:48.160
+Are we in a similar transition right now?
+
+45
+00:03:50.240 --> 00:03:54.560
+And I think w when you look at things like Jalapino today, right?
+
+46
+00:03:54.560 --> 00:04:00.400
+You sort of say that's sort of a first principles use of AI in the chip design process, right?
+
+47
+00:04:00.400 --> 00:04:02.080
+Where you throw out a lot of those things.
+
+48
+00:04:02.080 --> 00:04:06.080
+Now, there are pieces of design that are still really hard, right?
+
+49
+00:04:06.240 --> 00:04:06.880
+In that sense.
+
+50
+00:04:06.880 --> 00:04:14.560
+And a lot of the analog, right, aspect, CERTs is probably the best example of that, you know, are still not AIable, right?
+
+51
+00:04:14.560 --> 00:04:17.680
+You just need lots of silicon data, right, to get those.
+
+52
+00:04:17.680 --> 00:04:26.560
+So you either get so conservative in your analog design that you're able to, I'll say AI it, or right, you got to do those the hardware.
+
+53
+00:04:26.560 --> 00:04:33.920
+But now many of the logic functions can really be done with AI tools and techniques in pretty incredible ways, right?
+
+54
+00:04:33.920 --> 00:04:35.760
+Your transistor budgets are big enough.
+
+55
+00:04:35.760 --> 00:04:40.880
+The design tools are getting smart enough, a few experts guiding the tools and how to apply it.
+
+56
+00:04:40.880 --> 00:04:44.480
+And I really think it will be somewhat like the 46 that way, right?
+
+57
+00:04:44.480 --> 00:04:49.280
+We sort of look back and say, yep, that was the beginning of a new era of chip design.
+
+58
+00:04:49.600 --> 00:04:54.960
+Whenever you have the technology to make something easy, that means the bottleneck moves somewhere else.
+
+59
+00:04:55.440 --> 00:04:56.080
+Yeah.
+
+60
+00:04:56.080 --> 00:04:59.600
+Can we guess at this point where the bottleneck will be in the future?
+
+61
+00:04:59.840 --> 00:05:02.640
+There's some things which it seems like AI is incredibly good at, right?
+
+62
+00:05:02.640 --> 00:05:15.600
+Like creating the software layers, you know, writing kernels, a lot of the I think a lot of this sort of being able to specify the the objectives at a higher level, which then gets sort of translated into very log, right?
+
+63
+00:05:15.600 --> 00:05:17.040
+And so what is the new frontier?
+
+64
+00:05:17.040 --> 00:05:20.960
+What is the thing that that will be difficult?
+
+65
+00:05:21.040 --> 00:05:29.360
+Radio Lab's math versus machine explores how language models started solving reasoning problems, not just crunching numbers.
+
+66
+00:05:29.560 --> 00:05:38.040
+As capabilities improve, the puzzle is why learning from text produces mathematical reasoning.
+
+67
+00:05:38.280 --> 00:05:41.160
+It could actually solve problems, not just number crunching.
+
+68
+00:05:41.160 --> 00:05:41.480
+No.
+
+69
+00:05:41.480 --> 00:05:43.240
+You could give it logic puzzles.
+
+70
+00:05:43.240 --> 00:05:49.720
+You could give it what looks like a hard math problem for a high school student that involve reasoning.
+
+71
+00:05:49.720 --> 00:05:50.040
+I see.
+
+72
+00:05:50.360 --> 00:05:54.840
+This is the part that's mysterious, and I'm not even sure it's very well understood by anybody.
+
+73
+00:05:54.840 --> 00:06:00.360
+Somehow, by having read all the books in the library of Congress and everything on the internet.
+
+74
+00:06:00.360 --> 00:06:05.240
+Everything on the internet, including blog posts, news articles.
+
+75
+00:06:05.240 --> 00:06:11.160
+Somehow the language itself encodes enough logic and reasoning to do math.
+
+76
+00:06:11.160 --> 00:06:13.000
+They hadn't built it to do math.
+
+77
+00:06:13.000 --> 00:06:16.040
+And this is what we would call an emergent property.
+
+78
+00:06:16.040 --> 00:06:17.960
+It emerged without being designed.
+
+79
+00:06:17.960 --> 00:06:21.960
+And you were saying it's starting to get better at math slowly like a child?
+
+80
+00:06:22.360 --> 00:06:24.280
+Did you were you like sort of noticing?
+
+81
+00:06:24.520 --> 00:06:27.400
+It progressed through all the developmental stages.
+
+82
+00:06:27.400 --> 00:06:35.880
+It got good at high school math, then it got good at it spend longer in trig trigonometry than it expected to because one of the more painful subjects.
+
+83
+00:06:35.880 --> 00:06:44.760
+No, actually, you touch on a really interesting point, Sorin, because what they're not good at and have not been good at until recently is anything that's visual.
+
+84
+00:06:44.760 --> 00:06:45.240
+Okay.
+
+85
+00:06:45.240 --> 00:06:48.280
+But but but the bigger point is that it keeps getting better.
+
+86
+00:06:48.280 --> 00:06:52.920
+Like as of a few months ago, we were saying it can do research level math.
+
+87
+00:06:53.400 --> 00:06:55.560
+But it can't that seems crazy fast.
+
+88
+00:06:55.560 --> 00:07:00.280
+Like a year ago, you were were about as worried as you would be about me taking your job.
+
+89
+00:07:01.640 --> 00:07:04.200
+And then No, I I want to get the chronology right.
+
+90
+00:07:04.200 --> 00:07:06.440
+High school was like 2024.
+
+91
+00:07:06.440 --> 00:07:07.080
+Okay.
+
+92
+00:07:07.320 --> 00:07:11.880
+Twenty twenty five, it's as good as a really smart college student.
+
+93
+00:07:11.880 --> 00:07:12.520
+Okay.
+
+94
+00:07:12.520 --> 00:07:20.000
+And then in twenty twenty six in the spring, it's as good as a first rate mathematician, but not the world's best.
+
+95
+00:07:14.840 --> 00:07:21.680
+That was in March or whatever.
+
+96
+00:07:21.840 --> 00:07:31.280
+But by May, it was actually solving problems that the world's best mathematicians had not been able to solve by May of 2026.
+
+97
+00:07:33.840 --> 00:07:35.360
+What what problem did it?
+
+98
+00:07:35.360 --> 00:07:36.720
+Was it one particular problem?
+
+99
+00:07:36.720 --> 00:07:46.960
+So the first the first one that really got everybody's attention in my world was called the unit distance.
+
+100
+00:07:46.960 --> 00:07:57.280
+On excess returns, Katie Stockton discusses market breadth, how widely stocks participate in a rally and why divergences aren't reliable timing signals.
+
+101
+00:07:57.280 --> 00:08:01.680
+Useful context when a bull market feels increasingly narrow.
+
+102
+00:08:04.560 --> 00:08:07.440
+Already maybe some minor inklings of that.
+
+103
+00:08:07.760 --> 00:08:10.640
+Talk to us about breadth divergences.
+
+104
+00:08:10.640 --> 00:08:14.160
+How much do we put emphasis on them when we see them?
+
+105
+00:08:14.160 --> 00:08:16.400
+Because this is that you hit on it already.
+
+106
+00:08:16.400 --> 00:08:23.680
+It's like the sentiment that we feel when we're talking about this stuff, that it doesn't necessarily rhyme with what the numbers are and how this is playing out.
+
+107
+00:08:23.680 --> 00:08:24.720
+Yeah, for sure.
+
+108
+00:08:24.720 --> 00:08:39.120
+And I I think that breath and even other market internals, uh, depending on which one we're talking about, I guess individually, but they're generally not the best market timing devices when you're looking at them in cumulative terms.
+
+109
+00:08:39.120 --> 00:08:44.160
+The oscillating measures can be pretty timely, but the cumulative measure is less so.
+
+110
+00:08:44.160 --> 00:08:56.720
+So if we're talking about like an advanced decline line and a negative divergence, which we do not have, mind you, um, then that can be indic indicative of a weaker tape.
+
+111
+00:08:56.720 --> 00:09:03.880
+And um, so it's almost telling us usually what we already know from a momentum perspective that things have weakened.
+
+112
+00:09:04.200 --> 00:09:12.600
+And it is often a precursor to something worse in price terms, but it won't tell you exactly when that's happening.
+
+113
+00:09:12.600 --> 00:09:15.560
+It won't tell you how how deep the drawdown could be.
+
+114
+00:09:15.560 --> 00:09:18.360
+It won't tell you how long the drawdown should be.
+
+115
+00:09:18.360 --> 00:09:23.640
+So there's a lot missing in terms of a takeaway from breath divergences.
+
+116
+00:09:23.640 --> 00:09:39.720
+And we do feel like they're almost oversighted as something that should be a cause for concern because they are often, when you see them, you know, the lower high in in the AD line and then the higher high in price, they're often reverse really quickly.
+
+117
+00:09:39.720 --> 00:09:44.200
+So they they often just go away and then people stop talking about them.
+
+118
+00:09:44.200 --> 00:09:47.240
+It's these confusing signals inside of the data right now.
+
+119
+00:09:47.240 --> 00:09:49.960
+And this is part of why I love I love your research on this.
+
+120
+00:09:49.960 --> 00:09:52.520
+Talk another one that's just boggling my mind.
+
+121
+00:09:52.520 --> 00:09:56.040
+The percentages of stocks above their 50-day average.
+
+122
+00:09:56.040 --> 00:10:03.000
+It's it's these price and signal divergences that are not stressing me out, but making me want to ask these questions.
+
+123
+00:10:03.000 --> 00:10:04.520
+What's going on with that one?
+
+124
+00:10:04.520 --> 00:10:05.720
+Yeah, that's pretty wild.
+
+125
+00:10:05.720 --> 00:10:10.680
+And that is exactly what's happening with the market right now is that the app the average stock, right?
+
+126
+00:10:10.680 --> 00:10:14.040
+The so-called average stock has really pulled back.
+
+127
+00:10:14.040 --> 00:10:23.640
+Some are actually in proper downtrends, so you know, below their 200-day moving averages in addition to their 50-day moving averages.
+
+128
+00:10:23.640 --> 00:10:25.400
+That's the daily rundown.
+
+129
+00:10:25.400 --> 00:10:27.400
+Thanks for listening.
+
+130
+00:10:27.400 --> 00:10:29.880
+See you next time.

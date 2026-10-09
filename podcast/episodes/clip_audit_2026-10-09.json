@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-09",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-09_20261009T200143Z_12200/clip_sources/abd8369ff07040dd/01_Evaluating_investment_agents_and_governing_self-mo.mp3",
+      "source": "Andrew Ang: Should AI Agents Run Your Asset Allocation? | #653",
+      "start_time": 516,
+      "end_time": 705,
+      "topic": "Evaluating investment agents and governing self-modifying code"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-09_20261009T200143Z_12200/clip_sources/5243133d2e0da1df/01_AI_infrastructure_bottlenecks_move_from_design_to.mp3",
+      "source": "Chips, Memory, and Power | Pat Gelsinger",
+      "start_time": 511,
+      "end_time": 635,
+      "topic": "AI infrastructure bottlenecks move from design to manufacturing"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-09_20261009T200143Z_12200/clip_sources/9e5a85d7f5756940/01_AI_tackles_the_unit_distance_problem_with_a_creati.mp3",
+      "source": "Math Vs Machine",
+      "start_time": 378,
+      "end_time": 561,
+      "topic": "AI tackles the unit distance problem with a creative mathematical construction"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
