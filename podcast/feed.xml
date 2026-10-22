@@ -9,6 +9,61 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — October 22, 2026</title>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-10-22.mp3" length="9869612" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-10-22.mp3</guid>
+      <itunes:duration>10:16</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-10-22.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-10-22.json" type="application/json+chapters"/>
+      <description>Daily Digest — October 22, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-10-22.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-10-22.txt
+
+Chapters:
+0:30 — All-In with Chamath, Jason, Sacks &amp; Friedberg — On-device inference and task-spe
+2:48 — Excess Returns — Small-cap value, valuation mean reversion, and the AI capital c
+5:35 — Masters of Scale — AI-assisted vulnerability discovery and frontier-model releas
+8:00 — Dwarkesh Podcast — Intel’s EUV adoption lag and maturity gates for new manufactu
+
+Sources:
+- Arvind Krishna &amp; Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare &amp; SaaS Collapse (All-In with Chamath, Jason, Sacks &amp; Friedberg)
+  Link: https://allinchamathjason.libsyn.com/arvind-krishna-nikesh-arora-quantum-threat-open-vs-frontier-ai-ai-cyber-warfare-saas-collapse
+  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_NikeshArvink.mp3?dest-id=1928300
+- Rob Arnott on the Hidden Costs of Passive Investing and the Real Winners From AI (Excess Returns)
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Rob-Arnott-on-the-Hidden-Costs-of-Passive-Investing-and-the-Real-Winners-From-AI-e3qs4pb
+  Source audio: https://traffic.megaphone.fm/APO2751850965.mp3
+- Reid Hoffman and OpenAI CFO Sarah Friar on where AI goes from here (Masters of Scale)
+  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/440e719f-e6ab-46bd-b6b6-d620991aa065.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
+- What will computer chips look like in 2045? (Dwarkesh Podcast)
+  Link: https://www.dwarkesh.com/p/intel-tour
+  Source audio: https://api.substack.com/feed/podcast/221632772/30c38515d3ea0554c60350beead67f42.mp3</description>
+      <itunes:summary>Daily Digest — October 22, 2026
+
+Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-10-22.mp3
+Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-10-22.txt
+
+Chapters:
+0:30 — All-In with Chamath, Jason, Sacks &amp; Friedberg — On-device inference and task-spe
+2:48 — Excess Returns — Small-cap value, valuation mean reversion, and the AI capital c
+5:35 — Masters of Scale — AI-assisted vulnerability discovery and frontier-model releas
+8:00 — Dwarkesh Podcast — Intel’s EUV adoption lag and maturity gates for new manufactu
+
+Sources:
+- Arvind Krishna &amp; Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare &amp; SaaS Collapse (All-In with Chamath, Jason, Sacks &amp; Friedberg)
+  Link: https://allinchamathjason.libsyn.com/arvind-krishna-nikesh-arora-quantum-threat-open-vs-frontier-ai-ai-cyber-warfare-saas-collapse
+  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/88_AUDIO_NikeshArvink.mp3?dest-id=1928300
+- Rob Arnott on the Hidden Costs of Passive Investing and the Real Winners From AI (Excess Returns)
+  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Rob-Arnott-on-the-Hidden-Costs-of-Passive-Investing-and-the-Real-Winners-From-AI-e3qs4pb
+  Source audio: https://traffic.megaphone.fm/APO2751850965.mp3
+- Reid Hoffman and OpenAI CFO Sarah Friar on where AI goes from here (Masters of Scale)
+  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/440e719f-e6ab-46bd-b6b6-d620991aa065.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
+- What will computer chips look like in 2045? (Dwarkesh Podcast)
+  Link: https://www.dwarkesh.com/p/intel-tour
+  Source audio: https://api.substack.com/feed/podcast/221632772/30c38515d3ea0554c60350beead67f42.mp3</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — October 09, 2026</title>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-10-09.mp3" length="10082732" type="audio/mpeg"/>
@@ -722,59 +777,6 @@ Sources:
 - Amjad Masad on Rethinking College for the AI Era (a16z Podcast)
   Link: https://a16z.simplecast.com/episodes/amjad-masad-on-rethinking-college-for-the-ai-era-sOmuMQGQ
   Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7314ee9a-9c50-4ba1-b44e-55c00ea1f608/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=7314ee9a-9c50-4ba1-b44e-55c00ea1f608&amp;feed=JGE3yC0V</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — September 22, 2026</title>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-22.mp3" length="10206380" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-09-22.mp3</guid>
-      <itunes:duration>10:37</itunes:duration>
-      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-09-22.vtt" type="text/vtt" rel="captions"/>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-09-22.json" type="application/json+chapters"/>
-      <description>Daily Digest — September 22, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-22.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-22.txt
-
-Chapters:
-0:40 — Invest Like the Best with Patrick O'Shaughnessy — Workflow-native AI for finance
-3:17 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Data movement, rather than compu
-5:55 — Mark Bell's Power Project — Genetic predisposition versus changing biomarkers su
-8:17 — The Art of Manliness — How an invisible list differs from a bucket list
-
-Sources:
-- Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492] (Invest Like the Best with Patrick O'Shaughnessy)
-  Source audio: https://traffic.megaphone.fm/CLS7922860814.mp3
-- Naveen Rao: 4D Computing, AI's Energy Wall &amp; Beating Biology (All-In with Chamath, Jason, Sacks &amp; Friedberg)
-  Link: https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology
-  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300
-- Can We Engineer Superhuman Genetics Ryan Rosner, PhD (Mark Bell's Power Project)
-  Link: https://podcasters.spotify.com/pod/show/powerproject/episodes/Can-We-Engineer-Superhuman-Genetics-Ryan-Rosner--PhD-e3p5h0s
-  Source audio: https://anchor.fm/s/ddfd45c0/podcast/play/126058972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-21%2F432334515-44100-2-e5cafda9c151c.mp3
-- The One-Skill-a-Year Plan for a More Interesting Life (The Art of Manliness)
-  Source audio: https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/rss.art19.com/episodes/3ad013fe-1119-4cca-87a7-969e579fef6e.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</description>
-      <itunes:summary>Daily Digest — September 22, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-22.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-22.txt
-
-Chapters:
-0:40 — Invest Like the Best with Patrick O'Shaughnessy — Workflow-native AI for finance
-3:17 — All-In with Chamath, Jason, Sacks &amp; Friedberg — Data movement, rather than compu
-5:55 — Mark Bell's Power Project — Genetic predisposition versus changing biomarkers su
-8:17 — The Art of Manliness — How an invisible list differs from a bucket list
-
-Sources:
-- Gabe Stengel - Building Investing Superintelligence - [Invest Like the Best, EP.492] (Invest Like the Best with Patrick O'Shaughnessy)
-  Source audio: https://traffic.megaphone.fm/CLS7922860814.mp3
-- Naveen Rao: 4D Computing, AI's Energy Wall &amp; Beating Biology (All-In with Chamath, Jason, Sacks &amp; Friedberg)
-  Link: https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology
-  Source audio: https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/Naveen_Rao_AIS26_AUDIO_v100.mp3?dest-id=1928300
-- Can We Engineer Superhuman Genetics Ryan Rosner, PhD (Mark Bell's Power Project)
-  Link: https://podcasters.spotify.com/pod/show/powerproject/episodes/Can-We-Engineer-Superhuman-Genetics-Ryan-Rosner--PhD-e3p5h0s
-  Source audio: https://anchor.fm/s/ddfd45c0/podcast/play/126058972/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-21%2F432334515-44100-2-e5cafda9c151c.mp3
-- The One-Skill-a-Year Plan for a More Interesting Life (The Art of Manliness)
-  Source audio: https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/rss.art19.com/episodes/3ad013fe-1119-4cca-87a7-969e579fef6e.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</itunes:summary>
     </item>
   </channel>
 </rss>

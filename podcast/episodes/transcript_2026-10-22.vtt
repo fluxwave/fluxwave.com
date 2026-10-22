@@ -1,0 +1,409 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:07.040
+Today on the daily rundown, smaller AI models, the price of the AI boom, and vulnerability discovery.
+
+2
+00:00:07.040 --> 00:00:13.920
+Plus, Intel's chip making gamble and the cost of waiting for new technology.
+
+3
+00:00:13.920 --> 00:00:23.680
+On all in, a discussion featuring IBM's Arvind Krishna and Palo Alto Networks Nick Ashurora and explore small task-specific models and on device AI.
+
+4
+00:00:23.680 --> 00:00:30.400
+The practical question, how do companies move from trying AI to actually using it?
+
+5
+00:00:34.400 --> 00:00:40.160
+So if you make it harder for them to adopt, if you make it harder for them to understand, it's gonna take longer for us to be ready.
+
+6
+00:00:40.160 --> 00:00:52.720
+So right now, we're saying go use the best model you can find, the easiest way to use it, so you can understand can we validate the things that these things can do, whether it's from an efficiency perspective, a revenue perspective, or a product development perspective.
+
+7
+00:00:52.720 --> 00:00:55.040
+That's kind of, I'd call it phase one.
+
+8
+00:00:55.040 --> 00:01:01.120
+But in phase one, what we've discovered is there's different forces for different courses, right?
+
+9
+00:01:01.440 --> 00:01:10.160
+What people don't understand, you know, there was a moment when everybody thought the cybersecurity was gonna get consumed by AI models and you know our lives are over because Mythos is gonna solve every problem.
+
+10
+00:01:10.160 --> 00:01:11.680
+Well, guess what?
+
+11
+00:01:11.680 --> 00:01:18.480
+We inspect all traffic at an endpoint at the cost of $20 a year.
+
+12
+00:01:18.480 --> 00:01:20.080
+Right?
+
+13
+00:01:20.080 --> 00:01:24.240
+Hundreds of megabytes of traffic per endpoint at the cost of $20, $25 a year.
+
+14
+00:01:24.240 --> 00:01:32.400
+Because machine learning is running on your endpoint, your compute, and we run it on a 20, 30, 40 megabyte payload.
+
+15
+00:01:32.400 --> 00:01:37.360
+Now, if you want to take all that traffic, run that through OpenAI using tokens for every employee in your company.
+
+16
+00:01:37.520 --> 00:01:38.960
+Sounds like a sound of revenue.
+
+17
+00:01:38.960 --> 00:01:42.240
+Like OpenI would probably generate all the revenue in one ear from one company.
+
+18
+00:01:42.240 --> 00:01:42.560
+Right.
+
+19
+00:01:42.560 --> 00:01:45.200
+So that's not a practical example of how models use.
+
+20
+00:01:45.200 --> 00:02:00.760
+So, what you do is you take a small language model, you compress it, you make it task specific, you keep keep training it until it gets to 99.9% accuracy and say, instead of using it using machine learning algorithms, we're gonna use generative AI, small language models, and they're going to do that.
+
+21
+00:02:01.160 --> 00:02:10.440
+So the point is what we're doing is we're trying to figure out what tasks requires what level of intelligence, and what is the cost of that intelligence for that particular task.
+
+22
+00:02:10.440 --> 00:02:14.920
+And you suddenly discover you don't need a Ferrari for every task.
+
+23
+00:02:14.920 --> 00:02:17.560
+And by the way, the customers don't want to pay for a Ferrari for every task.
+
+24
+00:02:17.560 --> 00:02:18.520
+I'll give you the flip side.
+
+25
+00:02:18.600 --> 00:02:21.640
+Flip side is let's assume you're undergoing a breach.
+
+26
+00:02:21.640 --> 00:02:23.960
+You're being attacked, you know you're being attacked.
+
+27
+00:02:23.960 --> 00:02:33.400
+At that point in time, every customer in the room says, Don't worry, you, the share model, need to stop the breach because they know the business impact of that breach in the building.
+
+28
+00:02:33.400 --> 00:02:41.240
+On excess returns, Rob Arnott says the largest 500 stocks went from a discount to smaller peers to an 80% premium.
+
+29
+00:02:41.240 --> 00:02:48.600
+His AI capital cycle discussion asks where investors are paying too much for growth.
+
+30
+00:02:48.600 --> 00:02:51.720
+How has it done in terms of relative valuation?
+
+31
+00:02:51.720 --> 00:03:00.360
+The top 500 in 2014 was priced at a 15% discount to the mid cap, the next 500.
+
+32
+00:03:00.360 --> 00:03:03.320
+Today it's priced at an 80% premium.
+
+33
+00:03:03.320 --> 00:03:14.200
+That means the underlying fundamentals, the cash flow of the next 500 has been growing 3% per year faster than the top 500.
+
+34
+00:03:14.200 --> 00:03:17.160
+It is all revaluation alpha.
+
+35
+00:03:17.160 --> 00:03:19.800
+One of two things has to happen.
+
+36
+00:03:19.800 --> 00:03:31.560
+Either the fundamentals of the top 500 have to catch up with and surpass the fundamentals of the next 500, or there's going to be mean reversion on the relative valuation.
+
+37
+00:03:31.560 --> 00:03:35.240
+So I look at the relative valuation of, let's say, um U.S.
+
+38
+00:03:35.320 --> 00:03:37.640
+large cap growth versus U.S.
+
+39
+00:03:37.640 --> 00:03:46.400
+small cap value, and I see that spread widening to a point that has never ever, ever been seen before, including in the dot-com bubble.
+
+40
+00:03:44.680 --> 00:04:14.320
+And I I think, gosh, these 1400 companies in Russell 2000 value, um are highly likely to outperform the um large cap growth that so utterly dominates our attention these days by perhaps six, eight hundred basis points per annum for the coming decade, just to get things remotely back in line.
+
+41
+00:04:14.320 --> 00:04:16.960
+So this is a really opportunity-rich environment.
+
+42
+00:04:16.960 --> 00:04:18.720
+Long answer to a short question.
+
+43
+00:04:18.720 --> 00:04:20.320
+No, no, that's that's super interesting.
+
+44
+00:04:20.480 --> 00:04:22.560
+I think there's a lot to unpack there.
+
+45
+00:04:22.560 --> 00:04:31.200
+Um, you know, one thing that definitely resonates with me is this this point you made about the the users or adopters of technology as opposed to the pixel shovels, the builders, right?
+
+46
+00:04:31.200 --> 00:04:37.520
+You you mentioned the dot-com boom, and you can go all the way back to the railroads and any technological revolution, as you point out.
+
+47
+00:04:37.520 --> 00:04:47.120
+You know, you have this this phase, this initial phase where you know there's a lot of big investment boom into building out the underlying infrastructure for whatever technology um is happening.
+
+48
+00:04:47.120 --> 00:04:54.320
+The uh the stocks of those companies do it really well, but then there's always a uh turning point, a uh a bust, a capital cycle, right?
+
+49
+00:04:54.320 --> 00:04:58.480
+Things kind of go too much too extreme and come back, and then who is the long-term winner, right?
+
+50
+00:04:58.480 --> 00:05:00.000
+Who captures the value in the long run?
+
+51
+00:05:00.000 --> 00:05:17.840
+It it ends up being in many cases the users of the technology, whether it's like the metas or Netflix's, you know, stooping up the cheap fiber after the dot-com bust, or or today, you you know, the Ralph Lawrence of the world who, you know, maybe positioned better to capitalize on you know cheap tokens down the road.
+
+52
+00:05:17.920 --> 00:05:26.000
+On masters of scale, open AI C FO Sarah Fryer describes AI discovered PHP vulnerabilities and coordinated disclosure.
+
+53
+00:05:26.000 --> 00:05:29.200
+With today's reporting cautioning, there's no easy exploit.
+
+54
+00:05:29.200 --> 00:05:33.080
+This connects model release decisions to real world security.
+
+55
+00:05:35.080 --> 00:05:50.840
+This morning, the journal just ran an article about PHP, where we've been working with them since the end of the summer when we discovered using actually a N minus one model, 5-6 SAL, a set of vulnerabilities in PHP, which really means the internet.
+
+56
+00:05:50.840 --> 00:05:56.280
+So about 70% of websites would have been impacted, would have brought down probably a lot of the internet.
+
+57
+00:05:56.280 --> 00:06:04.440
+So we've been working in a very secret way to get those vulnerabilities fixed before the offense discovers them.
+
+58
+00:06:04.440 --> 00:06:08.600
+And so happy to announce today that we've done that work.
+
+59
+00:06:08.600 --> 00:06:09.640
+Is the work done?
+
+60
+00:06:09.640 --> 00:06:10.920
+Definitely not.
+
+61
+00:06:10.920 --> 00:06:13.640
+Is the bar gonna keep getting raised?
+
+62
+00:06:13.640 --> 00:06:14.840
+Absolutely.
+
+63
+00:06:14.840 --> 00:06:16.520
+But yeah, the age of AI.
+
+64
+00:06:16.520 --> 00:06:18.440
+I mean, I'm grateful to be alive.
+
+65
+00:06:18.760 --> 00:06:20.200
+Yeah, what a time to be alive.
+
+66
+00:06:20.200 --> 00:06:39.800
+Um, so um last year we had Brennan Brown on, and um part of the thing for leadership and leadership in the times where we're redefining the scope of how society, you know, uh industry uh operate, what it means to be human, what it where where are we going?
+
+67
+00:06:39.800 --> 00:06:47.240
+It's important to have the the cycles to think about the like big questions to make the space for that.
+
+68
+00:06:47.240 --> 00:06:48.600
+So how do you do that?
+
+69
+00:06:48.600 --> 00:06:50.120
+How does open AI do that?
+
+70
+00:06:50.120 --> 00:06:58.040
+Given that the questions here are like the invention of electricity, the invention of the printing press.
+
+71
+00:06:58.040 --> 00:07:04.760
+So, how how do you how do you make that space for these kind of important, very big thoughts?
+
+72
+00:07:04.760 --> 00:07:11.480
+Yeah, and and happening at you know, the printing press or electricity happened a little bit at a much slower pace.
+
+73
+00:07:11.480 --> 00:07:15.920
+Although I bet if you lived then, you thought it was an incredible pace, by the way.
+
+74
+00:07:14.680 --> 00:07:20.160
+Um, to make the space, I mean we've used a phrase called pacing the frontier.
+
+75
+00:07:20.400 --> 00:07:32.720
+And pacing the frontier is really about as we think about safety and alignment, giving our researchers and our whole company and the world to some degree time to digest.
+
+76
+00:07:32.720 --> 00:07:34.720
+Like what are the implications?
+
+77
+00:07:34.720 --> 00:07:41.840
+So, right now we have paced the frontier most recently by actually holding back our most powerful model.
+
+78
+00:07:43.440 --> 00:07:52.400
+On the Dwarkesh podcast, a chip making discussion examines why Intel delayed extreme ultraviolet lithography while TSMC adopted it earlier.
+
+79
+00:07:52.400 --> 00:07:54.640
+It's a consequential timing problem.
+
+80
+00:07:54.640 --> 00:08:03.360
+When is new manufacturing technology ready to bet on the istreme ultraviolet lithography?
+
+81
+00:08:03.360 --> 00:08:13.600
+It prints chip patterns with light at a wavelength of 13.5 nanometers, about 14 times shorter than that emitted by previous tools that shipmakers had relied on.
+
+82
+00:08:13.600 --> 00:08:18.160
+The shorter the wavelength, the finer the features that a single exposure can print.
+
+83
+00:08:18.160 --> 00:08:21.920
+But Intel decided this technology wasn't going to be ready in time.
+
+84
+00:08:21.920 --> 00:08:25.120
+TSMC transitioned to EUV much sooner.
+
+85
+00:08:25.120 --> 00:08:32.480
+It put EUV into volume manufacturing in 2019 and ramped it up further on its five nanometer node in 2020.
+
+86
+00:08:32.480 --> 00:08:36.640
+Intel's first DOV process did not reach products until 2023.
+
+87
+00:08:36.640 --> 00:08:41.680
+So TSMC had about four more years of experience with these machines.
+
+88
+00:08:41.680 --> 00:08:50.640
+So yesterday we were at the um research lab and we're getting a preview of uh 3D materials and CFET and Earthenium interconnects.
+
+89
+00:08:50.640 --> 00:08:55.760
+And I'm curious about how you decide whether that technology is mature enough for the next node.
+
+90
+00:08:55.760 --> 00:08:59.920
+One thing that did also come out of Ten Ann is we started to define a set of maturity metrics.
+
+91
+00:09:00.600 --> 00:09:10.120
+And so we use those maturity metrics in a in a process which you call phase gate, where we would say to go from pathfinding into development, these are the criteria that we need to go hit.
+
+92
+00:09:10.120 --> 00:09:13.320
+And there's yield criteria, defect criteria, performance criteria.
+
+93
+00:09:13.320 --> 00:09:16.840
+And we need to hit those in order to move to the next set of the flow.
+
+94
+00:09:16.840 --> 00:09:29.160
+And if there's something that doesn't make that, then it misses that and it goes on to the next technology, and we focus on the items that are ready and we can run and put into a process because one of the key things is to stay in on schedule.
+
+95
+00:09:29.160 --> 00:09:33.800
+Staying on schedule is hard partly because new transistor designs take decades to mature.
+
+96
+00:09:33.800 --> 00:09:39.240
+Modern trip transistors evolved from the planar MOST transistor, demonstrated in 1960.
+
+97
+00:09:39.240 --> 00:09:44.360
+The history of transistors since has been the progression from two dimensions into three.
+
+98
+00:09:44.360 --> 00:09:50.520
+Each development that Chris goes on to describe from FinFed to gate all around is a step in that progression.
+
+99
+00:09:50.520 --> 00:09:55.800
+So it'll help to first look at a basic transistor and how its parts have changed over time.
+
+100
+00:09:55.800 --> 00:09:58.200
+A transistor is basically a switch.
+
+101
+00:09:58.200 --> 00:10:05.480
+When it's turned on, it allows current to flow between its two ends, which are called the source and the train.
+
+102
+00:10:05.480 --> 00:10:11.240
+A piece called a gate sits on top.

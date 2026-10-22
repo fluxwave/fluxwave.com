@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-22",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-22_20261022T200144Z_90965/clip_sources/17d42ca152f6d082/01_Frontier_versus_open-weight_models_and_enterprise.mp3",
+      "source": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+      "start_time": 534,
+      "end_time": 717,
+      "topic": "Frontier versus open-weight models and enterprise AI adoption"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-22_20261022T200144Z_90965/clip_sources/e0d8a939d8f472f2/01_Why_transistor_inventions_take_decades_to_reach_pr.mp3",
+      "source": "What will computer chips look like in 2045?",
+      "start_time": 522,
+      "end_time": 642,
+      "topic": "Why transistor inventions take decades to reach production"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-22_20261022T200144Z_90965/clip_sources/6db419a3a62f3016/01_Frontier-model_evaluation_and_claimed_scientific_b.mp3",
+      "source": "Reid Hoffman and OpenAI CFO Sarah Friar on where AI goes from here",
+      "start_time": 388,
+      "end_time": 521,
+      "topic": "Frontier-model evaluation and claimed scientific breakthroughs"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-22_20261022T200144Z_90965/clip_sources/dd2143d68836d1ff/01_AIs_big-market_delusion_and_the_fragility_of_compe.mp3",
+      "source": "Rob Arnott on the Hidden Costs of Passive Investing and the Real Winners From AI",
+      "start_time": 335,
+      "end_time": 468,
+      "topic": "AI's big-market delusion and the fragility of competitive moats"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

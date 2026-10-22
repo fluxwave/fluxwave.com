@@ -1,0 +1,102 @@
+Today on the daily rundown, smaller AI models, the price of the AI boom, and vulnerability discovery.
+Plus, Intel's chip making gamble and the cost of waiting for new technology.
+On all in, a discussion featuring IBM's Arvind Krishna and Palo Alto Networks Nick Ashurora and explore small task-specific models and on device AI.
+The practical question, how do companies move from trying AI to actually using it?
+So if you make it harder for them to adopt, if you make it harder for them to understand, it's gonna take longer for us to be ready.
+So right now, we're saying go use the best model you can find, the easiest way to use it, so you can understand can we validate the things that these things can do, whether it's from an efficiency perspective, a revenue perspective, or a product development perspective.
+That's kind of, I'd call it phase one.
+But in phase one, what we've discovered is there's different forces for different courses, right?
+What people don't understand, you know, there was a moment when everybody thought the cybersecurity was gonna get consumed by AI models and you know our lives are over because Mythos is gonna solve every problem.
+Well, guess what?
+We inspect all traffic at an endpoint at the cost of $20 a year.
+Right?
+Hundreds of megabytes of traffic per endpoint at the cost of $20, $25 a year.
+Because machine learning is running on your endpoint, your compute, and we run it on a 20, 30, 40 megabyte payload.
+Now, if you want to take all that traffic, run that through OpenAI using tokens for every employee in your company.
+Sounds like a sound of revenue.
+Like OpenI would probably generate all the revenue in one ear from one company.
+Right.
+So that's not a practical example of how models use.
+So, what you do is you take a small language model, you compress it, you make it task specific, you keep keep training it until it gets to 99.9% accuracy and say, instead of using it using machine learning algorithms, we're gonna use generative AI, small language models, and they're going to do that.
+So the point is what we're doing is we're trying to figure out what tasks requires what level of intelligence, and what is the cost of that intelligence for that particular task.
+And you suddenly discover you don't need a Ferrari for every task.
+And by the way, the customers don't want to pay for a Ferrari for every task.
+I'll give you the flip side.
+Flip side is let's assume you're undergoing a breach.
+You're being attacked, you know you're being attacked.
+At that point in time, every customer in the room says, Don't worry, you, the share model, need to stop the breach because they know the business impact of that breach in the building.
+On excess returns, Rob Arnott says the largest 500 stocks went from a discount to smaller peers to an 80% premium.
+His AI capital cycle discussion asks where investors are paying too much for growth.
+How has it done in terms of relative valuation?
+The top 500 in 2014 was priced at a 15% discount to the mid cap, the next 500.
+Today it's priced at an 80% premium.
+That means the underlying fundamentals, the cash flow of the next 500 has been growing 3% per year faster than the top 500.
+It is all revaluation alpha.
+One of two things has to happen.
+Either the fundamentals of the top 500 have to catch up with and surpass the fundamentals of the next 500, or there's going to be mean reversion on the relative valuation.
+So I look at the relative valuation of, let's say, um U.S.
+large cap growth versus U.S.
+small cap value, and I see that spread widening to a point that has never ever, ever been seen before, including in the dot-com bubble.
+And I I think, gosh, these 1400 companies in Russell 2000 value, um are highly likely to outperform the um large cap growth that so utterly dominates our attention these days by perhaps six, eight hundred basis points per annum for the coming decade, just to get things remotely back in line.
+So this is a really opportunity-rich environment.
+Long answer to a short question.
+No, no, that's that's super interesting.
+I think there's a lot to unpack there.
+Um, you know, one thing that definitely resonates with me is this this point you made about the the users or adopters of technology as opposed to the pixel shovels, the builders, right?
+You you mentioned the dot-com boom, and you can go all the way back to the railroads and any technological revolution, as you point out.
+You know, you have this this phase, this initial phase where you know there's a lot of big investment boom into building out the underlying infrastructure for whatever technology um is happening.
+The uh the stocks of those companies do it really well, but then there's always a uh turning point, a uh a bust, a capital cycle, right?
+Things kind of go too much too extreme and come back, and then who is the long-term winner, right?
+Who captures the value in the long run?
+It it ends up being in many cases the users of the technology, whether it's like the metas or Netflix's, you know, stooping up the cheap fiber after the dot-com bust, or or today, you you know, the Ralph Lawrence of the world who, you know, maybe positioned better to capitalize on you know cheap tokens down the road.
+On masters of scale, open AI C FO Sarah Fryer describes AI discovered PHP vulnerabilities and coordinated disclosure.
+With today's reporting cautioning, there's no easy exploit.
+This connects model release decisions to real world security.
+This morning, the journal just ran an article about PHP, where we've been working with them since the end of the summer when we discovered using actually a N minus one model, 5-6 SAL, a set of vulnerabilities in PHP, which really means the internet.
+So about 70% of websites would have been impacted, would have brought down probably a lot of the internet.
+So we've been working in a very secret way to get those vulnerabilities fixed before the offense discovers them.
+And so happy to announce today that we've done that work.
+Is the work done?
+Definitely not.
+Is the bar gonna keep getting raised?
+Absolutely.
+But yeah, the age of AI.
+I mean, I'm grateful to be alive.
+Yeah, what a time to be alive.
+Um, so um last year we had Brennan Brown on, and um part of the thing for leadership and leadership in the times where we're redefining the scope of how society, you know, uh industry uh operate, what it means to be human, what it where where are we going?
+It's important to have the the cycles to think about the like big questions to make the space for that.
+So how do you do that?
+How does open AI do that?
+Given that the questions here are like the invention of electricity, the invention of the printing press.
+So, how how do you how do you make that space for these kind of important, very big thoughts?
+Yeah, and and happening at you know, the printing press or electricity happened a little bit at a much slower pace.
+Although I bet if you lived then, you thought it was an incredible pace, by the way.
+Um, to make the space, I mean we've used a phrase called pacing the frontier.
+And pacing the frontier is really about as we think about safety and alignment, giving our researchers and our whole company and the world to some degree time to digest.
+Like what are the implications?
+So, right now we have paced the frontier most recently by actually holding back our most powerful model.
+On the Dwarkesh podcast, a chip making discussion examines why Intel delayed extreme ultraviolet lithography while TSMC adopted it earlier.
+It's a consequential timing problem.
+When is new manufacturing technology ready to bet on the istreme ultraviolet lithography?
+It prints chip patterns with light at a wavelength of 13.5 nanometers, about 14 times shorter than that emitted by previous tools that shipmakers had relied on.
+The shorter the wavelength, the finer the features that a single exposure can print.
+But Intel decided this technology wasn't going to be ready in time.
+TSMC transitioned to EUV much sooner.
+It put EUV into volume manufacturing in 2019 and ramped it up further on its five nanometer node in 2020.
+Intel's first DOV process did not reach products until 2023.
+So TSMC had about four more years of experience with these machines.
+So yesterday we were at the um research lab and we're getting a preview of uh 3D materials and CFET and Earthenium interconnects.
+And I'm curious about how you decide whether that technology is mature enough for the next node.
+One thing that did also come out of Ten Ann is we started to define a set of maturity metrics.
+And so we use those maturity metrics in a in a process which you call phase gate, where we would say to go from pathfinding into development, these are the criteria that we need to go hit.
+And there's yield criteria, defect criteria, performance criteria.
+And we need to hit those in order to move to the next set of the flow.
+And if there's something that doesn't make that, then it misses that and it goes on to the next technology, and we focus on the items that are ready and we can run and put into a process because one of the key things is to stay in on schedule.
+Staying on schedule is hard partly because new transistor designs take decades to mature.
+Modern trip transistors evolved from the planar MOST transistor, demonstrated in 1960.
+The history of transistors since has been the progression from two dimensions into three.
+Each development that Chris goes on to describe from FinFed to gate all around is a step in that progression.
+So it'll help to first look at a basic transistor and how its parts have changed over time.
+A transistor is basically a switch.
+When it's turned on, it allows current to flow between its two ends, which are called the source and the train.
+A piece called a gate sits on top.
