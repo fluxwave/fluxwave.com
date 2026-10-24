@@ -1,0 +1,119 @@
+Today on the daily rundown, where AI spending goes, and whether agents could replace your apps.
+Then the trust behind secure devices and why bond market fine print matters in a crisis.
+On all in, the hosts preview ramp spending data, separating GPU compute from payments to closed model labs with open weight models competing.
+That split helps explain who's paying to run AI themselves.
+And uh I think that ramp is gonna publish as soon as I said, so thanks to them for letting us preview this.
+What's amazing to me is the blue box in this histogram.
+What this shows is what percentage of money they are spending on GPU compute.
+Now, why does that matter?
+Well, the rose colored box is LLM traffic.
+That's the typical spend you're gonna spend on the big frontier labs, closed models effectively, either through things like bedrock on AWS or what have you.
+What's really interesting is that the blue box is ticking up.
+The blue box is people buying their own GPUs because they're moving to open source.
+And so what I think is really interesting is you have this two pronged thing that's happening.
+One is the diffusion that we need within AI is happening a little bit slower than we would all would like.
+Ever since Alex Carp's commentary on CNBC about data sovereignty, buying patterns have changed.
+And I think people are being a lot more methodical.
+They are building out their own data centers or at least moving into VPCs, virtual public clouds say, one of the largest banks in America.
+You know what they said?
+I'm not gonna say the name of the bank.
+It was the most incredible thing.
+They said, we have decreased our spend on AWS and GCP.
+We now have six completely independent ground up data centers that we've built from scratch for ourselves.
+And I was like, what is going on here?
+Wow, we're back to the future.
+People stay back to the future.
+It's back to the future.
+So I think if you look at this, I didn't mean to have any commentary other than just observing what I think.
+But yeah, AI has a diffusion problem.
+It is too concentrated and ripping around in a small little ecosystem.
+We need to diffuse out.
+But as it diffuses out, people are picking open source.
+On the 16Z podcast, Ben Horowitz considers software that's cheap to clone and agents that could replace applications.
+For founders, the stakes are concrete.
+What makes an AI business defensible?
+Does tend to expand almost infinitely.
+So to fulfill that need, um, sometimes you have to build a bigger company, but we'll see.
+Software gets so easy to build that you kind of have like fast fashion SaaS, you know, like you kind of get copycats all the time that kind of get get cloned.
+The other version that has kind of been predicted is sort of, you know, sort of bespoke software.
+Maybe everybody uses a different, slightly different, you know, version of software that gets generated that's instantiated at basically at runtime that's personalized to you.
+I mean, this is all very sci-fi, but like, you know, maybe maybe we'll get there.
+It's funny how humans are though, because like even in fashion, um, where you do have fast fashion.
+I'm looking at a lot, a lot of people are wearing kind of similar stuff.
+And so, yeah, I'm I'm not saying that that I'll totally go.
+The other question on kind of software is like how much will be like what we consider software today, and how much will just be like, okay, we'll just use the AI differently, and it won't even be an application.
+Right.
+You just ask the AI to do it.
+And so I I think that's a little bit TBD, but I think the paradigm of an application may be the thing that fades the most.
+You organize your data, and then you have agents that you ask to do stuff against the data.
+Right.
+And that's how business applications work and personal applications work too.
+How how do you think about defensibility in kind of especially for AI apps?
+Um, you know, there's sort of an argument that, hey, a lot of the products right now, they don't really have very much in the way of, you know, network effects, maybe they're GPT wrappers, you know, there's all these kind of critiques.
+And so what what do you think of as kind of, you know, the the the durable advantages that um you know founders should be?
+GPT wrapper thing was always a bit of a dumb idea um in terms of not not to build one, but to call it that.
+Uh and what I mean, so if you go back, if you're as old as me, you remember when relational databases came out.
+And relational databases, right?
+Oh, you've got this declarative language, and then you just tell the database what to do, and then it does it.
+And so why the heck would you need SAP or you know, you know, in those days, SIBL or Salesforce or whatever?
+Like that's ridiculous.
+There's nothing there.
+It's just a RDBMS wrapper.
+Um, but of course, that turned out to be wrong.
+And when I look at the applications that are built on LLMs today, they themselves have many models.
+Um, you know, I think cursors is it 14 models now, like like fairly sophisticated models on top of, you know, the kind of foundation model.
+And so I don't think they're right, like I think they're pretty sophisticated kind of models and applications and so forth.
+And those models have a lot of data and understand, you know, like if you're talking to like super high-end programmers all day about how to design their program, that's a lot of information into your system and into your model that nobody on Oxide and Friends, the crew explains public key infrastructure, the trust system behind secure device provisioning and its operational costs with iPhone and Samsung TV hacks in today's headlines.
+That foundation matters.
+That did not yet exist.
+Right.
+Okay, so um, okay, so what is a PKI?
+Well, you what do you mean by that?
+Sure.
+So um this is you know, public key infrastructure.
+It is, I guess maybe the most disappointing thing about computer security and cryptography is that everything seems to boil down to PKIs.
+Boils down to some assertion made by some entity that holds a private key.
+And all of the security properties of that thing depend on the secrecy of that key.
+And I mean, a lot of what you develop is this great act of delegation to be like, no, no, like I actually trust this other thing over here.
+And you well, I trust this other thing.
+Well, I trust this other thing.
+It's okay.
+Well, who trusts like at some point you get to the point where you get to the you run out.
+Yeah, uh delegation is a is a good word for it.
+Um, but it is, I mean, in some cases, you know, you don't want it to be blind trust.
+You want to actually have a reason to believe that you you should trust this thing.
+And that, you know, requires trusting the people carrying out the process and maintaining it uh specifically and and a lot.
+And so, you know, that realization, I've gotten past the part where it's like, oh, I we need to give the the the root of trust an identity which means we need to be able to communicate its identity into it some kind of certificate right you want to set these things up the correct way so that you never expose the keying material that's actually in the ROT so this thing generates its own key internally has a little protocol for talking to a manufacturing platform so that it can produce a CSR that the manufacturing platform can then you know send off to some the the PKI process to get that signed and sent back into the actual root of trust and once you know we'd got that working kind of just the realization that like there needed to be a probably just as much work going into building and maintaining that system that exists outside of the platform yeah as did the actual construction of of the root of trust itself and uh that's a that's a tough realization.
+Tough realization.
+Yeah.
+On masters in business journalist Robin Wigglesworth recalls advising a colleague covering a crisis before a discussion of debt, Islamic bonds and documentation for investors the fine print can become the story professional level I remember talking to one of our best young promising journalists who was she was feeling quite stressed out at the time and I said look it's tough it's difficult but this will make your career.
+This is if you if you just throw yourself into it you will grow by leaps and bounds over the next days, weeks months we don't know how long this is going, but just try to enjoy it, get enough sleep, and just try to almost revel in it.
+Try to turn around.
+This isn't just stress.
+It's it's something that will f shape you.
+And I it shaped me as well, and it was incredibly exciting.
+So your last book was about index funds.
+This book is about um bonds and debt, uh, which occasionally blow up and cause a crisis.
+I'm curious how fundamental was the Dubai debt crisis you mentioned to how you frame the world of debt and credit and how you think about the bond market, which you've described as the most powerful financial engine in the world.
+That's a great question, actually.
+Uh I'd always thought my my first job was covering these Islamic bonds and had to learn about the bond market that way.
+And they're really quite funky, they're kind of structured to make it.
+No interest rates, right?
+No interest rates in theory, but kind of it walks talks and quacks like a fixed income.
+Buying it at a discount, so it's like a zero coupon bond.
+So there is interest.
+Yeah, they do with the lease backs, basically, like that.
+I'll I'll lease you buy a house, the bank will buy it for you and lease it for you at fixed payments for the next 20 years, for example.
+And then you own it.
+Yeah, and then they own it, and then you own it.
+Uh then in in for Bloomberg, I covered most of the rate space.
+So it was quite exciting because like Iceland was part of it.
+And you remember Iceland really blew up uh during the financial crisis.
+Oh, it was completely wiped out, yeah.
+Yeah, it was it was, and again, it's terrible because obviously, you know, terrible people in Iceland.
+But great.
+But fantastic at the same time.
+But yes, Dubai, I think was the first time I really covered kind of distress death and realized the the full panoply of crazy stuff that can happen with fixed income and and how much it pays to read the bond docs.
+Lots of investors don't really That's the daily rundown.
+Thanks for listening.
+See you next time.

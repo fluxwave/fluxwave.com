@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-24",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-24_20261024T200141Z_93642/clip_sources/9bf89576bb1d90c4/01_Why_enterprises_favor_open-weight_AI_models.mp3",
+      "source": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
+      "start_time": 519,
+      "end_time": 641,
+      "topic": "Why enterprises favor open-weight AI models"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-24_20261024T200141Z_93642/clip_sources/cf4113cb98abb8ee/01_Shipping_pressure_exposes_hidden_platform_engineer.mp3",
+      "source": "Dead Printers Tell No Tales",
+      "start_time": 320,
+      "end_time": 521,
+      "topic": "Shipping pressure exposes hidden platform engineering work"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-24_20261024T200141Z_93642/clip_sources/840dc1555a8aeb46/01_AI_application_moats_Cursor_specialized_models_and.mp3",
+      "source": "What It Takes to Win as a Founder | Ben Horowitz",
+      "start_time": 524,
+      "end_time": 670,
+      "topic": "AI application moats: Cursor, specialized models, and customer inertia"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-10-24_20261024T200141Z_93642/clip_sources/f52808d84428fe9d/01_Distressed_debt_and_Dubais_underwater_collateral.mp3",
+      "source": "Embracing the Bond Market: Masters in Business with Robin Wigglesworth",
+      "start_time": 572,
+      "end_time": 692,
+      "topic": "Distressed debt and Dubai's underwater collateral"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
