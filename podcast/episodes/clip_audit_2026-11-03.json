@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-03",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-03_20261103T210030Z_42873/clip_sources/0a1066a589ac8ac0/01_AI_forecasting_laptop-scale_models_and_software_it.mp3",
+      "source": "Can AI Invent or Just Help Scientists Work Faster? with Richard Socher - #783",
+      "start_time": 607,
+      "end_time": 727,
+      "topic": "AI forecasting, laptop-scale models, and software iteration advantages"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-03_20261103T210030Z_42873/clip_sources/b1f797d73ad226d9/01_Persistent_inflation_and_shifting_portfolios_towar.mp3",
+      "source": "Seven Stocks Are 41% of the S&P | John Davi on Building Portfolios Beyond the Mag 7 Bet",
+      "start_time": 508,
+      "end_time": 675,
+      "topic": "Persistent inflation and shifting portfolios toward real assets"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-03_20261103T210030Z_42873/clip_sources/94309ac3338fc138/01_Adaptive_roadmaps_and_organizational_agility_at_Up.mp3",
+      "source": "Thriving in chaos: top leaders\u2019 strategies from Masters of Scale Summit",
+      "start_time": 623,
+      "end_time": 746,
+      "topic": "Adaptive roadmaps and organizational agility at Upwork"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-03_20261103T210030Z_42873/clip_sources/1e312fb6f80c315e/01_Distribution_infrastructure_commodity_inventory_ri.mp3",
+      "source": "K.C. Irving: Competing with Giants",
+      "start_time": 619,
+      "end_time": 746,
+      "topic": "Distribution infrastructure, commodity inventory risk, and geographic price differences"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
