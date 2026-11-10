@@ -1,0 +1,369 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:07.040
+Today on the daily rundown, when building your own AI model pays off, and how household wealth shapes spending.
+
+2
+00:00:07.040 --> 00:00:15.440
+Then faster startup experiments, and Harvey Vallett decides which small teams deserve more investment.
+
+3
+00:00:15.440 --> 00:00:25.440
+On the TWIML AI podcast, Stefano Corazza from Canva discusses how proprietary data and inference costs shape specialized models.
+
+4
+00:00:25.440 --> 00:00:31.200
+A useful backdrop to today's Amazon model switching news.
+
+5
+00:00:47.520 --> 00:00:55.680
+No, I think it's very interesting because I think it also applies to other companies, maybe of similar size, when basically you there's two factors.
+
+6
+00:00:55.680 --> 00:00:59.520
+So first of all, you have unique data that nobody else has.
+
+7
+00:01:13.680 --> 00:01:22.880
+And I'm sure there's a lot of companies that are like in the you know, uh, thousands of employees that or even smaller that will do that and where it makes sense.
+
+8
+00:01:22.880 --> 00:01:42.880
+And so uh for us, it was kind of the discovery of the fact that you can have uh you can fine-tune or train a model that is two orders of magnitude, fewer parameters if you have the data, and you can beat the bigger model, and then because it's smaller, you're gonna be like another magnitude faster and cheaper, right?
+
+9
+00:01:42.880 --> 00:01:46.080
+So that is the you know, the belief that we had.
+
+10
+00:01:46.080 --> 00:01:58.560
+And right, you know, right now we are in the you know 40x cheaper than like the most expensive frontier models that can do the same design task, but they are using, you know, uh, oh, there's a minute to more parameters to do it.
+
+11
+00:01:58.560 --> 00:02:17.800
+Instead, we have like smaller models that we can fine-tune, we can uh, you know, do reforced learning with unique data that we have, and we can risk it uh squeeze a lot more, you know, same level of quality, sometimes better, but most importantly, like incredible uh uh speed and and cost reduction.
+
+12
+00:02:17.960 --> 00:02:19.240
+So that's one part.
+
+13
+00:02:19.240 --> 00:02:25.400
+The second part is that the product itself with AI is evolving it dramatically, right?
+
+14
+00:02:25.400 --> 00:02:30.040
+And the way uh AI is helping humans generate design is really changing.
+
+15
+00:02:30.040 --> 00:02:34.520
+And so there has been a lot of like I'll say siloed innovation.
+
+16
+00:02:34.520 --> 00:02:38.840
+We're like, okay, I have an image model, the image model.
+
+17
+00:02:38.840 --> 00:02:52.600
+On excess returns, the guest argues that rising wealth is driving American spending with consumption, roughly 70% of US GDP that matters for businesses counting on customer demands.
+
+18
+00:02:53.400 --> 00:02:55.880
+That's going on in this country right now.
+
+19
+00:02:55.880 --> 00:02:58.360
+So a couple of things to keep in mind.
+
+20
+00:02:58.360 --> 00:03:09.640
+You know, when you look at US GDP, uh, we're a little unusual globally in that about 70% of our GDP is consumption, right?
+
+21
+00:03:09.640 --> 00:03:13.080
+Developed markets, it's 60% ish is the average.
+
+22
+00:03:13.080 --> 00:03:16.680
+Emerging is a little bit lower than that, but a big piece of it is consumption.
+
+23
+00:03:16.680 --> 00:03:22.360
+So consumers keep spending, uh, then real GDP growth should be going in the right direction.
+
+24
+00:03:22.360 --> 00:03:32.200
+But if you dive into that a little bit more, uh, you'll find that a big piece of that total consumption is in that very top of the wealth spectrum.
+
+25
+00:03:32.200 --> 00:03:40.840
+So the top 20% of the wealthiest individuals or families in the United States account for about 40% of total consumption.
+
+26
+00:03:40.840 --> 00:03:50.000
+And what you've experienced in the last several years is that segment of the population is wealthier than they have ever been by far.
+
+27
+00:03:50.240 --> 00:03:57.600
+You've had equity markets, double digit returns over the last several years were you know up a hundred percent in the last five.
+
+28
+00:03:57.600 --> 00:04:02.720
+Uh real estate prices are up, obviously yields are up, meaning interest income is up.
+
+29
+00:04:02.720 --> 00:04:17.520
+Um and another really interesting thing happened following the uh the COVID crisis is that the marginal propensity to consume out of wealth, so how much wealth consumption exists, uh, is actually more than doubled.
+
+30
+00:04:17.520 --> 00:04:25.760
+So here you have a situation where your biggest spenders are wealthier than they have ever been, and they're spending more out of their wealth than they've ever spent.
+
+31
+00:04:25.760 --> 00:04:28.160
+There's a lot of gas in that tank.
+
+32
+00:04:28.160 --> 00:04:32.400
+Uh, and I think unambiguously that is what has propelled the U.S.
+
+33
+00:04:32.400 --> 00:04:38.400
+economy forward over the last several years, um, and potentially will going forward as well.
+
+34
+00:04:38.400 --> 00:04:50.800
+So uh barring any major um, you know, volatility events, if you will, in markets, and when I mean that, I mean a sustained drawdown, uh, I think that wealth effect is alive and well.
+
+35
+00:04:50.800 --> 00:04:54.000
+And that overshadows any of the headlines that we see.
+
+36
+00:04:54.000 --> 00:05:02.320
+So um, you know, these are major events, but from a macro perspective, I think that wealth uh wealth effect.
+
+37
+00:05:02.400 --> 00:05:23.880
+On the uh 16Z podcast, HubSpot's co-founder discusses how AI coding tools shorten product experiments, making it easier for builders to test ideas before committing more tools in the tool chest of builders, and we're expanding the scope of who can be a builder, which is awesome too.
+
+38
+00:05:23.920 --> 00:05:31.480
+But a lot of it is still the same, and we're still dealing with kind of similar issues, and it's just nice to be able to work at a higher level of abstraction.
+
+39
+00:05:29.520 --> 00:05:42.600
+It's always a good time to do a startup, but it's a great time to do a startup, is that because we're working at such high levels of abstraction, AI lets you iterate so much faster.
+
+40
+00:05:31.480 --> 00:05:34.040
+And one of the reasons I think this is a great time.
+
+41
+00:05:42.600 --> 00:05:43.000
+Oh, yeah.
+
+42
+00:05:43.000 --> 00:05:46.920
+So you can learn the lessons that might have taken you six months, a year, or two years to do.
+
+43
+00:05:46.920 --> 00:05:49.320
+It's like, okay, well, just try it.
+
+44
+00:05:49.320 --> 00:05:53.800
+Build something, get something out there, test it with actual users and customers and see what happens.
+
+45
+00:05:53.800 --> 00:05:56.200
+And that just wasn't possible before.
+
+46
+00:05:56.200 --> 00:05:57.640
+Oh my gosh, I totally agree with you.
+
+47
+00:05:57.640 --> 00:06:01.560
+And I wish you could see all the things that we're even building here at our venture capital firm, right?
+
+48
+00:06:01.560 --> 00:06:04.440
+I mean, and so it's it even being on the front lines is so much more fun.
+
+49
+00:06:04.440 --> 00:06:16.360
+This is actually leads into a question I wanted to talk to you about, which is I think historically, and if you look especially at the businesses you've built, you would start in some very narrow product surface and for a very narrow type of customer.
+
+50
+00:06:16.360 --> 00:06:25.160
+How have you observed this changing with that fast iterative process and the ability to build so much more, create so much more software so much faster?
+
+51
+00:06:25.160 --> 00:06:27.080
+I'd love to hear you talk a little bit about that.
+
+52
+00:06:27.080 --> 00:06:31.000
+Yeah, I've been in kind of the startup world directly and indirectly for a long time.
+
+53
+00:06:31.000 --> 00:06:39.800
+I still think of myself as a startup guy, is that picking the ideas has always been like one of the hardest things, especially for first-time founders that haven't been through it.
+
+54
+00:06:39.800 --> 00:06:43.240
+And even now, after 30 years, I think I'm marginally better at it than I used to be.
+
+55
+00:06:43.240 --> 00:06:57.720
+But one of the things I think the common mistakes entrepreneurs make in terms of kind of idea selection is that they they think it's a matter of rigorous analysis that we're gonna have this kind of 18-column spreadsheet that's gonna give me all the coefficients that out's gonna spit the best possible idea.
+
+56
+00:06:58.040 --> 00:07:00.760
+Yeah, the number of times I've seen the US Census file.
+
+57
+00:07:01.000 --> 00:07:01.640
+Yeah, exactly.
+
+58
+00:07:01.640 --> 00:07:05.960
+Oh, there's 18,000 lawyer law firms between two and five and it's not relevant.
+
+59
+00:07:06.200 --> 00:07:06.440
+Yeah.
+
+60
+00:07:06.440 --> 00:07:20.080
+And what I've experienced, and then not just to me, it's not just uh data point of one, but even talking to other founders, is that it's almost impossible to know a priori what the quality, quote unquote, of an idea is or its kind of probability of success or what the outcome is going to look like.
+
+61
+00:07:20.320 --> 00:07:26.320
+And the only real way to test an idea is to actually, or know if an idea is good is to actually test it.
+
+62
+00:07:27.040 --> 00:07:29.920
+Faster experiments still need funding decisions.
+
+63
+00:07:29.920 --> 00:07:39.360
+On Cheeky Pine, Revolut CEO Nick Storinski explains how small product teams earn further investment through customer demand and commercial validation.
+
+64
+00:07:44.400 --> 00:07:46.160
+In the majority of cases it makes sense.
+
+65
+00:07:46.560 --> 00:07:54.080
+Because cost of the team is pretty low compared to if idea is uh useful for customers, they pay for it.
+
+66
+00:07:54.080 --> 00:07:58.880
+You can generate like tens of millions of dollars, right, compared to cost of the team which is small.
+
+67
+00:07:58.880 --> 00:08:09.600
+And then it goes to uh people who uh built uh new best before, and then general managers, and then they also validate it from uh again purely common sense perspective.
+
+68
+00:08:09.600 --> 00:08:15.360
+And then if everything is approved, then uh we uh separate a small team.
+
+69
+00:08:15.360 --> 00:08:22.000
+We we hire people there, additional people there, uh then they build a product within uh nine to eighteen months.
+
+70
+00:08:22.000 --> 00:08:24.080
+Uh and then we look at the growth of the product.
+
+71
+00:08:24.080 --> 00:08:29.040
+So if the if there is a lot of growth, then we scale up the team.
+
+72
+00:08:29.040 --> 00:08:33.040
+So one team becomes two teams, three teams, four teams, department, and so on.
+
+73
+00:08:33.040 --> 00:08:40.880
+And then for the bets which don't grow, we sunset them, and then for bets slash grow but not very fast, we just uh leave them alone.
+
+74
+00:08:40.880 --> 00:08:47.360
+But I'm surprised that ideas would need to be validated economically because you're distributing products across millions of customers.
+
+75
+00:08:47.360 --> 00:08:55.760
+Won't the cost of uh, you know, can't kind of any idea support a five to ten person engineering team to go develop a V1 of this?
+
+76
+00:08:55.760 --> 00:09:02.520
+Like it's very unlikely that a product won't work economically when you have such a large customer base and you can kind of fix it with pricing.
+
+77
+00:09:02.520 --> 00:09:12.040
+Like example is we launch revolution light across many countries, 100 plus countries without a banking license and without our e-money license, purely like in our money trans business.
+
+78
+00:09:12.040 --> 00:09:17.000
+And then the idea was to build the Venma uh internationally.
+
+79
+00:09:17.000 --> 00:09:25.800
+Uh it didn't really work out because uh we thought distribution costs would be much lower.
+
+80
+00:09:25.800 --> 00:09:28.680
+So it didn't really grow organically fast enough.
+
+81
+00:09:28.680 --> 00:09:35.800
+So we had to do performance marketing, and then uh unit economics uh with the performance marketing didn't really work in terms of payback.
+
+82
+00:09:35.800 --> 00:09:40.040
+So, in majority of cases, 90% of uh 90% of cases, yes, you're right.
+
+83
+00:09:40.040 --> 00:09:42.920
+Uh if it works out, it works all very well financially.
+
+84
+00:09:42.920 --> 00:09:46.200
+But there are some cases, exceptions which you still need to validate.
+
+85
+00:09:46.200 --> 00:09:53.880
+Brian Armstrong from Coinbase has talked about how when he was first pitched USTC, he thought it was kind of a silly idea.
+
+86
+00:09:53.880 --> 00:09:55.800
+He wasn't convinced, but sure, okay.
+
+87
+00:09:55.800 --> 00:09:58.680
+If you guys want to go work on that, have at it.
+
+88
+00:09:58.680 --> 00:10:04.920
+Are there ideas that came to you that you were initially not fully convinced, but ended up being successful?
+
+89
+00:10:04.920 --> 00:10:10.600
+To be honest, I'm always uh in 99% of cases, I'm always up for new ideas and just trying to.
+
+90
+00:10:14.360 --> 00:10:15.960
+That's the daily rundown.
+
+91
+00:10:15.960 --> 00:10:17.880
+Thanks for listening.
+
+92
+00:10:17.880 --> 00:10:19.800
+Catch you next time.

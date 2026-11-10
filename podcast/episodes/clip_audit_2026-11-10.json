@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-10",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-10_20261110T230235Z_1997/clip_sources/7780956cfbde50df/01_Scene_graphs_as_an_editable_interface_between_LLMs.mp3",
+      "source": "Canva Is Tackling AI Design\u2019s Most Frustrating Problem with Stefano Corazza- #784",
+      "start_time": 406,
+      "end_time": 529,
+      "topic": "Scene graphs as an editable interface between LLMs and image generation"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-10_20261110T230235Z_1997/clip_sources/4d529c22b2a0dd74/01_Fed_rate_hikes_and_weakening_monetary-policy_trans.mp3",
+      "source": "This $1.5 Trillion Manager Expects More Fed Hikes. So Why Is He Still Bullish?",
+      "start_time": 448,
+      "end_time": 570,
+      "topic": "Fed rate hikes and weakening monetary-policy transmission"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-10_20261110T230235Z_1997/clip_sources/d659e14874aaa1c8/01_Cheaper_software_creation_makes_distribution_a_har.mp3",
+      "source": "HubSpot\u2019s Co-Founder on Finding Your Next Startup Idea",
+      "start_time": 390,
+      "end_time": 518,
+      "topic": "Cheaper software creation makes distribution a harder bottleneck"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-10_20261110T230235Z_1997/clip_sources/a0aca09d4c2aa132/01_Why_international_payments_expansion_failed_its_un.mp3",
+      "source": "Nik Storonsky: The most uncompromising banking CEO",
+      "start_time": 330,
+      "end_time": 453,
+      "topic": "Why international payments expansion failed its unit-economics test"
+    }
+  ],
+  "same_source_spacing_findings": []
+}

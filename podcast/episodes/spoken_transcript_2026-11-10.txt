@@ -1,0 +1,92 @@
+Today on the daily rundown, when building your own AI model pays off, and how household wealth shapes spending.
+Then faster startup experiments, and Harvey Vallett decides which small teams deserve more investment.
+On the TWIML AI podcast, Stefano Corazza from Canva discusses how proprietary data and inference costs shape specialized models.
+A useful backdrop to today's Amazon model switching news.
+No, I think it's very interesting because I think it also applies to other companies, maybe of similar size, when basically you there's two factors.
+So first of all, you have unique data that nobody else has.
+And I'm sure there's a lot of companies that are like in the you know, uh, thousands of employees that or even smaller that will do that and where it makes sense.
+And so uh for us, it was kind of the discovery of the fact that you can have uh you can fine-tune or train a model that is two orders of magnitude, fewer parameters if you have the data, and you can beat the bigger model, and then because it's smaller, you're gonna be like another magnitude faster and cheaper, right?
+So that is the you know, the belief that we had.
+And right, you know, right now we are in the you know 40x cheaper than like the most expensive frontier models that can do the same design task, but they are using, you know, uh, oh, there's a minute to more parameters to do it.
+Instead, we have like smaller models that we can fine-tune, we can uh, you know, do reforced learning with unique data that we have, and we can risk it uh squeeze a lot more, you know, same level of quality, sometimes better, but most importantly, like incredible uh uh speed and and cost reduction.
+So that's one part.
+The second part is that the product itself with AI is evolving it dramatically, right?
+And the way uh AI is helping humans generate design is really changing.
+And so there has been a lot of like I'll say siloed innovation.
+We're like, okay, I have an image model, the image model.
+On excess returns, the guest argues that rising wealth is driving American spending with consumption, roughly 70% of US GDP that matters for businesses counting on customer demands.
+That's going on in this country right now.
+So a couple of things to keep in mind.
+You know, when you look at US GDP, uh, we're a little unusual globally in that about 70% of our GDP is consumption, right?
+Developed markets, it's 60% ish is the average.
+Emerging is a little bit lower than that, but a big piece of it is consumption.
+So consumers keep spending, uh, then real GDP growth should be going in the right direction.
+But if you dive into that a little bit more, uh, you'll find that a big piece of that total consumption is in that very top of the wealth spectrum.
+So the top 20% of the wealthiest individuals or families in the United States account for about 40% of total consumption.
+And what you've experienced in the last several years is that segment of the population is wealthier than they have ever been by far.
+You've had equity markets, double digit returns over the last several years were you know up a hundred percent in the last five.
+Uh real estate prices are up, obviously yields are up, meaning interest income is up.
+Um and another really interesting thing happened following the uh the COVID crisis is that the marginal propensity to consume out of wealth, so how much wealth consumption exists, uh, is actually more than doubled.
+So here you have a situation where your biggest spenders are wealthier than they have ever been, and they're spending more out of their wealth than they've ever spent.
+There's a lot of gas in that tank.
+Uh, and I think unambiguously that is what has propelled the U.S.
+economy forward over the last several years, um, and potentially will going forward as well.
+So uh barring any major um, you know, volatility events, if you will, in markets, and when I mean that, I mean a sustained drawdown, uh, I think that wealth effect is alive and well.
+And that overshadows any of the headlines that we see.
+So um, you know, these are major events, but from a macro perspective, I think that wealth uh wealth effect.
+On the uh 16Z podcast, HubSpot's co-founder discusses how AI coding tools shorten product experiments, making it easier for builders to test ideas before committing more tools in the tool chest of builders, and we're expanding the scope of who can be a builder, which is awesome too.
+But a lot of it is still the same, and we're still dealing with kind of similar issues, and it's just nice to be able to work at a higher level of abstraction.
+It's always a good time to do a startup, but it's a great time to do a startup, is that because we're working at such high levels of abstraction, AI lets you iterate so much faster.
+And one of the reasons I think this is a great time.
+Oh, yeah.
+So you can learn the lessons that might have taken you six months, a year, or two years to do.
+It's like, okay, well, just try it.
+Build something, get something out there, test it with actual users and customers and see what happens.
+And that just wasn't possible before.
+Oh my gosh, I totally agree with you.
+And I wish you could see all the things that we're even building here at our venture capital firm, right?
+I mean, and so it's it even being on the front lines is so much more fun.
+This is actually leads into a question I wanted to talk to you about, which is I think historically, and if you look especially at the businesses you've built, you would start in some very narrow product surface and for a very narrow type of customer.
+How have you observed this changing with that fast iterative process and the ability to build so much more, create so much more software so much faster?
+I'd love to hear you talk a little bit about that.
+Yeah, I've been in kind of the startup world directly and indirectly for a long time.
+I still think of myself as a startup guy, is that picking the ideas has always been like one of the hardest things, especially for first-time founders that haven't been through it.
+And even now, after 30 years, I think I'm marginally better at it than I used to be.
+But one of the things I think the common mistakes entrepreneurs make in terms of kind of idea selection is that they they think it's a matter of rigorous analysis that we're gonna have this kind of 18-column spreadsheet that's gonna give me all the coefficients that out's gonna spit the best possible idea.
+Yeah, the number of times I've seen the US Census file.
+Yeah, exactly.
+Oh, there's 18,000 lawyer law firms between two and five and it's not relevant.
+Yeah.
+And what I've experienced, and then not just to me, it's not just uh data point of one, but even talking to other founders, is that it's almost impossible to know a priori what the quality, quote unquote, of an idea is or its kind of probability of success or what the outcome is going to look like.
+And the only real way to test an idea is to actually, or know if an idea is good is to actually test it.
+Faster experiments still need funding decisions.
+On Cheeky Pine, Revolut CEO Nick Storinski explains how small product teams earn further investment through customer demand and commercial validation.
+In the majority of cases it makes sense.
+Because cost of the team is pretty low compared to if idea is uh useful for customers, they pay for it.
+You can generate like tens of millions of dollars, right, compared to cost of the team which is small.
+And then it goes to uh people who uh built uh new best before, and then general managers, and then they also validate it from uh again purely common sense perspective.
+And then if everything is approved, then uh we uh separate a small team.
+We we hire people there, additional people there, uh then they build a product within uh nine to eighteen months.
+Uh and then we look at the growth of the product.
+So if the if there is a lot of growth, then we scale up the team.
+So one team becomes two teams, three teams, four teams, department, and so on.
+And then for the bets which don't grow, we sunset them, and then for bets slash grow but not very fast, we just uh leave them alone.
+But I'm surprised that ideas would need to be validated economically because you're distributing products across millions of customers.
+Won't the cost of uh, you know, can't kind of any idea support a five to ten person engineering team to go develop a V1 of this?
+Like it's very unlikely that a product won't work economically when you have such a large customer base and you can kind of fix it with pricing.
+Like example is we launch revolution light across many countries, 100 plus countries without a banking license and without our e-money license, purely like in our money trans business.
+And then the idea was to build the Venma uh internationally.
+Uh it didn't really work out because uh we thought distribution costs would be much lower.
+So it didn't really grow organically fast enough.
+So we had to do performance marketing, and then uh unit economics uh with the performance marketing didn't really work in terms of payback.
+So, in majority of cases, 90% of uh 90% of cases, yes, you're right.
+Uh if it works out, it works all very well financially.
+But there are some cases, exceptions which you still need to validate.
+Brian Armstrong from Coinbase has talked about how when he was first pitched USTC, he thought it was kind of a silly idea.
+He wasn't convinced, but sure, okay.
+If you guys want to go work on that, have at it.
+Are there ideas that came to you that you were initially not fully convinced, but ended up being successful?
+To be honest, I'm always uh in 99% of cases, I'm always up for new ideas and just trying to.
+That's the daily rundown.
+Thanks for listening.
+Catch you next time.
