@@ -1,0 +1,481 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:08.480
+Today on the daily rundown, AIS infrastructure bill, what machine made proofs actually tell us, and NVIDIA versus Walmart.
+
+2
+00:00:08.480 --> 00:00:14.640
+Then, Axon's founder on building fast before the money runs out.
+
+3
+00:00:14.640 --> 00:00:30.000
+On the A16Z podcast, Mike Volkey argues AIS revenue ramp sets today's build out apart from the internet boom, the stakes, infrastructure utilization, and credit risk at specialized cloud providers.
+
+4
+00:00:30.080 --> 00:00:45.200
+And the other component that is, I think, different is that the practical applicability of AI, I believe today is higher than the practical applicability at the time of network bandwidth.
+
+5
+00:00:45.200 --> 00:00:45.680
+Yep.
+
+6
+00:00:45.680 --> 00:00:49.200
+And that represents itself by the revenue ramp of the providers.
+
+7
+00:00:49.200 --> 00:01:10.160
+So if you look at the revenue ramp of anthropic, open AI, I don't know what the numbers look like within Google, even the providers of the open source models like Fireworks, Together, Modal, etc., etc., are definitely experiencing growth rates, maybe not quite at the same margins, but certainly growth rates that were far superior to what we saw at the time.
+
+8
+00:01:10.800 --> 00:01:12.960
+Now, then what happens?
+
+9
+00:01:12.960 --> 00:01:18.400
+At some point, there is a shock that some of these businesses that are built on the internet are not good enough.
+
+10
+00:01:18.400 --> 00:01:28.640
+And then that ripples through the industry, and ultimately the players that were most saddled with debt went bankrupt.
+
+11
+00:01:28.640 --> 00:01:40.800
+Now, it's interesting to note that debt was buying assets, fiber optic cables, and those assets actually turned out to be quite useful in the future.
+
+12
+00:01:40.800 --> 00:01:41.440
+Exactly.
+
+13
+00:01:41.440 --> 00:01:46.000
+Except they were operated by somebody else because the guys that went bankrupt didn't have them anymore.
+
+14
+00:01:46.480 --> 00:01:53.200
+So the first thing to recognize that the underlying assets that were built at the time is bandwidth, and I suspect this compute this time.
+
+15
+00:01:54.320 --> 00:01:55.440
+It'll be useful.
+
+16
+00:01:55.440 --> 00:01:57.520
+There's no question that it'll be useful.
+
+17
+00:01:57.520 --> 00:02:04.600
+Whether it will be owned by the same companies or not is an interesting economic question.
+
+18
+00:02:04.600 --> 00:02:12.360
+So that's a long-winded answer to say: do I think the build-out that's happening now is useful and will be fully utilized, if not more?
+
+19
+00:02:12.360 --> 00:02:13.320
+100%.
+
+20
+00:02:13.320 --> 00:02:16.120
+Will it be owned by the same people that own it today?
+
+21
+00:02:16.360 --> 00:02:18.280
+A lot of interesting dependencies.
+
+22
+00:02:18.280 --> 00:02:25.000
+And a lot of things that in fact are outside of the control, because they're macroeconomic and geopolitical and so forth.
+
+23
+00:02:25.000 --> 00:02:28.360
+It's really outside of the control of the builders themselves.
+
+24
+00:02:28.360 --> 00:02:33.240
+And in particular, when I talk about the builders, some of the balance sheets are pretty healthy, right?
+
+25
+00:02:33.240 --> 00:02:39.960
+It last count when I was talking to the folks at NVIDIA, there are 200 neo clouds.
+
+26
+00:02:55.480 --> 00:02:59.160
+In practice, many of those I would say we do care about, we can prove or disprove.
+
+27
+00:03:03.800 --> 00:03:05.640
+Not the ones that we encounter in real life.
+
+28
+00:03:05.640 --> 00:03:13.400
+And sometimes there are questions that you can't answer using the usual axioms or rules that you're allowed to use normally, but sometimes we add new rules.
+
+29
+00:03:13.400 --> 00:03:17.800
+There are other foundations of mathematics which can prove more things than the standard ones.
+
+30
+00:03:17.800 --> 00:03:20.200
+And sometimes we do play with different rules.
+
+31
+00:03:20.280 --> 00:03:24.840
+Kind of like when we play chess, you know, there are some standard russ of chess, and but sometimes we also consider other variants.
+
+32
+00:03:24.840 --> 00:03:31.400
+We've moved to a more pluralistic view of mathematics where there isn't just like one true mathematics and one universe of true and false facts.
+
+33
+00:03:31.400 --> 00:03:38.440
+There's kind of a standard one, but we do also consider more exotic alternate types of mathematics where we have more rules or fewer rules.
+
+34
+00:03:38.440 --> 00:03:41.560
+And there's kind of a multiverse of different types of mathematics to play with.
+
+35
+00:03:41.560 --> 00:03:43.480
+We have different number systems, we have different geometries.
+
+36
+00:03:43.480 --> 00:03:47.600
+Mathematics has evolved over time to just a more pluralistic uh view of everything.
+
+37
+00:03:47.760 --> 00:03:53.840
+We are comfortable with it now, but it it was a very unsettling, uneasy feeling to discover this result in 1930.
+
+38
+00:03:53.840 --> 00:03:56.160
+Your world view of mathematics changed.
+
+39
+00:03:56.160 --> 00:03:59.680
+It's as if you thought the earth was stationary and now you know it moves.
+
+40
+00:03:59.760 --> 00:04:04.560
+Is it fair to say your overall approach to the foundations of math is quite pragmatic?
+
+41
+00:04:04.560 --> 00:04:06.880
+So it's not Hilbert, it's not Brower.
+
+42
+00:04:06.880 --> 00:04:11.360
+So there's almost really no result that could come along that would make you feel nihilistic.
+
+43
+00:04:11.360 --> 00:04:13.760
+It's just there's different avenues to explore things.
+
+44
+00:04:13.760 --> 00:04:15.520
+Or is your view different than that?
+
+45
+00:04:15.520 --> 00:04:17.840
+Yeah, I try to be have some humility.
+
+46
+00:04:17.840 --> 00:04:21.360
+There are certain mathematical models that I like, and I think they explain the real world.
+
+47
+00:04:21.360 --> 00:04:27.440
+But you know, there have been revolutions in the past where quantum mechanics you mentioned was very big philosophical transition in physics.
+
+48
+00:04:27.440 --> 00:04:40.080
+You know, uh, we are currently going through a transition where most of mathematics was was human generated, and we're now going entering an era where we have proofs are being generated by AI, and this is also changing philosophical foundations of what does it mean to prove something?
+
+49
+00:04:40.080 --> 00:04:41.440
+What does it mean to understand something?
+
+50
+00:04:41.440 --> 00:04:46.560
+As I said, these two statements used to be almost synonymous, and now they have been decoupled quite severely.
+
+51
+00:04:46.560 --> 00:04:50.320
+So I try to keep an open mind, uh, which I think is part of what it means to be a good scientist.
+
+52
+00:04:50.320 --> 00:04:55.600
+You know, you you you don't have a dogmatic view of what uh science is or or isn't.
+
+53
+00:04:55.600 --> 00:04:58.240
+You update it based on events and and new data.
+
+54
+00:04:58.240 --> 00:05:03.840
+And how much do you read in the earlier history of mathematics, say like 19th century, early 20th century?
+
+55
+00:05:03.840 --> 00:05:07.520
+Do you learn by doing that, or it's just a fun thing you do as a hobby?
+
+56
+00:05:07.520 --> 00:05:15.440
+I think mathematics on excess returns, the discussion pits NVIDIA against Walmart at 46 times earnings.
+
+57
+00:05:15.440 --> 00:05:23.040
+Are investors judging business fundamentals or paying a premium for stocks that feel safer?
+
+58
+00:05:23.200 --> 00:05:25.840
+On capital are gonna be what the growth rates are.
+
+59
+00:05:25.840 --> 00:05:34.040
+Um, but let's just say they aren't about the cost of capital, and let's just say they're going to grow revenues at 10% for the next 10 years.
+
+60
+00:05:34.040 --> 00:05:37.000
+That stock today is trading at 19 times.
+
+61
+00:05:37.000 --> 00:05:44.440
+Or I can go buy Walmart today that's growing at 5% with much lower returns on capital for 46 times four livings.
+
+62
+00:05:44.440 --> 00:05:49.880
+Now, why is Walmart going up, Procter Gamble going up, Colgate going up, Costco?
+
+63
+00:05:49.960 --> 00:06:00.760
+All of them trading extremely rich relative to their fundamental value is because when markets sell off, you buy low volatility stocks.
+
+64
+00:06:00.760 --> 00:06:03.400
+You buy defensive positions.
+
+65
+00:06:03.400 --> 00:06:14.440
+And so it's not surprising at all that if you're going to flush down the tech space, you turn to the other side of the screen and you see the SP, high dividend mobility uh indexes through the roof.
+
+66
+00:06:14.440 --> 00:06:19.080
+You see SPLB, which virtues the number one holding, it's through the roof.
+
+67
+00:06:19.080 --> 00:06:26.760
+So the offensive side of the board moves to the defense, and they typically will buy things without thinking about whether they're undervalued or not.
+
+68
+00:06:26.760 --> 00:06:33.080
+It's just that I'm gonna own them because they're not gonna go down a lot over the next few days and the next week or two, buy things that don't go down.
+
+69
+00:06:33.080 --> 00:06:37.720
+And that's what the market's been doing over the last couple of days is buying things that won't go down.
+
+70
+00:06:37.720 --> 00:06:49.560
+And and so it's gonna set up, as Chris points out, it's gonna set up some very interesting dynamics where the reverse trade is you should be selling your consumer staples in here and you should be leading into tech.
+
+71
+00:06:49.560 --> 00:06:59.880
+Now the timing of that is always the million dollar question, but that is probably the most thoughtful strategy is to lighten your staples and move into tech because it's already changed.
+
+72
+00:06:59.880 --> 00:07:03.080
+I mean, it's already it's already moved, as Chris pointed out.
+
+73
+00:07:03.080 --> 00:07:07.000
+Well, luckily we have world-class day trader here, Chris Mayer, Chris.
+
+74
+00:07:06.960 --> 00:07:07.480
+Yeah, yeah.
+
+75
+00:07:07.440 --> 00:07:07.880
+Right.
+
+76
+00:07:08.360 --> 00:07:08.840
+What about me?
+
+77
+00:07:09.640 --> 00:07:10.080
+That's the thing.
+
+78
+00:07:10.080 --> 00:07:16.240
+Like you think about a lot of this stuff happening, of course, very short-term focused, but nonetheless, I mean we just take a step back.
+
+79
+00:07:17.520 --> 00:07:27.840
+I think it's I feel highly confident saying that AI technology in some form is going to be here in 10 years from now, and it's going to be used much more heavily than it is now.
+
+80
+00:07:31.280 --> 00:07:32.560
+Yeah, that backdrop.
+
+81
+00:07:32.560 --> 00:07:36.800
+Um, surely there are some very good business.
+
+82
+00:07:36.800 --> 00:07:43.840
+On all in, Axon CEO Rick Smith recalls building his first prototype in 30 days with friends and family funding.
+
+83
+00:07:43.840 --> 00:07:50.160
+How startup speed and tight financing shape the search for product market fit.
+
+84
+00:07:51.200 --> 00:07:56.880
+As I look back, you just you don't realize how fast you move when you're a startup relative to the rest of the world.
+
+85
+00:07:56.880 --> 00:08:00.640
+Like we built our first prototype in 30 days from Go.
+
+86
+00:08:00.640 --> 00:08:02.320
+You know, now I've got 6,000 people.
+
+87
+00:08:03.040 --> 00:08:04.240
+It was 93.
+
+88
+00:08:04.240 --> 00:08:05.360
+93.
+
+89
+00:08:05.360 --> 00:08:09.760
+And you started a company right away and built the first prototype with your own money?
+
+90
+00:08:09.760 --> 00:08:11.360
+Uh yeah, it was friends and family.
+
+91
+00:08:11.360 --> 00:08:14.000
+My now, my dad was a serial entrepreneur.
+
+92
+00:08:14.000 --> 00:08:17.760
+Uh, and he had had one successful company in Silicon Valley.
+
+93
+00:08:17.760 --> 00:08:22.240
+So he knew a lot of the VCs, but no VC would touch us, right?
+
+94
+00:08:22.240 --> 00:08:24.320
+We weren't the internet in late 90s.
+
+95
+00:08:24.320 --> 00:08:26.400
+It was right in the peak internet boom.
+
+96
+00:08:26.400 --> 00:08:32.320
+Um, and again, everybody uh thought we were this sort of oddball uh oddball thing.
+
+97
+00:08:32.320 --> 00:08:42.400
+And I'm actually pretty proud now that we've seen enough success that uh, and with the changes in the world that defense and policing technology is now much more mainstream than it was back then.
+
+98
+00:08:42.400 --> 00:08:46.240
+But this was a handheld taser device.
+
+99
+00:08:46.240 --> 00:08:48.000
+What what was the market initially?
+
+100
+00:08:48.000 --> 00:08:50.480
+Was it to sell into police forces?
+
+101
+00:08:50.480 --> 00:08:51.920
+How did you think you were gonna go to market?
+
+102
+00:08:51.920 --> 00:08:53.600
+And what what was your first sale?
+
+103
+00:08:53.600 --> 00:08:54.160
+Yeah.
+
+104
+00:08:54.160 --> 00:08:58.160
+No, our first our our first market was consumers.
+
+105
+00:08:58.160 --> 00:09:06.600
+So uh, you know, police could buy the original taser, but due to a basically the original taser was a firearm, but it looked like a flashlight.
+
+106
+00:09:06.680 --> 00:09:12.360
+That puts it into this category two, which is like a sought-off shotgun, which effectively makes it illegal.
+
+107
+00:09:12.360 --> 00:09:13.160
+Very hard to buy.
+
+108
+00:09:13.160 --> 00:09:14.680
+But police could still buy them.
+
+109
+00:09:14.680 --> 00:09:21.480
+So our theory was if we made this new taser weapon using compressed air instead of gunpowder, it would not be a firearm.
+
+110
+00:09:21.480 --> 00:09:25.000
+And then people like my mom could go buy it to defend herself.
+
+111
+00:09:25.000 --> 00:09:27.240
+And she had recently bought a gun around that same time.
+
+112
+00:09:27.240 --> 00:09:31.480
+So we started in the consumer market and we struggled and we didn't really succeed.
+
+113
+00:09:31.480 --> 00:09:37.080
+And what we heard from consumers was hey, if this thing, you know, really works, why aren't the police using it?
+
+114
+00:09:37.080 --> 00:09:41.320
+And so we basically realized we we need to go prove this works in policing.
+
+115
+00:09:41.320 --> 00:09:47.000
+So after seven years of struggling and failing, we pivoted into the police market in late 99.
+
+116
+00:09:47.000 --> 00:09:48.760
+And that's when the business took off.
+
+117
+00:09:48.760 --> 00:10:02.520
+But like MacArthur to the Philippines, I will return to the consumer market once we have proven with police that the taser is as effective or even more effective.
+
+118
+00:10:02.520 --> 00:10:04.200
+That's the daily rundown.
+
+119
+00:10:04.200 --> 00:10:06.040
+Thanks for listening.
+
+120
+00:10:06.040 --> 00:10:08.040
+Catch you next time.

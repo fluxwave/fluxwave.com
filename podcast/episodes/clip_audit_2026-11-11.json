@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-11",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-11_20261111T225718Z_83356/clip_sources/4fab07425ff27222/01_Interest_rates_and_financing_structures_behind_the.mp3",
+      "source": "What the Internet Boom Teaches Us About the AI Buildout | Mike Volpi",
+      "start_time": 512,
+      "end_time": 638,
+      "topic": "Interest rates and financing structures behind the AI build-out"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-11_20261111T225718Z_83356/clip_sources/c4ed12ac53b705e3/01_AI-generated_mathematical_discoveries_and_the_limi.mp3",
+      "source": "Terence Tao on Proof, Beauty, and the Future of Mathematics",
+      "start_time": 300,
+      "end_time": 435,
+      "topic": "AI-generated mathematical discoveries and the limits of formal proof"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-11_20261111T225718Z_83356/clip_sources/b7a6d3d0a259c3df/01_Separating_established_AI_platforms_from_speculati.mp3",
+      "source": "Tech Is the Cheapest Since 2022. Walmart Is 46 Times Earnings. Where Is the Bubble?",
+      "start_time": 439,
+      "end_time": 567,
+      "topic": "Separating established AI platforms from speculative neoclouds"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-11_20261111T225718Z_83356/clip_sources/b097f58f258c6999/01_Pivoting_from_consumers_to_police_as_a_credibility.mp3",
+      "source": "Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing",
+      "start_time": 385,
+      "end_time": 515,
+      "topic": "Pivoting from consumers to police as a credibility-building strategy"
+    }
+  ],
+  "same_source_spacing_findings": []
+}
