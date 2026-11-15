@@ -1,0 +1,465 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:01.760
+Welcome to the daily rundown.
+
+2
+00:00:01.760 --> 00:00:10.320
+Today, AIS earnings expectations, the strain of scaling aircraft production, and what growth can cost a company beyond money.
+
+3
+00:00:10.320 --> 00:00:15.600
+Source credits and links are in the chapters and show notes.
+
+4
+00:00:15.600 --> 00:00:29.760
+With AI spending in focus, market strategist Jareen Timmer discusses why investors may pay more for sustained earnings growth in a temporary surge, and how interest rates complicate the valuation math.
+
+5
+00:00:33.120 --> 00:00:45.040
+So so his history shows that investors don't pay up for peak earnings unless you're in some sort of uh uh uh an irrational exuberance period, right?
+
+6
+00:00:45.040 --> 00:00:58.560
+So earnings are cyclical, at least they they they generally are, and um investors will pay up for good earnings and especially good sustained earnings, so let's say 10-15% growth.
+
+7
+00:00:58.560 --> 00:01:16.560
+Uh, but when you have growth at 40% as as the growth is right now, or 50% as it was in 2021 following the base effect, you know, recovery after COVID, investors generally don't pay up for that uh because you know they're they don't want to pay for peak earnings growth.
+
+8
+00:01:16.560 --> 00:01:25.920
+Now there are exceptions, and actually 2021 was one of those exceptions where investors were paying 2021 times earnings, even though earnings were growing 50%.
+
+9
+00:01:25.920 --> 00:01:29.440
+And of course, we know what happened next in 2022.
+
+10
+00:01:29.440 --> 00:01:46.800
+Today uh investors are paying it about uh especially after yesterday, about 18 times next 12 month earnings, which doesn't seem like a lot, and I don't think it is a lot, and and you know, it it was that's several points below where it was even six months ago.
+
+11
+00:01:46.800 --> 00:01:56.880
+And I think part of that is is just a reflection of the likelihood that you know earnings, the forward estimate is up 38% from a year ago.
+
+12
+00:01:56.880 --> 00:02:03.480
+Um, as as bullish as you can be on earnings, those kinds of second derivatives are very hard to maintain.
+
+13
+00:02:03.560 --> 00:02:08.680
+You just can't keep growing at those levels, and investors are just not paying for that.
+
+14
+00:02:08.680 --> 00:02:11.480
+Um there's a couple of other components to that.
+
+15
+00:02:11.480 --> 00:02:12.920
+One, of course, is interest rates.
+
+16
+00:02:12.920 --> 00:02:15.720
+You know, you think about the discount cash flow model.
+
+17
+00:02:15.720 --> 00:02:27.160
+Uh, the denominator of that model is the cost of capital, and the cost of capital, uh, until recently at least has been rising, and that lowers the present value of future cash flows.
+
+18
+00:02:27.160 --> 00:02:31.960
+So uh rising rates was part of that lower multiple as well.
+
+19
+00:02:31.960 --> 00:02:47.400
+And I think another important part is that um, especially the Magnificent 7, which of course are almost 40% of the market, um, they used to pay out 90% of their very formidable earnings growth.
+
+20
+00:02:47.480 --> 00:02:49.960
+What breaks when production grows tenfold?
+
+21
+00:02:49.960 --> 00:02:57.720
+Starting on Zipline's aircraft assembly line, this discussion examines why operating systems need rebuilding as output scales.
+
+22
+00:02:57.720 --> 00:03:04.120
+A practical counterpart to today's SpaceX flight milestone.
+
+23
+00:03:04.120 --> 00:03:06.520
+This is the very start of the production line.
+
+24
+00:03:06.520 --> 00:03:08.520
+This is basically where everything's assembled.
+
+25
+00:03:08.520 --> 00:03:14.920
+So we're starting here with one piece of molded carbon fiber that supports every other part of the aircraft.
+
+26
+00:03:14.920 --> 00:03:26.920
+So we start with that as our base, and then as we go down the line, we are adding in all these different components, all the different electronics, avionics, and then uh at the end we have a completed aircraft and we test it.
+
+27
+00:03:26.920 --> 00:03:30.680
+Now that you're in the US, you're identifying a bunch of new problems.
+
+28
+00:03:30.680 --> 00:03:33.240
+How does it actually show up at Zipline?
+
+29
+00:03:33.240 --> 00:03:39.000
+The scale of what we're doing now is so much bigger than it was four years ago or eight years ago.
+
+30
+00:03:39.000 --> 00:03:43.560
+I think we were about seven or eight years in when we first crossed a million deliveries.
+
+31
+00:03:43.560 --> 00:03:49.120
+Zipline is now projecting that we'll be doing a million deliveries a day in the very near future.
+
+32
+00:03:50.960 --> 00:03:55.360
+Every 10x increase, almost everything in the company breaks.
+
+33
+00:03:55.360 --> 00:03:58.720
+It's like everything we were doing is totally irrelevant.
+
+34
+00:03:58.720 --> 00:04:00.960
+We need to rethink all of the human processes.
+
+35
+00:04:00.960 --> 00:04:03.520
+We need to rethink the maintenance paradigm and how that works.
+
+36
+00:04:03.520 --> 00:04:08.880
+The way manufacturing works is gonna change, and that 10x, you know, has to happen basically every year.
+
+37
+00:04:08.880 --> 00:04:14.560
+I think it requires a very clear sense of like no sacred cows inside the company.
+
+38
+00:04:14.560 --> 00:04:19.040
+Keller said that you're planning to grow a thousand X in the next thousand days.
+
+39
+00:04:19.360 --> 00:04:21.920
+How do you physically do that in this space?
+
+40
+00:04:21.920 --> 00:04:27.360
+This space that we're walking in right now, we didn't have this space even just like a month or two ago.
+
+41
+00:04:27.360 --> 00:04:30.960
+So we are really expanding all of our manufacturing footprint.
+
+42
+00:04:30.960 --> 00:04:32.080
+This is one production line.
+
+43
+00:04:32.080 --> 00:04:33.920
+We're gonna have many more.
+
+44
+00:04:33.920 --> 00:04:36.400
+So this is now it's like semi-completed.
+
+45
+00:04:36.400 --> 00:04:40.800
+Yeah, this is this is actually like almost the entire aircraft.
+
+46
+00:04:40.800 --> 00:04:43.360
+What specifically is this drone used for?
+
+47
+00:04:43.360 --> 00:04:44.880
+Uh so yeah, so we have two systems.
+
+48
+00:04:44.880 --> 00:04:48.400
+We have a long-range SIFT sub and then we have this as our home delivery system.
+
+49
+00:04:48.400 --> 00:04:49.280
+This is the home delivery system.
+
+50
+00:04:49.360 --> 00:04:50.400
+This is the home delivery system.
+
+51
+00:04:50.400 --> 00:04:52.000
+This is what's operating in Texas.
+
+52
+00:04:52.000 --> 00:04:52.560
+Wow.
+
+53
+00:04:52.560 --> 00:04:55.520
+Um, in Cleveland, in Arkansas.
+
+54
+00:04:55.520 --> 00:04:57.360
+Um, about to be a whole lot more places.
+
+55
+00:04:57.360 --> 00:05:01.040
+And so uh both that and our long-range system are both built right here.
+
+56
+00:05:01.040 --> 00:05:02.000
+Oh wow, that's cool.
+
+57
+00:05:02.000 --> 00:05:02.880
+Well, what about this?
+
+58
+00:05:02.880 --> 00:05:04.080
+Maybe we can go to it?
+
+59
+00:05:04.080 --> 00:05:07.360
+I want to see the the little guy.
+
+60
+00:05:07.360 --> 00:05:13.120
+Next, a discussion of NVIDIA's GPU lead and allegations of restricted AI chip smuggling.
+
+61
+00:05:13.120 --> 00:05:17.520
+The speakers argue that its chips give the United States a strategic advantage.
+
+62
+00:05:17.520 --> 00:05:23.280
+Putting export controls at the center of the AI competition.
+
+63
+00:05:36.280 --> 00:05:45.640
+That is what gives the United States a key advantage in this thing we call the AI or superintelligence race.
+
+64
+00:05:45.640 --> 00:05:54.360
+So I think this is a tragic situation, and I think that what's happened here is I mean, clearly it's not a great situation for all the individuals involved.
+
+65
+00:05:54.360 --> 00:05:58.520
+I don't think this redounds to the benefit of the United States either.
+
+66
+00:05:58.520 --> 00:06:05.080
+And it's very unfortunate that this whole situation could not have been resolved in a different way.
+
+67
+00:06:05.080 --> 00:06:10.280
+Now, let's talk about the story that's come out.
+
+68
+00:06:13.800 --> 00:06:19.480
+So one op is whatever Alice Wong was doing with or without the Chinese Communist Party.
+
+69
+00:06:28.120 --> 00:06:38.920
+We've talked on this podcast about how we do not believe that leading anti chip should go to China, and if there's any smuggling going on, that that is wrong, and that it should be stopped, and the government should crack down on that.
+
+70
+00:06:38.920 --> 00:06:41.240
+So that investigation should continue.
+
+71
+00:06:41.240 --> 00:06:44.840
+We should get all the facts there, and we should find out what actually happened.
+
+72
+00:06:44.840 --> 00:06:52.360
+So that is one op is whatever Alice Wong was doing, again, with or without the CCP.
+
+73
+00:06:52.360 --> 00:06:56.280
+But however, there's also a second op here.
+
+74
+00:07:10.120 --> 00:07:16.320
+I mean, leaking classified intelligence is a crime, and many people have been prosecuted for it.
+
+75
+00:07:16.480 --> 00:07:29.200
+In fact, we've had multiple former presidents and current presidents, President Trump and President Biden, their homes were raided because supposedly they had classified documents in their possession.
+
+76
+00:07:29.280 --> 00:07:31.120
+Remember that.
+
+77
+00:07:31.200 --> 00:07:34.640
+When companies get bigger, does the product have to get worse?
+
+78
+00:07:34.640 --> 00:07:46.640
+Eric Reese and Krista Tippett challenge the assumption that scale inevitably means extracting more from customers and discuss how financial success can undermine a company's mission.
+
+79
+00:07:53.680 --> 00:07:54.720
+Why is it funny?
+
+80
+00:07:54.720 --> 00:07:55.760
+Why are you laughing?
+
+81
+00:07:55.760 --> 00:07:56.560
+Why is it funny?
+
+82
+00:07:56.560 --> 00:07:58.880
+We all know that this we're like swimming in.
+
+83
+00:07:58.880 --> 00:07:59.840
+We just take it for granted.
+
+84
+00:07:59.840 --> 00:08:05.040
+Yeah, of course, when companies get to a certain size, of course they become extractive, of course they become but why is it of course?
+
+85
+00:08:05.040 --> 00:08:05.440
+Yeah.
+
+86
+00:08:05.440 --> 00:08:10.800
+I think this is a massive error where we're like killing the golden goose at an industrial scale.
+
+87
+00:08:10.800 --> 00:08:13.840
+And I mean, the word corruption is big.
+
+88
+00:08:13.840 --> 00:08:14.480
+Yeah.
+
+89
+00:08:14.480 --> 00:08:20.880
+And but you have come to understand it as a proximate condition for every entrepreneur and founder.
+
+90
+00:08:20.880 --> 00:08:22.480
+And I'm going to read a little bit.
+
+91
+00:08:22.480 --> 00:08:31.440
+You said we're all one acquisition, one IPO, one board meeting away from watching something we love turn into something we hate.
+
+92
+00:08:31.440 --> 00:08:31.840
+Yeah.
+
+93
+00:08:31.840 --> 00:08:35.120
+But we lack the vocabulary to call it what it really is.
+
+94
+00:08:35.120 --> 00:08:38.080
+Mission drift sounds like a navigation error.
+
+95
+00:08:38.080 --> 00:08:40.560
+Bureaucracy sounds like paperwork.
+
+96
+00:08:40.560 --> 00:08:48.400
+Neither captures the gut punch of betrayal when something precious is corroded beyond recognition.
+
+97
+00:08:48.400 --> 00:08:50.800
+And you say, let's call that corruption.
+
+98
+00:08:51.120 --> 00:08:55.000
+Yeah, it was hard for me to write that, actually.
+
+99
+00:08:55.000 --> 00:08:58.480
+Because a lot, you know, I'm a you may have heard I'm a big believer in feedback.
+
+100
+00:08:58.480 --> 00:09:03.800
+And I had hundreds of people test read this manuscript, so I really know how people responded to it.
+
+101
+00:08:59.840 --> 00:09:06.840
+And a lot of people were like, you you can't do that.
+
+102
+00:09:07.160 --> 00:09:09.400
+You're not allowed to use the word corruption that way.
+
+103
+00:09:09.400 --> 00:09:10.760
+That's not what it means.
+
+104
+00:09:10.840 --> 00:09:13.880
+I said, Well, that's not what it means anymore.
+
+105
+00:09:13.880 --> 00:09:17.960
+But our grandparents and our great grandparents would have had no trouble with this.
+
+106
+00:09:17.960 --> 00:09:18.680
+We're confused.
+
+107
+00:09:18.680 --> 00:09:20.280
+We're the ones who are confused.
+
+108
+00:09:20.280 --> 00:09:33.640
+But they would have understood that when somebody finds a way to make money for themselves by destroying value, that is a corruption of the moral logic of our entire economic system, and we have to stop celebrating it.
+
+109
+00:09:33.640 --> 00:09:35.960
+You gotta stop thank you, right?
+
+110
+00:09:35.960 --> 00:09:39.640
+Enough.
+
+111
+00:09:39.640 --> 00:09:50.120
+So you you use you you speak of something called financial gravity, which has come to make this kind of corruption feel inevitable.
+
+112
+00:09:50.120 --> 00:09:51.000
+It does feel that way.
+
+113
+00:09:51.240 --> 00:09:53.080
+So what are the laws of financial gravity?
+
+114
+00:09:53.320 --> 00:10:01.560
+Okay, so I use the metaphor of financial gravity because we love when we talk about That's the daily rundown.
+
+115
+00:10:01.560 --> 00:10:03.480
+Thanks for listening.
+
+116
+00:10:03.480 --> 00:10:05.400
+See you next time.

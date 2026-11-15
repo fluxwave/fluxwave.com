@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-15",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-15_20261115T222112Z_97497/clip_sources/1fdfeb4cfdc3436f/01_How_AI_capital_spending_changes_hyperscaler_shareh.mp3",
+      "source": "Fidelity\u2019s Jurrien Timmer on AI Spending, Bond Yields and the Next Phase of the Bull Market",
+      "start_time": 405,
+      "end_time": 535,
+      "topic": "How AI capital spending changes hyperscaler shareholder returns"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-15_20261115T222112Z_97497/clip_sources/82e7a87d4a55e8e4/01_Structuring_autonomous_teams_around_clear_goals.mp3",
+      "source": "What Breaks When You Scale 10x? | Zipline\u2019s Keller Cliffton",
+      "start_time": 529,
+      "end_time": 650,
+      "topic": "Structuring autonomous teams around clear goals"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-15_20261115T222112Z_97497/clip_sources/306e91a56c5bcb71/01_Financial_gravity_how_resource_providers_shape_org.mp3",
+      "source": "The \u201cbest practices\u201d corrupting business, with Eric Ries and Krista Tippett",
+      "start_time": 400,
+      "end_time": 525,
+      "topic": "Financial gravity: how resource providers shape organizational decisions"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-15_20261115T222112Z_97497/clip_sources/093ac6411e952dc4/01_National-security_secrets_versus_semiconductor_int.mp3",
+      "source": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+      "start_time": 574,
+      "end_time": 714,
+      "topic": "National-security secrets versus semiconductor intellectual property"
+    }
+  ],
+  "same_source_spacing_findings": [],
+  "schema_version": 2,
+  "editorial_contract": "topic-bridges-v1",
+  "selected_episodes_sha256": "40477460d110adc609453119f454a4294151617a7fa5f9b1d2de47b2306b437a",
+  "clips": [
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_1",
+      "selection_index": 0,
+      "source_id": "1fdfeb4cfdc3436fa0b9d383ac454b74838d88adb88a26d7ad409e2994fa58e4",
+      "selector_episode_key": "|Fidelity\u2019s Jurrien Timmer on AI Spending, Bond Yields and the Next Phase of the Bull Market|2026-11-13T18:58:24+00:00",
+      "credit": {
+        "title": "Fidelity\u2019s Jurrien Timmer on AI Spending, Bond Yields and the Next Phase of the Bull Market",
+        "podcast": "Excess Returns",
+        "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Fidelitys-Jurrien-Timmer-on-AI-Spending--Bond-Yields--and-the-Next-Phase-of-the-Bull-Market-e3sbava",
+        "audio_url": "https://traffic.megaphone.fm/APO6502483217.mp3",
+        "transcript_url": "",
+        "published": "2026-11-13T18:58:24+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/1fdfeb4cfdc3436f/metadata.json",
+        "sha256": "3e053d2b8d6912980e157999aab2d1a1af53b1c08eebad2aa5c155bf7d3637ec"
+      },
+      "original_clip": {
+        "path": "clip_sources/1fdfeb4cfdc3436f/00_Peak_earnings_growth_valuation_multiples_and_the_c.mp3",
+        "sha256": "dfc751689728e8b62a28f8b290480cacc8cd53fd192b9a2be0b0ffc6979c5254"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_2",
+      "selection_index": 1,
+      "source_id": "82e7a87d4a55e8e4e42a2765c89d071002a10395c3952ec992a906edd4ced30f",
+      "selector_episode_key": "|What Breaks When You Scale 10x? | Zipline\u2019s Keller Cliffton|2026-11-15T11:00:00+00:00",
+      "credit": {
+        "title": "What Breaks When You Scale 10x? | Zipline\u2019s Keller Cliffton",
+        "podcast": "a16z Podcast",
+        "link": "https://a16z.simplecast.com/episodes/what-breaks-when-you-scale-10x-ziplines-keller-cliffton-xr3f9vCW",
+        "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f5475b29-83e5-49c2-a8b9-f706e6402f23/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f5475b29-83e5-49c2-a8b9-f706e6402f23&feed=JGE3yC0V",
+        "transcript_url": "",
+        "published": "2026-11-15T11:00:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/82e7a87d4a55e8e4/metadata.json",
+        "sha256": "8b1a4ddbfd62146b0d146063f91d92eb40324e0cc2a8273bfb93c38f903016be"
+      },
+      "original_clip": {
+        "path": "clip_sources/82e7a87d4a55e8e4/00_Why_every_10x_increase_in_scale_breaks_existing_op.mp3",
+        "sha256": "ec78286bb7131ad72aa1429a96df46d8ef9dff911e8c6e5f4fc167a50dfab853"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_3",
+      "selection_index": 4,
+      "source_id": "093ac6411e952dc49109d3c13a62f119ad74d579faafba878dfd7e9a86716b0f",
+      "selector_episode_key": "|Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact|2026-11-14T02:35:00+00:00",
+      "credit": {
+        "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+        "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
+        "link": "https://allinchamathjason.libsyn.com/jensen-ousted-as-nvidia-ceo-spy-scandal-export-restrictions-market-impact",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E297_Ch.mp3?dest-id=1928300",
+        "transcript_url": "",
+        "published": "2026-11-14T02:35:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/093ac6411e952dc4/metadata.json",
+        "sha256": "88ec52976b9a0f85ec2cbeeb1146ce046a8f85bc1d03a42ba4bac20c2047dde3"
+      },
+      "original_clip": {
+        "path": "clip_sources/093ac6411e952dc4/00_NVIDIAs_GPU_advantage_and_allegations_of_restricte.mp3",
+        "sha256": "465835d6fc67e27d630e7d7d74a4583bf365597419e678def105777371b91949"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_4",
+      "selection_index": 2,
+      "source_id": "306e91a56c5bcb719df90d99a3c2af0f819828cda0d8af412938e632a8d78240",
+      "selector_episode_key": "|The \u201cbest practices\u201d corrupting business, with Eric Ries and Krista Tippett|2026-11-14T10:00:00+00:00",
+      "credit": {
+        "title": "The \u201cbest practices\u201d corrupting business, with Eric Ries and Krista Tippett",
+        "podcast": "Masters of Scale",
+        "link": "",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/86309da5-7115-48f5-b4e9-827c03d463a2.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542",
+        "transcript_url": "",
+        "published": "2026-11-14T10:00:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/306e91a56c5bcb71/metadata.json",
+        "sha256": "f327c52c7688e7a820400d26ee74e252191b9d381eaefd3c67751a6a9c801d0f"
+      },
+      "original_clip": {
+        "path": "clip_sources/306e91a56c5bcb71/00_How_scaling_and_financial_success_can_undermine_pr.mp3",
+        "sha256": "32388d825a1f8b6a7181e8a67e7964ba03598f57062c96c092d3db7a8bc0c01d"
+      }
+    }
+  ]
+}
