@@ -1,0 +1,124 @@
+AI coding tools are changing how software gets built today, what that means for developers, computing costs, and investment decisions, and how we even define consciousness.
+Source credits and links are in the chapters and show notes.
+Microsoft Satya Nadella discusses the shift from coding assistance toward command line agents and specification driven software factories, raising a practical question for developers.
+What work remains when generating code gets General Micral.
+That was sort of really what you know.
+If you remember, we worked on IntelliSense forever and we made good progress.
+And then we said, wow, this thing is working.
+And quite frankly, there was a lot of skepticism that it would ever work, but it started, and that was my even my own belief in scaling laws, quite frankly, was uh fundamentally uh reaffirmed, let's say, when I started seeing that.
+And I thought we did a good job of trying to build that product.
+One of the keys of building with uh models is when model jumps happen non-linearly, the form factor has to change quickly, right?
+That's the you know, what is AI first product building in that sense is unforgiving, because when you you have to be basically build everything around a given model and then be ready for the next model to have some emergent capabilities and rewire yourself for that, right?
+Don't be in love with what you built.
+So that's why even when agentic coding or task handling started becoming something that one could do, right?
+It's not just code completions, but you can assign uh small tasks, that's where cursor really, you know.
+They took the IDE, they forked, but they did a good job on really uh the agent mode.
+And so we then caught up on the agent mode uh because that was sort of something that we could do on top of even the open AI models.
+But then the thing that hit us was obviously uh great work with that Anthropic did uh with their model, uh, which then truly made the CLI as a form factor uh.
+Uh, and then you could even just say just complete full uh handling of, you know, code be went from input to output effectively, right?
+I mean, that I think was the transformation.
+In six months or so, uh, we went primarily that to your point about uh IDEs.
+Uh IDEs kind of faded away.
+And then you really had this new way of thinking about code as input.
+And that's why if I look at uh the new IDE, it's more about how do I really input the specs and the markdowns and everything else around the software factory.
+And so that transformation changes.
+More AI agents could mean more tokens consumed, even as inference gets cheaper.
+This discussion connects frontier model competition to the harder economic test, whether productivity gains can justify growing AI revenue.
+It'll change the whole world.
+Benefits will exceed costs, but it will take some time, and the path will be quite a bit more normal than many people would have you believe.
+Yeah, and just to add to that, I think Tyler's exactly spot on in the fact that like you need to start seeing the productivity numbers in the rest of the economy to justify the revenue increases.
+So at some point, the rest of the economy needs to be willing to pay for that product.
+And that increasing willingness to pay us has to be from increasing productivity in the rest of the economy.
+And we haven't really seen too much evidence of that.
+Not to say that it won't happen, but it does need to happen at some point.
+The other part about is competition.
+So I think what's starting to happen, but particularly in the last few months, is extreme price competition from the Frontier Labs, as far as like before they were just trying to compete on like who has the better model.
+And now that the models are being used by increasing number of enterprises, and they're becoming quite expensive because Agentic AI, by the way, uses way more tokens.
+So now companies are, you know, open AI anthropic, you know, Muse is in the game, DeepMind is in the game, try to actually say, like, no, we're offering a cheaper model that's as good or maybe even like a little bit better, or maybe a little bit worse.
+And so you're seeing token prices come down a lot.
+And so, you know, Ramp has a really nice data set of to track these things.
+And you saw exponential increases in token usage and flat revenue numbers, right?
+Where's that coming from?
+It's because of price competition.
+So at the frontier, you're seeing way more price competition than you used to, like six months ago.
+And the very recent elections, I think those are being overplayed.
+I think a lot of data centers still will proceed, but I think it will slow things down a bit.
+There's greater likelihood of regulation or somewhat tougher regulation or regulation a bit sooner, or Trump, you know, giving on the issue of guardrails.
+To me, it's not a a major force, but it again, it's gonna make me a modest bit more bearish on the sector in terms of speed of takeoff, revenue numbers, anything else.
+How many investment ideas belong in one portfolio?
+Investor Paul Enright discusses thematic groupings and diversification versus conviction, a useful framework for thinking about concentrated bets, including on AI.
+We're not gonna have that portfolio anymore.
+Let's replace it with another portfolio.
+That's how I've come to think about it.
+It's a crude analogy.
+There's a lot of merit to that framing of the two different types of businesses.
+At the portfolio level, what does that imply about the ideas that go into the portfolio that becomes the unit of production for the multi-manager shop?
+Can I torture this analogy a little bit more?
+Maybe if we switch from like a factory analogy to more of a comedy analogy, and you said a single manager is like a stand-up comedian.
+They're going to get up on stage.
+It's scary.
+They're there by themselves.
+Maybe they have a couple of analysts who are joke writers.
+Your job as a joke writer is to give me one great joke that I can stand up and I can stand behind.
+That's the equivalent of a single idea.
+A multi-manager portfolio manager is more like a showrunner.
+I need to produce a bunch of shows and you write the show.
+An analyst has to come together with a packaged show.
+It's not one joke in the show.
+How does it all fit together?
+You got to tell more stories.
+I need a package of ideas that go together that will fit into this portfolio because one single idea isn't that important.
+Part of the reason why that is is because multi-managers are more premised on managing risk under modern portfolio theory, where you want breath, you want diversity.
+A single idea has much less relevance in the portfolio of a multi-manager than it does in the portfolio of a single manager.
+Great, you like this idea.
+I need six around the same theme.
+It's a package, it's a sleeve.
+Different people call it different things.
+You need a lot of those.
+And you put those all together, and that's how you get a portfolio.
+Whereas on the single manager side, each individual idea comes together.
+The risk happens here because all the ideas might look and be the same.
+Then you have hugely high correlation, a lot of volatility, a lot of risk.
+You've thought about each one of them independent, that you don't realize that they're all the same thing.
+Over here, the risk is that you have five great ideas in there, you treat them like all the other ideas.
+It gets diluted down by everything else.
+This is less risky, but maybe you don't capture your best ideas all the time.
+If we move away from the analogy and go to the day-to-day work, it feels like there's two different functional roles.
+There's the analysts coming up with the idea in either side, and there's the portfolio manager putting it together.
+How do each of those look different at the multi-manager and the single manager shop?
+If you had three units of time and you said someone's got to do the research, someone's got to do the idea generating, and someone's got to do the portfolio management.
+At a single manager, an analyst does almost 100% of the research.
+Maybe it's 90% and a portfolio manager does 10%, or maybe the portfolio manager mirrors some percentage of it so that they feel like they're in the sweet spot.
+It's almost independent.
+You do 100% of the digging, it's your job to cover this, own this, come up with something and say, I think I have something.
+That starts the conversation.
+The idea generation process depends on how senior the analyst.
+So, Wes, given all that, why do you want to say that actually there is consciousness, your proto-consciousness at all these different points?
+Because I think Dylan expanded my point well that it would just make consciousness crazy all over the place.
+It would make us not no longer explaining why we humans with our subjectivity and ability to introspect and all that stuff, you're not explaining that anymore if you make it so wide.
+I know this is going far afield.
+Well, I don't want to make it so wide as to to say every component of cognition is its own little consciousness.
+We'd have to talk about where we do that.
+So I'd be inclined, right?
+So the pre-conscious feeling on my leg, right?
+That little pre-conscious packet, as it seemed to be called by Dennett and others in the in the reading that we did, that hasn't gotten into the global workspace yet and therefore isn't conscious on their terms.
+Well, it's kind of weird because when I do experience it, when I do pay suddenly pay attention to that feeling, it's not like the feeling wasn't there and now it's here, right?
+That's not the phenomenology of that.
+It's oh, that was there all along.
+And the same thing when I remember a dream, for instance.
+It's like I have a little flash of a dream, and when it comes to me, it's so vivid, it's it's just as vivid as any memory for me.
+That's my experience.
+But if I hadn't, right, for the most part, I'm not remembering my dreams unless I really try hard.
+And if I hadn't had that little flash of memory, I never would have been aware of it, right?
+I never would have remembered it again.
+So been aware of it in that sense.
+But I was certainly aware of it in the moment.
+But was that I who was aware of it in the moment?
+I mean, my sense of self is so diffuse in dreams.
+I had this weird dream the other night where I was interacting with two versions of the same person in one scene, and it didn't even seem odd to me.
+That's normal.
+That's a completely normal world that I'm in.
+But anyway, so I'm just saying that our normal operations and our identity is so diffuse within dreams.
+That's the daily rundown.
+Thanks for listening.
+We'll see you next time.

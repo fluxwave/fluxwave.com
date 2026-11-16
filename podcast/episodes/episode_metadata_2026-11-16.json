@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-16",
+  "editorial_contract": "topic-bridges-v1",
+  "credit_projection_sha256": "0da113fd9c1c8de4a85e47545e87573bb44a77c66249470e6e43c88fbab41e94",
+  "chapters": [
+    {
+      "startTime": 33.314,
+      "title": "The Pragmatic Engineer \u2014 From IDE agents to CLI coding and specification-driven software factories",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_1",
+      "source_id": "d75ecf3c5c9b1853d5ec0bb260d41982960250f2b4f940d3398ac4d163fa20ae",
+      "selector_episode_key": "|Software engineering after code becomes cheap with Satya Nadella|2026-11-16T13:33:48+00:00",
+      "source_credit": {
+        "title": "Software engineering after code becomes cheap with Satya Nadella",
+        "podcast": "The Pragmatic Engineer",
+        "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+        "audio_url": "https://api.substack.com/feed/podcast/225062889/de3ec785dc079b1f629f4720783cb429.mp3",
+        "transcript_url": "",
+        "published": "2026-11-16T13:33:48+00:00"
+      },
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes"
+    },
+    {
+      "startTime": 172.344,
+      "title": "a16z Podcast \u2014 Agentic AI token demand, falling inference prices, and frontier-model competition",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_2",
+      "source_id": "d90fd932c015d043d5581892c084c5e9fc1af879e4e328ed95840da194800459",
+      "selector_episode_key": "|Alex Imas & Tyler Cowen | AI Is Moving Fast. Why Isn\u2019t the Economy?|2026-11-16T11:30:48+00:00",
+      "source_credit": {
+        "title": "Alex Imas & Tyler Cowen | AI Is Moving Fast. Why Isn\u2019t the Economy?",
+        "podcast": "a16z Podcast",
+        "link": "https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY",
+        "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8b81278f-b214-4c96-a5c2-05f4c9f608a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8b81278f-b214-4c96-a5c2-05f4c9f608a1&feed=JGE3yC0V",
+        "transcript_url": "",
+        "published": "2026-11-16T11:30:48+00:00"
+      },
+      "url": "https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY"
+    },
+    {
+      "startTime": 314.681,
+      "title": "Capital Allocators \u2013 Inside the Institutional Investment Industry \u2014 Portfolio breadth, thematic sleeves, and the trade-o",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_3",
+      "source_id": "b41bd21ede9e42136987587043acd7d8182c5d237b4577f4372094a19b146ec3",
+      "selector_episode_key": "|Single-Manager Hedge Funds, Pod Shops, and the Age of AI \u2013 Paul Enright (EP.527)|2026-11-16T09:00:00+00:00",
+      "source_credit": {
+        "title": "Single-Manager Hedge Funds, Pod Shops, and the Age of AI \u2013 Paul Enright (EP.527)",
+        "podcast": "Capital Allocators \u2013 Inside the Institutional Investment Industry",
+        "link": "https://tedseides.libsyn.com/single-manager-hedge-funds-pod-shops-and-the-age-of-ai-paul-enright-ep527",
+        "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.527_Paul_Enright_-_AUDIO_V2.mp3?dest-id=482814",
+        "transcript_url": "",
+        "published": "2026-11-16T09:00:00+00:00"
+      },
+      "url": "https://tedseides.libsyn.com/single-manager-hedge-funds-pod-shops-and-the-age-of-ai-paul-enright-ep527"
+    },
+    {
+      "startTime": 516.742,
+      "title": "The Partially Examined Life Philosophy Podcast \u2014 Global workspace theory, attention, and inaccessible experiences",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_4",
+      "source_id": "fce81a12cd80d56f989a62f6999147798e858d4d7917007172e11d22bf909b7c",
+      "selector_episode_key": "|Ep. 404: Could AI Be Conscious? (Chalmers vs. Dreyfus) (Part Two)|2026-11-14T21:13:00+00:00",
+      "source_credit": {
+        "title": "Ep. 404: Could AI Be Conscious? (Chalmers vs. Dreyfus) (Part Two)",
+        "podcast": "The Partially Examined Life Philosophy Podcast",
+        "link": "https://partiallyexaminedlife.libsyn.com/ep-404-could-ai-be-conscious-chalmers-vs-dreyfus-part-two",
+        "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/802/claritaspod.com/measure/traffic.libsyn.com/secure/partiallyexaminedlife/PEL_ep_404pt2_10-18-26.mp3?dest-id=16399",
+        "transcript_url": "",
+        "published": "2026-11-14T21:13:00+00:00"
+      },
+      "url": "https://partiallyexaminedlife.libsyn.com/ep-404-could-ai-be-conscious-chalmers-vs-dreyfus-part-two"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Software engineering after code becomes cheap with Satya Nadella",
+      "podcast": "The Pragmatic Engineer",
+      "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+      "audio_url": "https://api.substack.com/feed/podcast/225062889/de3ec785dc079b1f629f4720783cb429.mp3",
+      "transcript_url": "",
+      "published": "2026-11-16T13:33:48+00:00",
+      "source_id": "d75ecf3c5c9b1853d5ec0bb260d41982960250f2b4f940d3398ac4d163fa20ae",
+      "selector_episode_key": "|Software engineering after code becomes cheap with Satya Nadella|2026-11-16T13:33:48+00:00"
+    },
+    {
+      "title": "Alex Imas & Tyler Cowen | AI Is Moving Fast. Why Isn\u2019t the Economy?",
+      "podcast": "a16z Podcast",
+      "link": "https://a16z.simplecast.com/episodes/alex-imas-tyler-cowen-ai-is-moving-fast-why-isnt-the-economy-33WdZifY",
+      "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8b81278f-b214-4c96-a5c2-05f4c9f608a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8b81278f-b214-4c96-a5c2-05f4c9f608a1&feed=JGE3yC0V",
+      "transcript_url": "",
+      "published": "2026-11-16T11:30:48+00:00",
+      "source_id": "d90fd932c015d043d5581892c084c5e9fc1af879e4e328ed95840da194800459",
+      "selector_episode_key": "|Alex Imas & Tyler Cowen | AI Is Moving Fast. Why Isn\u2019t the Economy?|2026-11-16T11:30:48+00:00"
+    },
+    {
+      "title": "Single-Manager Hedge Funds, Pod Shops, and the Age of AI \u2013 Paul Enright (EP.527)",
+      "podcast": "Capital Allocators \u2013 Inside the Institutional Investment Industry",
+      "link": "https://tedseides.libsyn.com/single-manager-hedge-funds-pod-shops-and-the-age-of-ai-paul-enright-ep527",
+      "audio_url": "https://traffic.libsyn.com/secure/tedseides/CA_-_EP.527_Paul_Enright_-_AUDIO_V2.mp3?dest-id=482814",
+      "transcript_url": "",
+      "published": "2026-11-16T09:00:00+00:00",
+      "source_id": "b41bd21ede9e42136987587043acd7d8182c5d237b4577f4372094a19b146ec3",
+      "selector_episode_key": "|Single-Manager Hedge Funds, Pod Shops, and the Age of AI \u2013 Paul Enright (EP.527)|2026-11-16T09:00:00+00:00"
+    },
+    {
+      "title": "Ep. 404: Could AI Be Conscious? (Chalmers vs. Dreyfus) (Part Two)",
+      "podcast": "The Partially Examined Life Philosophy Podcast",
+      "link": "https://partiallyexaminedlife.libsyn.com/ep-404-could-ai-be-conscious-chalmers-vs-dreyfus-part-two",
+      "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/802/claritaspod.com/measure/traffic.libsyn.com/secure/partiallyexaminedlife/PEL_ep_404pt2_10-18-26.mp3?dest-id=16399",
+      "transcript_url": "",
+      "published": "2026-11-14T21:13:00+00:00",
+      "source_id": "fce81a12cd80d56f989a62f6999147798e858d4d7917007172e11d22bf909b7c",
+      "selector_episode_key": "|Ep. 404: Could AI Be Conscious? (Chalmers vs. Dreyfus) (Part Two)|2026-11-14T21:13:00+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-11-16.txt"
+}
