@@ -1,0 +1,393 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:07.040
+Today on the daily rundown, how AI might learn research judgment, and how small teams build software agents.
+
+2
+00:00:07.040 --> 00:00:12.720
+Plus, dollar funding risks in Europe, and what summary statistics can hide.
+
+3
+00:00:12.720 --> 00:00:18.160
+Source credits and links are in the chapters and show notes.
+
+4
+00:00:18.160 --> 00:00:22.480
+Executing an experiment isn't the same as knowing which experiment matters.
+
+5
+00:00:22.480 --> 00:00:27.600
+This discussion explores teaching AI agents research judgment through experience and feedback.
+
+6
+00:00:27.600 --> 00:00:32.720
+A key challenge for systems meant to improve themselves.
+
+7
+00:00:34.160 --> 00:00:47.920
+Research taste is about knowing which ideas uh are important in the long run, which ideas really catch on and end up going beyond whatever paper they first appear in, but being general and being composable with other ideas.
+
+8
+00:00:47.920 --> 00:00:51.280
+There is kind of the boring run-of-the-mill execution.
+
+9
+00:00:51.280 --> 00:00:55.680
+You know, you have an experiment, you already know what the parameters are, and you just go and carry it out.
+
+10
+00:00:55.680 --> 00:01:00.320
+And then there's taste, which is kind of um how you come up with the idea in the first place.
+
+11
+00:01:00.320 --> 00:01:03.120
+The models are still not phenomenally good at taste.
+
+12
+00:01:03.120 --> 00:01:09.760
+They go very deep into things like hyperparameter optimization, essentially like tuning all the little knobs um that you could tune.
+
+13
+00:01:10.000 --> 00:01:15.280
+Even in that example that you shared, the points where you were kind of nudging, redirecting AI, right?
+
+14
+00:01:15.280 --> 00:01:17.360
+That's still coming from you.
+
+15
+00:01:17.360 --> 00:01:22.960
+And I guess my question is where does your intuition come from?
+
+16
+00:01:22.960 --> 00:01:26.880
+And at what point do you think a machine could replicate that?
+
+17
+00:01:26.960 --> 00:01:40.240
+A lot of intuition just um comes from a personal experience doing research, but to get good at a certain research field, you also have to read a lot of the past work in that field, and you try to absorb the lessons uh from all this historical work.
+
+18
+00:01:40.240 --> 00:01:48.000
+A lot of the things that I just described can also be done by AI, like AI can um read all the literature and that's all.
+
+19
+00:01:48.000 --> 00:01:50.160
+Yeah, memorization can be a blessing and a curse.
+
+20
+00:01:50.160 --> 00:01:56.720
+Yeah, you don't have the experience of um being wrong or um of making predictions and then seeing how they fared.
+
+21
+00:01:56.720 --> 00:02:05.320
+Uh so I think there's some ways which um the way we train AI might make them worse at some of these capabilities, but it's a little hard to say.
+
+22
+00:02:05.560 --> 00:02:09.960
+What John is getting at is essentially the difference between knowledge and experience.
+
+23
+00:02:09.960 --> 00:02:19.480
+Companies will probably also just do RL from human feedback to collect data from researchers on uh like which proposed ideas are good and return.
+
+24
+00:02:19.480 --> 00:02:29.000
+And that's kind of like uh like absorbing whatever um human intuitions uh like the human researchers have developed and trying to like take that into the models.
+
+25
+00:02:29.000 --> 00:02:35.880
+Creating automated AI researchers also requires us to have reliable ways to know that their work is producing better models.
+
+26
+00:02:35.880 --> 00:02:40.040
+The measurement itself is important for hill climbing to make tangible improvement.
+
+27
+00:02:40.040 --> 00:02:47.640
+You know, a researcher is by definition a you know, it's more open-ended than solving a single math problem.
+
+28
+00:02:47.640 --> 00:02:52.120
+What does it take to build agents that code, execute, and deploy?
+
+29
+00:02:52.120 --> 00:03:02.920
+This discussion of replet small war room teams connects that engineering ambition with a founder's harder reality, keeping the dream alive when money runs short.
+
+30
+00:03:02.920 --> 00:03:12.200
+Like, you know, I'm sure a lot of people who kind of are familiar with uh Steve Jobs kind of uh reality distortion field, really, every founder needs to do some reality distortion.
+
+31
+00:03:12.200 --> 00:03:15.480
+You're selling a dream, and suddenly you're like, we're running out of money.
+
+32
+00:03:15.480 --> 00:03:18.760
+The dream is kind of immediately kind of dissipates.
+
+33
+00:03:18.760 --> 00:03:23.560
+But um I'll bet those people who quit now they're saying, Oh, um, can I can I come back?
+
+34
+00:03:23.560 --> 00:03:28.520
+Yeah, some of them came back actually, um, which were always welcoming people to come back.
+
+35
+00:03:28.520 --> 00:03:37.000
+Um, but um uh there was this juxtaposition where this this cool dark office where I didn't quit.
+
+36
+00:03:37.000 --> 00:03:38.440
+We had a war room.
+
+37
+00:03:38.440 --> 00:03:57.200
+I saw your war room, kind of whenever we have uh big idea that we want to do, we always kind of take this like YC demo day mindset of we're gonna just put you know, five, ten, twelve people in a room, and we're just gonna work really hard towards uh milestone, and we're gonna do it in a few months.
+
+38
+00:03:57.200 --> 00:04:00.320
+Um, and there we were inventing agents.
+
+39
+00:04:00.320 --> 00:04:06.400
+So I would go into this room, enormous energy, excitement, people are seeing the future on their screens for the first time.
+
+40
+00:04:06.400 --> 00:04:15.600
+We see this entity coming to life that's like able to code and run the code and deploy and what and then I would go out, and then the rest of the team felt like total despair.
+
+41
+00:04:15.600 --> 00:04:20.000
+Um, and I think the the lesson from that is there's always hope.
+
+42
+00:04:20.000 --> 00:04:24.640
+There's always kind of something you could do to turn things around.
+
+43
+00:04:24.640 --> 00:04:29.840
+Uh, and there's a group of people at your company that are gonna be motivated to do that.
+
+44
+00:04:30.080 --> 00:04:35.040
+Well, uh let's go to let's go to the next movie uh we picked here, which is uh Twister.
+
+45
+00:04:35.040 --> 00:04:44.000
+From from the outside, it can seem like from the time you were at a couple of million dollars to a billion that things just fell into place.
+
+46
+00:04:44.000 --> 00:04:46.480
+That like everything just sort of comes together.
+
+47
+00:04:46.480 --> 00:04:51.520
+But there are inevitable twists on the on that road, choices you've made.
+
+48
+00:04:51.520 --> 00:05:02.240
+So as you've navigated that sort of that upsweep to stay in the sweet spot, like what's been most important, what what's most important now in sort of keeping that moving?
+
+49
+00:05:02.240 --> 00:05:07.280
+Yeah, so um after after the whole live coding.
+
+50
+00:05:07.600 --> 00:05:10.800
+How can dollar funding become a pressure point for Europe?
+
+51
+00:05:10.800 --> 00:05:17.360
+This discussion examines euro dollar liquidity and the case for gradual financial strain, not an imminent collapse.
+
+52
+00:05:17.360 --> 00:05:22.800
+The stakes are how funding stress can spread.
+
+53
+00:05:22.840 --> 00:05:32.360
+And the reason we think it's important is because we first of all, we we've said for a long time that we thought that Europe was in trouble for many reasons.
+
+54
+00:05:32.360 --> 00:05:45.000
+Um, but we titled it slow shave because we don't think it's helpful to just kind of come out and make these grandiose predictions all the time about collapse or a crisis or you know, a great depression.
+
+55
+00:05:45.000 --> 00:05:55.640
+But the point we've made for a long time is that part of the reason our thesis, the whole dollar milkshake theory, and we think that the the US is kind of the cleanest dirty shirt.
+
+56
+00:05:55.640 --> 00:05:59.960
+For this to make sense, we're gonna have to go into the dollar milkshake theory itself.
+
+57
+00:05:59.960 --> 00:06:06.280
+So basically, to understand the dollar milkshake theory, you have to understand what's going on in the global markets.
+
+58
+00:06:06.280 --> 00:06:09.880
+So it's an idea that we've talked about before the euro dollar market.
+
+59
+00:06:09.880 --> 00:06:24.760
+So euro dollars are dollars that are outside of the control of the um central banking system here in the US, but banks that are being regulated by themselves over in Europe, though, it is not a euro dollar market as anything outside of the US.
+
+60
+00:06:24.760 --> 00:06:29.080
+It is not specifically just European, uh, but that is certainly a big part of it.
+
+61
+00:06:29.080 --> 00:06:33.320
+Is okay, they're able to create dollar-denominated debt.
+
+62
+00:06:33.320 --> 00:06:35.800
+So they spin debt up out of nowhere.
+
+63
+00:06:35.800 --> 00:06:37.240
+They spin it up overnight.
+
+64
+00:06:37.240 --> 00:06:40.200
+This is exactly what happened in 2008.
+
+65
+00:06:40.200 --> 00:06:44.520
+The euro dollar market is like the respiratory system of the global economy.
+
+66
+00:06:44.520 --> 00:06:52.040
+So overnight you create debt, you destroy debt, um, or just don't make debt, which is precisely what happened in 2008.
+
+67
+00:06:52.040 --> 00:06:57.800
+So everybody started to get far more cautious about what was going on in the global economy.
+
+68
+00:06:57.800 --> 00:07:04.040
+And so even loaning people money overnight became something that was um considered high risk.
+
+69
+00:07:04.040 --> 00:07:13.880
+So people started doing less of it, and that meant the companies that weren't very solvent and couldn't actually survive the overnight transfers, ended up going out of business.
+
+70
+00:07:13.960 --> 00:07:15.840
+And so that's what happened to Lehman Brothers.
+
+71
+00:07:14.680 --> 00:07:29.680
+They were able to traditionally get access to capital overnight, just hey, loan us, you know, whatever, a few few billion dollars so that we can cover everything, and then we'll be back to business in the morning and everything works.
+
+72
+00:07:29.760 --> 00:07:35.120
+Two data sets can have identical summary statistics and still tell very different stories.
+
+73
+00:07:35.120 --> 00:07:38.560
+This discussion connects that problem with accessible charts.
+
+74
+00:07:38.560 --> 00:07:46.960
+How do you communicate the patterns, not just the numbers when someone can't see the visualization?
+
+75
+00:07:46.960 --> 00:07:52.080
+So I think when we think about data visualization as communication, right?
+
+76
+00:07:52.240 --> 00:08:00.000
+It's usually situated within, you know, you might find a data visualization in a news article or in a PowerPoint someone's giving, right?
+
+77
+00:08:00.000 --> 00:08:04.320
+So there are a lot of things that are being communicated that's not just kind of raw numbers.
+
+78
+00:08:04.480 --> 00:08:21.760
+I think the way that translates to accessibility too is like my colleague Alan did a project where he was classifying all the different levels of content that when you write a description of a data visualization, what about the chart are you actually describing?
+
+79
+00:08:21.760 --> 00:08:25.520
+And there's you know, low-level features like, oh, like what color is the bar, right?
+
+80
+00:08:25.520 --> 00:08:26.800
+Like the example you just gave.
+
+81
+00:08:26.800 --> 00:08:30.240
+There's things like what are the access labels and things like that.
+
+82
+00:08:30.240 --> 00:08:39.120
+But there's also higher level things like are there statistical patterns or outliers, or are there kind of perceptual things happening?
+
+83
+00:08:39.120 --> 00:08:43.840
+Like, I don't know if you've ever seen the updated version of the Anscombe Quartet.
+
+84
+00:08:43.840 --> 00:08:44.800
+Data source doesn't.
+
+85
+00:08:44.800 --> 00:08:45.760
+Do you know what I'm talking about?
+
+86
+00:08:45.760 --> 00:08:48.960
+I don't know the data source doesn't, but I know Anscombe's quartet.
+
+87
+00:08:48.960 --> 00:08:50.480
+Yeah, it's kind of a similar idea.
+
+88
+00:08:50.480 --> 00:08:57.920
+So Anscombe's quartet, like the idea that a data set could have like the same summary statistics, but visually be in very different shapes.
+
+89
+00:08:57.920 --> 00:09:01.480
+The data source doesn't is just kind of another variation of this, but I don't know.
+
+90
+00:09:01.560 --> 00:09:08.360
+It's funny and interesting because one of the visualizations is like the shape of a dinosaur, but you know, the summary statistics are kind of normal.
+
+91
+00:09:08.360 --> 00:09:11.480
+Um, for something like that, right?
+
+92
+00:09:11.480 --> 00:09:19.720
+Like if you're only focused on describing the data, you might kind of miss out on like actually it kind of matters that this chart is in the shape of a dinosaur.
+
+93
+00:09:19.720 --> 00:09:25.320
+And then finally, you know, there's there's an even higher level of current events, like social and political context, right?
+
+94
+00:09:25.320 --> 00:09:37.320
+And especially with the way that data visualizations are kind of increasingly used to communicate really important information, right, about climate or elections or or COVID, right?
+
+95
+00:09:37.320 --> 00:09:53.560
+I think part of the challenge is like when we as people are writing these descriptions, do we have a clear sense of like who our audience is, what the messages that we're trying to convey, how things outside the visualization might be supporting or not supporting that message.
+
+96
+00:09:55.880 --> 00:09:57.560
+That's the daily rundown.
+
+97
+00:09:57.560 --> 00:09:59.480
+Thanks for listening.
+
+98
+00:09:59.480 --> 00:10:01.080
+See you next time.
