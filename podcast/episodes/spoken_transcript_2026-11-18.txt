@@ -1,0 +1,117 @@
+Welcome to the daily rundown.
+Today, routing AI work, the cloud foundations behind machine learning, and what personal agents need to know about you.
+Plus, a discussion of how higher financing costs could reshake AI infrastructure spending.
+Source credits and links are in the chapters and show notes.
+Which AI model should handle each task and who makes that choice.
+This discussion weighs deterministic routing against intelligent routing with flexibility and predictable costs at stake.
+Can we do something on-prem, saving costs and giving more flexibility?
+And can we give uh can we just have a free-for-all without without uh with a predictable cost?
+And that's when like the customers coming to us for for those reasons.
+Like, hey, I I just want to have the flexibility to do that.
+And even before we get uh hosted externally versus on-prem, there's this big question about routing and like how do I make it easier for folks to get the right work to the right model?
+Like, how are you seeing folks tackle that?
+Yeah, so there's multiple you know, routing technologies or routing vendors out there today that that sits in front of a LLM or uh you know, right as a as a selector when you have a chatbot or something, you can just pick the router as the endpoint and then router selects where to go.
+So and the router's intelligence comes in.
+Okay, it could be you can be deterministic or you can set up some some rules essentially to say this type of work should go to cloud.
+This kind of work should go to the on-prem, and within the cloud and on-prem, these are the types of models that you select.
+Um, and we see that it's being the kind of the primary base, I mean deterministic rule-based approach.
+It is kind of the starting point.
+And then there's the the next level of that is like automatically selecting it based on the content of the prompt and the sophistication that it requires, it'll decide that.
+So our customers are uh cautious, they don't want the so many variables.
+So, like, you know, if the model router is super intelligent and deciding where to go, it creates another place of like now.
+I need to monitor the model router if this doing the right decision, right?
+So they they start with, okay, let's let's do something deterministic, and then let's go with like how the deterministic thing, and then you can watch that.
+Before you can run machine learning on business data, you have to afford to keep it.
+This discussion traces how cloud infrastructure made, storing logs and processing data at scale more practical uh that data doesn't sit in CRM, it doesn't sit in human resource management.
+In fact, it probably wasn't even tracked.
+I remember in the early days of the internet, they'd be like, hey, would you like this log file?
+And I'd say, okay, yeah, keep everything.
+And they'd say, Okay, well, you got an $8,000 storage bill a month.
+And I'd be like, okay, delete it.
+And they're like, well, we could roll it up and keep some of it.
+I'm like, well, who's ever using the open rate on our emails?
+Who cares about that?
+You know, we send the emails, that's it.
+But then that changed.
+And was storage and compute and cloud computing a major accelerant to this big data movement, and then eventually machine learning, those were kind of the waypoints uh in this movement.
+Yeah.
+Before we started in 2013, basically people were running their own data centers.
+And when they're running their own data centers, you have to buy machines.
+And the machines came with storage and compute combined.
+So if you ran out of storage, you have to buy more machines.
+And the IT departments of every organization were busy with this.
+What the cloud enabled was to just completely decentralize this and separate compute and storage so that you could just imagine you have infinite storage and you just dump everything there.
+Okay.
+And if it's gone cold, so the data is old, it knows how to archive it so that it becomes almost free to store it.
+Uh and then you could get the illusion of as much compute as you wanted.
+And then of course you could start running machine learning on it.
+And then eventually GPUs showed up.
+So it kind of transformed everything.
+We bet everything, the whole farm on just being a cloud company.
+We bet everything on AI, the use cases of AI, and we bet on open and open source.
+And at the time, actually, all three of these bets were uh controversial.
+People were I had a standing bet with one of the most important analyst firms out there, where they said it's a strategic blunder, you're gonna go under because you're betting on the cloud.
+And it turned out actually the only reason we succeeded was because of these bets, because they were contrarian, because other people did not agree with them.
+So we got a head start for many many years.
+Uh and then eventually, when we, you know, happened to be right, uh, then we had, you know, we were so far along and we got too big uh that you know there's too much momentum to stop it.
+It's so funny you mentioned this Netflix algorithm.
+A personal AI agent needs context beyond what you type into a chat here.
+The discussion explores using app switches, browsing pauses, and other computer events, and the challenge of keeping that context private.
+So maybe talk a little bit about that aspect of what you're doing.
+Yeah, it is indeed a very hard problem, especially to get it secured private.
+So the way it roughly works is that right now on your computer, there's just like an infinite stream of events.
+As you use a computer, the apps that you switch to, the way you pause on certain websites, the way you type and the way your Wi-Fi is connected.
+And that the OS already gives you.
+This is across Apple, Microsoft, and even Linux.
+And the question then is, well, can you just analyze the heck out of it, right?
+Like this raw stream, 24-7, apply agents on top, 24-7 agents.
+So I can first synthesize, for example, well, this piece of typing at this particular app might mean that you're sending a message.
+And then when you're switching apps between the browser or back to your codec, you might be like doing some research.
+You might be writing a Google Doc.
+And you kind of hierarchically build up that understanding.
+And that plus existing connectors can give you a very good understanding of what you're trying to do.
+I think people are underestimating like how much the computer already knows.
+It's just they're sitting there waiting to be tapped, so to speak.
+Having been also in a very early adopter of the product, lately it's been just indispensable because it's able to catch it's sending me messages now and letting me know that, hey, you've got this conversation going on over here with this person, and it looks like the situation has changed.
+So we were planning an event yesterday.
+There was a 20% chance of weather, and in real time it was continually updating the forecast for us to let us know if we needed to get a tent or not.
+Which is just like incredibly powerful.
+Did you ask it to do that?
+No, I did not ask it to do that.
+It's like my experience, this my experience is my second too.
+Like it's literally I'll get a text from my second, and it's like something that I actually need to know about relative to some ongoing conversation that I didn't even think about that like it actually is very thoughtful.
+Yeah.
+And so like it's just it's amazing.
+Like I just I'm genuinely curious.
+Like, how are you executing on that?
+Like things that I would have forgotten, it's literally catching.
+Yeah, yeah.
+So this goes back to the model of the person understanding what might be important to them and what comes up at this point.
+So I think productivity is something that people talk a lot about.
+Like pinging you, yes, and pinging you in at the time.
+AI infrastructure spending depends on financing costs.
+Two this discussion connects falling share prices and wider credit spreads with slowing capital spending growth, alongside an assessment of the Fed's tightening rationale.
+Their average share price decline was 11%.
+Their credit spread uh widened 50 basis points against the underlying index, the underlying risk-free rate, the 10-year tips yield went up 50 basis points, and lo and behold, CapEx is now halved from the 125% growth rate in the first quarter to down around about 60 or so.
+And you could see the fallout um in credit and in uh the more leveraged of the uh AI infrastructure players, and macro always matters.
+Um the seats you've sat in are part of why I wanted to have this conversation and capture it, because if people aren't following your work, they don't know you've seen a lot of cycles.
+There's a lot in your repertoire.
+So let's dive right in.
+Let's start with the Fed.
+Let's talk about the policy path.
+You want to kick us off with just what you've been seeing core CPI since the September meeting alone.
+Sure.
+Um they obviously decided to uh to hike before the September meeting.
+Um Borsh gave that away at the the Jackson Hole symposium, which at as an aside, when I went down to my desk, um just before about 15 minutes before he was due to speak, a bear had pushed through the window right behind me and was climbing onto my desk.
+Um, I suppose that's at an omen or serendipity.
+I scared her away by yelling at her, we haven't seen her since.
+But uh, but anyway, um, at the point of the September meeting, uh, Chair Warsh had four PCED reports, personal consumption expenditure deflator, their preferred index, which is a mess right now.
+But anyway, the median increase of that had been.2 in those four meetings, and he had four CPI reports, and the median increase was.175.
+These are of the core measures.
+So they had no real justification based upon the last, you know, prior four months of data to be hiking rates, but had decided to do it anyway, presumably for credibility purposes, though some of my clients in New York speculate it was more about politics and an attempt to be shown to be doing something in front of the midterms.
+Whatever the case, they embarked on this tightening cycle.
+Well, since then they have gotten some pretty um hawkish data.
+They've gotten three point threes in.
+That's the daily rundown.
+Thanks for listening.
+We'll see you next time.

@@ -1,0 +1,469 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:01.760
+Welcome to the daily rundown.
+
+2
+00:00:01.760 --> 00:00:09.600
+Today, routing AI work, the cloud foundations behind machine learning, and what personal agents need to know about you.
+
+3
+00:00:09.600 --> 00:00:15.840
+Plus, a discussion of how higher financing costs could reshake AI infrastructure spending.
+
+4
+00:00:15.840 --> 00:00:21.120
+Source credits and links are in the chapters and show notes.
+
+5
+00:00:21.120 --> 00:00:25.280
+Which AI model should handle each task and who makes that choice.
+
+6
+00:00:25.280 --> 00:00:34.400
+This discussion weighs deterministic routing against intelligent routing with flexibility and predictable costs at stake.
+
+7
+00:00:34.960 --> 00:00:39.440
+Can we do something on-prem, saving costs and giving more flexibility?
+
+8
+00:00:39.440 --> 00:00:46.800
+And can we give uh can we just have a free-for-all without without uh with a predictable cost?
+
+9
+00:00:46.800 --> 00:00:50.560
+And that's when like the customers coming to us for for those reasons.
+
+10
+00:00:50.560 --> 00:00:53.680
+Like, hey, I I just want to have the flexibility to do that.
+
+11
+00:00:53.680 --> 00:01:09.360
+And even before we get uh hosted externally versus on-prem, there's this big question about routing and like how do I make it easier for folks to get the right work to the right model?
+
+12
+00:01:09.360 --> 00:01:11.280
+Like, how are you seeing folks tackle that?
+
+13
+00:01:11.280 --> 00:01:28.320
+Yeah, so there's multiple you know, routing technologies or routing vendors out there today that that sits in front of a LLM or uh you know, right as a as a selector when you have a chatbot or something, you can just pick the router as the endpoint and then router selects where to go.
+
+14
+00:01:28.320 --> 00:01:31.280
+So and the router's intelligence comes in.
+
+15
+00:01:31.280 --> 00:01:40.080
+Okay, it could be you can be deterministic or you can set up some some rules essentially to say this type of work should go to cloud.
+
+16
+00:01:40.080 --> 00:01:46.720
+This kind of work should go to the on-prem, and within the cloud and on-prem, these are the types of models that you select.
+
+17
+00:01:46.720 --> 00:01:52.800
+Um, and we see that it's being the kind of the primary base, I mean deterministic rule-based approach.
+
+18
+00:01:52.800 --> 00:01:55.280
+It is kind of the starting point.
+
+19
+00:01:55.280 --> 00:02:06.680
+And then there's the the next level of that is like automatically selecting it based on the content of the prompt and the sophistication that it requires, it'll decide that.
+
+20
+00:02:06.840 --> 00:02:13.560
+So our customers are uh cautious, they don't want the so many variables.
+
+21
+00:02:13.560 --> 00:02:21.880
+So, like, you know, if the model router is super intelligent and deciding where to go, it creates another place of like now.
+
+22
+00:02:21.880 --> 00:02:25.880
+I need to monitor the model router if this doing the right decision, right?
+
+23
+00:02:25.880 --> 00:02:35.960
+So they they start with, okay, let's let's do something deterministic, and then let's go with like how the deterministic thing, and then you can watch that.
+
+24
+00:02:36.040 --> 00:02:40.680
+Before you can run machine learning on business data, you have to afford to keep it.
+
+25
+00:02:40.680 --> 00:02:53.800
+This discussion traces how cloud infrastructure made, storing logs and processing data at scale more practical uh that data doesn't sit in CRM, it doesn't sit in human resource management.
+
+26
+00:02:53.880 --> 00:02:56.600
+In fact, it probably wasn't even tracked.
+
+27
+00:02:56.600 --> 00:03:02.040
+I remember in the early days of the internet, they'd be like, hey, would you like this log file?
+
+28
+00:03:02.040 --> 00:03:03.880
+And I'd say, okay, yeah, keep everything.
+
+29
+00:03:03.880 --> 00:03:06.920
+And they'd say, Okay, well, you got an $8,000 storage bill a month.
+
+30
+00:03:06.920 --> 00:03:08.920
+And I'd be like, okay, delete it.
+
+31
+00:03:09.000 --> 00:03:11.240
+And they're like, well, we could roll it up and keep some of it.
+
+32
+00:03:11.240 --> 00:03:14.200
+I'm like, well, who's ever using the open rate on our emails?
+
+33
+00:03:14.200 --> 00:03:15.000
+Who cares about that?
+
+34
+00:03:15.000 --> 00:03:16.920
+You know, we send the emails, that's it.
+
+35
+00:03:16.920 --> 00:03:18.680
+But then that changed.
+
+36
+00:03:18.680 --> 00:03:30.520
+And was storage and compute and cloud computing a major accelerant to this big data movement, and then eventually machine learning, those were kind of the waypoints uh in this movement.
+
+37
+00:03:30.520 --> 00:03:31.000
+Yeah.
+
+38
+00:03:31.000 --> 00:03:35.160
+Before we started in 2013, basically people were running their own data centers.
+
+39
+00:03:35.160 --> 00:03:37.800
+And when they're running their own data centers, you have to buy machines.
+
+40
+00:03:37.800 --> 00:03:40.840
+And the machines came with storage and compute combined.
+
+41
+00:03:40.840 --> 00:03:43.160
+So if you ran out of storage, you have to buy more machines.
+
+42
+00:03:43.160 --> 00:03:46.080
+And the IT departments of every organization were busy with this.
+
+43
+00:03:46.240 --> 00:03:56.240
+What the cloud enabled was to just completely decentralize this and separate compute and storage so that you could just imagine you have infinite storage and you just dump everything there.
+
+44
+00:03:56.240 --> 00:03:56.640
+Okay.
+
+45
+00:03:56.640 --> 00:04:02.720
+And if it's gone cold, so the data is old, it knows how to archive it so that it becomes almost free to store it.
+
+46
+00:04:02.720 --> 00:04:06.560
+Uh and then you could get the illusion of as much compute as you wanted.
+
+47
+00:04:06.560 --> 00:04:08.800
+And then of course you could start running machine learning on it.
+
+48
+00:04:08.800 --> 00:04:10.640
+And then eventually GPUs showed up.
+
+49
+00:04:10.960 --> 00:04:12.960
+So it kind of transformed everything.
+
+50
+00:04:12.960 --> 00:04:16.320
+We bet everything, the whole farm on just being a cloud company.
+
+51
+00:04:16.320 --> 00:04:21.040
+We bet everything on AI, the use cases of AI, and we bet on open and open source.
+
+52
+00:04:21.040 --> 00:04:24.560
+And at the time, actually, all three of these bets were uh controversial.
+
+53
+00:04:24.560 --> 00:04:34.080
+People were I had a standing bet with one of the most important analyst firms out there, where they said it's a strategic blunder, you're gonna go under because you're betting on the cloud.
+
+54
+00:04:34.080 --> 00:04:40.640
+And it turned out actually the only reason we succeeded was because of these bets, because they were contrarian, because other people did not agree with them.
+
+55
+00:04:40.640 --> 00:04:42.880
+So we got a head start for many many years.
+
+56
+00:04:42.880 --> 00:04:53.360
+Uh and then eventually, when we, you know, happened to be right, uh, then we had, you know, we were so far along and we got too big uh that you know there's too much momentum to stop it.
+
+57
+00:04:53.360 --> 00:04:57.760
+It's so funny you mentioned this Netflix algorithm.
+
+58
+00:04:57.760 --> 00:05:02.560
+A personal AI agent needs context beyond what you type into a chat here.
+
+59
+00:05:02.560 --> 00:05:12.720
+The discussion explores using app switches, browsing pauses, and other computer events, and the challenge of keeping that context private.
+
+60
+00:05:13.440 --> 00:05:16.080
+So maybe talk a little bit about that aspect of what you're doing.
+
+61
+00:05:16.080 --> 00:05:20.000
+Yeah, it is indeed a very hard problem, especially to get it secured private.
+
+62
+00:05:20.000 --> 00:05:24.640
+So the way it roughly works is that right now on your computer, there's just like an infinite stream of events.
+
+63
+00:05:24.640 --> 00:05:32.760
+As you use a computer, the apps that you switch to, the way you pause on certain websites, the way you type and the way your Wi-Fi is connected.
+
+64
+00:05:32.760 --> 00:05:34.520
+And that the OS already gives you.
+
+65
+00:05:34.520 --> 00:05:37.080
+This is across Apple, Microsoft, and even Linux.
+
+66
+00:05:37.080 --> 00:05:40.840
+And the question then is, well, can you just analyze the heck out of it, right?
+
+67
+00:05:40.840 --> 00:05:45.960
+Like this raw stream, 24-7, apply agents on top, 24-7 agents.
+
+68
+00:05:45.960 --> 00:05:53.000
+So I can first synthesize, for example, well, this piece of typing at this particular app might mean that you're sending a message.
+
+69
+00:05:53.000 --> 00:05:59.880
+And then when you're switching apps between the browser or back to your codec, you might be like doing some research.
+
+70
+00:05:59.880 --> 00:06:01.800
+You might be writing a Google Doc.
+
+71
+00:06:01.800 --> 00:06:05.080
+And you kind of hierarchically build up that understanding.
+
+72
+00:06:05.080 --> 00:06:09.640
+And that plus existing connectors can give you a very good understanding of what you're trying to do.
+
+73
+00:06:09.640 --> 00:06:13.960
+I think people are underestimating like how much the computer already knows.
+
+74
+00:06:13.960 --> 00:06:17.560
+It's just they're sitting there waiting to be tapped, so to speak.
+
+75
+00:06:17.880 --> 00:06:31.880
+Having been also in a very early adopter of the product, lately it's been just indispensable because it's able to catch it's sending me messages now and letting me know that, hey, you've got this conversation going on over here with this person, and it looks like the situation has changed.
+
+76
+00:06:31.880 --> 00:06:34.600
+So we were planning an event yesterday.
+
+77
+00:06:34.600 --> 00:06:41.640
+There was a 20% chance of weather, and in real time it was continually updating the forecast for us to let us know if we needed to get a tent or not.
+
+78
+00:06:41.640 --> 00:06:43.080
+Which is just like incredibly powerful.
+
+79
+00:06:43.480 --> 00:06:44.440
+Did you ask it to do that?
+
+80
+00:06:44.440 --> 00:06:45.800
+No, I did not ask it to do that.
+
+81
+00:06:45.800 --> 00:06:47.720
+It's like my experience, this my experience is my second too.
+
+82
+00:06:47.720 --> 00:06:57.960
+Like it's literally I'll get a text from my second, and it's like something that I actually need to know about relative to some ongoing conversation that I didn't even think about that like it actually is very thoughtful.
+
+83
+00:06:58.200 --> 00:06:58.520
+Yeah.
+
+84
+00:06:58.520 --> 00:07:00.040
+And so like it's just it's amazing.
+
+85
+00:07:00.040 --> 00:07:01.560
+Like I just I'm genuinely curious.
+
+86
+00:07:01.560 --> 00:07:03.240
+Like, how are you executing on that?
+
+87
+00:07:03.240 --> 00:07:05.880
+Like things that I would have forgotten, it's literally catching.
+
+88
+00:07:05.880 --> 00:07:06.360
+Yeah, yeah.
+
+89
+00:07:06.360 --> 00:07:11.960
+So this goes back to the model of the person understanding what might be important to them and what comes up at this point.
+
+90
+00:07:11.960 --> 00:07:14.600
+So I think productivity is something that people talk a lot about.
+
+91
+00:07:14.600 --> 00:07:19.520
+Like pinging you, yes, and pinging you in at the time.
+
+92
+00:07:19.600 --> 00:07:23.440
+AI infrastructure spending depends on financing costs.
+
+93
+00:07:23.440 --> 00:07:34.960
+Two this discussion connects falling share prices and wider credit spreads with slowing capital spending growth, alongside an assessment of the Fed's tightening rationale.
+
+94
+00:07:35.680 --> 00:07:38.160
+Their average share price decline was 11%.
+
+95
+00:07:38.160 --> 00:07:55.360
+Their credit spread uh widened 50 basis points against the underlying index, the underlying risk-free rate, the 10-year tips yield went up 50 basis points, and lo and behold, CapEx is now halved from the 125% growth rate in the first quarter to down around about 60 or so.
+
+96
+00:07:55.360 --> 00:08:06.240
+And you could see the fallout um in credit and in uh the more leveraged of the uh AI infrastructure players, and macro always matters.
+
+97
+00:08:06.240 --> 00:08:15.680
+Um the seats you've sat in are part of why I wanted to have this conversation and capture it, because if people aren't following your work, they don't know you've seen a lot of cycles.
+
+98
+00:08:15.680 --> 00:08:17.200
+There's a lot in your repertoire.
+
+99
+00:08:17.200 --> 00:08:18.160
+So let's dive right in.
+
+100
+00:08:18.160 --> 00:08:19.120
+Let's start with the Fed.
+
+101
+00:08:19.120 --> 00:08:20.880
+Let's talk about the policy path.
+
+102
+00:08:20.880 --> 00:08:26.800
+You want to kick us off with just what you've been seeing core CPI since the September meeting alone.
+
+103
+00:08:26.880 --> 00:08:27.600
+Sure.
+
+104
+00:08:27.600 --> 00:08:33.600
+Um they obviously decided to uh to hike before the September meeting.
+
+105
+00:08:33.600 --> 00:08:53.040
+Um Borsh gave that away at the the Jackson Hole symposium, which at as an aside, when I went down to my desk, um just before about 15 minutes before he was due to speak, a bear had pushed through the window right behind me and was climbing onto my desk.
+
+106
+00:08:53.040 --> 00:08:57.440
+Um, I suppose that's at an omen or serendipity.
+
+107
+00:08:57.440 --> 00:09:00.000
+I scared her away by yelling at her, we haven't seen her since.
+
+108
+00:09:00.360 --> 00:09:13.480
+But uh, but anyway, um, at the point of the September meeting, uh, Chair Warsh had four PCED reports, personal consumption expenditure deflator, their preferred index, which is a mess right now.
+
+109
+00:09:13.480 --> 00:09:23.000
+But anyway, the median increase of that had been.2 in those four meetings, and he had four CPI reports, and the median increase was.175.
+
+110
+00:09:23.000 --> 00:09:24.840
+These are of the core measures.
+
+111
+00:09:24.840 --> 00:09:43.080
+So they had no real justification based upon the last, you know, prior four months of data to be hiking rates, but had decided to do it anyway, presumably for credibility purposes, though some of my clients in New York speculate it was more about politics and an attempt to be shown to be doing something in front of the midterms.
+
+112
+00:09:43.080 --> 00:09:46.760
+Whatever the case, they embarked on this tightening cycle.
+
+113
+00:09:46.760 --> 00:09:52.440
+Well, since then they have gotten some pretty um hawkish data.
+
+114
+00:09:52.440 --> 00:09:57.240
+They've gotten three point threes in.
+
+115
+00:09:57.240 --> 00:09:58.920
+That's the daily rundown.
+
+116
+00:09:58.920 --> 00:10:00.120
+Thanks for listening.
+
+117
+00:10:00.120 --> 00:10:02.360
+We'll see you next time.
