@@ -9,6 +9,51 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — November 20, 2026</title>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-11-20.mp3" length="9326636" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-11-20.mp3</guid>
+      <itunes:duration>9:42</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-11-20.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-11-20.json" type="application/json+chapters"/>
+      <description>Daily Digest — 2026-11-20
+Topic-first clip edition.
+
+Source credits and links are in the chapters and show notes.
+
+Sources:
+clip_1: a16z Podcast — Why the Agent Era Needs a New Operating System | DHH
+Published: 2026-11-20T15:48:13+00:00
+Source: https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL
+clip_2: Odd Lots — How an American AI Company Uses Chinese Open-Weight Models
+Published: 2026-11-20T09:00:00+00:00
+Source: https://omny.fm/shows/odd-lots/how-an-american-ai-company-uses-chinese-open-weight-models
+clip_3: Excess Returns — Who Pays for the AI Buildout? Two Bond Investors Take Us Inside the Debt Market
+Published: 2026-11-19T20:19:09+00:00
+Source: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Who-Pays-for-the-AI-Buildout--Two-Bond-Investors-Take-Us-Inside-the-Debt-Market-e3smpo5
+clip_4: Developer Tea — What Kind of Engineers Are Getting Hired Right Now?
+Published: 2026-11-20T08:00:00+00:00
+Source: http://www.developertea.com</description>
+      <itunes:summary>Daily Digest — 2026-11-20
+Topic-first clip edition.
+
+Source credits and links are in the chapters and show notes.
+
+Sources:
+clip_1: a16z Podcast — Why the Agent Era Needs a New Operating System | DHH
+Published: 2026-11-20T15:48:13+00:00
+Source: https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL
+clip_2: Odd Lots — How an American AI Company Uses Chinese Open-Weight Models
+Published: 2026-11-20T09:00:00+00:00
+Source: https://omny.fm/shows/odd-lots/how-an-american-ai-company-uses-chinese-open-weight-models
+clip_3: Excess Returns — Who Pays for the AI Buildout? Two Bond Investors Take Us Inside the Debt Market
+Published: 2026-11-19T20:19:09+00:00
+Source: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Who-Pays-for-the-AI-Buildout--Two-Bond-Investors-Take-Us-Inside-the-Debt-Market-e3smpo5
+clip_4: Developer Tea — What Kind of Engineers Are Getting Hired Right Now?
+Published: 2026-11-20T08:00:00+00:00
+Source: http://www.developertea.com</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — November 18, 2026</title>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-11-18.mp3" length="9642668" type="audio/mpeg"/>
@@ -688,63 +733,6 @@ Sources:
 - Rebuilding the Internet for Privacy | Barrett Lyon on DoxxNet (a16z Podcast)
   Link: https://a16z.simplecast.com/episodes/rebuilding-the-internet-for-privacy-barrett-lyon-on-doxxnet-_F1_edMA
   Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f388d562-3c7e-4342-ba98-05729b8c29e8/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=f388d562-3c7e-4342-ba98-05729b8c29e8&amp;feed=JGE3yC0V</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — September 30, 2026</title>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-09-30.mp3" length="10202540" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-09-30.mp3</guid>
-      <itunes:duration>10:37</itunes:duration>
-      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-09-30.vtt" type="text/vtt" rel="captions"/>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-09-30.json" type="application/json+chapters"/>
-      <description>Daily Digest — September 30, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-30.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-30.txt
-
-Chapters:
-0:39 — a16z Podcast — Hyperscaler capital spending and the economics of rapidly scaling
-3:23 — The Pragmatic Engineer — Open source impact and the beginnings of Gmail's storag
-5:43 — Masters in Business — How private-business ownership drives wealth accumulation 
-8:24 — Conversations with Tyler — Spain’s productivity crisis, pension-heavy political 
-
-Sources:
-- The $1 Trillion AI Buildout | State of Markets (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/the-1-trillion-ai-buildout-state-of-markets-tkJj_Zp1
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7104380b-ad2f-4075-b459-cb07cd66a70b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=7104380b-ad2f-4075-b459-cb07cd66a70b&amp;feed=JGE3yC0V
-- Distributed databases with Peter Mattis (The Pragmatic Engineer)
-  Link: https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter
-  Source audio: https://api.substack.com/feed/podcast/217889431/e6c0522fd2ba52d0d7c1d42880a1a952.mp3
-- At the Money: The Data Behind America's Wealthy (Masters in Business)
-  Link: https://omny.fm/shows/masters-in-business/at-the-money-the-date-behind-americas-wealthy
-  Source audio: https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/7aa8c2fb-6a07-43f5-a8bf-b4d500cbaf1c/audio.mp3?utm_source=Podcast&amp;in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d
-- Luis Garicano on Spain, Europe, and the Future of Work (Conversations with Tyler)
-  Link: https://cowenconvos.libsyn.com/luis-garicano-on-spain-europe-and-the-future-of-work
-  Source audio: https://traffic.libsyn.com/secure/cowenconvos/CWT-296-LuisGaricano-podcast-v1.mp3?dest-id=850607</description>
-      <itunes:summary>Daily Digest — September 30, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-09-30.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-09-30.txt
-
-Chapters:
-0:39 — a16z Podcast — Hyperscaler capital spending and the economics of rapidly scaling
-3:23 — The Pragmatic Engineer — Open source impact and the beginnings of Gmail's storag
-5:43 — Masters in Business — How private-business ownership drives wealth accumulation 
-8:24 — Conversations with Tyler — Spain’s productivity crisis, pension-heavy political 
-
-Sources:
-- The $1 Trillion AI Buildout | State of Markets (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/the-1-trillion-ai-buildout-state-of-markets-tkJj_Zp1
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7104380b-ad2f-4075-b459-cb07cd66a70b/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=7104380b-ad2f-4075-b459-cb07cd66a70b&amp;feed=JGE3yC0V
-- Distributed databases with Peter Mattis (The Pragmatic Engineer)
-  Link: https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter
-  Source audio: https://api.substack.com/feed/podcast/217889431/e6c0522fd2ba52d0d7c1d42880a1a952.mp3
-- At the Money: The Data Behind America's Wealthy (Masters in Business)
-  Link: https://omny.fm/shows/masters-in-business/at-the-money-the-date-behind-americas-wealthy
-  Source audio: https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4e4cd910-40a1-4619-a5f3-ae2b0012ffff/7aa8c2fb-6a07-43f5-a8bf-b4d500cbaf1c/audio.mp3?utm_source=Podcast&amp;in_playlist=5873a3cb-298f-40bc-b71f-ae2b0013000d
-- Luis Garicano on Spain, Europe, and the Future of Work (Conversations with Tyler)
-  Link: https://cowenconvos.libsyn.com/luis-garicano-on-spain-europe-and-the-future-of-work
-  Source audio: https://traffic.libsyn.com/secure/cowenconvos/CWT-296-LuisGaricano-podcast-v1.mp3?dest-id=850607</itunes:summary>
     </item>
   </channel>
 </rss>

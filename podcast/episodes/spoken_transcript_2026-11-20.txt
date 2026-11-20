@@ -1,0 +1,110 @@
+Welcome to the daily rundown.
+Today, operating systems for AI agents.
+What open weight models actually offer and the debt behind the AI build out.
+Plus, what faster coding tools could mean for the engineers getting hired.
+Source credits and links are in the chapters and show notes.
+Could AI agents make the desktop less useful?
+This discussion makes the case for Linux command line tools and configuration files over Mac and Windows interfaces.
+A different way to think about your next computer.
+So I'm extremely bullish on the idea that both Mac OS and Windows are just unfit for the age of agents.
+And I think the age of agents is going to be the only thing that matters when it comes to these computers in about five minutes.
+So we're really just leaning hard into the idea that operating systems we've had for 40 years built around mouse and click dynamics, they just don't work for the age of agents.
+I mean, let me give you just one basic example.
+If you want to remap the hotkeys to go to a different workspace in Mac OS, there's only one way to do that.
+Manually go into a settings app, click one field at a time, put in the new hotkey, then click the next field, then put in that hotkey.
+You cannot do that agency.
+Well, I guess you can have computer use to it, but that's pretty dumb.
+That's pretty silly.
+And what we have on the Linux side is that every single thing that made Linux hard to use in the past, oh, it's very terminal heavy, it's got a bunch of config files that's hard to figure out, and it's got inscrutable error messages.
+These are the three things agents love.
+They want a command line interface for everything.
+They want predictable config files that they can just edit and update.
+They want all the details in the error messages.
+So all these historic deficits for Linux have literally this year turned into the reason why you want Linux on your computer if you're into agents, if you're into AI.
+And at this point, who that's making anything is not into agents, is not into AI.
+So I think Apple is running the risk right now of becoming the AOL of the agent era.
+We're gonna provide this wall garden.
+We have Jin emoji over here.
+You do not need to use an actual agent from an actual frontier lab.
+Just give us a chance to give you something watered down and open source and open weight aren't interchangeable.
+You'll hear that distinction unpacked through an American AI company's use of Chinese models and what it means for running models yourself.
+How many tokens did you use?
+I didn't I probably know.
+It was very quick.
+Oh, can I ask a really basic question?
+And now we're but I only say that because we're talking about marketing and these are the types of things that marketers might want to automate and stuff like that.
+Anyway, a very basic question.
+I said you use open source models in the beginning, but maybe that's not accurate.
+Maybe you use open weight.
+Can you talk about what the difference actually is between open source versus open weight?
+Yeah.
+So I think the two are are really used synonymously right now to mean the same thing, and they're not the same thing.
+The main difference is open source means that you're disclosing all of the code, all the data, the exact recipe that was used to train a model.
+And that's not what the Chinese labs are doing.
+What they're doing is they're releasing the weights of the model.
+So essentially the end artifact.
+And now that's much different than OpenAI and Anthropic, where I send in data to an API endpoint, I get data back, I have no idea how I got the data there.
+The Chinese labs are at least saying, okay, you can download this model and you can now host it yourself, essentially.
+And that opens up a whole different set of possibilities.
+But at the same time, other than the papers they release, I have no idea how they actually went from, you know, slop of data and an architecture to an actual artifact.
+But wait, sorry, just to be clear.
+So if you have an open weight model, you can run if you have a bunch of chips and you have access to power, you can run it, right?
+So it's like I could like download the Quen weights.
+Yep.
+And run it on my own computer or run a lot of get do.
+But also another element that I think a lot of startups care about, and other companies, including your former employer, Bridgewater, is the ability to fine-tune open weights on that.
+Can you talk a little bit about?
+I am personally still unclear whether fine-tuning for local data is actually going to be economically valuable, like some people claim.
+But where do you stand on that?
+I actually think that this is the primary benefit to the application layer right now is the ability to fine-tune on top of those open weights.
+Fine-tune the weights to your that's correct.
+The AI build out has a repayment problem to consider, not just a growth story.
+Two bond investors examine the revenues and cash flows needed to pay down infrastructure debt.
+A useful counterpoint to today's anthropic NASDAQ debut.
+We're trained that up and to the right, getting bigger is is good, right?
+But this is debt, right?
+So this is eventually someone's gonna have to make this chart go back down into the right.
+And that's kind of come out of recap revenues and ultimately cash flow of a business.
+So, you know, there's an interesting dynamic.
+And if you look at it, like SpaceX obviously is the one that that must stand out to everybody.
+I mean, and don't forget, these are billions of dollars, not hundreds of thousands, not millions, billions.
+Little bit of debt.
+So it does that, and and then all of a sudden this year estimated to have the the pack leader.
+There's some statistics where bigger isn't always better.
+Like a high debt load means either disappointing investors in the future or you know, having to generate a lot of cash to pay it back, which if you're an equity holder in these stocks, I think it's pretty clear you're not anticipating dividends.
+You're hoping maybe this free cash flow for buybacks, but you're not really buying it for cash flow.
+Because a debt investor, all of a sudden you are, right?
+And you know, us debt people and fixed income people, we're rightly accused of being cynics pretty often, but it's because there's no equity valuation to bail you out, right?
+There's just a do you make your coupon payment?
+Did you give me my money back?
+Not and some of the names that you well know here, right?
+The older ones, they've pretty good reputations of doing that.
+Some of these other companies less so, right?
+And it's not that we don't believe they will, it's not they don't have ratings that they can.
+It's we've just yet to really see how good a stewards of of capital and of debt capital they're going to be.
+So there's gonna be some discount they take.
+That said, if you're SpaceX, you just caught a giant rocket with some chopsticks, right?
+You know, five, ten years ago, the only person who could do that was Marvin the Martian.
+So you're probably on the right track, and you've got a business model with everyone now, you know, running to new satellite-based internet.
+I mean, Starlink, which if you've been on a United Airplane recently, the Starlink on the plane may be the reason to switch to United if you're not a United loyalist already.
+It's awesome.
+So a lot of good stuff happening.
+But don't forget, all these numbers you see here, they have to be paid back in time.
+And although, you know, as an investor, we don't like it if agents make implementation faster.
+What makes an engineer valuable?
+This discussion puts the emphasis on judgment and applying knowledge quickly.
+A hiring question for anyone figuring out which skills to build next.
+And your ability to quickly pick up and use that's the key thing.
+You can learn about something academically, but are you able to utilize that information quickly on the fly on principle?
+Can you quickly uh and quickly becomes the important term here, right?
+Because so much of the uh uh usefulness of all of our these this new tooling that we have, the agentic uh uh you know, tooling that we're taking advantage of every day, a lot of the usefulness of that or the value of it is that it unblocks you.
+You can move much faster.
+And so if you're taking a lot of time uh to consider something, it needs to be commensurately worth it, worth that extra time, right?
+And so being able to quickly make decisions, quickly make trade-offs, figure out what is important and what's not, these are the skills of the future.
+Judgment and decision making.
+If you spend all of your time, if you spend every book, you know, uh uh audio book credit that you have in your back pocket, um, every training that you do over the next year, if all of it is spent on judgment and decision making, it will be money well spent.
+It'll be time well spent.
+I'm actually less inclined to tell people to go and get AI specific training.
+You know, some of that may be useful to kind of open your eyes to what's what's happening in the industry.
+But instead, I would rather you develop the habit of dealing with change and adopting and inviting different kinds of change and evaluating things quickly.
+Because the speed that this these tools are moving, you know, there's some fundamentals that are useful, but if you were to go and get really specific training and particular tools, they're going to change very quickly.

@@ -1,0 +1,75 @@
+{
+  "version": "1.2.0",
+  "date": "2026-11-20",
+  "editorial_contract": "topic-bridges-v1",
+  "chapters": [
+    {
+      "startTime": 34.832,
+      "title": "a16z Podcast \u2014 Why Linux command-line tools and configuration files suit AI agents",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_1",
+      "source_id": "884ab532a46026ed7e21bcb9e898bcd544df1ff81bd212721368e90026afc5fa",
+      "selector_episode_key": "|Why the Agent Era Needs a New Operating System | DHH|2026-11-20T15:48:13+00:00",
+      "source_credit": {
+        "title": "Why the Agent Era Needs a New Operating System | DHH",
+        "podcast": "a16z Podcast",
+        "link": "https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL",
+        "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/13bead27-85e5-4199-b0a3-a1bb43c05c4a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=13bead27-85e5-4199-b0a3-a1bb43c05c4a&feed=JGE3yC0V",
+        "transcript_url": "",
+        "published": "2026-11-20T15:48:13+00:00"
+      },
+      "url": "https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL"
+    },
+    {
+      "startTime": 169.949,
+      "title": "Odd Lots \u2014 Open-source versus open-weight models and self-hosting",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_2",
+      "source_id": "8cc081edc6357eea047cb0c3d9007fc3cbcafec7a0d2b2b41e6c79fc10f2f9df",
+      "selector_episode_key": "|How an American AI Company Uses Chinese Open-Weight Models|2026-11-20T09:00:00+00:00",
+      "source_credit": {
+        "title": "How an American AI Company Uses Chinese Open-Weight Models",
+        "podcast": "Odd Lots",
+        "link": "https://omny.fm/shows/odd-lots/how-an-american-ai-company-uses-chinese-open-weight-models",
+        "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4364f8cd-e957-44ef-9795-b5070115b19e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+        "transcript_url": "",
+        "published": "2026-11-20T09:00:00+00:00"
+      },
+      "url": "https://omny.fm/shows/odd-lots/how-an-american-ai-company-uses-chinese-open-weight-models"
+    },
+    {
+      "startTime": 308.253,
+      "title": "Excess Returns \u2014 AI infrastructure debt and the cash flows needed to repay it",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_3",
+      "source_id": "008c9497e73c29217e947c399f371a99313dbb4481d1c71c44ab0e335a40c5b1",
+      "selector_episode_key": "|Who Pays for the AI Buildout? Two Bond Investors Take Us Inside the Debt Market|2026-11-19T20:19:09+00:00",
+      "source_credit": {
+        "title": "Who Pays for the AI Buildout? Two Bond Investors Take Us Inside the Debt Market",
+        "podcast": "Excess Returns",
+        "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Who-Pays-for-the-AI-Buildout--Two-Bond-Investors-Take-Us-Inside-the-Debt-Market-e3smpo5",
+        "audio_url": "https://traffic.megaphone.fm/APO1557811038.mp3",
+        "transcript_url": "",
+        "published": "2026-11-19T20:19:09+00:00"
+      },
+      "url": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Who-Pays-for-the-AI-Buildout--Two-Bond-Investors-Take-Us-Inside-the-Debt-Market-e3smpo5"
+    },
+    {
+      "startTime": 453.928,
+      "title": "Developer Tea \u2014 Agentic tools shift engineering value toward judgment and rapid adaptation",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_4",
+      "source_id": "943c90d7cd821768e6eb888b9bce3910284e3bac3cd3fb31d3150e699cd70c7b",
+      "selector_episode_key": "|What Kind of Engineers Are Getting Hired Right Now?|2026-11-20T08:00:00+00:00",
+      "source_credit": {
+        "title": "What Kind of Engineers Are Getting Hired Right Now?",
+        "podcast": "Developer Tea",
+        "link": "http://www.developertea.com",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/57e2812a-5584-4627-8e7f-7b0b44b07ab0/audio/4dc9c14c-f1f7-47a0-aefe-4f023cc9a11f/default_tc.mp3?aid=rss_feed&feed=dLRotFGk",
+        "transcript_url": "",
+        "published": "2026-11-20T08:00:00+00:00"
+      },
+      "url": "http://www.developertea.com"
+    }
+  ]
+}

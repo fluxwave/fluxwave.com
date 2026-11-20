@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-20",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-20_20261120T210540Z_99234/clip_sources/884ab532a46026ed/01_Agents_modifying_the_operating_system_through_natu.mp3",
+      "source": "Why the Agent Era Needs a New Operating System | DHH",
+      "start_time": 320,
+      "end_time": 446,
+      "topic": "Agents modifying the operating system through natural-language requests"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-20_20261120T210540Z_99234/clip_sources/8cc081edc6357eea/01_Agentic_workflow_automation_and_model_selection.mp3",
+      "source": "How an American AI Company Uses Chinese Open-Weight Models",
+      "start_time": 315,
+      "end_time": 440,
+      "topic": "Agentic workflow automation and model selection"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-20_20261120T210540Z_99234/clip_sources/008c9497e73c2921/01_Inflation_borrowing_costs_and_warning_signs_in_AI.mp3",
+      "source": "Who Pays for the AI Buildout? Two Bond Investors Take Us Inside the Debt Market",
+      "start_time": 428,
+      "end_time": 550,
+      "topic": "Inflation, borrowing costs, and warning signs in AI capital allocation"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-20_20261120T210540Z_99234/clip_sources/943c90d7cd821768/01_First-principles_decisions_when_AI_tooling_lacks_e.mp3",
+      "source": "What Kind of Engineers Are Getting Hired Right Now?",
+      "start_time": 420,
+      "end_time": 550,
+      "topic": "First-principles decisions when AI tooling lacks established best practices"
+    }
+  ],
+  "same_source_spacing_findings": [],
+  "schema_version": 2,
+  "editorial_contract": "topic-bridges-v1",
+  "selected_episodes_sha256": "75f7f52702323ca2aadf622a7034b280250a3e6d9c941edb0e4be6b100fbfeab",
+  "clips": [
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_1",
+      "selection_index": 0,
+      "source_id": "884ab532a46026ed7e21bcb9e898bcd544df1ff81bd212721368e90026afc5fa",
+      "selector_episode_key": "|Why the Agent Era Needs a New Operating System | DHH|2026-11-20T15:48:13+00:00",
+      "credit": {
+        "title": "Why the Agent Era Needs a New Operating System | DHH",
+        "podcast": "a16z Podcast",
+        "link": "https://a16z.simplecast.com/episodes/why-the-agent-era-needs-a-new-operating-system-dhh-aj7iuAnL",
+        "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/13bead27-85e5-4199-b0a3-a1bb43c05c4a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=13bead27-85e5-4199-b0a3-a1bb43c05c4a&feed=JGE3yC0V",
+        "transcript_url": "",
+        "published": "2026-11-20T15:48:13+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/884ab532a46026ed/metadata.json",
+        "sha256": "6288c29adef0059115c84f3c427618091d56bc360def06dd4cd74969d03c7410"
+      },
+      "original_clip": {
+        "path": "clip_sources/884ab532a46026ed/00_Why_Linux_command-line_tools_and_configuration_fil.mp3",
+        "sha256": "c80024c058bec3e4cb208518d9514d0f632c8b92ede8c941f88d298df1e0af65"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_2",
+      "selection_index": 1,
+      "source_id": "8cc081edc6357eea047cb0c3d9007fc3cbcafec7a0d2b2b41e6c79fc10f2f9df",
+      "selector_episode_key": "|How an American AI Company Uses Chinese Open-Weight Models|2026-11-20T09:00:00+00:00",
+      "credit": {
+        "title": "How an American AI Company Uses Chinese Open-Weight Models",
+        "podcast": "Odd Lots",
+        "link": "https://omny.fm/shows/odd-lots/how-an-american-ai-company-uses-chinese-open-weight-models",
+        "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4364f8cd-e957-44ef-9795-b5070115b19e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+        "transcript_url": "",
+        "published": "2026-11-20T09:00:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/8cc081edc6357eea/metadata.json",
+        "sha256": "ac16b04f8f2def5568b895d8502215d221f4eb5a467d6d463cc55542be06f1bd"
+      },
+      "original_clip": {
+        "path": "clip_sources/8cc081edc6357eea/00_Open-source_versus_open-weight_models_and_self-hos.mp3",
+        "sha256": "0c685e4a166a53e85de019c64c4c3c76aa935d5838d6c07fd77be1885d3860ef"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_3",
+      "selection_index": 2,
+      "source_id": "008c9497e73c29217e947c399f371a99313dbb4481d1c71c44ab0e335a40c5b1",
+      "selector_episode_key": "|Who Pays for the AI Buildout? Two Bond Investors Take Us Inside the Debt Market|2026-11-19T20:19:09+00:00",
+      "credit": {
+        "title": "Who Pays for the AI Buildout? Two Bond Investors Take Us Inside the Debt Market",
+        "podcast": "Excess Returns",
+        "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Who-Pays-for-the-AI-Buildout--Two-Bond-Investors-Take-Us-Inside-the-Debt-Market-e3smpo5",
+        "audio_url": "https://traffic.megaphone.fm/APO1557811038.mp3",
+        "transcript_url": "",
+        "published": "2026-11-19T20:19:09+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/008c9497e73c2921/metadata.json",
+        "sha256": "d6ccdfca53d1f672d21afc0ef569ab21dcedf6da6c164a1f972eb418c6c0546e"
+      },
+      "original_clip": {
+        "path": "clip_sources/008c9497e73c2921/00_AI_infrastructure_debt_and_the_cash_flows_needed_t.mp3",
+        "sha256": "0d81afc819ab4e1c728eb0a81943ec563ba7f44e61b20577d951889ea734e540"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_4",
+      "selection_index": 3,
+      "source_id": "943c90d7cd821768e6eb888b9bce3910284e3bac3cd3fb31d3150e699cd70c7b",
+      "selector_episode_key": "|What Kind of Engineers Are Getting Hired Right Now?|2026-11-20T08:00:00+00:00",
+      "credit": {
+        "title": "What Kind of Engineers Are Getting Hired Right Now?",
+        "podcast": "Developer Tea",
+        "link": "http://www.developertea.com",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/c44db111-b60d-436e-ab63-38c7c3402406/episodes/57e2812a-5584-4627-8e7f-7b0b44b07ab0/audio/4dc9c14c-f1f7-47a0-aefe-4f023cc9a11f/default_tc.mp3?aid=rss_feed&feed=dLRotFGk",
+        "transcript_url": "",
+        "published": "2026-11-20T08:00:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/943c90d7cd821768/metadata.json",
+        "sha256": "2b7415893e85ee2f57e34365508c1d41564f9cb10d6a6b18d16c67c06186a733"
+      },
+      "original_clip": {
+        "path": "clip_sources/943c90d7cd821768/00_Agentic_tools_shift_engineering_value_toward_judgm.mp3",
+        "sha256": "1c1a4453b27df97c272a949ef658d7c71a54a6fce5951edf0b32a5794c02b9b4"
+      }
+    }
+  ]
+}
