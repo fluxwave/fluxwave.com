@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-22",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-22_20261122T210444Z_56683/clip_sources/18e9c6400eae0b3d/01_Valuing_AI_businesses_by_cash_flow_rather_than_sof.mp3",
+      "source": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
+      "start_time": 310,
+      "end_time": 431,
+      "topic": "Valuing AI businesses by cash flow rather than software-versus-services labels"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-22_20261122T210444Z_56683/clip_sources/b625ca5078cf5110/01_Modeling_financial_instability_with_banks_and_corp.mp3",
+      "source": "The Perfect Storm Reshaping The Global Economy - Steve Keen - #1179",
+      "start_time": 590,
+      "end_time": 728,
+      "topic": "Modeling financial instability with banks and corporate borrowing"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-22_20261122T210444Z_56683/clip_sources/b46d62c5314581cb/01_Asset_recovery_costs_overwhelm_a_tankers_stated_va.mp3",
+      "source": "You Can Seize Everything (The U.S. is reviving pirate law)",
+      "start_time": 437,
+      "end_time": 626,
+      "topic": "Asset recovery costs overwhelm a tanker's stated value"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-22_20261122T210444Z_56683/clip_sources/5c6bd0514dc0de5c/01_Volatility_drag_and_inflation-sensitive_bond_posit.mp3",
+      "source": "Investing in a Fourth Turning with Neil Howe",
+      "start_time": 633,
+      "end_time": 760,
+      "topic": "Volatility drag and inflation-sensitive bond positioning"
+    }
+  ],
+  "same_source_spacing_findings": [],
+  "schema_version": 2,
+  "editorial_contract": "topic-bridges-v1",
+  "selected_episodes_sha256": "391304182799d6fa24c8e958ca6ed89e7d302a40a8d6e58f36aca577817b5a6f",
+  "clips": [
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_1",
+      "selection_index": 1,
+      "source_id": "18e9c6400eae0b3d69707a7a261188b915783ef0ae3fc8df040f7d013551a042",
+      "selector_episode_key": "|Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?|2026-11-20T22:14:00+00:00",
+      "credit": {
+        "title": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
+        "podcast": "All-In with Chamath, Jason, Sacks & Friedberg",
+        "link": "https://allinchamathjason.libsyn.com/anthropic-goes-public-nvidia-in-crisis-markets-tank-open-source-crackdown",
+        "audio_url": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/allinchamathjason/ALLIN-E298_Ch.mp3?dest-id=1928300",
+        "transcript_url": "",
+        "published": "2026-11-20T22:14:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/18e9c6400eae0b3d/metadata.json",
+        "sha256": "9f13b0e6555f47552dc74df5b0a8498c2ee1ac4d6cc8f22e81664b666adcb5e5"
+      },
+      "original_clip": {
+        "path": "clip_sources/18e9c6400eae0b3d/00_Digital_intelligence_as_a_catalyst_for_industry_an.mp3",
+        "sha256": "dbb2ef2da7146682e3d442c936ac4aea96fdc8621f28b18d48bcc1dd596db09f"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_2",
+      "selection_index": 2,
+      "source_id": "b625ca5078cf5110956d5e7eabe70a72740f6e3923eed8150d50ea6149de13c6",
+      "selector_episode_key": "|The Perfect Storm Reshaping The Global Economy - Steve Keen - #1179|2026-11-21T06:00:00+00:00",
+      "credit": {
+        "title": "The Perfect Storm Reshaping The Global Economy - Steve Keen - #1179",
+        "podcast": "Modern Wisdom",
+        "link": "",
+        "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/claritaspod.com/measure/traffic.megaphone.fm/SIXMSB8891623367.mp3",
+        "transcript_url": "",
+        "published": "2026-11-21T06:00:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/b625ca5078cf5110/metadata.json",
+        "sha256": "c54340a50d92b7caa3251928c9383386f4726dcd7efebf109b2a2b1328c42cdb"
+      },
+      "original_clip": {
+        "path": "clip_sources/b625ca5078cf5110/00_Housing_affordability_and_the_limits_of_rising_hou.mp3",
+        "sha256": "18b0599e6d90d9a452302371fca02ae9eea8b8c2131df4292675248b4deedade"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_3",
+      "selection_index": 4,
+      "source_id": "5c6bd0514dc0de5cd31eace0eb421c0444e02ead6e23100c8d1ade68767a443e",
+      "selector_episode_key": "|Investing in a Fourth Turning with Neil Howe|2026-11-22T13:32:06+00:00",
+      "credit": {
+        "title": "Investing in a Fourth Turning with Neil Howe",
+        "podcast": "Excess Returns",
+        "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Investing-in-a-Fourth-Turning-with-Neil-Howe-e3sqme8",
+        "audio_url": "https://traffic.megaphone.fm/APO2318408755.mp3",
+        "transcript_url": "",
+        "published": "2026-11-22T13:32:06+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/5c6bd0514dc0de5c/metadata.json",
+        "sha256": "e49529d103075aaac7f24bcbda34c3a23b8936861fd88743c7226df4a537f51a"
+      },
+      "original_clip": {
+        "path": "clip_sources/5c6bd0514dc0de5c/00_Valuation-driven_allocation_trend_following_and_ta.mp3",
+        "sha256": "35b865ac53ac9c0f0012074d643028fcf8d88d41c508016fe171f3bcad9e3199"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_4",
+      "selection_index": 3,
+      "source_id": "b46d62c5314581cbbcf7466d4db5e4ffa7cffe5a214faba35a39ef9fa04cd81b",
+      "selector_episode_key": "|You Can Seize Everything (The U.S. is reviving pirate law)|2026-11-20T22:00:00+00:00",
+      "credit": {
+        "title": "You Can Seize Everything (The U.S. is reviving pirate law)",
+        "podcast": "Planet Money",
+        "link": "https://www.npr.org/2026/11/20/nx-s1-6049085/iran-oil-tanker-prize-law-court",
+        "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527",
+        "transcript_url": "",
+        "published": "2026-11-20T22:00:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/b46d62c5314581cb/metadata.json",
+        "sha256": "2e38d1d624ed640a8ada4f58c2ae575e1fcd747f8c2d08c2f037165672815094"
+      },
+      "original_clip": {
+        "path": "clip_sources/b46d62c5314581cb/00_Legal_bottlenecks_and_the_economics_of_seized_oil.mp3",
+        "sha256": "56fca1550fcc03e0bdd946b8c43d5cd87a5201d3613f2d681177d4bc97003a60"
+      }
+    }
+  ]
+}
