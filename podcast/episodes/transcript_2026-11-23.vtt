@@ -1,0 +1,417 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:07.840
+AI is reaching beyond coding into scientific workflows and raising questions about who profits and how people get paid.
+
+2
+00:00:07.840 --> 00:00:13.840
+Today, those debates, plus a furniture trading detour into spotting overlooked value.
+
+3
+00:00:13.840 --> 00:00:19.120
+Source credits and links are in the chapters and show notes.
+
+4
+00:00:19.120 --> 00:00:25.120
+What would it take for AI to coordinate scientific work, not just handle isolated tasks?
+
+5
+00:00:25.120 --> 00:00:35.280
+This discussion traces that ambition across drug discovery, development, and distribution, and what bringing it into industry could involve it.
+
+6
+00:00:35.520 --> 00:00:36.480
+They want to do.
+
+7
+00:00:59.280 --> 00:01:01.600
+So maybe I'll shook I'll just go over to you.
+
+8
+00:01:01.600 --> 00:01:07.760
+How does OpenAI think about building tools across the three Ds that we mentioned in the life sciences value chain?
+
+9
+00:01:07.760 --> 00:01:09.200
+Is it equal across the three?
+
+10
+00:01:09.200 --> 00:01:12.000
+Are you starting in the earlier areas and moving later?
+
+11
+00:01:12.000 --> 00:01:13.840
+Help us understand what to look forward to.
+
+12
+00:01:13.840 --> 00:01:20.880
+I think we have huge ambitions across all three areas, but we also have to recognize how different they are and how different the workflows are.
+
+13
+00:01:20.880 --> 00:01:31.120
+So on the discovery side, if you think about from target to IND, what we're really focused on is how do we scale and amplify the abilities of expert drug hunters?
+
+14
+00:01:31.120 --> 00:01:32.960
+And that comes in many, many forms.
+
+15
+00:01:32.960 --> 00:01:45.520
+That could be model and other capabilities to that are that can perform highly specialized scientific tasks, like search through an enormous corpus of literature or analyze genomic data at scale, or even generate chemical structures and candidates.
+
+16
+00:01:45.520 --> 00:01:49.280
+So there are core capabilities, but those things are tasks.
+
+17
+00:01:49.280 --> 00:01:56.720
+And those tasks sit on a long chain of different studies, campaigns, and other workflows that all move up to an overall drug program.
+
+18
+00:01:56.680 --> 00:02:12.360
+And so creating not only the ability to help folks do these highly specialized tasks and maybe use superhuman ability of models to help amplify that expertise, but also make sure that that is actually orchestrating an entire workflow, be that a study or an entire drug program.
+
+19
+00:02:12.360 --> 00:02:26.040
+And at every step of the way, capturing all of the evidence that's generated, particularly the tacit knowledge, like the last wave of software as a service, companies that I have worked in, really helped in structuring and storing the information.
+
+20
+00:02:26.040 --> 00:02:29.320
+But all of that tacit knowledge, like why do we select that molecule?
+
+21
+00:02:29.320 --> 00:02:33.640
+What are some of the counterfactuals or the confounding evidence against this claim?
+
+22
+00:02:33.640 --> 00:02:39.640
+All of that is really what comprises the chain of evidence that advances you through the early stages of discovery.
+
+23
+00:02:39.640 --> 00:02:45.960
+So what can we do to help you manage that at scale and also run a lot more experiments concurrently.
+
+24
+00:03:08.280 --> 00:03:10.280
+So if you sell the recipe, right?
+
+25
+00:03:10.280 --> 00:03:12.200
+If the recipe, or you don't even sell it, it's just out there.
+
+26
+00:03:12.200 --> 00:03:13.480
+You put the recipe out there.
+
+27
+00:03:13.480 --> 00:03:17.080
+If everyone is using the same recipe, that means nobody dominates.
+
+28
+00:03:17.080 --> 00:03:21.080
+It's a race that keeps being run for the newest twist on the best recipe.
+
+29
+00:03:21.080 --> 00:03:24.040
+Jensen gets to sell chips to all the competitors.
+
+30
+00:03:24.040 --> 00:03:25.960
+That's why he's pro-open, right?
+
+31
+00:03:25.960 --> 00:03:29.240
+It's the business reason why he is pro-open models.
+
+32
+00:03:29.240 --> 00:03:32.440
+Also, innovation, the recipe just keeps getting better, right?
+
+33
+00:03:32.440 --> 00:03:40.280
+If I give you that Duncan Heinz recipe, and then we're all innovating, the better the recipe gets, and everybody knows it, the better the next recipe is.
+
+34
+00:03:40.280 --> 00:03:42.920
+So innovation is really helped by open models.
+
+35
+00:03:42.920 --> 00:03:44.760
+And then there's the freedom issue.
+
+36
+00:03:45.040 --> 00:03:52.640
+So if there's a closed model, it's possible that the person who's providing you the cake just stops selling you the cake, or they rack up the price on you.
+
+37
+00:03:52.640 --> 00:04:00.240
+In an open model system, competition means the prices are lower, but it also means that you don't have to be dependent on somebody throttling you.
+
+38
+00:04:00.240 --> 00:04:02.560
+And theoretically, there's a security argument too.
+
+39
+00:04:02.560 --> 00:04:08.800
+If the open weights models are available, if we can all examine them, if we can all look at the code, then we can all error spot.
+
+40
+00:04:08.800 --> 00:04:10.400
+We can find where the fragilities are.
+
+41
+00:04:10.640 --> 00:04:15.200
+So Jensen is the top advocate on planet Earth for open models.
+
+42
+00:04:15.200 --> 00:04:23.040
+In fact, he doesn't just advocate for open models, he even advocates essentially selling chips to everyone to facilitate all of this.
+
+43
+00:04:23.040 --> 00:04:25.280
+Meaning he wants to sell chips, as we'll see.
+
+44
+00:04:25.280 --> 00:04:26.240
+This is a huge issue.
+
+45
+00:04:26.240 --> 00:04:32.000
+He wants to sell sophisticated NVIDIA chips, which is the hardware basis for the AI revolution.
+
+46
+00:04:32.000 --> 00:04:33.280
+He wants to sell those to China.
+
+47
+00:04:33.280 --> 00:04:42.560
+And the reason he says that we ought to do that is that he wants China, instead of developing its own chips in competition with ours, to be dependent on our chips.
+
+48
+00:04:42.560 --> 00:04:45.360
+He wants to create dependence on our so-called tech stack.
+
+49
+00:04:45.360 --> 00:04:48.560
+Now, that perspective has now been mirrored by some in the administration, as we'll see.
+
+50
+00:04:48.560 --> 00:04:55.200
+There's heavy identification between Jen Sen Huang's belief systems about AI and the administration's belief systems about AI.
+
+51
+00:04:55.200 --> 00:05:05.280
+So here is the director of national intelligence, Jay Clayton, talking about how perhaps we should allow chip sales to China because we want the world to be on American chips.
+
+52
+00:05:05.600 --> 00:05:07.360
+Let me make a point here.
+
+53
+00:05:07.360 --> 00:05:14.080
+The exquisite technology of these chips is so in demand.
+
+54
+00:05:14.080 --> 00:05:16.600
+If AI changes the role of paid work.
+
+55
+00:05:16.600 --> 00:05:18.480
+How would people fund their lives?
+
+56
+00:05:18.480 --> 00:05:27.480
+This discussion considers whether wealth distribution and economic institutions need rethinking without assuming a post-work society is inevitable.
+
+57
+00:05:28.960 --> 00:05:34.360
+So I think the list uh of topics that Wes summarized is pretty good.
+
+58
+00:05:34.440 --> 00:05:48.120
+I I would add to it one that's I guess related to the notion of the end of work or something like that's called a post-work society, which I I don't believe is completely clear.
+
+59
+00:05:48.120 --> 00:06:12.280
+What I would add to it is a fundamental reconstituting of how our economic lives are funded and how our distribution of the wealth in our communities and in our societies are managed, whether and whether you take something broadly communist versus broadly capitalistic or something else.
+
+60
+00:06:12.280 --> 00:06:25.960
+To me, that's that mechanic of how we distribute wealth and how we distribute, I'll call it the fungible inputs for exercising living.
+
+61
+00:06:25.960 --> 00:07:08.200
+The way that happens right now to me is likely to be completely up-ended by AI and require very dramatic reunderstandings of how our relationship with those things and the way we constitute our economic life, our law life, and what we mean by justice in those contexts, because we have a lot of those things, a lot of all those things are tied up with one another in not so much in the what does it give my life meaning, but what gives our social life structure such that we manage those fungible inputs for how we encounter our life.
+
+62
+00:07:08.200 --> 00:07:12.120
+And that to me is going to be that's very volatile.
+
+63
+00:07:12.120 --> 00:07:17.040
+It's going to cause a tremendous amount of problems without us sorting it out.
+
+64
+00:07:17.280 --> 00:07:36.160
+Just to give an example, right now, we have more or less put the lion's share of the profit from the development of AI, which is on the back of the entire civilization of inputs on into the hands of a tiny number of people and organizations.
+
+65
+00:07:36.160 --> 00:07:45.440
+And arguably, I would argue that that should be fundamentally redistributed amongst our entire society.
+
+66
+00:07:45.440 --> 00:07:58.960
+So that involves a tremendous change in the way we understand a capitalistic endeavor, and involves taking trillions of dollars away from a small number of people and redistributing them.
+
+67
+00:07:58.960 --> 00:08:01.200
+And I don't see how that doesn't happen.
+
+68
+00:08:01.200 --> 00:08:10.640
+That the structures of AI, the technology of AI doesn't have to fundamentally become a state-owned entity.
+
+69
+00:08:51.600 --> 00:08:55.360
+You're in San Francisco doing this by phone, or you're flying to Europe at the time.
+
+70
+00:08:55.520 --> 00:08:57.600
+At this point, I'm at this point, I'm going to Europe.
+
+71
+00:08:57.600 --> 00:08:58.240
+Yeah.
+
+72
+00:08:58.240 --> 00:09:02.440
+And how did you know about like if you were I guess you're not that young.
+
+73
+00:09:02.440 --> 00:09:16.120
+You were in your early 30s at that point maybe or maybe late twenties, but how did you know about these auction houses and how did you how did you know that that to even uh look at you know at these catalogs.
+
+74
+00:09:16.520 --> 00:09:17.960
+Just start going deep, right?
+
+75
+00:09:17.960 --> 00:09:20.440
+Learning, learning, looking where can I find these pieces?
+
+76
+00:09:20.440 --> 00:09:22.600
+Where can I find more pieces by Jacques Adnay?
+
+77
+00:09:22.600 --> 00:09:24.600
+Where can I find more pieces by Lynn Vatrine?
+
+78
+00:09:24.600 --> 00:09:26.840
+And these are these were the artists that were of interest to me.
+
+79
+00:09:26.840 --> 00:09:29.880
+And these are these are pieces of furniture that you're talking about, right?
+
+80
+00:09:29.880 --> 00:09:37.560
+They are uh sculpture, mirrors, furniture, ceramics uh I did very, very little fine art.
+
+81
+00:09:37.800 --> 00:09:46.520
+And the idea was I could buy these from European auction houses and then import them to to San Francisco and just sell them locally?
+
+82
+00:09:46.520 --> 00:09:47.400
+Was that the idea?
+
+83
+00:09:47.720 --> 00:09:50.600
+So I'd I'd buy in Europe, I'd build up a big position.
+
+84
+00:09:50.600 --> 00:09:52.840
+So I'd find an artist I wanted to focus on.
+
+85
+00:09:52.840 --> 00:09:59.240
+I'd buy the the great pieces and then I'd start to sell them at auction in New York typically I'd ship them to New York.
+
+86
+00:09:59.240 --> 00:10:03.400
+I sell a few off and then the rest of the container would come to San Francisco.
+
+87
+00:10:03.880 --> 00:10:10.280
+I think I'm I'm starting because in my mind I'm thinking how does a guy in his late twenties know this?
+
+88
+00:10:10.280 --> 00:10:27.560
+Like like because I'm thinking of myself at that time and I would think I would need somebody like a mentor to show but actually because you spent five years doing commodities trading I'm starting to assume that you're just applying the same principles to they really were incredibly similar.
+
+89
+00:10:27.560 --> 00:10:34.600
+Like you know buying great quality assets ideally, and then you know, holding them, playing the arbitrage on them and reselling them.
+
+90
+00:10:34.600 --> 00:10:36.560
+And and it's not to say I knew at all.
+
+91
+00:10:36.560 --> 00:10:37.880
+Like there were lots of failures.
+
+92
+00:10:37.880 --> 00:10:44.520
+I bought a lot of fakes, went down a lot of the wrong roads, you know, should have held when I sold, you know, all these kinds of things.
+
+93
+00:10:44.520 --> 00:10:45.840
+Um, but it was fun.
+
+94
+00:10:45.840 --> 00:10:46.960
+It was discovery, right?
+
+95
+00:10:46.960 --> 00:10:47.760
+It was the hunt.
+
+96
+00:10:47.760 --> 00:10:51.920
+And that's was the the curiosity that was pushing me to to learn.
+
+97
+00:10:51.920 --> 00:10:56.400
+And and then I formalized it into a gallery.
+
+98
+00:10:56.400 --> 00:11:03.760
+Um, you know, very little of it went into my house, um, turned into a business, and uh I had a lot of fun with it.
+
+99
+00:11:03.760 --> 00:11:20.960
+Uh so you were and and you were because you were basically buying the stuff in Europe and then selling it at auction houses in New York and and even locally in San Francisco, eventually you you had acquired so much stuff that it made sense for you to just open a gallery in San Francisco.
+
+100
+00:11:20.960 --> 00:11:21.520
+That's right.
+
+101
+00:11:21.520 --> 00:11:23.120
+I mean, it was very modest.
+
+102
+00:11:23.120 --> 00:11:41.920
+I opened uh in a single car garage stall across from uh the ATT ballpark down on Townsend Street and put on a little show, and that was the start of uh Hedge, which was That's the Daily Rundown.
+
+103
+00:11:41.920 --> 00:11:43.840
+Thanks for listening.
+
+104
+00:11:43.840 --> 00:11:46.000
+See you next time.

@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-23",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-23_20261123T210517Z_37796/clip_sources/a046e825e9bbf81f/01_Capturing_tacit_knowledge_and_evidence_across_scie.mp3",
+      "source": "The One-Person Biotech | OpenAI Life Sciences",
+      "start_time": 480,
+      "end_time": 600,
+      "topic": "Capturing tacit knowledge and evidence across scientific workflows"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-23_20261123T210517Z_37796/clip_sources/7c6c940b85d66796/01_Concentrated_AI_profits_collective_ownership_and_t.mp3",
+      "source": "Ep. 405: Social Impacts of AI (Part One)",
+      "start_time": 434,
+      "end_time": 629,
+      "topic": "Concentrated AI profits, collective ownership, and technological unemployment"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-23_20261123T210517Z_37796/clip_sources/ca391ffe3e80958d/01_Closed-model_economics_safety_arguments_and_regula.mp3",
+      "source": "Ep. 2553 - JENSEN'S BACK! Economic Miracle or Political Catastrophe?!",
+      "start_time": 439,
+      "end_time": 562,
+      "topic": "Closed-model economics, safety arguments, and regulation"
+    }
+  ],
+  "same_source_spacing_findings": [],
+  "schema_version": 2,
+  "editorial_contract": "topic-bridges-v1",
+  "selected_episodes_sha256": "57f5559fab6cdbfacbfacfc380ac9155961a2abab553634d0849406c0fa1d9b4",
+  "clips": [
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_1",
+      "selection_index": 0,
+      "source_id": "a046e825e9bbf81fc9338609c45a33df7cba4bea89f447ec2325dda2933769d1",
+      "selector_episode_key": "|The One-Person Biotech | OpenAI Life Sciences|2026-11-23T11:00:00+00:00",
+      "credit": {
+        "title": "The One-Person Biotech | OpenAI Life Sciences",
+        "podcast": "a16z Podcast",
+        "link": "https://a16z.simplecast.com/episodes/the-one-person-biotech-openai-life-sciences-TrZddFUB",
+        "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f4221967-bfe3-477d-85f4-72463c8670f4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f4221967-bfe3-477d-85f4-72463c8670f4&feed=JGE3yC0V",
+        "transcript_url": "",
+        "published": "2026-11-23T11:00:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/a046e825e9bbf81f/metadata.json",
+        "sha256": "30ba07891ecb67d6351e875d4233d565adfd0601ad774551858b6510d71af08e"
+      },
+      "original_clip": {
+        "path": "clip_sources/a046e825e9bbf81f/00_From_specialized_AI_tasks_to_end-to-end_scientific.mp3",
+        "sha256": "65b377442e3929dd3d33289773f6c7aa5ec7b7c268c6ef5ecfddf62f4dfae2e0"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_2",
+      "selection_index": 4,
+      "source_id": "ca391ffe3e80958d81fcd2a3e15b9a26a50740e2ba7ef82a03050f66ce4a9121",
+      "selector_episode_key": "|Ep. 2553 - JENSEN'S BACK! Economic Miracle or Political Catastrophe?!|2026-11-23T18:30:00+00:00",
+      "credit": {
+        "title": "Ep. 2553 - JENSEN'S BACK! Economic Miracle or Political Catastrophe?!",
+        "podcast": "The Ben Shapiro Show",
+        "link": "",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/pfx.vpixl.com/2jSe3/claritaspod.com/measure/mgln.ai/e/121/traffic.megaphone.fm/BVDWV7885862995.mp3",
+        "transcript_url": "",
+        "published": "2026-11-23T18:30:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/ca391ffe3e80958d/metadata.json",
+        "sha256": "9c1905bf250963e3a4bd961e6e6efe5640568f1dbdd5056a92c6f676db9e1f68"
+      },
+      "original_clip": {
+        "path": "clip_sources/ca391ffe3e80958d/00_Open-weight_AI_competition_innovation_and_infrastr.mp3",
+        "sha256": "414b8f75fb74b276debc21a8351f64408e46b5231ce07d23368c7c1ca4cd8a98"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_3",
+      "selection_index": 3,
+      "source_id": "7c6c940b85d66796ab70a71936c05afddd19759658b86a384c080b08f4e25baa",
+      "selector_episode_key": "|Ep. 405: Social Impacts of AI (Part One)|2026-11-23T04:23:00+00:00",
+      "credit": {
+        "title": "Ep. 405: Social Impacts of AI (Part One)",
+        "podcast": "The Partially Examined Life Philosophy Podcast",
+        "link": "https://partiallyexaminedlife.com/2026/11/22/ep-405-1-ai-impacts/",
+        "audio_url": "https://prfx.byspotify.com/e/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/mgln.ai/e/802/claritaspod.com/measure/traffic.libsyn.com/secure/partiallyexaminedlife/PEL_ep_405pt1_11-5-26.mp3?dest-id=16399",
+        "transcript_url": "",
+        "published": "2026-11-23T04:23:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/7c6c940b85d66796/metadata.json",
+        "sha256": "f5d0a9cc9cc145e9b2050835bce8dc0641e9c8cd3fabc62908a2713972e98561"
+      },
+      "original_clip": {
+        "path": "clip_sources/7c6c940b85d66796/00_AI-driven_restructuring_of_wealth_distribution_and.mp3",
+        "sha256": "92405fa2028ff4b365998559acd33419d82285958ef9f3443ceabe107edb500a"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_4",
+      "selection_index": 2,
+      "source_id": "a9d3abeae560f9cddcf4ac7fb853c58dffe8091a798c8be24c7280dc2e5bca73",
+      "selector_episode_key": "|Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles|2026-11-23T08:10:00+00:00",
+      "credit": {
+        "title": "Rothy's: Roth Martin. The Art Dealer Who Built a $1B Shoe Brand from Plastic Bottles",
+        "podcast": "How I Built This with Guy Raz",
+        "link": "",
+        "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP9564565828.mp3",
+        "transcript_url": "",
+        "published": "2026-11-23T08:10:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/a9d3abeae560f9cd/metadata.json",
+        "sha256": "c605898ab5ec17bed2cc5740370a5ec1e22fced4021207930c3fc3d1fd051488"
+      },
+      "original_clip": {
+        "path": "clip_sources/a9d3abeae560f9cd/00_Applying_commodities-trading_principles_to_collect.mp3",
+        "sha256": "78a5c43678bc3dfc78e010aca5200c8d56fd4fa5d839b0c1c70e49c56c461447"
+      }
+    }
+  ]
+}
