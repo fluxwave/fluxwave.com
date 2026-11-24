@@ -9,6 +9,51 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — November 24, 2026</title>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-11-24.mp3" length="9656108" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-11-24.mp3</guid>
+      <itunes:duration>10:03</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-11-24.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-11-24.json" type="application/json+chapters"/>
+      <description>Daily Digest — 2026-11-24
+Topic-first clip edition.
+
+Source credits and links are in the chapters and show notes.
+
+Sources:
+clip_1: Invest Like the Best with Patrick O'Shaughnessy — Scott Wu on Cybersecurity, Compute, and the Future of Engineering - [Invest Like the Best, EP.502]
+Published: 2026-11-24T15:00:00+00:00
+Source: https://traffic.megaphone.fm/CLS5759445410.mp3
+clip_2: The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intelligence) — Building AI That Can Reason Under Uncertainty with Thore Graepel - #786
+Published: 2026-11-24T20:15:00+00:00
+Source: https://twimlai.com/podcast/twimlai/building-ai-that-can-reason-under-uncertainty
+clip_3: All-In with Chamath, Jason, Sacks &amp; Friedberg — CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, &amp; The Patching Problem
+Published: 2026-11-24T02:30:00+00:00
+Source: https://allinchamathjason.libsyn.com/crowdstrike-ceo-ai-cyberattack-wave-hyperspeed-hacks-the-patching-problem
+clip_4: a16z Podcast — REPLAY: The Story of Apple Pay | Jennifer Bailey (2024)
+Published: 2026-11-24T11:00:00+00:00
+Source: https://a16z.simplecast.com/episodes/replay-the-story-of-apple-pay-jennifer-bailey-2024-0WemB8oE</description>
+      <itunes:summary>Daily Digest — 2026-11-24
+Topic-first clip edition.
+
+Source credits and links are in the chapters and show notes.
+
+Sources:
+clip_1: Invest Like the Best with Patrick O'Shaughnessy — Scott Wu on Cybersecurity, Compute, and the Future of Engineering - [Invest Like the Best, EP.502]
+Published: 2026-11-24T15:00:00+00:00
+Source: https://traffic.megaphone.fm/CLS5759445410.mp3
+clip_2: The TWIML AI Podcast (formerly This Week in Machine Learning &amp; Artificial Intelligence) — Building AI That Can Reason Under Uncertainty with Thore Graepel - #786
+Published: 2026-11-24T20:15:00+00:00
+Source: https://twimlai.com/podcast/twimlai/building-ai-that-can-reason-under-uncertainty
+clip_3: All-In with Chamath, Jason, Sacks &amp; Friedberg — CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, &amp; The Patching Problem
+Published: 2026-11-24T02:30:00+00:00
+Source: https://allinchamathjason.libsyn.com/crowdstrike-ceo-ai-cyberattack-wave-hyperspeed-hacks-the-patching-problem
+clip_4: a16z Podcast — REPLAY: The Story of Apple Pay | Jennifer Bailey (2024)
+Published: 2026-11-24T11:00:00+00:00
+Source: https://a16z.simplecast.com/episodes/replay-the-story-of-apple-pay-jennifer-bailey-2024-0WemB8oE</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — November 23, 2026</title>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-11-23.mp3" length="11299628" type="audio/mpeg"/>
@@ -648,59 +693,6 @@ Sources:
 - Katie Stockton Still Sees a Bull Market. So Why Is Her ETF Only 50% in Stocks? (Excess Returns)
   Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Katie-Stockton-Still-Sees-a-Bull-Market--So-Why-Is-Her-ETF-Only-50-in-Stocks-e3q6277
   Source audio: https://traffic.megaphone.fm/APO8317929905.mp3</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — October 08, 2026</title>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-10-08.mp3" length="9488300" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-10-08.mp3</guid>
-      <itunes:duration>9:52</itunes:duration>
-      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-10-08.vtt" type="text/vtt" rel="captions"/>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-10-08.json" type="application/json+chapters"/>
-      <description>Daily Digest — October 08, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-10-08.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-10-08.txt
-
-Chapters:
-0:35 — a16z Podcast — Agent infrastructure and context layers across enterprise data
-2:53 — The Tim Ferriss Show — Agent-to-agent coordination and personal context portabil
-5:14 — Capital Allocators – Inside the Institutional Investment Industry — Credit-over-
-7:35 — Masters of Scale — Learning to code to remove a startup's engineering bottleneck
-
-Sources:
-- Building the Cloud for an Agentic World | AWS CEO Matt Garman (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/building-the-cloud-for-an-agentic-world-aws-ceo-matt-garman-d18BWOHC
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e1b4fcb1-9600-4c7b-a712-186a9c63f2fd/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=e1b4fcb1-9600-4c7b-a712-186a9c63f2fd&amp;feed=JGE3yC0V
-- #886: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (The Tim Ferriss Show)
-  Source audio: https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
-- Real Estate Credit Over Yield at Invesco – Charlie Rose (EP.519) (Capital Allocators – Inside the Institutional Investment Industry)
-  Link: https://tedseides.libsyn.com/real-estate-credit-over-yield-at-invesco-charlie-rose-ep519
-  Source audio: https://traffic.libsyn.com/secure/tedseides/CA_-_EP.519_Charlie_Rose_-_AUDIO_V1.mp3?dest-id=482814
-- Building a marketplace from scratch, with Hipcamp founder Alyssa Ravasio (Masters of Scale)
-  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/3f2d7571-63f4-4a6d-8875-b6aef691819d.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</description>
-      <itunes:summary>Daily Digest — October 08, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-10-08.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-10-08.txt
-
-Chapters:
-0:35 — a16z Podcast — Agent infrastructure and context layers across enterprise data
-2:53 — The Tim Ferriss Show — Agent-to-agent coordination and personal context portabil
-5:14 — Capital Allocators – Inside the Institutional Investment Industry — Credit-over-
-7:35 — Masters of Scale — Learning to code to remove a startup's engineering bottleneck
-
-Sources:
-- Building the Cloud for an Agentic World | AWS CEO Matt Garman (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/building-the-cloud-for-an-agentic-world-aws-ceo-matt-garman-d18BWOHC
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/e1b4fcb1-9600-4c7b-a712-186a9c63f2fd/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=e1b4fcb1-9600-4c7b-a712-186a9c63f2fd&amp;feed=JGE3yC0V
-- #886: The Random Show — AI Super Assistants, Boner Pills, Dream Engineering, Wizards, Supplements, Books, and More (The Tim Ferriss Show)
-  Source audio: https://rss.art19.com/episodes/12d57f31-7171-49ec-a53a-cb809153584a.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542
-- Real Estate Credit Over Yield at Invesco – Charlie Rose (EP.519) (Capital Allocators – Inside the Institutional Investment Industry)
-  Link: https://tedseides.libsyn.com/real-estate-credit-over-yield-at-invesco-charlie-rose-ep519
-  Source audio: https://traffic.libsyn.com/secure/tedseides/CA_-_EP.519_Charlie_Rose_-_AUDIO_V1.mp3?dest-id=482814
-- Building a marketplace from scratch, with Hipcamp founder Alyssa Ravasio (Masters of Scale)
-  Source audio: https://dts.podtrac.com/redirect.mp3/prfx.byspotify.com/e/pscrb.fm/rss/p/tracking.swap.fm/track/7G0M4p2bOLP0mP50O3CD/rss.art19.com/episodes/3f2d7571-63f4-4a6d-8875-b6aef691819d.mp3?rss_browser=BAhJIhNQb2RjYXN0TW9uaXRvcgY6BkVU--2525c10adc632ac8804d73af95f80c3dcc556542</itunes:summary>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,385 @@
+WEBVTT
+
+1
+00:00:00.080 --> 00:00:07.440
+Today on the daily rundown, AI defense, creativity beyond imitation, and the debate over open way capabilities.
+
+2
+00:00:07.440 --> 00:00:12.080
+Plus, what it takes to make phone payments work across borders.
+
+3
+00:00:12.080 --> 00:00:15.840
+Source credits and links are in the chapters and show notes.
+
+4
+00:00:17.360 --> 00:00:22.080
+Can continuous AI defenders help secure systems that are far from perfect?
+
+5
+00:00:22.080 --> 00:00:25.520
+This discussion connects monitoring and legacy modernization.
+
+6
+00:00:25.520 --> 00:00:31.200
+A practical question for anyone maintaining older software.
+
+7
+00:00:35.280 --> 00:00:36.080
+I'm kind of just joking.
+
+8
+00:00:36.240 --> 00:00:44.640
+I guess my point is in the long run, if everyone is perfect, you know, if the offense is perfect, the defense is perfect, if everyone sets up their systems perfectly.
+
+9
+00:00:44.640 --> 00:00:45.920
+I think cryptography works.
+
+10
+00:00:45.920 --> 00:00:46.960
+I think security works.
+
+11
+00:00:46.960 --> 00:00:52.080
+I think, you know, encryption and protection, you know, all these things like private communications, I think they all work.
+
+12
+00:00:52.080 --> 00:00:55.280
+But that's not the state of the world that we're in today.
+
+13
+00:00:55.280 --> 00:01:03.680
+And the state of the world that we're in today is you have all these attackers that now have access to all these crazy levels of technologies and intelligence to be able to go do things, right?
+
+14
+00:01:03.680 --> 00:01:12.080
+Remember that, you know, even aside from the models that exist out there, there's all sorts of different models that, you know, it's not all that hard to train your own model that's actually even quite capable, right?
+
+15
+00:01:12.080 --> 00:01:19.680
+But obviously, that there's, you know, a really urgent push that needs to happen on the defense side to make sure that people are using AI to the same level of depth.
+
+16
+00:01:19.680 --> 00:01:30.000
+And what that means is having a swarm of agents that's going through every single uh attack surface of your own product, of your own website, and making sure at all times that all of that is kept up to date.
+
+17
+00:01:30.000 --> 00:01:36.000
+That means like having really, really detailed monitoring on all of the, you know, logging and the entry points and things like that.
+
+18
+00:01:36.000 --> 00:01:45.280
+It means like going through all of this, like, you know, 30-year-old software and figuring out how you bring it up to date to something that is much more uh secure and safe and so on.
+
+19
+00:01:45.280 --> 00:01:46.720
+But these are hard things to go do.
+
+20
+00:01:46.720 --> 00:01:56.960
+I do think it's worth it for the world to come to terms with the fact that on the current course that we are on, over the next six to twelve months, there will be a lot of major breaches.
+
+21
+00:01:56.960 --> 00:02:00.520
+Not just any companies, you know, I think it's gonna be like major institutions around the world.
+
+22
+00:01:59.440 --> 00:02:06.600
+I call it like Fortune 50, Fortune 100 companies or government institutions or things like that that get breached.
+
+23
+00:02:06.760 --> 00:02:09.800
+I think to some extent it's it's almost like inevitable.
+
+24
+00:02:09.800 --> 00:02:11.400
+It's almost inevitable, exactly.
+
+25
+00:02:11.400 --> 00:02:24.360
+And I think there's still a big difference, of course, in whether we respond quickly to that and all these organizations start using a lot of AI for defense versus that just goes completely unchecked for the next couple of years straight.
+
+26
+00:02:24.520 --> 00:02:26.600
+And I think there's a lot of things to go do correctly there.
+
+27
+00:02:26.600 --> 00:02:29.400
+Well, let's assume that some at least the attempts of those are inevitable.
+
+28
+00:02:29.720 --> 00:02:31.800
+What's like the good scenario and the bad scenario?
+
+29
+00:02:31.800 --> 00:02:33.960
+Like if you were to draw.
+
+30
+00:02:34.040 --> 00:02:38.040
+How does AI find a creative move that imitation rates unlikely?
+
+31
+00:02:38.040 --> 00:02:44.680
+This discussion looks at surge and why exploring possibilities can matter more than copying examples.
+
+32
+00:02:55.960 --> 00:03:00.760
+That something is somehow effective, uh, novel and surprising.
+
+33
+00:03:00.760 --> 00:03:04.440
+And then of course the question is where did that come from, right?
+
+34
+00:03:04.440 --> 00:03:09.240
+How can such a system create such a novel move?
+
+35
+00:03:09.240 --> 00:03:37.880
+And um the interesting thing was um that Dave um dug into the system a little bit and found that the policy network, you know, the neural network that um takes a position and gives a probability distribution over moves and basically allows you to pre-select promising moves, had assigned a very low probability of one in 10,000 to uh this particular move in that position.
+
+36
+00:03:37.880 --> 00:03:42.280
+And so clearly the pattern matching system didn't think it was a good move.
+
+37
+00:03:42.280 --> 00:03:46.480
+And that makes a lot of sense because that system was trained on human data.
+
+38
+00:03:46.640 --> 00:03:53.360
+And so if it's surprising to a human, then it would be surprising to a system that's trained on human data.
+
+39
+00:03:53.360 --> 00:04:01.840
+So it must have been the other part of the system, namely the game tree search that selected this move.
+
+40
+00:04:01.840 --> 00:04:08.880
+And the game tree search, of course, looks at future variations and then judges the outcomes of that.
+
+41
+00:04:08.880 --> 00:04:17.600
+It's a reasoning process in the sense that I think is the right kind of reasoning that AI should be using.
+
+42
+00:04:17.600 --> 00:04:31.680
+And it was then that system that chose this move based on the consequences that unfold from that in its estimation in the game tree, and as judged by the value network.
+
+43
+00:04:31.680 --> 00:05:16.960
+And so the general lesson, I think, that we can learn is that a system that is purely based on imitation, and that in our case, that was the policy network that was trained on human gameplay, but similarly, uh large language models that are trained to predict the next token on uh on human-generated text, that those are very unlikely to produce surprises or new, truly new knowledge, and that it is a dedicated reasoning process that looks at the consequences of an action or of a discovery that um that can uh break out of this convex hull of of human knowledge and truly discovery.
+
+44
+00:05:16.960 --> 00:05:23.360
+How close can open weight models get to frontier capabilities with the right harness, the software around the model?
+
+45
+00:05:23.360 --> 00:05:29.840
+This cybersecurity discussion bears on today's debate over restricting openly available AI.
+
+46
+00:05:40.920 --> 00:05:49.160
+And they probably did more in in you know a couple of weeks in terms of visibility and awareness than the security industry did in the last 30 years.
+
+47
+00:05:49.160 --> 00:05:51.800
+I mean, every CEO is calling, and what does it mean?
+
+48
+00:05:51.800 --> 00:05:53.400
+How should we think about it?
+
+49
+00:05:53.400 --> 00:05:56.040
+And you know, just trying to deconstruct it.
+
+50
+00:05:56.040 --> 00:06:00.520
+So when you look at the models and what they put together, incredibly capable.
+
+51
+00:06:00.520 --> 00:06:06.840
+And when you pair them with uh really good harness engineering, you get even better results.
+
+52
+00:06:06.840 --> 00:06:08.520
+We can talk through that in a bit.
+
+53
+00:06:08.520 --> 00:06:17.400
+But uh the it's at such a level now that any of those models will give anyone who's using them uh nation state capabilities.
+
+54
+00:06:17.400 --> 00:06:28.040
+I mean, to your point, like you're dealing with governments now in terms of the capabilities that you uh just a year ago you'd you'd have to be a government that you can have now have in these models.
+
+55
+00:06:28.040 --> 00:06:29.640
+So this is really what we're seeing.
+
+56
+00:06:29.640 --> 00:06:37.080
+And then of course, this is spilling over into the open weight models, which are yes, they're behind, but they're not all that far behind.
+
+57
+00:06:37.080 --> 00:06:40.440
+Give me a month's quarters behind in your estimation.
+
+58
+00:06:40.760 --> 00:06:49.160
+You know, I I think some of some of those models again combined with the right harness, and the harness makes a big difference.
+
+59
+00:06:49.160 --> 00:06:53.160
+We do a lot of building of these models and harness engineering.
+
+60
+00:06:53.160 --> 00:06:59.240
+You can get at parity or better in terms of what's out there today of the best models.
+
+61
+00:06:59.640 --> 00:07:04.760
+So, you know, you're probably three months behind if you just pull the model down.
+
+62
+00:07:04.760 --> 00:07:11.880
+And um, that's you know what a lot of people are doing, or they're they're focused on leveraging these these obliterated models.
+
+63
+00:07:11.880 --> 00:07:16.960
+Yes, right, which is oblate to remove all of the guardrails and post-training.
+
+64
+00:07:16.960 --> 00:07:33.280
+And, you know, there's there's a whole bunch of models that are out there, whether it's warlock or cyber strike, or you go down the list, but they're taking GLM type models, Quinn, et cetera, and they're just basically post-training out the the refusals, and they become very, very powerful.
+
+65
+00:07:33.280 --> 00:07:41.520
+And then you can combine those with a mixture of different models and and you can get paying with your phone depends on more than the phone.
+
+66
+00:07:41.520 --> 00:07:52.400
+This 2024 discussion looks at Apple Pay's international adoption and the infrastructure needed to make a useful idea work across markets.
+
+67
+00:07:52.400 --> 00:07:53.200
+Yeah.
+
+68
+00:07:53.280 --> 00:07:54.640
+What was the inspiration?
+
+69
+00:07:54.640 --> 00:07:59.520
+Because if you're the platform, which Apple was becoming, there's so many different directions that you can go.
+
+70
+00:07:59.520 --> 00:08:01.840
+I remember talking to this guy at Facebook.
+
+71
+00:08:01.840 --> 00:08:05.520
+Yeah, and we were talking about a couple ideas, and he said something to me that I'll never forget.
+
+72
+00:08:05.520 --> 00:08:07.360
+He's like, Alex, that's a good idea.
+
+73
+00:08:07.360 --> 00:08:10.080
+But there are so many gold bricks lying around that are closer.
+
+74
+00:08:10.080 --> 00:08:15.440
+We just like every day we could just pick up gold bricks because we're the platform, we have all these things.
+
+75
+00:08:15.440 --> 00:08:18.720
+And, you know, which gold bricks do you pick up in which order?
+
+76
+00:08:18.720 --> 00:08:21.440
+Controlling payments is very useful.
+
+77
+00:08:21.440 --> 00:08:25.600
+But there were so many other things that I imagine Apple could and thought about doing.
+
+78
+00:08:25.600 --> 00:08:27.040
+Why do payments?
+
+79
+00:08:27.120 --> 00:08:38.000
+We just felt like payments was an area that had a couple of friction points and things that we could really solve for customers that we thought were really important.
+
+80
+00:08:38.000 --> 00:08:41.520
+And the first was obviously making payments much more secure.
+
+81
+00:08:41.520 --> 00:08:44.480
+You know, these plastic cards had been around for a long time.
+
+82
+00:08:44.480 --> 00:08:49.840
+We looked at that and said, hmm, gee, I think there's some better technology than using plastic cars to do this kind of thing.
+
+83
+00:08:49.840 --> 00:08:51.360
+We thought we could make it easier.
+
+84
+00:08:51.360 --> 00:08:54.080
+We thought we could make it more private for customers.
+
+85
+00:08:54.080 --> 00:09:05.000
+And with the technologies that we had developed, as we looked at the user experience back then, even I think there was a view that in some number of years, everyone should be paying this way.
+
+86
+00:09:05.400 --> 00:09:09.560
+And I remember 10 years ago, this idea of contactless payments.
+
+87
+00:09:09.560 --> 00:09:14.680
+Had the EMV switchover, the liability shift been formalized at that point, or no?
+
+88
+00:09:14.680 --> 00:09:19.480
+No, one of the things you find out about payments when you get into details is very different on a global basis.
+
+89
+00:09:19.480 --> 00:09:23.000
+So in the US, contactless was not a thing, right?
+
+90
+00:09:23.000 --> 00:09:27.720
+When we launched Apple Pay, I believe contactless acceptance was at 3%.
+
+91
+00:09:27.720 --> 00:09:40.200
+But we saw outside the US, in places like the UK and Australia, high adoption of contactless cards where regulators there had mandated the move much faster and much earlier than in the US.
+
+92
+00:09:40.200 --> 00:09:48.120
+So as we launched in these countries, we could really see the benefit in the uptake of Apple Pay where acceptance was high.
+
+93
+00:09:48.120 --> 00:09:57.400
+And so we knew that the experience was fantastic, people were going to love it, but we had to work through this acceptance.
+
+94
+00:09:57.400 --> 00:09:59.160
+That's the daily rundown.
+
+95
+00:09:59.160 --> 00:10:01.080
+Thanks for listening.
+
+96
+00:10:01.080 --> 00:10:03.240
+See you next time.
