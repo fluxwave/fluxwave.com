@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-25",
+  "editorial_contract": "topic-bridges-v1",
+  "credit_projection_sha256": "5700787771b128aa1c83959bef95b515dbcb8e0478a09fc8f5224e8896b60067",
+  "chapters": [
+    {
+      "startTime": 33.821,
+      "title": "Dwarkesh Podcast \u2014 Generalization from verifiable tasks to autonomous AI research",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_1",
+      "source_id": "73e0e670727f1fc48b8859952fbc27c1947c7e9bc9a75f0c176090d8ea7f68df",
+      "selector_episode_key": "|Responding to objections to recursive self-improvement|2026-11-24T21:45:30+00:00",
+      "source_credit": {
+        "title": "Responding to objections to recursive self-improvement",
+        "podcast": "Dwarkesh Podcast",
+        "link": "https://www.dwarkesh.com/p/rsiobjections",
+        "audio_url": "https://api.substack.com/feed/podcast/226413128/4ad273437a5ffb5c6234fc0a6a855326.mp3",
+        "transcript_url": "",
+        "published": "2026-11-24T21:45:30+00:00"
+      },
+      "url": "https://www.dwarkesh.com/p/rsiobjections"
+    },
+    {
+      "startTime": 180.886,
+      "title": "The Pragmatic Engineer \u2014 Claude's platform architecture, from inference hardware to shared APIs",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_2",
+      "source_id": "edae1994199076cc81a04bf8eb35977aed994f0da411be374e9b1b461441ebe6",
+      "selector_episode_key": "|How Anthropic builds software in 2026 with Katelyn Lesse|2026-11-25T17:31:32+00:00",
+      "source_credit": {
+        "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+        "podcast": "The Pragmatic Engineer",
+        "link": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+        "audio_url": "https://api.substack.com/feed/podcast/226291266/eac6e7c7161fd068378012a45f4a2418.mp3",
+        "transcript_url": "",
+        "published": "2026-11-25T17:31:32+00:00"
+      },
+      "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in"
+    },
+    {
+      "startTime": 316.899,
+      "title": "Excess Returns \u2014 High real yields, AI financing stress, and pressure on long-duration assets",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_3",
+      "source_id": "2481e1adf6a197dce56edaedab20c4b548dabfd7a3fb0fa0ee8bf85966745d0e",
+      "selector_episode_key": "|\"Shoot 'Em in the Back\" | Jeff deGraaf on How Bubbles End|2026-11-25T15:48:09+00:00",
+      "source_credit": {
+        "title": "\"Shoot 'Em in the Back\" | Jeff deGraaf on How Bubbles End",
+        "podcast": "Excess Returns",
+        "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Shoot-Em-in-the-Back--Jeff-deGraaf-on-How-Bubbles-End-e3t0tnr",
+        "audio_url": "https://traffic.megaphone.fm/APO5227555692.mp3",
+        "transcript_url": "",
+        "published": "2026-11-25T15:48:09+00:00"
+      },
+      "url": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Shoot-Em-in-the-Back--Jeff-deGraaf-on-How-Bubbles-End-e3t0tnr"
+    },
+    {
+      "startTime": 472.887,
+      "title": "Conversations with Tyler \u2014 AI chat privacy and the mismatch between conversational interfaces and data access",
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_4",
+      "source_id": "61fca9b573570d2d9bc566ff143ddaf4dea5fdc5dabe096ea1a146365343e71f",
+      "selector_episode_key": "|Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance|2026-11-25T12:08:00+00:00",
+      "source_credit": {
+        "title": "Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance",
+        "podcast": "Conversations with Tyler",
+        "link": "https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance",
+        "audio_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-305-MoxieMarlinspike-podcast-v4.mp3?dest-id=850607",
+        "transcript_url": "",
+        "published": "2026-11-25T12:08:00+00:00"
+      },
+      "url": "https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Responding to objections to recursive self-improvement",
+      "podcast": "Dwarkesh Podcast",
+      "link": "https://www.dwarkesh.com/p/rsiobjections",
+      "audio_url": "https://api.substack.com/feed/podcast/226413128/4ad273437a5ffb5c6234fc0a6a855326.mp3",
+      "transcript_url": "",
+      "published": "2026-11-24T21:45:30+00:00",
+      "source_id": "73e0e670727f1fc48b8859952fbc27c1947c7e9bc9a75f0c176090d8ea7f68df",
+      "selector_episode_key": "|Responding to objections to recursive self-improvement|2026-11-24T21:45:30+00:00"
+    },
+    {
+      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+      "podcast": "The Pragmatic Engineer",
+      "link": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+      "audio_url": "https://api.substack.com/feed/podcast/226291266/eac6e7c7161fd068378012a45f4a2418.mp3",
+      "transcript_url": "",
+      "published": "2026-11-25T17:31:32+00:00",
+      "source_id": "edae1994199076cc81a04bf8eb35977aed994f0da411be374e9b1b461441ebe6",
+      "selector_episode_key": "|How Anthropic builds software in 2026 with Katelyn Lesse|2026-11-25T17:31:32+00:00"
+    },
+    {
+      "title": "\"Shoot 'Em in the Back\" | Jeff deGraaf on How Bubbles End",
+      "podcast": "Excess Returns",
+      "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Shoot-Em-in-the-Back--Jeff-deGraaf-on-How-Bubbles-End-e3t0tnr",
+      "audio_url": "https://traffic.megaphone.fm/APO5227555692.mp3",
+      "transcript_url": "",
+      "published": "2026-11-25T15:48:09+00:00",
+      "source_id": "2481e1adf6a197dce56edaedab20c4b548dabfd7a3fb0fa0ee8bf85966745d0e",
+      "selector_episode_key": "|\"Shoot 'Em in the Back\" | Jeff deGraaf on How Bubbles End|2026-11-25T15:48:09+00:00"
+    },
+    {
+      "title": "Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance",
+      "podcast": "Conversations with Tyler",
+      "link": "https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance",
+      "audio_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-305-MoxieMarlinspike-podcast-v4.mp3?dest-id=850607",
+      "transcript_url": "",
+      "published": "2026-11-25T12:08:00+00:00",
+      "source_id": "61fca9b573570d2d9bc566ff143ddaf4dea5fdc5dabe096ea1a146365343e71f",
+      "selector_episode_key": "|Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance|2026-11-25T12:08:00+00:00"
+    }
+  ],
+  "transcript_file": "transcript_2026-11-25.txt"
+}

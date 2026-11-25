@@ -1,0 +1,100 @@
+Today on the daily rundown, training AI to do research, the infrastructure behind Claude, and the financing pressures facing the AI boom.
+Plus, what a conversational interface can hide about privacy.
+Source credits and links are in the chapters and show notes.
+Can training on tasks with checkable answers carry over to open-ended AI research?
+This discussion examines synthetic data and generalization, the leak that could determine how much research AI can do autonomously.
+If I make synthetic data this way instead of that way, will my end model be good at, you know, doing um law or whatever?
+And so uh this is just like bread and butter ML research work.
+To jump in, just you mean as opposed to having to hire a bunch of experts in law and then a bunch of experts in banking and a bunch of experts in to generate a bunch of like very sort of specific examples.
+It is more that these ML researchers who themselves may know nothing about these domains can do it alone.
+Exactly.
+Got it.
+Now there is a question about can you automate those ML researchers?
+And this is a question, uh I mean, I'll explain my argument, the one I laid out in the blog post.
+One can disagree with this argument.
+Um, the argument that I made is that yes, we do require some generalization.
+Not all parts of AI research are verifiable.
+And so to make the claim that we will get AI systems that are as competent as the top human researchers, uh, requires AIs to generalize.
+But I think there's pretty compelling arguments that we will see this kind of generalization.
+Um, if you look at math, for example, math as a domain may be uh quote unquote verifiable, but it's not like we solve this millennium prize problem by training the AI to solve other millennium prize problems, right?
+There is generalization from more tractable and less ambitious problems to millennium price problems.
+Or you look at coding agents today, um, it is obviously there's been tons and tons of training on different kinds of proxies for coding ability, but it's not like the particular program you're using Claude to write was one that was actually you know specifically trained for.
+It was not trained to help me make a blood on the clock tower environment.
+And yet it generalized.
+And so there is some uh argument or assumption that there will be generalization uh based on a scaffold of tremendous amounts of verifiable proxies that are getting optimized, and then this will lift the boats that are some weird analogy about a tie that is adjacent to the boats.
+And so it's basically it's just like look, if you believe that ML researchers can currently, you know, sort of on their own, independently improve data in a way that continues progress, which it seems like you would argue there's evidence to support that.
+What sits between an AI model running on chips and the app you actually use?
+This walkthrough traces Claude's platform from inference hardware to shared APIs, the infrastructure behind delivering its capabilities.
+So right now you're on Claude Platform.
+Can you share at a high level as an engineer?
+How can I imagine what is the back end behind Claude?
+What kind of components, what kind of layers?
+How do you think about it?
+Yeah, so the the very bottom layer is just like models, you know, running on chips, right?
+On um the accelerator layer.
+That's the inference team that kind of sits right below us.
+Yeah, this is the GPUs, the TPs, the whatever new hardware chips might come out.
+Exactly.
+All of them, if you're us, we're very known for that.
+And then right above that layer is the platform.
+Um, and so what the platform is, is it's both our externally facing API suite, um, which you know powers a lot of a lot of business for Anthropic, right?
+People building on top of our APIs.
+And then it runs all the way down through just above that inference layer.
+And what's interesting about it is we also power all of our kind of fine foundational services and product infrastructure for all of our apps as well.
+I mean, it's it's a great thing in engineering terms, right?
+To say that your your applications are built on the same API that external customers build on top of.
+Um, so we're proud of that.
+That's really great.
+Like every token that Cloud serves runs through the messages API, which is great.
+But then we also run, you know, auth and and our CPU and our networking and our sandboxing and all those sorts of things for our apps as well, which is fun.
+So we're very truly a platform team in addition to owning kind of the externally facing cloud platform developer tooling.
+And then from a kind of hardware, like just hardware boxes perspective, I can imagine that we have the GPU and TPU and those boxes on the bottom.
+And then your team, you'll have CPUs or or kind of like machines that will orchestrate how access happens to these things, databases that log things like it is or how how can I have a mental picture of like Yeah.
+So an API request comes in, and uh the first thing we do is we hit our auth services, authentication, authorization, these sorts of things.
+And then you kind of get into the core API service.
+Um and you're right, it's just AIS build-out also depends on financing.
+This discussion connects higher inflation adjusted bond yields with AI financing stress and why investments whose payoffs sit far in the future can face pressure.
+One of those that we talk about um, you know, just recently, because it is something that we haven't had to talk about in, you know, geez, probably 20 years.
+Uh, and that's the return of real yields and and what you're getting out of of of bonds and and really what the um kind of expectations are around bonds.
+And you can see that um in the hedges.
+And um, you know, one of the things that happened last week, which I thought was really interesting is as you were seeing um the core weaves and some of the fringe AI names deteriorate, um, you weren't getting paid by the hedges.
+Um, you know, a lot of people would have expected that Bitcoin or crypto would have done well.
+They'd have certainly expected gold to do well.
+Um, and that just wasn't working.
+In fact, up until Friday, not even bonds were were really providing much of a of a safe harbor.
+So um, you know, we like to look at that because we can extract some information from that.
+And what really came out to us was a theme that we've been on for the last three or four months, which has been, you know, these real yields are are actually high.
+And they they are providing um to the extent that it exists, you know, quote unquote value in the bond market.
+And what we would expect with high real yields is really punishing those um, those high or long duration assets.
+In other words, duration um or assets, I should say, that you know, take a long time to recoup the cash flow or the um the value of those.
+And and gold is, you know, kind of the exhibit uh exhibit one or exhibit A there um, in that it doesn't have any yield, right?
+It's just uh it's just a you know a dumb metal that sits there and hopefully appreciates through time.
+Um and so we were seeing that.
+That, you know, what you'd expect is that, hey, if this is really kind of the unwind of the empire, et cetera, and you know, we're gonna inflate our way out of this, you'd expect gold would be be doing very, very well.
+And in fact, it's been in a downtrend now for I don't know, six or seven months.
+And so that to us was kind of the first tip-off that, hey, something's going on with these real yields.
+Um, and then I think that was just um uh, you know, obviously it w it was uh uh brought to fruition last week with uh the news around Jensen and what was going on in in semiconductors and the like, but that that remains kind of an overarching, I think, dark cloud on the market that we're gonna have to deal with, regardless of what happens with you know the reinstatement or the you know what whatever the palace intrigue is, uh we'll see how that plays itself out.
+But I think that's one of the big rocks, as we call them uh to look at that's kind of thematic in this uh in this marketplace.
+A chat can feel private without telling you who can access its contents after a brief exchange about account security, this discussion turns to AI privacy and the gap between conversational design and data access.
+And if so, why do you think that's happening?
+I have not been following.
+I don't have that sense.
+People with two FA are finding the crypto gone or their Twitter accounts are getting hacked at a higher rate than I think before.
+This is anecdotal, but I I feel it's true.
+I I haven't noticed the same anecdote.
+Now some questions about privacy and AI models.
+People treat the AI model like a therapist or a girlfriend or a boyfriend.
+Why are people willing to confess to an AI what they would not tell a priest or a therapist?
+Well, I think I think people are confessing what they would tell a priest or a therapist uh to an AI.
+And I think I think the the form of technology affects how it is that we interact with it.
+And the form of AI in this the sort of conversational interface that makes it really powerful is a form of technology that sort of invites confession, that you feel like you're communicating with with somebody.
+Um, and that it is a private space.
+And I think my critique of um the way that technology is often organized in general is that I what I am trying to do in creating privacy enhancing technology is to create an interface where the underlying technology is consistent with the way that the app looks.
+So you you open a messaging app and you send a message to your friend, and the way it looks in the app is it's like just you and your friend in this little window talking to each other.
+Um the way that it actually works uh for many messengers is uh the exact opposite of that.
+That it's not just you and your friend in there.
+It's like you, thousands of people who work with this company, anybody who compromises the computers of that system, like information that could be still for advertisers that like every individual one-on-one chat in those apps should actually be a group chat with all those people in it.
+If it were, if it were on if the interface was honest to how the underlying technology works.
+That's the daily rundown.
+Thanks for listening.
+See you next time.

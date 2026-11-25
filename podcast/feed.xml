@@ -9,6 +9,51 @@
     <itunes:image href="https://fluxwave.github.io/podcast/logo.png"/>
     <itunes:category text="Technology"/>
     <item>
+      <title>Daily Digest — November 25, 2026</title>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-11-25.mp3" length="9854252" type="audio/mpeg"/>
+      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-11-25.mp3</guid>
+      <itunes:duration>10:15</itunes:duration>
+      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-11-25.vtt" type="text/vtt" rel="captions"/>
+      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-11-25.json" type="application/json+chapters"/>
+      <description>Daily Digest — 2026-11-25
+Topic-first clip edition.
+
+Source credits and links are in the chapters and show notes.
+
+Sources:
+clip_1: Dwarkesh Podcast — Responding to objections to recursive self-improvement
+Published: 2026-11-24T21:45:30+00:00
+Source: https://www.dwarkesh.com/p/rsiobjections
+clip_2: The Pragmatic Engineer — How Anthropic builds software in 2026 with Katelyn Lesse
+Published: 2026-11-25T17:31:32+00:00
+Source: https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in
+clip_3: Excess Returns — "Shoot 'Em in the Back" | Jeff deGraaf on How Bubbles End
+Published: 2026-11-25T15:48:09+00:00
+Source: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Shoot-Em-in-the-Back--Jeff-deGraaf-on-How-Bubbles-End-e3t0tnr
+clip_4: Conversations with Tyler — Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance
+Published: 2026-11-25T12:08:00+00:00
+Source: https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance</description>
+      <itunes:summary>Daily Digest — 2026-11-25
+Topic-first clip edition.
+
+Source credits and links are in the chapters and show notes.
+
+Sources:
+clip_1: Dwarkesh Podcast — Responding to objections to recursive self-improvement
+Published: 2026-11-24T21:45:30+00:00
+Source: https://www.dwarkesh.com/p/rsiobjections
+clip_2: The Pragmatic Engineer — How Anthropic builds software in 2026 with Katelyn Lesse
+Published: 2026-11-25T17:31:32+00:00
+Source: https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in
+clip_3: Excess Returns — "Shoot 'Em in the Back" | Jeff deGraaf on How Bubbles End
+Published: 2026-11-25T15:48:09+00:00
+Source: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Shoot-Em-in-the-Back--Jeff-deGraaf-on-How-Bubbles-End-e3t0tnr
+clip_4: Conversations with Tyler — Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance
+Published: 2026-11-25T12:08:00+00:00
+Source: https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance</itunes:summary>
+    </item>
+    <item>
       <title>Daily Digest — November 24, 2026</title>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-11-24.mp3" length="9656108" type="audio/mpeg"/>
@@ -638,61 +683,6 @@ Sources:
 - What will computer chips look like in 2045? (Dwarkesh Podcast)
   Link: https://www.dwarkesh.com/p/intel-tour
   Source audio: https://api.substack.com/feed/podcast/221632772/30c38515d3ea0554c60350beead67f42.mp3</itunes:summary>
-    </item>
-    <item>
-      <title>Daily Digest — October 09, 2026</title>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://fluxwave.com/podcast/episodes/daily_show_2026-10-09.mp3" length="10082732" type="audio/mpeg"/>
-      <guid>https://fluxwave.com/podcast/episodes/daily_show_2026-10-09.mp3</guid>
-      <itunes:duration>10:30</itunes:duration>
-      <podcast:transcript url="https://fluxwave.com/podcast/episodes/transcript_2026-10-09.vtt" type="text/vtt" rel="captions"/>
-      <podcast:chapters url="https://fluxwave.com/podcast/episodes/chapters_2026-10-09.json" type="application/json+chapters"/>
-      <description>Daily Digest — October 09, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-10-09.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-10-09.txt
-
-Chapters:
-0:32 — The Meb Faber Show - Better Investing — Multi-agent portfolio construction, prod
-3:14 — a16z Podcast — AI-driven chip design and the shift toward expert-guided automati
-5:38 — Radiolab — Emergent mathematical reasoning and rapid improvements in LLM capabil
-8:03 — Excess Returns — Market breadth indicators and the limits of divergence-based ti
-
-Sources:
-- Andrew Ang: Should AI Agents Run Your Asset Allocation? | #653 (The Meb Faber Show - Better Investing)
-  Source audio: https://traffic.megaphone.fm/TIFM2493312981.mp3
-- Chips, Memory, and Power | Pat Gelsinger (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/chips-memory-and-power-pat-gelsinger-uwHe_vsU
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2a98eb9e-80e8-4172-958c-8f92f8976e78/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=2a98eb9e-80e8-4172-958c-8f92f8976e78&amp;feed=JGE3yC0V
-- Math Vs Machine (Radiolab)
-  Link: https://www.radiolab.org
-  Source audio: https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/d3fb7725-466a-4dc6-930a-49571fdf61ce/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&amp;awEpisodeId=d3fb7725-466a-4dc6-930a-49571fdf61ce&amp;feed=EmVW7VGp
-- Katie Stockton Still Sees a Bull Market. So Why Is Her ETF Only 50% in Stocks? (Excess Returns)
-  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Katie-Stockton-Still-Sees-a-Bull-Market--So-Why-Is-Her-ETF-Only-50-in-Stocks-e3q6277
-  Source audio: https://traffic.megaphone.fm/APO8317929905.mp3</description>
-      <itunes:summary>Daily Digest — October 09, 2026
-
-Episode: https://fluxwave.com/podcast/episodes/daily_show_2026-10-09.mp3
-Transcript / show notes: https://fluxwave.com/podcast/episodes/transcript_2026-10-09.txt
-
-Chapters:
-0:32 — The Meb Faber Show - Better Investing — Multi-agent portfolio construction, prod
-3:14 — a16z Podcast — AI-driven chip design and the shift toward expert-guided automati
-5:38 — Radiolab — Emergent mathematical reasoning and rapid improvements in LLM capabil
-8:03 — Excess Returns — Market breadth indicators and the limits of divergence-based ti
-
-Sources:
-- Andrew Ang: Should AI Agents Run Your Asset Allocation? | #653 (The Meb Faber Show - Better Investing)
-  Source audio: https://traffic.megaphone.fm/TIFM2493312981.mp3
-- Chips, Memory, and Power | Pat Gelsinger (a16z Podcast)
-  Link: https://a16z.simplecast.com/episodes/chips-memory-and-power-pat-gelsinger-uwHe_vsU
-  Source audio: https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2a98eb9e-80e8-4172-958c-8f92f8976e78/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&amp;awEpisodeId=2a98eb9e-80e8-4172-958c-8f92f8976e78&amp;feed=JGE3yC0V
-- Math Vs Machine (Radiolab)
-  Link: https://www.radiolab.org
-  Source audio: https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/d3fb7725-466a-4dc6-930a-49571fdf61ce/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&amp;awEpisodeId=d3fb7725-466a-4dc6-930a-49571fdf61ce&amp;feed=EmVW7VGp
-- Katie Stockton Still Sees a Bull Market. So Why Is Her ETF Only 50% in Stocks? (Excess Returns)
-  Link: https://podcasters.spotify.com/pod/show/excess-returns/episodes/Katie-Stockton-Still-Sees-a-Bull-Market--So-Why-Is-Her-ETF-Only-50-in-Stocks-e3q6277
-  Source audio: https://traffic.megaphone.fm/APO8317929905.mp3</itunes:summary>
     </item>
   </channel>
 </rss>

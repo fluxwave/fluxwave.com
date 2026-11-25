@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-25",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-25_20261125T212233Z_42044/clip_sources/edae1994199076cc/01_Request_orchestration_across_authentication_billin.mp3",
+      "source": "How Anthropic builds software in 2026 with Katelyn Lesse",
+      "start_time": 437,
+      "end_time": 557,
+      "topic": "Request orchestration across authentication, billing, safety, and inference"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-25_20261125T212233Z_42044/clip_sources/73e0e670727f1fc4/01_Data_filtering_and_synthetic_data_as_drivers_of_mo.mp3",
+      "source": "Responding to objections to recursive self-improvement",
+      "start_time": 314,
+      "end_time": 440,
+      "topic": "Data filtering and synthetic data as drivers of model progress"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-25_20261125T212233Z_42044/clip_sources/2481e1adf6a197dc/01_Liquidation_events_and_the_breakdown_of_portfolio.mp3",
+      "source": "\"Shoot 'Em in the Back\" | Jeff deGraaf on How Bubbles End",
+      "start_time": 439,
+      "end_time": 561,
+      "topic": "Liquidation events and the breakdown of portfolio diversification"
+    }
+  ],
+  "same_source_spacing_findings": [],
+  "schema_version": 2,
+  "editorial_contract": "topic-bridges-v1",
+  "selected_episodes_sha256": "e29123602ded71aa0c3b38eb18995e5dfbbf26f4d0b6635c0aca63f4b8aa315b",
+  "clips": [
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_1",
+      "selection_index": 1,
+      "source_id": "73e0e670727f1fc48b8859952fbc27c1947c7e9bc9a75f0c176090d8ea7f68df",
+      "selector_episode_key": "|Responding to objections to recursive self-improvement|2026-11-24T21:45:30+00:00",
+      "credit": {
+        "title": "Responding to objections to recursive self-improvement",
+        "podcast": "Dwarkesh Podcast",
+        "link": "https://www.dwarkesh.com/p/rsiobjections",
+        "audio_url": "https://api.substack.com/feed/podcast/226413128/4ad273437a5ffb5c6234fc0a6a855326.mp3",
+        "transcript_url": "",
+        "published": "2026-11-24T21:45:30+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/73e0e670727f1fc4/metadata.json",
+        "sha256": "3707810439260131fdb97965cf9cdf105d64c92fd39bda7042b372cfb856ce60"
+      },
+      "original_clip": {
+        "path": "clip_sources/73e0e670727f1fc4/00_Generalization_from_verifiable_tasks_to_autonomous.mp3",
+        "sha256": "5f5b24b68127b1be39846b911eaf2c9fc29daef374f37bbdad3a1402fc34fbdf"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_2",
+      "selection_index": 0,
+      "source_id": "edae1994199076cc81a04bf8eb35977aed994f0da411be374e9b1b461441ebe6",
+      "selector_episode_key": "|How Anthropic builds software in 2026 with Katelyn Lesse|2026-11-25T17:31:32+00:00",
+      "credit": {
+        "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+        "podcast": "The Pragmatic Engineer",
+        "link": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+        "audio_url": "https://api.substack.com/feed/podcast/226291266/eac6e7c7161fd068378012a45f4a2418.mp3",
+        "transcript_url": "",
+        "published": "2026-11-25T17:31:32+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/edae1994199076cc/metadata.json",
+        "sha256": "0f9eb73faaa0cc524614d3ea96aacb7c60d12d72c40628380cc0acf2153eff73"
+      },
+      "original_clip": {
+        "path": "clip_sources/edae1994199076cc/00_Claudes_platform_architecture_from_inference_hardw.mp3",
+        "sha256": "f48b98341e1562ada9a1aa32d9af7c08f5917caee22c1857382bef34143f8939"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_3",
+      "selection_index": 2,
+      "source_id": "2481e1adf6a197dce56edaedab20c4b548dabfd7a3fb0fa0ee8bf85966745d0e",
+      "selector_episode_key": "|\"Shoot 'Em in the Back\" | Jeff deGraaf on How Bubbles End|2026-11-25T15:48:09+00:00",
+      "credit": {
+        "title": "\"Shoot 'Em in the Back\" | Jeff deGraaf on How Bubbles End",
+        "podcast": "Excess Returns",
+        "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/Shoot-Em-in-the-Back--Jeff-deGraaf-on-How-Bubbles-End-e3t0tnr",
+        "audio_url": "https://traffic.megaphone.fm/APO5227555692.mp3",
+        "transcript_url": "",
+        "published": "2026-11-25T15:48:09+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/2481e1adf6a197dc/metadata.json",
+        "sha256": "7442c0f75768641d4560db62c6ffa929bcdd6f8ee2aab310274d6c0fa2d984d9"
+      },
+      "original_clip": {
+        "path": "clip_sources/2481e1adf6a197dc/00_High_real_yields_AI_financing_stress_and_pressure.mp3",
+        "sha256": "b768b867b762e4951605b41abf0c26d0b0ddec1377a49cee28afaca5a94cc962"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_4",
+      "selection_index": 3,
+      "source_id": "61fca9b573570d2d9bc566ff143ddaf4dea5fdc5dabe096ea1a146365343e71f",
+      "selector_episode_key": "|Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance|2026-11-25T12:08:00+00:00",
+      "credit": {
+        "title": "Moxie Marlinspike on Cryptography, Privacy, and Mass Surveillance",
+        "podcast": "Conversations with Tyler",
+        "link": "https://cowenconvos.libsyn.com/moxie-marlinspike-on-cryptography-privacy-and-mass-surveillance",
+        "audio_url": "https://traffic.libsyn.com/secure/cowenconvos/CWT-305-MoxieMarlinspike-podcast-v4.mp3?dest-id=850607",
+        "transcript_url": "",
+        "published": "2026-11-25T12:08:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/61fca9b573570d2d/metadata.json",
+        "sha256": "69a3672a6c2e9df7b45c0e51d2cd6dd169508f56c0adf62ac09e07312f3c158f"
+      },
+      "original_clip": {
+        "path": "clip_sources/61fca9b573570d2d/00_AI_chat_privacy_and_the_mismatch_between_conversat.mp3",
+        "sha256": "53f7c5af394e414a3b5b399cd0caaf3f1574cb4704d3bac5b7c08a76ee6647e8"
+      }
+    }
+  ]
+}
