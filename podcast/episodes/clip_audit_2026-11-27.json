@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-27",
+  "selected_clips": 4,
+  "dropped_for_overlap_or_proximity": [
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-27_20261127T211057Z_31680/clip_sources/4f3243fd4bbf0b65/01_What_an_extra_year_before_an_intelligence_explosio.mp3",
+      "source": "AI researchers debate what we should do next \u2013 Daniel Kokotajlo and Ege Erdil",
+      "start_time": 387,
+      "end_time": 511,
+      "topic": "What an extra year before an intelligence explosion could buy"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-27_20261127T211057Z_31680/clip_sources/bef6e6d9d3e1fd60/01_Chinas_manufacturing_advantage_cheap_labor_and_ind.mp3",
+      "source": "America Is Reindustrializing | GMO's Sam Klar on Why Your S&P 500 Fund Is Missing Out",
+      "start_time": 380,
+      "end_time": 516,
+      "topic": "China's manufacturing advantage: cheap labor and industrial policy"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-27_20261127T211057Z_31680/clip_sources/6d88191ac298416d/01_Resource_competition_and_the_tradeoffs_of_affordab.mp3",
+      "source": "Isabella Weber's Vision for an Affordability Agenda",
+      "start_time": 578,
+      "end_time": 698,
+      "topic": "Resource competition and the tradeoffs of affordability policy"
+    },
+    {
+      "clip_path": "/Volumes/ssd9100pro/artifacts/audio-digest-runs/2026-11-27_20261127T211057Z_31680/clip_sources/936281d86a7bf002/01_Political_bias_and_investor_reactions_to_market_de.mp3",
+      "source": "Morgan Stanley\u2019s Andrew Slimmon on Following the Earnings, Not the Headlines | #658",
+      "start_time": 615,
+      "end_time": 735,
+      "topic": "Political bias and investor reactions to market declines"
+    }
+  ],
+  "same_source_spacing_findings": [],
+  "schema_version": 2,
+  "editorial_contract": "topic-bridges-v1",
+  "selected_episodes_sha256": "c7851310b508cb602db701af8f0c92abc737365a606c82c497c54377a579ce69",
+  "clips": [
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_1",
+      "selection_index": 2,
+      "source_id": "6d88191ac298416d0588537cf68ddaccde8af047189e96ba7426a96656e64a7f",
+      "selector_episode_key": "|Isabella Weber's Vision for an Affordability Agenda|2026-11-27T09:00:00+00:00",
+      "credit": {
+        "title": "Isabella Weber's Vision for an Affordability Agenda",
+        "podcast": "Odd Lots",
+        "link": "https://omny.fm/shows/odd-lots/isabella-webers-vision-for-an-affordability-agenda",
+        "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/cac23723-26f1-4df3-b177-b50d011072f1/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+        "transcript_url": "",
+        "published": "2026-11-27T09:00:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/6d88191ac298416d/metadata.json",
+        "sha256": "c38ff0f99428e7194e0b97f661f55e73bb8a89504b59ec3add6993c2e3f3fb79"
+      },
+      "original_clip": {
+        "path": "clip_sources/6d88191ac298416d/00_Why_headline_CPI_can_obscure_inflation_in_essentia.mp3",
+        "sha256": "d747e93c73dfcd232afbe885c58c78f99901a3867f4972b91359478b01fca573"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_2",
+      "selection_index": 0,
+      "source_id": "4f3243fd4bbf0b65fc4d3d7ee7d46b15cad1613180cbb776b6c9755670a672dd",
+      "selector_episode_key": "|AI researchers debate what we should do next \u2013 Daniel Kokotajlo and Ege Erdil|2026-11-27T18:01:14+00:00",
+      "credit": {
+        "title": "AI researchers debate what we should do next \u2013 Daniel Kokotajlo and Ege Erdil",
+        "podcast": "Dwarkesh Podcast",
+        "link": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+        "audio_url": "https://api.substack.com/feed/podcast/226789196/89485c0543b57f829184d38024dba666.mp3",
+        "transcript_url": "",
+        "published": "2026-11-27T18:01:14+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/4f3243fd4bbf0b65/metadata.json",
+        "sha256": "5e3654123318e5a157c2cba05e4f784ba73e55f75a078c087a64bcb2339c4ded"
+      },
+      "original_clip": {
+        "path": "clip_sources/4f3243fd4bbf0b65/00_AI_alignment_through_incremental_engineering_versu.mp3",
+        "sha256": "91faa66e5ca0ae30351a49c4ec8e562cd7b3d6e912b11091fdcfabc063ac8e4b"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_3",
+      "selection_index": 1,
+      "source_id": "bef6e6d9d3e1fd607543f1b3f396d382c6a6f8fe413888af177d00ebe8357008",
+      "selector_episode_key": "|America Is Reindustrializing | GMO's Sam Klar on Why Your S&P 500 Fund Is Missing Out|2026-11-27T14:30:11+00:00",
+      "credit": {
+        "title": "America Is Reindustrializing | GMO's Sam Klar on Why Your S&P 500 Fund Is Missing Out",
+        "podcast": "Excess Returns",
+        "link": "https://podcasters.spotify.com/pod/show/excess-returns/episodes/America-Is-Reindustrializing--GMOs-Sam-Klar-on-Why-Your-SP-500-Fund-Is-Missing-Out-e3t4d18",
+        "audio_url": "https://traffic.megaphone.fm/APO1114373506.mp3",
+        "transcript_url": "",
+        "published": "2026-11-27T14:30:11+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/bef6e6d9d3e1fd60/metadata.json",
+        "sha256": "20dcd28e2b8b24360b2f70979398aba76927b0c06cbeafedc4220dd8899fa09c"
+      },
+      "original_clip": {
+        "path": "clip_sources/bef6e6d9d3e1fd60/00_US_industrial_production_decouples_from_GDP_after.mp3",
+        "sha256": "7ff284b5e07b4dc1b21b7f2830b014e0e7b06d24fa4b8f4ec78f50d29d0b88e4"
+      }
+    },
+    {
+      "editorial_contract": "topic-bridges-v1",
+      "clip_id": "clip_4",
+      "selection_index": 3,
+      "source_id": "936281d86a7bf0025cecbf1dd1d13a3ebb398422842b0d34889b89c5e2e1bf6b",
+      "selector_episode_key": "|Morgan Stanley\u2019s Andrew Slimmon on Following the Earnings, Not the Headlines | #658|2026-11-27T09:30:00+00:00",
+      "credit": {
+        "title": "Morgan Stanley\u2019s Andrew Slimmon on Following the Earnings, Not the Headlines | #658",
+        "podcast": "The Meb Faber Show - Better Investing",
+        "link": "",
+        "audio_url": "https://traffic.megaphone.fm/TIFM5089462315.mp3",
+        "transcript_url": "",
+        "published": "2026-11-27T09:30:00+00:00"
+      },
+      "child_metadata": {
+        "path": "clip_sources/936281d86a7bf002/metadata.json",
+        "sha256": "4822e5835dcc4610a7f61fe1aa0f90e84b74bb35b61d73d9f1b6cf0a74c4f27f"
+      },
+      "original_clip": {
+        "path": "clip_sources/936281d86a7bf002/00_Earnings_strength_versus_pessimistic_market_narrat.mp3",
+        "sha256": "6aa166d641229acaa999856644dacf52e3519fcc56b9c188c7689b0efe3490ae"
+      }
+    }
+  ]
+}
